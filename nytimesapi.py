@@ -8,7 +8,7 @@ from datetime import datetime
 logging.basicConfig(filename="scraper.log", level=logging.INFO, format="%(asctime)s - %(message)s")
 
 # Chave de API do NYT
-API_KEY = "SUA_CHAVE_AQUI"
+API_KEY = "mtE9UItUjdAMkiAuOo0ljc9P60647UqL"
 URL = "https://api.nytimes.com/svc/topstories/v2/world.json?api-key=" + API_KEY
 
 # Nome do arquivo JSON
