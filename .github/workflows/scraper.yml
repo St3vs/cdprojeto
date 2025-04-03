@@ -1,0 +1,32 @@
+name: NYT Scraper
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Executa a cada hora
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar o repositório
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Instalar dependências
+        run: pip install requests
+
+      - name: Executar scraper
+        run: python scraper.py
+
+      - name: Commit e push dos dados
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add nyt_articles.json scraper.log
+          git commit -m "Atualização automática de artigos" || echo "Sem alterações para commit"
+          git push
