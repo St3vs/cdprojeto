@@ -3105,5 +3105,257 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "Apple Plunges 9%, Leading a Tech Sell-Off",
+        "abstract": "The company counts on the sale of devices for three-quarters of its nearly $400 billion in annual revenue, and it makes almost all of its iPhones, iPads and Macs overseas.",
+        "url": "https://www.nytimes.com/2025/04/03/business/economy/apple-stock-tech-selloff.html",
+        "uri": "nyt://article/89b803a2-bbd2-5063-8a1e-8935de809b43",
+        "byline": "By Tripp Mickle",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T16:31:04-04:00",
+        "created_date": "2025-04-03T11:16:28-04:00",
+        "published_date": "2025-04-03T11:16:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Stocks and Bonds",
+            "iPhone",
+            "Prices (Fares, Fees and Rates)",
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Apple Inc"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "China",
+            "India",
+            "Vietnam"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03tariffs-live-apple-blth/03tariffs-live-apple-blth-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1362,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Wall Street analysts who follow Apple have been looking for signs that it will be granted a tariff exemption, but so far there is no sign any companies will get one.",
+                "copyright": "Hilary Swift for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03tariffs-live-apple-blth/03tariffs-live-apple-blth-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Wall Street analysts who follow Apple have been looking for signs that it will be granted a tariff exemption, but so far there is no sign any companies will get one.",
+                "copyright": "Hilary Swift for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03tariffs-live-apple-blth/03tariffs-live-apple-blth-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Wall Street analysts who follow Apple have been looking for signs that it will be granted a tariff exemption, but so far there is no sign any companies will get one.",
+                "copyright": "Hilary Swift for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israeli Strike Kills Dozens at Gaza City Shelter, Officials Say",
+        "abstract": "The Israeli military said it was looking into reports about the deaths at a school-turned-shelter, which came as Israel was intensifying its offensive in Gaza to pressure Hamas to release hostages.",
+        "url": "https://www.nytimes.com/2025/04/03/world/middleeast/gaza-city-school-strike.html",
+        "uri": "nyt://article/4d7ac9de-0524-500d-a110-6c1bfa90a713",
+        "byline": "By Adam Rasgon, Aric Toler and Ameera Harouda",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T16:32:03-04:00",
+        "created_date": "2025-04-03T16:32:03-04:00",
+        "published_date": "2025-04-03T16:32:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Civilian Casualties",
+            "Deaths (Fatalities)"
+        ],
+        "org_facet": [
+            "Hamas",
+            "Al Ahli Arab Hospital (Gaza Strip)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03gaza-strikes-zhmw/03gaza-strikes-zhmw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A boy injured in a strike at a school-turned-shelter is carried to a hospital in Gaza City, on Thursday.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03gaza-strikes-zhmw/03gaza-strikes-zhmw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A boy injured in a strike at a school-turned-shelter is carried to a hospital in Gaza City, on Thursday.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03gaza-strikes-zhmw/03gaza-strikes-zhmw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A boy injured in a strike at a school-turned-shelter is carried to a hospital in Gaza City, on Thursday.",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "",
+        "title": "Leonardo Patterson, Disgraced Dealer in Latin American Artifacts, Dies at 82",
+        "abstract": "Born into rural poverty, he climbed to the top of the art market. But he fell after being convicted of selling fake and stolen items.",
+        "url": "https://www.nytimes.com/2025/04/03/arts/leonardo-patterson-dead.html",
+        "uri": "nyt://article/ffcf381b-f3af-5a6b-a7b2-242b485f7320",
+        "byline": "By Clay Risen",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T16:43:19-04:00",
+        "created_date": "2025-04-03T16:43:19-04:00",
+        "published_date": "2025-04-03T16:43:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Arts and Antiquities Looting",
+            "Robberies and Thefts",
+            "Counterfeit Merchandise"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Patterson, Leonardo A",
+            "Brand, Arthur"
+        ],
+        "geo_facet": [
+            "Costa Rica",
+            "Latin America"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03Patterson--01-pmjz/03Patterson--01-pmjz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1328,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Leonardo Patterson in 2008. When the market for Latin American antiquities took off, he developed a reputation for always having rare, beautiful items. He insisted that they were real and legal, but many experts doubted him.",
+                "copyright": "Uwe Lein/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03Patterson--01-pmjz/03Patterson--01-pmjz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Leonardo Patterson in 2008. When the market for Latin American antiquities took off, he developed a reputation for always having rare, beautiful items. He insisted that they were real and legal, but many experts doubted him.",
+                "copyright": "Uwe Lein/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03Patterson--01-pmjz/03Patterson--01-pmjz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Leonardo Patterson in 2008. When the market for Latin American antiquities took off, he developed a reputation for always having rare, beautiful items. He insisted that they were real and legal, but many experts doubted him.",
+                "copyright": "Uwe Lein/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Chris Pappas Jumps Into 2026 Senate Race in New Hampshire",
+        "abstract": "Mr. Pappas, a 44-year-old Democratic congressman, is the first major candidate to enter the race to succeed the retiring Senator Jeanne Shaheen.",
+        "url": "https://www.nytimes.com/2025/04/03/us/politics/chris-pappas-new-hampshire-senate.html",
+        "uri": "nyt://article/d80d9bed-17d8-5c21-842b-c97750abfc05",
+        "byline": "By Reid J. Epstein",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T16:42:45-04:00",
+        "created_date": "2025-04-03T16:42:45-04:00",
+        "published_date": "2025-04-03T16:42:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections, Senate",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Democratic Party"
+        ],
+        "per_facet": [
+            "Pappas, Christopher (1980- )",
+            "Shaheen, Jeanne",
+            "Sununu, Christopher T (1974- )"
+        ],
+        "geo_facet": [
+            "New Hampshire"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03pol-pappas-topart-kzpq/03pol-pappas-topart-kzpq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Chris Pappas, Democrat of New Hampshire, was first elected to Congress in 2018. ",
+                "copyright": "Sophie Park/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03pol-pappas-topart-kzpq/03pol-pappas-topart-kzpq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Chris Pappas, Democrat of New Hampshire, was first elected to Congress in 2018. ",
+                "copyright": "Sophie Park/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03pol-pappas-topart-kzpq/03pol-pappas-topart-kzpq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Chris Pappas, Democrat of New Hampshire, was first elected to Congress in 2018. ",
+                "copyright": "Sophie Park/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
