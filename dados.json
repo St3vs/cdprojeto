@@ -2971,5 +2971,139 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "It’s Day 1 of a New Mayor’s Race in New York",
+        "abstract": "What do a disgraced former governor, a once-indicted mayor and a former Guardian Angel have in common? They all may be on the November ballot in the New York City mayor’s race.",
+        "url": "https://www.nytimes.com/2025/04/03/nyregion/nyc-mayor-race-adams-independent.html",
+        "uri": "nyt://article/584cca65-f1a2-5595-8b7a-03ec6379039e",
+        "byline": "By Nicholas Fandos, Emma G. Fitzsimmons and Jeffery C. Mays",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T16:10:16-04:00",
+        "created_date": "2025-04-03T15:18:45-04:00",
+        "published_date": "2025-04-03T15:18:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections, Mayors",
+            "Third-Party Politics (US)",
+            "Primaries and Caucuses",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Democratic Party"
+        ],
+        "per_facet": [
+            "Adams, Eric L",
+            "Cuomo, Andrew M"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03met-mayors-race-chqj/03met-mayors-race-chqj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 953,
+                "width": 1429,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mayor Eric Adams dropped out of the Democratic primary on Thursday, saying he would now run as an independent.",
+                "copyright": "Victor J. Blue for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03met-mayors-race-chqj/03met-mayors-race-chqj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mayor Eric Adams dropped out of the Democratic primary on Thursday, saying he would now run as an independent.",
+                "copyright": "Victor J. Blue for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03met-mayors-race-chqj/03met-mayors-race-chqj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mayor Eric Adams dropped out of the Democratic primary on Thursday, saying he would now run as an independent.",
+                "copyright": "Victor J. Blue for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "With Deadline Looming, Details of a Potential TikTok Deal Emerge",
+        "abstract": "The video app is barreling toward a Saturday deadline to change its ownership under federal law or face a ban in the United States.",
+        "url": "https://www.nytimes.com/2025/04/03/business/tiktok-sale-ban-deadline.html",
+        "uri": "nyt://article/5ccb37f9-f245-5fbc-93aa-cdcd61cb6af9",
+        "byline": "By Sapna Maheshwari, Lauren Hirsch and Zolan Kanno-Youngs",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T16:00:50-04:00",
+        "created_date": "2025-04-03T15:50:33-04:00",
+        "published_date": "2025-04-03T15:50:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Mergers, Acquisitions and Divestitures",
+            "Social Media",
+            "Computers and the Internet",
+            "Private Equity",
+            "Mobile Applications",
+            "Presidential Election of 2024"
+        ],
+        "org_facet": [
+            "Andreessen Horowitz",
+            "Beijing Bytedance Technology Co Ltd",
+            "Blackstone Group, The",
+            "Silver Lake Partners",
+            "TikTok (ByteDance)"
+        ],
+        "per_facet": [
+            "Vance, J D",
+            "Trump, Donald J",
+            "Hawley, Josh D (1979- )"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/BIZ-TIKTOKUNCERTAIN-jklv/BIZ-TIKTOKUNCERTAIN-jklv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "TikTok could be banned in the United States if a deal for its sale to a non-Chinese entity is not reached by Saturday. ",
+                "copyright": "Daniel Cole/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/BIZ-TIKTOKUNCERTAIN-jklv/BIZ-TIKTOKUNCERTAIN-jklv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "TikTok could be banned in the United States if a deal for its sale to a non-Chinese entity is not reached by Saturday. ",
+                "copyright": "Daniel Cole/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/BIZ-TIKTOKUNCERTAIN-jklv/BIZ-TIKTOKUNCERTAIN-jklv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "TikTok could be banned in the United States if a deal for its sale to a non-Chinese entity is not reached by Saturday. ",
+                "copyright": "Daniel Cole/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
