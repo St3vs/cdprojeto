@@ -2042,5 +2042,530 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "How Trump’s Tariffs Could Hobble the Fastest-Growing Energy Technology",
+        "abstract": "Across the country, companies have been installing giant batteries that help them use more wind and solar power. That’s about to get much harder.",
+        "url": "https://www.nytimes.com/2025/04/03/climate/trump-tariffs-battery-storage.html",
+        "uri": "nyt://article/f31e8067-1140-57c9-8648-eda160d8cbe8",
+        "byline": "By Brad Plumer",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T12:18:42-04:00",
+        "created_date": "2025-04-03T12:14:48-04:00",
+        "published_date": "2025-04-03T12:14:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Solar Energy",
+            "Alternative and Renewable Energy",
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "Wind Power",
+            "Batteries",
+            "Energy and Power",
+            "Lithium (Metal)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/science/03cli-batteries/03cli-batteries-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An energy storage site in Coolidge, Ariz., that uses lithium-ion batteries.",
+                "copyright": "Ross D. Franklin/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/science/03cli-batteries/03cli-batteries-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An energy storage site in Coolidge, Ariz., that uses lithium-ion batteries.",
+                "copyright": "Ross D. Franklin/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/science/03cli-batteries/03cli-batteries-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An energy storage site in Coolidge, Ariz., that uses lithium-ion batteries.",
+                "copyright": "Ross D. Franklin/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Administration Threatens to Withhold Funds From Public Schools",
+        "abstract": "State education officials will be required to verify that they have eliminated all programs that promote diversity, equity and inclusion that the administration deems unlawful, according to a new memo.",
+        "url": "https://www.nytimes.com/2025/04/03/us/politics/public-school-funding-trump-dei.html",
+        "uri": "nyt://article/6eb672f0-d145-5918-8cf2-66620dd34c77",
+        "byline": "By Michael C. Bender",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T10:26:41-04:00",
+        "created_date": "2025-04-03T10:20:06-04:00",
+        "published_date": "2025-04-03T10:20:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Education (K-12)",
+            "Federal Aid (US)",
+            "Federal-State Relations (US)",
+            "Diversity Initiatives",
+            "Civil Rights and Liberties",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Education Department (US)"
+        ],
+        "per_facet": [
+            "McMahon, Linda E",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03dc-education-ztpw/03dc-education-ztpw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Education Secretary Linda McMahon at the White House last month. Her department has said that an “assessment of school policies and programs depends on the facts and circumstances of each case.”",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03dc-education-ztpw/03dc-education-ztpw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Education Secretary Linda McMahon at the White House last month. Her department has said that an “assessment of school policies and programs depends on the facts and circumstances of each case.”",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03dc-education-ztpw/03dc-education-ztpw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Education Secretary Linda McMahon at the White House last month. Her department has said that an “assessment of school policies and programs depends on the facts and circumstances of each case.”",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "What Is the I.C.C.? What to Know After Hungary’s Announced Withdrawal",
+        "abstract": "Hungary said it would pull out of the International Criminal Court as Prime Minister Benjamin Netanyahu of Israel visited the country.",
+        "url": "https://www.nytimes.com/2025/04/03/world/europe/icc-international-criminal-court-what-is.html",
+        "uri": "nyt://article/06e5ca97-6b6f-52d4-adb0-2f0dbde03796",
+        "byline": "By Amelia Nierenberg and Marlise Simons",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T09:57:22-04:00",
+        "created_date": "2025-04-03T09:31:40-04:00",
+        "published_date": "2025-04-03T09:31:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Content Type: Service",
+            "Assets, Frozen",
+            "Courts and the Judiciary",
+            "War Crimes, Genocide and Crimes Against Humanity",
+            "Israel-Gaza War (2023- )",
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [
+            "International Criminal Court"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Hungary"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-icc-explainer-hltk/03int-icc-explainer-hltk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Viktor Orban of Hungary, left, receiving Prime Minister Benjamin Netanyahu of Israel in Budapest on Thursday.",
+                "copyright": "Janos Kummer/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-icc-explainer-hltk/03int-icc-explainer-hltk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Viktor Orban of Hungary, left, receiving Prime Minister Benjamin Netanyahu of Israel in Budapest on Thursday.",
+                "copyright": "Janos Kummer/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-icc-explainer-hltk/03int-icc-explainer-hltk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Viktor Orban of Hungary, left, receiving Prime Minister Benjamin Netanyahu of Israel in Budapest on Thursday.",
+                "copyright": "Janos Kummer/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "weather",
+        "subsection": "",
+        "title": "This Storm System Is Poised to Deliver Heavy Rain From Texas to Connecticut",
+        "abstract": "Potentially “catastrophic” flash and river flooding is expected to continue as rain pummels the Central U.S. through Saturday, with the risk of more tornadoes.",
+        "url": "https://www.nytimes.com/2025/04/03/weather/rain-forecast-flooding-tennessee.html",
+        "uri": "nyt://article/f700688d-9a1d-555e-a706-61288555578b",
+        "byline": "By Judson Jones, Amy Graff and Nazaneen Ghaffar",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T12:13:28-04:00",
+        "created_date": "2025-04-03T12:13:28-04:00",
+        "published_date": "2025-04-03T12:13:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Rain",
+            "Floods",
+            "Weather",
+            "Tornadoes"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Southern States (US)",
+            "Northeastern States (US)",
+            "Texas"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-01-21-snow-radar-index/2025-01-21-snow-radar-index-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-01-21-snow-radar-index/2025-01-21-snow-radar-index-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-01-21-snow-radar-index/2025-01-21-snow-radar-index-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "music",
+        "title": "What’s His Age Again? Blink-182’s Mark Hoppus (Now 53) Looks Back.",
+        "abstract": "The band’s singer and bassist recounts his personal struggles and the dramatic ins and outs of the trio’s history in a new memoir, “Fahrenheit-182.”",
+        "url": "https://www.nytimes.com/2025/04/03/arts/music/mark-hoppus-blink-182-fahrenheit-182-memoir.html",
+        "uri": "nyt://article/0ce40538-926e-560d-a808-8f74dd607ff9",
+        "byline": "By Mark Yarm and Adali Schell",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T13:04:50-04:00",
+        "created_date": "2025-04-03T05:00:21-04:00",
+        "published_date": "2025-04-03T05:00:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Pop and Rock Music",
+            "Books and Literature",
+            "Content Type: Personal Profile",
+            "Fahrenheit-182 (Book)"
+        ],
+        "org_facet": [
+            "Blink 182"
+        ],
+        "per_facet": [
+            "Mark Hoppus"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00blink-panel-mkcp/00blink-panel-mkcp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1378,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Adali Schell for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00blink-panel-mkcp/00blink-panel-mkcp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Adali Schell for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00blink-panel-mkcp/00blink-panel-mkcp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Adali Schell for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Is Your Agency’s FOIA Office Being Shrunk or Cut?",
+        "abstract": "The team that responds to requests at the Centers for Disease Control and Prevention has been eliminated. We are trying to determine whether this is a governmentwide pattern.",
+        "url": "https://www.nytimes.com/2025/04/02/us/politics/foia-office-callout.html",
+        "uri": "nyt://article/43ebb306-0194-51a0-9986-156d41229a5b",
+        "byline": "By Sharon LaFraniere",
+        "item_type": "Article",
+        "updated_date": "2025-04-02T16:12:47-04:00",
+        "created_date": "2025-04-02T16:11:53-04:00",
+        "published_date": "2025-04-02T16:11:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "internal-reader-callout",
+            "Freedom of Information Act"
+        ],
+        "org_facet": [
+            "Centers for Disease Control and Prevention",
+            "Food and Drug Administration"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": null,
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "media",
+        "title": "Radhika Jones, Vanity Fair’s Top Editor, Steps Down",
+        "abstract": "Ms. Jones has been editor of the gilded magazine of culture, business and politics since 2017.",
+        "url": "https://www.nytimes.com/2025/04/03/business/media/radhika-jones-vanity-fair-steps-down.html",
+        "uri": "nyt://article/a0a7cf75-8eac-569d-a5b4-dc7b2dfd4a81",
+        "byline": "By Benjamin Mullin and Katie Robertson",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T12:59:49-04:00",
+        "created_date": "2025-04-03T12:59:41-04:00",
+        "published_date": "2025-04-03T12:59:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Appointments and Executive Changes",
+            "Magazines"
+        ],
+        "org_facet": [
+            "Vanity Fair"
+        ],
+        "per_facet": [
+            "Jones, Radhika"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/OakArticle-67eeb868-2-cpfb/OakArticle-67eeb868-2-cpfb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1392,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vanity Fair’s editor, Radhika Jones.",
+                "copyright": "Nina Prommer/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/OakArticle-67eeb868-2-cpfb/OakArticle-67eeb868-2-cpfb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vanity Fair’s editor, Radhika Jones.",
+                "copyright": "Nina Prommer/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/OakArticle-67eeb868-2-cpfb/OakArticle-67eeb868-2-cpfb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vanity Fair’s editor, Radhika Jones.",
+                "copyright": "Nina Prommer/EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "This A.I. Forecast Predicts Storms Ahead",
+        "abstract": "The A.I. prediction world is torn between optimism and gloom. A report released on Thursday decidedly lands on the side of gloom.",
+        "url": "https://www.nytimes.com/2025/04/03/technology/ai-futures-project-ai-2027.html",
+        "uri": "nyt://article/9a0eebf5-38af-5ea2-94c8-1032364e36fa",
+        "byline": "By Kevin Roose",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T13:07:44-04:00",
+        "created_date": "2025-04-03T12:00:07-04:00",
+        "published_date": "2025-04-03T12:00:07-04:00",
+        "material_type_facet": "",
+        "kicker": "The Shift",
+        "des_facet": [
+            "Artificial Intelligence",
+            "Research",
+            "Computers and the Internet"
+        ],
+        "org_facet": [
+            "Allen Institute for Artificial Intelligence",
+            "Astral Codex Ten (Blog)",
+            "OpenAI Labs"
+        ],
+        "per_facet": [
+            "Kokotajlo, Daniel"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/01/multimedia/ROOSE-daniel-bgvl/ROOSE-daniel-bgvl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1639,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Daniel Kokotajlo, a former OpenAI researcher, leads the A.I. Futures Project. ",
+                "copyright": "Ian C. Bates for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/01/multimedia/ROOSE-daniel-bgvl/ROOSE-daniel-bgvl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Daniel Kokotajlo, a former OpenAI researcher, leads the A.I. Futures Project. ",
+                "copyright": "Ian C. Bates for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/01/multimedia/ROOSE-daniel-bgvl/ROOSE-daniel-bgvl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Daniel Kokotajlo, a former OpenAI researcher, leads the A.I. Futures Project. ",
+                "copyright": "Ian C. Bates for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "How to Become Trump’s ‘Favorite President’: Nonstop Praise.",
+        "abstract": "Javier Milei of Argentina might not be that useful for the United States on economics or geopolitics — but he can help to fight the culture wars.",
+        "url": "https://www.nytimes.com/2025/04/03/world/americas/argentina-javier-milei-trump.html",
+        "uri": "nyt://article/fe2bbcf2-4634-5828-aeed-2b7bbcf0675e",
+        "byline": "By Jack Nicas",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T11:26:07-04:00",
+        "created_date": "2025-04-03T09:58:31-04:00",
+        "published_date": "2025-04-03T09:58:31-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States International Relations",
+            "Politics and Government",
+            "Lithium (Metal)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Milei, Javier",
+            "Musk, Elon",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Argentina"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03argentina-trump-analysis-tzfg/03argentina-trump-analysis-tzfg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1393,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Javier Milei of Argentina, center right, at Mar-a-Lago in Palm Beach, Fla., last year. Mr. Milei has repeatedly and publicly lauded President Trump. ",
+                "copyright": "Joe Raedle/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03argentina-trump-analysis-tzfg/03argentina-trump-analysis-tzfg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Javier Milei of Argentina, center right, at Mar-a-Lago in Palm Beach, Fla., last year. Mr. Milei has repeatedly and publicly lauded President Trump. ",
+                "copyright": "Joe Raedle/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03argentina-trump-analysis-tzfg/03argentina-trump-analysis-tzfg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Javier Milei of Argentina, center right, at Mar-a-Lago in Palm Beach, Fla., last year. Mr. Milei has repeatedly and publicly lauded President Trump. ",
+                "copyright": "Joe Raedle/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
