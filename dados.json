@@ -1853,5 +1853,194 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Trump’s Trade War Risks Forfeiting America’s Economic Primacy",
+        "abstract": "The United States has steered an economic order for 80 years based on trade and trust, making the country the world’s financial superpower. That vision is now blurred.",
+        "url": "https://www.nytimes.com/2025/04/03/business/trump-tariffs-dollar.html",
+        "uri": "nyt://article/c9f70976-48fe-56ef-a31b-1ca1b51d772f",
+        "byline": "By Patricia Cohen",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T11:47:51-04:00",
+        "created_date": "2025-04-03T11:27:27-04:00",
+        "published_date": "2025-04-03T11:27:27-04:00",
+        "material_type_facet": "",
+        "kicker": "news analysis",
+        "des_facet": [
+            "United States Economy",
+            "International Trade and World Market",
+            "Banking and Financial Institutions",
+            "Economic Conditions and Trends"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00Biz-Global-Econ-01-vbgw/00Biz-Global-Econ-01-vbgw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New Mercedes-Benz vehicles at the port of Bremerhaven, Germany, in February.",
+                "copyright": "Focke Strangmann/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00Biz-Global-Econ-01-vbgw/00Biz-Global-Econ-01-vbgw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New Mercedes-Benz vehicles at the port of Bremerhaven, Germany, in February.",
+                "copyright": "Focke Strangmann/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00Biz-Global-Econ-01-vbgw/00Biz-Global-Econ-01-vbgw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New Mercedes-Benz vehicles at the port of Bremerhaven, Germany, in February.",
+                "copyright": "Focke Strangmann/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "How Online Rage Invaded a 151-Year-Old Intellectual Retreat",
+        "abstract": "Charges of antisemitism and liberal bias and dismay over cuts to the opera budget have led to a small mutiny at Chautauqua Institution. And this was after the attack on Salman Rushdie.",
+        "url": "https://www.nytimes.com/2025/04/03/nyregion/chautauqua-institution-salman-rushdie.html",
+        "uri": "nyt://article/92d02e13-c41c-5994-80d1-8a2cc5bd1b58",
+        "byline": "By Christopher Maag",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T12:10:15-04:00",
+        "created_date": "2025-04-03T03:00:12-04:00",
+        "published_date": "2025-04-03T03:00:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Terrorism",
+            "Summer (Season)",
+            "Israel-Gaza War (2023- )",
+            "Conservatism (US Politics)",
+            "Anti-Semitism",
+            "Writing and Writers",
+            "Lincoln in the Bardo (Book)"
+        ],
+        "org_facet": [
+            "Chautauqua Institution"
+        ],
+        "per_facet": [
+            "Hill, Michael (1971- )",
+            "Rushdie, Salman",
+            "Saunders, George"
+        ],
+        "geo_facet": [
+            "Chautauqua (NY)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/29/multimedia/met-chautauqua--01-hktm/met-chautauqua--01-hktm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1365,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Maddie McGarvey for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/29/multimedia/met-chautauqua--01-hktm/met-chautauqua--01-hktm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Maddie McGarvey for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/29/multimedia/met-chautauqua--01-hktm/met-chautauqua--01-hktm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Maddie McGarvey for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "How Tariffs Destroy What Makes America Great",
+        "abstract": "Trump’s tariffs erect a wall between Americans and other people — a wall that obstructs not only the flow of goods, but the flow of ideas, contacts, technology and friendships.",
+        "url": "https://www.nytimes.com/2025/04/03/opinion/tariffs-trump.html",
+        "uri": "nyt://article/715c9151-5745-5210-911e-5bd74fae4834",
+        "byline": "By David Brooks",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T11:18:13-04:00",
+        "created_date": "2025-04-03T11:18:13-04:00",
+        "published_date": "2025-04-03T11:18:13-04:00",
+        "material_type_facet": "",
+        "kicker": "David Brooks",
+        "des_facet": [
+            "Customs (Tariff)",
+            "Books and Literature",
+            "Art"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Clark, Kenneth McKenzie (1903-83)",
+            "Hall, Peter G (1932-2014)"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/opinion/03brooks/03brooks-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/opinion/03brooks/03brooks-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/opinion/03brooks/03brooks-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
