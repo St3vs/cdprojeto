@@ -29,6 +29,6 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git remote set-url origin https://x-access-token:${GH_PAT}@github.com/St3vs/cdprojeto.git
-          git add nyt_articles.json scraper.log
+          git add dados.json logging.log
           git commit -m "Atualização automática de artigos" || echo "Sem alterações para commit"
           git push origin main
