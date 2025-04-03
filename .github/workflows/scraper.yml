@@ -21,7 +21,7 @@ jobs:
         run: pip install requests
 
       - name: Executar scraper
-        run: python scraper.py
+        run: python nytimesapi.py
 
       - name: Commit e push dos dados
         run: |
