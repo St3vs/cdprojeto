@@ -3357,5 +3357,384 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "In Worst Stock Market in Years, Slow and Boring Has Eased the Pain",
+        "abstract": "People have avoided huge losses by holding old-fashioned, well-balanced investments, an approach our columnist is banking on for the future.",
+        "url": "https://www.nytimes.com/2025/04/03/business/stock-market-investing-retirement-pain-stocks-bonds.html",
+        "uri": "nyt://article/08c52431-59e9-5730-9aad-f8c5b8802bd2",
+        "byline": "By Jeff Sommer",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T17:07:28-04:00",
+        "created_date": "2025-04-03T17:07:28-04:00",
+        "published_date": "2025-04-03T17:07:28-04:00",
+        "material_type_facet": "",
+        "kicker": "Strategies",
+        "des_facet": [
+            "Stocks and Bonds",
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "Customs (Tariff)",
+            "Asset Allocation (Personal Finances)",
+            "Recession and Depression",
+            "Pensions and Retirement Plans",
+            "Personal Finances",
+            "Content Type: Service"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/business/06strategies-illo/06strategies-illo-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Liam Eisenberg"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/business/06strategies-illo/06strategies-illo-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Liam Eisenberg"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/business/06strategies-illo/06strategies-illo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Liam Eisenberg"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "‘Fair Likelihood’ Trump Administration Violated Court Order, Judge Says",
+        "abstract": "The judge, James E. Boasberg, said he was likely to wait until next week to rule on whether the White House was in contempt of court for having ignored his order.",
+        "url": "https://www.nytimes.com/2025/04/03/us/politics/trump-deportations-venezuela-judge-boasberg.html",
+        "uri": "nyt://article/3fa327a3-1648-5828-91be-930ea264bb09",
+        "byline": "By Alan Feuer",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T18:04:28-04:00",
+        "created_date": "2025-04-03T17:47:14-04:00",
+        "published_date": "2025-04-03T17:47:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Decisions and Verdicts",
+            "Presidential Power (US)",
+            "Illegal Immigration"
+        ],
+        "org_facet": [
+            "Homeland Security Department",
+            "Justice Department",
+            "Tren de Aragua (Gang)"
+        ],
+        "per_facet": [
+            "Boasberg, James E",
+            "Bondi, Pamela J",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "El Salvador",
+            "Venezuela"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03dc-immig-kvcm/03dc-immig-kvcm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Judge James E. Boasberg said on Thursday that there was a “fair likelihood” that the Trump administration had violated his order to stop deporting Venezuelan migrants to El Salvador under a wartime law.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03dc-immig-kvcm/03dc-immig-kvcm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Judge James E. Boasberg said on Thursday that there was a “fair likelihood” that the Trump administration had violated his order to stop deporting Venezuelan migrants to El Salvador under a wartime law.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03dc-immig-kvcm/03dc-immig-kvcm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Judge James E. Boasberg said on Thursday that there was a “fair likelihood” that the Trump administration had violated his order to stop deporting Venezuelan migrants to El Salvador under a wartime law.",
+                "copyright": "Erin Schaff/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Trump Administration Set to Pause $510 Million for Brown University",
+        "abstract": "The administration has now targeted five schools’ federal funding as part of a pledge to combat what it considers to be antisemitism on university campuses.",
+        "url": "https://www.nytimes.com/2025/04/03/us/trump-administration-brown-university-funding-pause.html",
+        "uri": "nyt://article/54b74dd9-9653-5236-8903-acbede11711f",
+        "byline": "By Anemona Hartocollis, Alan Blinder and Michael C. Bender",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T17:56:58-04:00",
+        "created_date": "2025-04-03T17:54:52-04:00",
+        "published_date": "2025-04-03T17:54:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "Education Department (NYC)",
+            "Columbia University",
+            "Princeton University",
+            "University of Pennsylvania",
+            "Brown University"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/hfocollege-cancel-fgcq/hfocollege-cancel-fgcq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration intends to block $510 million in federal contracts and grants for Brown University.",
+                "copyright": "Scott Eisen/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/hfocollege-cancel-fgcq/hfocollege-cancel-fgcq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration intends to block $510 million in federal contracts and grants for Brown University.",
+                "copyright": "Scott Eisen/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/hfocollege-cancel-fgcq/hfocollege-cancel-fgcq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration intends to block $510 million in federal contracts and grants for Brown University.",
+                "copyright": "Scott Eisen/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "How the Trump Administration Might Target D.E.I. in Public Schools",
+        "abstract": "A letter from the administration promised to withdraw funding from schools that allow certain D.E.I. programs. But what counts as D.E.I. may prove murky.",
+        "url": "https://www.nytimes.com/2025/04/03/us/trump-administration-dei-public-schools.html",
+        "uri": "nyt://article/85a9c4c8-925d-5a3b-9cd0-6bda030512ba",
+        "byline": "By Dana Goldstein",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T17:18:39-04:00",
+        "created_date": "2025-04-03T17:18:39-04:00",
+        "published_date": "2025-04-03T17:18:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Minorities",
+            "Civil Rights and Liberties",
+            "Education (K-12)",
+            "Diversity Initiatives",
+            "Federal Aid (US)"
+        ],
+        "org_facet": [
+            "Education Department (US)"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Florida",
+            "Ithaca (NY)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03nat-dei-schools-mvwp/03nat-dei-schools-mvwp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Black Studies classroom in New York. Over the past decade, many states, school districts and curriculum publishers created new coursework in Black studies and ethnic studies.",
+                "copyright": "José A. Alvarado Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03nat-dei-schools-mvwp/03nat-dei-schools-mvwp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Black Studies classroom in New York. Over the past decade, many states, school districts and curriculum publishers created new coursework in Black studies and ethnic studies.",
+                "copyright": "José A. Alvarado Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03nat-dei-schools-mvwp/03nat-dei-schools-mvwp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Black Studies classroom in New York. Over the past decade, many states, school districts and curriculum publishers created new coursework in Black studies and ethnic studies.",
+                "copyright": "José A. Alvarado Jr. for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Trump Just Bet the Farm",
+        "abstract": "Donald Trump is upending a world that has brought peace and stability for 80 years. What is it he doesn’t understand?",
+        "url": "https://www.nytimes.com/2025/04/03/opinion/trump-tariffs-us-security-stability.html",
+        "uri": "nyt://article/0a878a6b-0a1f-5e7e-9860-3733468fc94b",
+        "byline": "By Thomas L. Friedman",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T17:15:27-04:00",
+        "created_date": "2025-04-03T17:15:27-04:00",
+        "published_date": "2025-04-03T17:15:27-04:00",
+        "material_type_facet": "",
+        "kicker": "Thomas L. Friedman",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03friedman-tghz/03friedman-tghz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1639,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03friedman-tghz/03friedman-tghz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03friedman-tghz/03friedman-tghz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Mel Gibson’s Gun Rights to Be Restored by Justice Dept.",
+        "abstract": "People familiar with the decision said Mr. Gibson, a supporter of President Trump, would be among 10 people with convictions to get back their gun rights.",
+        "url": "https://www.nytimes.com/2025/04/03/us/politics/mel-gibson-gun-rights.html",
+        "uri": "nyt://article/f7a26599-04ae-5554-ac5c-e3a9195787e9",
+        "byline": "By Devlin Barrett",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T17:34:50-04:00",
+        "created_date": "2025-04-03T17:32:42-04:00",
+        "published_date": "2025-04-03T17:32:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Gun Control",
+            "Regulation and Deregulation of Industry"
+        ],
+        "org_facet": [
+            "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+            "Gun Owners of America",
+            "Federal Register",
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Bondi, Pamela J",
+            "Gibson, Mel",
+            "Oyer, Elizabeth G",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03DC-GIBSON-wlhz/03DC-GIBSON-wlhz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1394,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mel Gibson in Los Angeles last year. The actor pleaded no contest in 2011 to a battery charge involving his former girlfriend.",
+                "copyright": "Chris Pizzello/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03DC-GIBSON-wlhz/03DC-GIBSON-wlhz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mel Gibson in Los Angeles last year. The actor pleaded no contest in 2011 to a battery charge involving his former girlfriend.",
+                "copyright": "Chris Pizzello/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03DC-GIBSON-wlhz/03DC-GIBSON-wlhz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mel Gibson in Los Angeles last year. The actor pleaded no contest in 2011 to a battery charge involving his former girlfriend.",
+                "copyright": "Chris Pizzello/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
