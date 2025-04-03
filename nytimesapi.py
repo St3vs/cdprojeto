@@ -22,13 +22,13 @@ URL = f"https://api.nytimes.com/svc/news/v3/content/section/front.json?api-key={
 JSON_FILE = "dados.json"
 
 def obter_dados():
-    """Obtém os dados da página inicial do NYT e retorna uma lista de artigos"""
+    """Obtém os dados da página inicial do NYT e retorna uma lista de artigos com todos os dados"""
     try:
         response = requests.get(URL)
         response.raise_for_status()
         data = response.json()
 
-        # Extrai os artigos da resposta
+        # Extrai todos os artigos da resposta
         return data.get("results", [])  # Retorna lista vazia se "results" não existir
     except requests.exceptions.RequestException as e:
         logging.error(f"Erro na requisição à API: {e}")
@@ -45,7 +45,7 @@ def carregar_json():
                 return []
     return []
 
-def salvar_json(data):
+def guardar_json(data):
     """Guarda os dados no arquivo JSON"""
     with open(JSON_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
@@ -58,21 +58,16 @@ def atualizar_dados():
         return
 
     artigos_existentes = carregar_json()
-    titulos_existentes = {artigo.get("title", "") for artigo in artigos_existentes}
+    ids_existentes = {artigo.get("id", "") for artigo in artigos_existentes}  # Usar ID único ou outro identificador
 
     novos_adicionados = 0
     for artigo in novos_dados:
-        # Verifica se as chaves essenciais existem antes de adicionar
-        if "title" in artigo and "url" in artigo and "published_date" in artigo:
-            if artigo["title"] not in titulos_existentes:
-                artigos_existentes.append({
-                    "title": artigo["title"],
-                    "url": artigo["url"],
-                    "published_date": artigo["published_date"]
-                })
-                novos_adicionados += 1
+        # Verifica se a chave 'id' existe para garantir unicidade (ou pode usar outro campo exclusivo)
+        if "id" in artigo and artigo["id"] not in ids_existentes:
+            artigos_existentes.append(artigo)  # Adiciona o artigo completo
+            novos_adicionados += 1
 
-    salvar_json(artigos_existentes)
+    guardar_json(artigos_existentes)
 
     # Log atrvés do horário padrão do sistema, apenas com dia e hora
     agora = datetime.now().strftime("%Y-%m-%d %H:%M") 
