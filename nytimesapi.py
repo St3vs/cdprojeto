@@ -9,7 +9,7 @@ logging.basicConfig(filename="scraper.log", level=logging.INFO, format="%(asctim
 
 # Chave de API do NYT
 API_KEY = "mtE9UItUjdAMkiAuOo0ljc9P60647UqL"
-URL = "https://api.nytimes.com/svc/topstories/v2/world.json?api-key=" + API_KEY
+URL = "https://api.nytimes.com/svc/news/v3/content/section-list.json?api-key=" + API_KEY
 
 # Nome do arquivo JSON
 JSON_FILE = "nyt_articles.json"
