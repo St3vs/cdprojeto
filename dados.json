@@ -3736,5 +3736,250 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Judge Blocks H.H.S. From Terminating $11 Billion in Public Health Grants",
+        "abstract": "A coalition of states sued over the Trump administration’s unexpected move to cut off the funds, which they said imperiled everything from childhood vaccination programs to opioid addiction treatment.",
+        "url": "https://www.nytimes.com/2025/04/03/us/politics/hhs-public-health-grants-judge.html",
+        "uri": "nyt://article/551fc84b-b67b-5495-986f-4c9a055b2715",
+        "byline": "By Zach Montague",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T18:37:55-04:00",
+        "created_date": "2025-04-03T18:34:54-04:00",
+        "published_date": "2025-04-03T18:34:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Federal-State Relations (US)",
+            "Coronavirus (2019-nCoV)",
+            "Federal Aid (US)"
+        ],
+        "org_facet": [
+            "Health and Human Services Department",
+            "Justice Department",
+            "Substance Abuse and Mental Health Services Administration"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03dc-hhs-funds-lawsuit-chtf/03dc-hhs-funds-lawsuit-chtf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Department of Health and Human Services in Washington. The department told states that public health funds allocated to them during the Covid-19 pandemic were no longer necessary now that the pandemic emergency was over.",
+                "copyright": "Jason Andrew for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03dc-hhs-funds-lawsuit-chtf/03dc-hhs-funds-lawsuit-chtf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Department of Health and Human Services in Washington. The department told states that public health funds allocated to them during the Covid-19 pandemic were no longer necessary now that the pandemic emergency was over.",
+                "copyright": "Jason Andrew for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03dc-hhs-funds-lawsuit-chtf/03dc-hhs-funds-lawsuit-chtf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Department of Health and Human Services in Washington. The department told states that public health funds allocated to them during the Covid-19 pandemic were no longer necessary now that the pandemic emergency was over.",
+                "copyright": "Jason Andrew for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Tufts Student Held by ICE Asks Court to Return Her Case to Massachusetts",
+        "abstract": "After being picked up in Massachusetts, Rumeysa Ozturk was moved to a detention center in Louisiana, where the government wants to argue its case to deport her.",
+        "url": "https://www.nytimes.com/2025/04/03/us/tufts-student-deportation-ice.html",
+        "uri": "nyt://article/1381d217-9382-5758-b6fc-728c5aaca8c0",
+        "byline": "By Anemona Hartocollis",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T18:48:34-04:00",
+        "created_date": "2025-04-03T18:39:22-04:00",
+        "published_date": "2025-04-03T18:39:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Colleges and Universities",
+            "Deportation",
+            "Immigration Detention",
+            "Civil Rights and Liberties",
+            "Foreign Students (in US)"
+        ],
+        "org_facet": [
+            "American Civil Liberties Union",
+            "Canary Mission (Web Site)",
+            "Tufts University"
+        ],
+        "per_facet": [
+            "Chung, Yunseo",
+            "Khalil, Mahmoud (Activist)",
+            "Ozturk, Rumeysa",
+            "Rubio, Marco",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Somerville (Mass)",
+            "Louisiana"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03nat-tufts-student-bkzv/03nat-tufts-student-bkzv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People rallying in support of Rumeysa Ozturk on Thursday in front of a federal courthouse in Boston.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03nat-tufts-student-bkzv/03nat-tufts-student-bkzv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People rallying in support of Rumeysa Ozturk on Thursday in front of a federal courthouse in Boston.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03nat-tufts-student-bkzv/03nat-tufts-student-bkzv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People rallying in support of Rumeysa Ozturk on Thursday in front of a federal courthouse in Boston.",
+                "copyright": "Sophie Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Markets Tumbled After Trump’s Tariffs",
+        "abstract": "Also, a storm soaked the central U.S. Here’s the latest at the end of Thursday.",
+        "url": "https://www.nytimes.com/2025/04/03/briefing/markets-tumbled-trumps-tariffs-us-storms.html",
+        "uri": "nyt://article/fdaffda2-d057-5c54-bc8d-83c44fa5fd72",
+        "byline": "By Matthew Cullen",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T17:52:22-04:00",
+        "created_date": "2025-04-03T17:52:22-04:00",
+        "published_date": "2025-04-03T17:52:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/03evening-nl-stocks/04ambriefing-asia-nl-stocks-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 1000,
+                "width": 1000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/03evening-nl-stocks/04ambriefing-asia-nl-stocks-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/03evening-nl-stocks/04ambriefing-asia-nl-stocks-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Ex-Yankees Player Brett Gardner’s Son Died From Carbon Monoxide, Officials Say",
+        "abstract": "Miller Gardner, who was 14, died last month at a resort in Costa Rica.",
+        "url": "https://www.nytimes.com/2025/04/03/world/americas/miller-gardner-carbon-monoxide-poisoning-cause-death.html",
+        "uri": "nyt://article/01114fea-e9a4-5bd6-9cd4-67544bc952c4",
+        "byline": "By Victor Mather",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T15:36:38-04:00",
+        "created_date": "2025-04-03T12:14:48-04:00",
+        "published_date": "2025-04-03T12:14:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Carbon Monoxide",
+            "Baseball"
+        ],
+        "org_facet": [
+            "New York Yankees"
+        ],
+        "per_facet": [
+            "Gardner, Brett"
+        ],
+        "geo_facet": [
+            "Costa Rica"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03xp-gardner-htfw/03xp-gardner-htfw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1638,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A moment of silence is observed for Miller Gardner, the son of the former New York Yankees player Brett Gardner, before the start of an opening-day baseball game between the Yankees and the Milwaukee Brewers at Yankee Stadium last week.",
+                "copyright": "Seth Wenig/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03xp-gardner-htfw/03xp-gardner-htfw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A moment of silence is observed for Miller Gardner, the son of the former New York Yankees player Brett Gardner, before the start of an opening-day baseball game between the Yankees and the Milwaukee Brewers at Yankee Stadium last week.",
+                "copyright": "Seth Wenig/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03xp-gardner-htfw/03xp-gardner-htfw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A moment of silence is observed for Miller Gardner, the son of the former New York Yankees player Brett Gardner, before the start of an opening-day baseball game between the Yankees and the Milwaukee Brewers at Yankee Stadium last week.",
+                "copyright": "Seth Wenig/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
