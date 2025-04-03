@@ -2567,5 +2567,154 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Trade ‘Emergency’ Follows Decades of Anger That America Has Been Ripped Off",
+        "abstract": "Economists and legal experts question how the strongest economy in the world can be facing a national emergency over the trade deficit.",
+        "url": "https://www.nytimes.com/2025/04/03/us/politics/trump-tariffs-trade-deficit-manufacturing.html",
+        "uri": "nyt://article/008ef36c-0e97-5e6d-9b13-ac2d28dbedbb",
+        "byline": "By Alan Rappeport",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T13:43:09-04:00",
+        "created_date": "2025-04-03T13:12:56-04:00",
+        "published_date": "2025-04-03T13:12:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "United States Economy",
+            "Customs (Tariff)",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03dc-trump-tariffs-hvbt/03dc-trump-tariffs-hvbt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The dynamic President Trump has described has been a worry for many U.S. workers whose jobs have been lost to cheaper overseas labor.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03dc-trump-tariffs-hvbt/03dc-trump-tariffs-hvbt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The dynamic President Trump has described has been a worry for many U.S. workers whose jobs have been lost to cheaper overseas labor.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03dc-trump-tariffs-hvbt/03dc-trump-tariffs-hvbt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The dynamic President Trump has described has been a worry for many U.S. workers whose jobs have been lost to cheaper overseas labor.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "How Much Will Trump’s Tariffs Cost U.S. Importers?",
+        "abstract": "It will cost an extra $714 billion in tariffs to bring shoes, TVs and all other imports into the United States, a new analysis of trade data shows.",
+        "url": "https://www.nytimes.com/interactive/2025/04/03/business/economy/trump-tariffs-us-imports.html",
+        "uri": "nyt://interactive/b3199186-fa04-585b-8033-14515fcf48ed",
+        "byline": "By Lazaro Gamio",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-03T13:40:31-04:00",
+        "created_date": "2025-04-03T13:36:32-04:00",
+        "published_date": "2025-04-03T13:36:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "Protectionism (Trade)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": null,
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Trump Will Tell You When He’s Done",
+        "abstract": "From tariffs to ballots, he makes up his own rules.",
+        "url": "https://www.nytimes.com/2025/04/03/opinion/trump-third-term.html",
+        "uri": "nyt://article/1ae48556-b404-52d6-84ac-43749dfa56ec",
+        "byline": "By Frank Bruni",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T12:08:47-04:00",
+        "created_date": "2025-04-03T12:08:47-04:00",
+        "published_date": "2025-04-03T12:08:47-04:00",
+        "material_type_facet": "",
+        "kicker": "Frank Bruni",
+        "des_facet": [
+            "Presidential Election of 2024",
+            "United States Politics and Government",
+            "Presidential Election of 2020",
+            "Elections, Courts and the Judiciary",
+            "Executive Orders and Memorandums",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Ethics and Official Misconduct",
+            "Constitution (US)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Hegseth, Pete",
+            "Musk, Elon"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/opinion/03bruni-newsletter-image/03bruni-newsletter-image-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ben Wiseman"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/opinion/03bruni-newsletter-image/03bruni-newsletter-image-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ben Wiseman"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/opinion/03bruni-newsletter-image/03bruni-newsletter-image-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ben Wiseman"
+            }
+        ],
+        "short_url": ""
     }
 ]
