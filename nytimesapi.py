@@ -6,7 +6,7 @@ import time
 from datetime import datetime
 import schedule
 
-# Configuração do logging para registrar apenas o dia e hora
+# Configuração do logging para registar apenas o dia e hora
 logging.basicConfig(
     filename="logging.log",
     level=logging.INFO,
