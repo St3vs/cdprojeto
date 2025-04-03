@@ -2716,5 +2716,260 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "The Job Market Has Been Resilient. The Trade War Could Be Its Undoing.",
+        "abstract": "The U.S. economy has largely withstood inflation and high interest rates. But tariffs could bring new price increases and put a damper on hiring.",
+        "url": "https://www.nytimes.com/2025/04/03/business/economy/job-market-tariffs.html",
+        "uri": "nyt://article/8a6be462-e17e-5447-b52c-04f3c7d1a558",
+        "byline": "By Ben Casselman and Colby Smith",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T14:59:31-04:00",
+        "created_date": "2025-04-03T13:46:23-04:00",
+        "published_date": "2025-04-03T13:46:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Labor and Jobs",
+            "Hiring and Promotion",
+            "International Trade and World Market",
+            "United States Economy",
+            "Customs (Tariff)",
+            "United States Politics and Government",
+            "Inflation (Economics)",
+            "Interest Rates"
+        ],
+        "org_facet": [
+            "Federal Reserve System"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03biz-econ-slowdown-01-gljm/03biz-econ-slowdown-01-gljm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Any pullback in hiring is likely to show up first in industries that are directly hurt by tariffs, like retailers that sell imported goods.",
+                "copyright": "Mark Abramson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03biz-econ-slowdown-01-gljm/03biz-econ-slowdown-01-gljm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Any pullback in hiring is likely to show up first in industries that are directly hurt by tariffs, like retailers that sell imported goods.",
+                "copyright": "Mark Abramson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03biz-econ-slowdown-01-gljm/03biz-econ-slowdown-01-gljm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Any pullback in hiring is likely to show up first in industries that are directly hurt by tariffs, like retailers that sell imported goods.",
+                "copyright": "Mark Abramson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "F.D.A. Layoffs Could Raise Drug Costs and Erode Food Safety",
+        "abstract": "Trump cutbacks were supposedly aimed at administrators. But scientists in food and drug-testing labs and policy experts who advance generic drug approvals were also dismissed.",
+        "url": "https://www.nytimes.com/2025/04/03/health/fda-layoffs-food-and-drug-safety-rfk-jr.html",
+        "uri": "nyt://article/adff45ed-37bc-559e-a0a6-d7c45192487c",
+        "byline": "By Christina Jewett",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T15:02:03-04:00",
+        "created_date": "2025-04-03T15:00:19-04:00",
+        "published_date": "2025-04-03T15:00:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Regulation and Deregulation of Industry",
+            "Layoffs and Job Reductions",
+            "Drugs (Pharmaceuticals)",
+            "Prices (Fares, Fees and Rates)",
+            "Food",
+            "Avian Influenza",
+            "Food Contamination and Poisoning",
+            "Generic Brands and Products",
+            "Research",
+            "Laboratories and Scientific Equipment",
+            "Medicine and Health"
+        ],
+        "org_facet": [
+            "Food and Drug Administration"
+        ],
+        "per_facet": [
+            "Kennedy, Robert F Jr",
+            "Trump, Donald J",
+            "Makary, Marty"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03FDA-CUTS-food-zjtp/03FDA-CUTS-food-zjtp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Heirloom tomatoes imported from Canada, left, and avocados imported from Mexico in a Pittsburgh market last month. Inspections and testing of imported foods could be affected by the F.D.A. layoffs.",
+                "copyright": "Gene J. Puskar/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03FDA-CUTS-food-zjtp/03FDA-CUTS-food-zjtp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Heirloom tomatoes imported from Canada, left, and avocados imported from Mexico in a Pittsburgh market last month. Inspections and testing of imported foods could be affected by the F.D.A. layoffs.",
+                "copyright": "Gene J. Puskar/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03FDA-CUTS-food-zjtp/03FDA-CUTS-food-zjtp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Heirloom tomatoes imported from Canada, left, and avocados imported from Mexico in a Pittsburgh market last month. Inspections and testing of imported foods could be affected by the F.D.A. layoffs.",
+                "copyright": "Gene J. Puskar/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Steve Rattner on Just How Bad Things Will Get Under Trump’s Tariffs",
+        "abstract": "And what business executives are saying behind closed doors.",
+        "url": "https://www.nytimes.com/2025/04/03/opinion/trump-tariffs-economy.html",
+        "uri": "nyt://article/92ab8479-1a39-5938-b512-338581ab9f8d",
+        "byline": "By Patrick Healy, Steven Rattner and Derek Arthur",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T14:47:47-04:00",
+        "created_date": "2025-04-03T14:47:47-04:00",
+        "published_date": "2025-04-03T14:47:47-04:00",
+        "material_type_facet": "",
+        "kicker": "The Opinions",
+        "des_facet": [
+            "audio-neutral-informative",
+            "Customs (Tariff)",
+            "International Relations",
+            "United States Politics and Government",
+            "United States International Relations",
+            "United States Economy",
+            "Prices (Fares, Fees and Rates)",
+            "International Trade and World Market"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "United States",
+            "China",
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/opinion/03opinions-healy-rattner/03opinions-healy-rattner-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1800,
+                "width": 1800,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by The New York Times; photograph by Chip Somodevilla/Getty"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/opinion/03opinions-healy-rattner/03opinions-healy-rattner-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by The New York Times; photograph by Chip Somodevilla/Getty"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/opinion/03opinions-healy-rattner/03opinions-healy-rattner-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by The New York Times; photograph by Chip Somodevilla/Getty"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "50 States, 50 Fixes",
+        "abstract": "A series about local solutions, and the people behind them, to environmental problems.",
+        "url": "https://www.nytimes.com/interactive/2025/climate/50-states-fixes.html",
+        "uri": "nyt://interactive/5bff71c7-6482-5e29-9827-5e15bc5cb040",
+        "byline": "",
+        "item_type": "Interactive",
+        "updated_date": "2025-03-25T20:48:35-04:00",
+        "created_date": "2025-03-25T20:21:14-04:00",
+        "published_date": "2025-03-25T20:21:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/25/climate/00cli-50x50-promo/00cli-50x50-promo-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Liam Cobb"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/25/climate/00cli-50x50-promo/00cli-50x50-promo-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Liam Cobb"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/25/climate/00cli-50x50-promo/00cli-50x50-promo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Liam Cobb"
+            }
+        ],
+        "short_url": ""
     }
 ]
