@@ -2,8 +2,7 @@ name: NYT Scraper
 
 on:
   schedule:
-    - cron: "0 * * * *"  # Executa a cada hora
-  workflow_dispatch:
+    - cron: "0 * * * *"  # Executa de hora em hora
 
 jobs:
   scrape:
