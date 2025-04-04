@@ -7849,5 +7849,258 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Trump Calls India a Friend, but Is Trying to Block Its Imports",
+        "abstract": "Stunned to see their own exports punished harshly, Indians are picking through the wreckage for signs of hope. There’s some but not a lot.",
+        "url": "https://www.nytimes.com/2025/04/04/business/india-trump-tariffs.html",
+        "uri": "nyt://article/bae02991-3bb4-5378-8788-4912abb51740",
+        "byline": "By Alex Travelli",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T13:20:18-04:00",
+        "created_date": "2025-04-04T13:20:18-04:00",
+        "published_date": "2025-04-04T13:20:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Modi, Narendra"
+        ],
+        "geo_facet": [
+            "India",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00Biz-India-Tariffs-01-tfbz/00Biz-India-Tariffs-01-tfbz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New tariffs will make it harder for some Indian companies to sell to U.S. buyers, but it’s unclear who will feel the most impact.",
+                "copyright": "Elke Scholiers for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00Biz-India-Tariffs-01-tfbz/00Biz-India-Tariffs-01-tfbz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New tariffs will make it harder for some Indian companies to sell to U.S. buyers, but it’s unclear who will feel the most impact.",
+                "copyright": "Elke Scholiers for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00Biz-India-Tariffs-01-tfbz/00Biz-India-Tariffs-01-tfbz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New tariffs will make it harder for some Indian companies to sell to U.S. buyers, but it’s unclear who will feel the most impact.",
+                "copyright": "Elke Scholiers for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "U.S. Employers Added 228,000 Jobs in March, but Outlook Is Clouded",
+        "abstract": "The gain was stronger than expected, though the impact of President Trump’s tariffs and other policies on the labor market has yet to play out.",
+        "url": "https://www.nytimes.com/2025/04/04/business/economy/jobs-economy-trump-tariffs.html",
+        "uri": "nyt://article/28331e01-df9f-52a9-8f87-08725621a9bf",
+        "byline": "By Rebecca Davis O’Brien",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T13:32:27-04:00",
+        "created_date": "2025-04-04T05:01:22-04:00",
+        "published_date": "2025-04-04T05:01:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Labor and Jobs",
+            "Hiring and Promotion",
+            "United States Economy",
+            "Layoffs and Job Reductions",
+            "Government Employees",
+            "Unemployment",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Labor Department (US)"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-04-03-jobs-monthly-change-index/2025-04-03-jobs-monthly-change-index-superJumbo-v2.png",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Karl Russell"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-04-03-jobs-monthly-change-index/2025-04-03-jobs-monthly-change-index-threeByTwoSmallAt2X-v3.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Karl Russell"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-04-03-jobs-monthly-change-index/2025-04-03-jobs-monthly-change-index-thumbLarge-v2.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Karl Russell"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Triage",
+        "abstract": "What one image shows about the aftermath of a strike on a shelter in Gaza.",
+        "url": "https://www.nytimes.com/2025/04/04/world/middleeast/gaza-school-strike-hospital.html",
+        "uri": "nyt://article/3523e140-cb1e-563a-bf3d-fa8ce6a03742",
+        "byline": "",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T13:16:00-04:00",
+        "created_date": "2025-04-04T13:00:24-04:00",
+        "published_date": "2025-04-04T13:00:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "vis-photo",
+            "Civilian Casualties",
+            "Israel-Gaza War (2023- )",
+            "Hospitals"
+        ],
+        "org_facet": [
+            "Hamas",
+            "Al Ahli Arab Hospital (Gaza Strip)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-oneimage-gaza-strike-promo-bgwk/04int-oneimage-gaza-strike-promo-bgwk-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1620,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-oneimage-gaza-strike-promo-bgwk/04int-oneimage-gaza-strike-promo-bgwk-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-oneimage-gaza-strike-promo-bgwk/04int-oneimage-gaza-strike-promo-bgwk-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Meet the 23-Year-Old Student Who Raised $25 Million in Democratic Losses",
+        "abstract": "A law student in Florida has a lucrative side gig: fund-raising consultant. His firm earns a 25 percent cut of “profit” from donations, and critics have begun to pile up after two special elections.",
+        "url": "https://www.nytimes.com/2025/04/04/us/politics/democrats-fundraising-florida.html",
+        "uri": "nyt://article/fd154df0-3109-558f-8567-591651a1bacd",
+        "byline": "By Shane Goldmacher",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T11:19:31-04:00",
+        "created_date": "2025-04-04T10:27:03-04:00",
+        "published_date": "2025-04-04T10:27:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Campaign Finance",
+            "United States Politics and Government",
+            "Political Advertising"
+        ],
+        "org_facet": [
+            "Democratic Party",
+            "Key Lime Strategies"
+        ],
+        "per_facet": [
+            "McMillan, Jackson",
+            "Weil, Josh (1976- )",
+            "Valimont, Gay"
+        ],
+        "geo_facet": [
+            "Florida"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04pol-consultant-topart-zfpg/04pol-consultant-topart-zfpg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1638,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“All the senior fund-raising strategists at my firm — myself, Ryan — we’re dungeon masters,” said Jackson McMillan, 23, in St. Petersburg, Fla.",
+                "copyright": "Zack Wittman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04pol-consultant-topart-zfpg/04pol-consultant-topart-zfpg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“All the senior fund-raising strategists at my firm — myself, Ryan — we’re dungeon masters,” said Jackson McMillan, 23, in St. Petersburg, Fla.",
+                "copyright": "Zack Wittman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04pol-consultant-topart-zfpg/04pol-consultant-topart-zfpg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“All the senior fund-raising strategists at my firm — myself, Ryan — we’re dungeon masters,” said Jackson McMillan, 23, in St. Petersburg, Fla.",
+                "copyright": "Zack Wittman for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
