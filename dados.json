@@ -6056,5 +6056,188 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Trump’s Trade War Escalates as China Retaliates With 34% Tariffs",
+        "abstract": "The Chinese government said it would match President Trump’s tariff, and also barred a group of American companies from doing business in China.",
+        "url": "https://www.nytimes.com/2025/04/04/business/china-trump-tariffs-retaliation.html",
+        "uri": "nyt://article/0e4ead96-b1c5-52ff-82a7-27622c838627",
+        "byline": "By Keith Bradsher",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T06:59:14-04:00",
+        "created_date": "2025-04-04T06:23:33-04:00",
+        "published_date": "2025-04-04T06:23:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Ministry of Commerce (China)"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04Biz-China-Retaliate-ghkv/04Biz-China-Retaliate-ghkv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1295,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A container ship from China’s largest shipping line at the Port Of Long Beach in California on Tuesday.",
+                "copyright": "Mario Tama/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04Biz-China-Retaliate-ghkv/04Biz-China-Retaliate-ghkv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A container ship from China’s largest shipping line at the Port Of Long Beach in California on Tuesday.",
+                "copyright": "Mario Tama/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04Biz-China-Retaliate-ghkv/04Biz-China-Retaliate-ghkv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A container ship from China’s largest shipping line at the Port Of Long Beach in California on Tuesday.",
+                "copyright": "Mario Tama/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Europe’s Paradox",
+        "abstract": "We explain a development that may help the far right in Europe.",
+        "url": "https://www.nytimes.com/2025/04/04/briefing/europes-paradox.html",
+        "uri": "nyt://article/55f6a51b-4ada-5144-8207-458f473f28ed",
+        "byline": "By Katrin Bennhold",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T06:41:45-04:00",
+        "created_date": "2025-04-04T06:41:45-04:00",
+        "published_date": "2025-04-04T06:41:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "internal-storyline-no",
+            "United States Politics and Government",
+            "Politics and Government",
+            "Right-Wing Extremism and Alt-Right",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/04themorning-nl-rubio/04themorning-nl-rubio-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2000,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio",
+                "copyright": "Maansi Srivastava for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/04themorning-nl-rubio/04themorning-nl-rubio-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio",
+                "copyright": "Maansi Srivastava for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/04themorning-nl-rubio/dc-rubio-bjzg-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio",
+                "copyright": "Maansi Srivastava for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "Stephen Colbert Likens Trump’s Tariffs to an Economic Infection",
+        "abstract": "“Has anyone thought about injecting our money with bleach?” Colbert said after President Trump’s new tariffs tanked the stock market on Thursday.",
+        "url": "https://www.nytimes.com/2025/04/04/arts/television/stephen-colbert-trump-tariffs.html",
+        "uri": "nyt://article/82b6b360-8906-5e04-b3d5-e02e1e584493",
+        "byline": "By Trish Bendix",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T02:54:14-04:00",
+        "created_date": "2025-04-04T01:47:49-04:00",
+        "published_date": "2025-04-04T01:47:49-04:00",
+        "material_type_facet": "",
+        "kicker": "Best of Late Night",
+        "des_facet": [
+            "Television",
+            "The Daily Show with Trevor Noah (TV Program)",
+            "Late Show with Stephen Colbert (TV Program)",
+            "Late Night with Seth Meyers (TV Program)",
+            "The Tonight Show (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kosta, Michael (1979- )",
+            "Colbert, Stephen",
+            "Meyers, Seth",
+            "Fallon, Jimmy"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/arts/04latenight/04latenight-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1010,
+                "width": 1800,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Stephen Colbert remarked that Thursday was the “worst day for our economy since Covid,” adding, “Just a little reminder: This time, he’s the disease.”",
+                "copyright": "CBS"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/arts/04latenight/04latenight-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Stephen Colbert remarked that Thursday was the “worst day for our economy since Covid,” adding, “Just a little reminder: This time, he’s the disease.”",
+                "copyright": "CBS"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/arts/04latenight/04latenight-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Stephen Colbert remarked that Thursday was the “worst day for our economy since Covid,” adding, “Just a little reminder: This time, he’s the disease.”",
+                "copyright": "CBS"
+            }
+        ],
+        "short_url": ""
     }
 ]
