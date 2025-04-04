@@ -4481,5 +4481,312 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Head of National Security Agency and Cyber Command Is Ousted",
+        "abstract": "No reason was given for the removal of Gen. Timothy D. Haugh, but the far-right activist Laura Loomer had called for his ouster in a meeting with President Trump, an official said.",
+        "url": "https://www.nytimes.com/2025/04/03/us/politics/nsa-cyber-command-chief-fired.html",
+        "uri": "nyt://article/50b1033e-b8c1-59b0-91fe-fb8890bfc2e8",
+        "byline": "By Julian E. Barnes",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T23:54:38-04:00",
+        "created_date": "2025-04-03T23:54:38-04:00",
+        "published_date": "2025-04-03T23:54:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Cyberwarfare and Defense",
+            "United States Defense and Military Forces",
+            "Espionage and Intelligence Services",
+            "Appointments and Executive Changes"
+        ],
+        "org_facet": [
+            "United States Cyber Command",
+            "National Security Agency"
+        ],
+        "per_facet": [
+            "Haugh, Timothy D",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03dc-intel1-vptl/03dc-intel1-vptl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gen. Timothy D. Haugh was appointed to his posts by President Joseph R. Biden Jr., a fact that caused the Trump administration to view him skeptically, former officials said.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03dc-intel1-vptl/03dc-intel1-vptl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gen. Timothy D. Haugh was appointed to his posts by President Joseph R. Biden Jr., a fact that caused the Trump administration to view him skeptically, former officials said.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03dc-intel1-vptl/03dc-intel1-vptl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gen. Timothy D. Haugh was appointed to his posts by President Joseph R. Biden Jr., a fact that caused the Trump administration to view him skeptically, former officials said.",
+                "copyright": "Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "How South Korea’s President Was Ousted and What’s Next",
+        "abstract": "A detailed look at each stage of the impeachment process against President Yoon.",
+        "url": "https://www.nytimes.com/interactive/2024/12/04/world/asia/south-korea-impeachment-vote-president-yoon.html",
+        "uri": "nyt://interactive/232d6654-3bcf-5157-aa10-3dd73df860e1",
+        "byline": "By Pablo Robles",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-03T23:58:02-04:00",
+        "created_date": "2024-12-04T09:32:36-05:00",
+        "published_date": "2024-12-04T09:32:36-05:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Impeachment"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Yoon Suk-yeol"
+        ],
+        "geo_facet": [
+            "South Korea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2024/12/04/multimedia/2024-12-04-korea-impeachment-index/2024-12-04-korea-impeachment-index-superJumbo-v5.png",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/12/04/multimedia/2024-12-04-korea-impeachment-index/2024-12-04-korea-impeachment-index-threeByTwoSmallAt2X-v6.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/12/04/multimedia/2024-12-04-korea-impeachment-index/2024-12-04-korea-impeachment-index-thumbLarge-v5.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "U.S. Strikes in Yemen Burning Through Munitions With Limited Success",
+        "abstract": "In just three weeks, the Pentagon has used $200 million worth of munitions in Operation Rough Rider against the Houthi militia, officials said.",
+        "url": "https://www.nytimes.com/2025/04/04/us/politics/us-strikes-yemen-houthis.html",
+        "uri": "nyt://article/d02fde02-8537-599b-b79d-e8d623057d10",
+        "byline": "By Eric Schmitt, Edward Wong and John Ismay",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T00:01:19-04:00",
+        "created_date": "2025-04-04T00:01:19-04:00",
+        "published_date": "2025-04-04T00:01:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Defense and Military Forces",
+            "Terrorism",
+            "Civilian Casualties",
+            "Drones (Pilotless Planes)",
+            "Signal Chat Leak (Trump Administration)",
+            "Piracy at Sea"
+        ],
+        "org_facet": [
+            "Houthis",
+            "Defense Department"
+        ],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Hegseth, Pete",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Red Sea",
+            "Yemen"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03DC-MILITARY-HOUTHIS-qpjw/03DC-MILITARY-HOUTHIS-qpjw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Damage from overnight strikes in Yemen on Wednesday.",
+                "copyright": "Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03DC-MILITARY-HOUTHIS-qpjw/03DC-MILITARY-HOUTHIS-qpjw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Damage from overnight strikes in Yemen on Wednesday.",
+                "copyright": "Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03DC-MILITARY-HOUTHIS-qpjw/03DC-MILITARY-HOUTHIS-qpjw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Damage from overnight strikes in Yemen on Wednesday.",
+                "copyright": "Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "One Bird Nest, 30 Years of Human Trash",
+        "abstract": "A coot’s nest reveals that what humans throw away doesn’t really go away.",
+        "url": "https://www.nytimes.com/interactive/2025/04/03/science/bird-nest-litter.html",
+        "uri": "nyt://interactive/50d24826-452c-50a6-b096-83ffb4975c8b",
+        "byline": "",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-03T17:57:17-04:00",
+        "created_date": "2025-04-03T17:47:08-04:00",
+        "published_date": "2025-04-03T17:47:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "vis-design"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/science/bird-nest-litter-1743715033107/bird-nest-litter-1743715033107-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/science/bird-nest-litter-1743715033107/bird-nest-litter-1743715033107-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/science/bird-nest-litter-1743715033107/bird-nest-litter-1743715033107-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "They Fought to Save Lives in Myanmar. The Earthquake Claimed Theirs.",
+        "abstract": "Five friends defied the junta to care for people injured in the military coup. One returned from the battlefield to find his four friends among the dead in the March 28 earthquake.",
+        "url": "https://www.nytimes.com/2025/04/04/world/asia/myanmar-earthquake-doctors.html",
+        "uri": "nyt://article/50f4e401-62ef-5712-a405-fb94e47ed9f7",
+        "byline": "By Hannah Beech",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T00:01:13-04:00",
+        "created_date": "2025-04-04T00:01:13-04:00",
+        "published_date": "2025-04-04T00:01:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Myanmar Earthquake (March 28, 2025)",
+            "Health Care Workers",
+            "War and Armed Conflicts",
+            "Civilian Casualties",
+            "Demonstrations, Protests and Riots",
+            "Coups D'Etat and Attempted Coups D'Etat",
+            "Earthquakes",
+            "Humanitarian Aid"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Mandalay (Myanmar)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-myanmar-doctor-hcqw/04int-myanmar-doctor-hcqw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A patient at Mandalay General Hospital, three days after the deadly Myanmar earthquake.",
+                "copyright": "Sai Aung Main/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-myanmar-doctor-hcqw/04int-myanmar-doctor-hcqw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A patient at Mandalay General Hospital, three days after the deadly Myanmar earthquake.",
+                "copyright": "Sai Aung Main/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-myanmar-doctor-hcqw/04int-myanmar-doctor-hcqw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A patient at Mandalay General Hospital, three days after the deadly Myanmar earthquake.",
+                "copyright": "Sai Aung Main/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
