@@ -8717,5 +8717,200 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Investors Recoil From Trump’s Pledge to Remake the Global Economy",
+        "abstract": "Stocks hadn’t fallen this far this fast since the early days of the coronavirus pandemic. A 9.1 percent drop in the S&P 500 is the steepest weekly decline since March 2020.",
+        "url": "https://www.nytimes.com/2025/04/04/business/trump-stocks-tariffs-trade.html",
+        "uri": "nyt://article/8d31ae0e-eb14-51f7-b91d-b76671f61940",
+        "byline": "By Joe Rennison and Danielle Kaye",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T18:01:26-04:00",
+        "created_date": "2025-04-04T16:20:00-04:00",
+        "published_date": "2025-04-04T16:20:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "Standard & Poor's 500-Stock Index",
+            "United States Economy",
+            "Stocks and Bonds",
+            "Nasdaq Composite Index",
+            "Consumer Behavior"
+        ],
+        "org_facet": [
+            "Charles Schwab Corporation",
+            "Federal Reserve System",
+            "JPMorgan Chase & Company"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/biz-standalone-promos-2025-04-04-bad-week/biz-standalone-promos-2025-04-04-bad-week-superJumbo-v2.png",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/biz-standalone-promos-2025-04-04-bad-week/biz-standalone-promos-2025-04-04-bad-week-threeByTwoSmallAt2X-v3.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/biz-standalone-promos-2025-04-04-bad-week/biz-standalone-promos-2025-04-04-bad-week-thumbLarge-v2.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Supreme Court Lets Trump Suspend Grants to Teachers",
+        "abstract": "In boilerplate letters, the administration told recipients that the grants supported diversity efforts and were wasteful.",
+        "url": "https://www.nytimes.com/2025/04/04/us/supreme-court-trump-teacher-grants.html",
+        "uri": "nyt://article/5135660a-cb6c-57de-aa11-b25bfbe34149",
+        "byline": "By Adam Liptak and Abbie VanSickle",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T17:43:42-04:00",
+        "created_date": "2025-04-04T17:13:34-04:00",
+        "published_date": "2025-04-04T17:13:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Decisions and Verdicts",
+            "Teachers and School Employees",
+            "Education (K-12)",
+            "Presidential Power (US)",
+            "Suits and Litigation (Civil)"
+        ],
+        "org_facet": [
+            "Supreme Court (US)",
+            "Education Department (US)"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/31/multimedia/00dc-scotus-teachers-zfjt/00dc-scotus-teachers-zfjt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court’s 5-to-4 ruling, with Chief Justice John G. Roberts Jr. joining the liberal justices in dissent, amounted to an early victory for the Trump administration before the court.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/31/multimedia/00dc-scotus-teachers-zfjt/00dc-scotus-teachers-zfjt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court’s 5-to-4 ruling, with Chief Justice John G. Roberts Jr. joining the liberal justices in dissent, amounted to an early victory for the Trump administration before the court.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/31/multimedia/00dc-scotus-teachers-zfjt/00dc-scotus-teachers-zfjt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court’s 5-to-4 ruling, with Chief Justice John G. Roberts Jr. joining the liberal justices in dissent, amounted to an early victory for the Trump administration before the court.",
+                "copyright": "Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "More Than 500 Law Firms Back Perkins Coie in Fight With Trump",
+        "abstract": "The firms signed a legal brief supporting Perkins Coie, calling the president’s actions a threat “to the rule of law.” The largest firms declined to sign.",
+        "url": "https://www.nytimes.com/2025/04/04/business/law-firms-perkins-coie-trump.html",
+        "uri": "nyt://article/a1d0fca9-3920-52c8-ad8b-70cda0daa3a6",
+        "byline": "By Ben Protess",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T17:25:07-04:00",
+        "created_date": "2025-04-04T17:22:48-04:00",
+        "published_date": "2025-04-04T17:22:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Legal Profession",
+            "Presidential Power (US)",
+            "Executive Orders and Memorandums",
+            "Suits and Litigation (Civil)",
+            "Russian Interference in 2016 US Elections and Ties to Trump Associates"
+        ],
+        "org_facet": [
+            "Skadden, Arps, Slate, Meagher & Flom LLP",
+            "Paul Weiss Rifkind Wharton & Garrison",
+            "Perkins Coie LLP"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Verrilli, Donald B Jr"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04biz-lawfirm-amicus-btvf/04biz-lawfirm-amicus-btvf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The brief was drafted by Donald B. Verrilli Jr., a solicitor general during President Barack Obama’s administration.",
+                "copyright": "Drew Angerer/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04biz-lawfirm-amicus-btvf/04biz-lawfirm-amicus-btvf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The brief was drafted by Donald B. Verrilli Jr., a solicitor general during President Barack Obama’s administration.",
+                "copyright": "Drew Angerer/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04biz-lawfirm-amicus-btvf/04biz-lawfirm-amicus-btvf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The brief was drafted by Donald B. Verrilli Jr., a solicitor general during President Barack Obama’s administration.",
+                "copyright": "Drew Angerer/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
