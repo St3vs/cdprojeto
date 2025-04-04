@@ -4922,5 +4922,130 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Stocks Fall Further as Concern About Tariffs Deepens",
+        "abstract": "Markets in Asia reflected investors’ continued worries about the economic disruption of President Trump’s trade policies.",
+        "url": "https://www.nytimes.com/2025/04/04/business/stocks-trump-tariffs.html",
+        "uri": "nyt://article/5e83dc83-4a3e-5e40-997d-8f6db02c8d7c",
+        "byline": "By Keith Bradsher",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T01:15:30-04:00",
+        "created_date": "2025-04-04T01:15:30-04:00",
+        "published_date": "2025-04-04T01:15:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Stocks and Bonds",
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Standard & Poor's Corp"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04biz-stocks4-lcgq/04biz-stocks4-lcgq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Nikkei 225 stock index in Tokyo fell again on Friday after a 2.8 percent drop the day before.",
+                "copyright": "Shuji Kajiyama/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04biz-stocks4-lcgq/04biz-stocks4-lcgq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Nikkei 225 stock index in Tokyo fell again on Friday after a 2.8 percent drop the day before.",
+                "copyright": "Shuji Kajiyama/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04biz-stocks4-lcgq/04biz-stocks4-lcgq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Nikkei 225 stock index in Tokyo fell again on Friday after a 2.8 percent drop the day before.",
+                "copyright": "Shuji Kajiyama/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Supports Proxy Voting for New Parents in Congress, a Blow to Johnson",
+        "abstract": "The president’s comment was a rare instance in which he and House Speaker Mike Johnson were not on the same side of an issue.",
+        "url": "https://www.nytimes.com/2025/04/03/us/politics/proxy-voting-trump-congress-luna.html",
+        "uri": "nyt://article/4fa43e7e-59b4-5a87-9c7c-1a266fb29ffa",
+        "byline": "By Annie Karni",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T21:32:24-04:00",
+        "created_date": "2025-04-03T18:42:07-04:00",
+        "published_date": "2025-04-03T18:42:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Politics and Government",
+            "Parenting"
+        ],
+        "org_facet": [
+            "House of Representatives",
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Johnson, Mike (1972- )",
+            "Luna, Anna Paulina",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03trump-news-proxy-voting-zwvh/03trump-news-proxy-voting-zwvh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with the press pool aboard Air Force One on Thursday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03trump-news-proxy-voting-zwvh/03trump-news-proxy-voting-zwvh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with the press pool aboard Air Force One on Thursday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03trump-news-proxy-voting-zwvh/03trump-news-proxy-voting-zwvh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with the press pool aboard Air Force One on Thursday.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
