@@ -5112,5 +5112,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Is Claudia Sheinbaum the Anti-Trump?",
+        "abstract": "In a world lurching rightward, Mexico’s president offers progressives hope.",
+        "url": "https://www.nytimes.com/2025/04/04/opinion/claudia-sheinbaum-mexico-trump-tariffs.html",
+        "uri": "nyt://article/aedb1140-5fca-5021-8020-a49556478cde",
+        "byline": "By Michelle Goldberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T05:01:44-04:00",
+        "created_date": "2025-04-04T05:01:44-04:00",
+        "published_date": "2025-04-04T05:01:44-04:00",
+        "material_type_facet": "",
+        "kicker": "Michelle Goldberg",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "Politics and Government",
+            "Customs (Tariff)",
+            "Progressivism (Theory and Philosophy)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Sheinbaum, Claudia",
+            "Trump, Donald J",
+            "Lopez Obrador, Andres Manuel"
+        ],
+        "geo_facet": [
+            "Mexico"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04goldberg-gpch/04goldberg-gpch-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1536,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Luis Antonio Rojas for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04goldberg-gpch/04goldberg-gpch-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Luis Antonio Rojas for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04goldberg-gpch/04goldberg-gpch-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Luis Antonio Rojas for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
