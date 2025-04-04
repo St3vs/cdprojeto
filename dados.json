@@ -4788,5 +4788,139 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "What to Know About the Ruling on South Korea’s President",
+        "abstract": "The country’s Constitutional Court on Friday upheld the impeachment of Yoon Suk Yeol, removing him from office four months after his short-lived imposition of martial law.",
+        "url": "https://www.nytimes.com/2025/04/04/world/asia/yoon-south-korea-impeachment-ruling.html",
+        "uri": "nyt://article/297d303e-0f88-57f5-b18e-b1361fdac6c1",
+        "byline": "By Jin Yu Young",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T00:31:07-04:00",
+        "created_date": "2025-04-04T00:16:11-04:00",
+        "published_date": "2025-04-04T00:16:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Decisions and Verdicts",
+            "Martial Law",
+            "Politics and Government",
+            "Impeachment",
+            "Demonstrations, Protests and Riots"
+        ],
+        "org_facet": [
+            "People Power Party"
+        ],
+        "per_facet": [
+            "Yoon Suk-yeol",
+            "Han Duck-soo",
+            "Lee Jae-myung"
+        ],
+        "geo_facet": [
+            "South Korea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04skorea-yoon-WWK-tpcw/04skorea-yoon-WWK-tpcw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters opposed to Yoon Suk Yeol cheered the Constitutional Court’s decision on Friday to remove him as president.",
+                "copyright": "Jun Michael Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04skorea-yoon-WWK-tpcw/04skorea-yoon-WWK-tpcw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters opposed to Yoon Suk Yeol cheered the Constitutional Court’s decision on Friday to remove him as president.",
+                "copyright": "Jun Michael Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04skorea-yoon-WWK-tpcw/04skorea-yoon-WWK-tpcw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters opposed to Yoon Suk Yeol cheered the Constitutional Court’s decision on Friday to remove him as president.",
+                "copyright": "Jun Michael Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "This Is Not the Right Way to Curb Migration",
+        "abstract": "The exaggerated government claims and ensuing public concern about Tren de Aragua’s activities in the United States amount to a classic moral panic.",
+        "url": "https://www.nytimes.com/2025/04/04/opinion/tren-de-aragua-venezuela-maduro.html",
+        "uri": "nyt://article/3d6edbc8-2581-5e05-85cf-c1693f8b0e56",
+        "byline": "By Rebecca Hanson, David Smilde and Verónica Zubillaga",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T01:08:28-04:00",
+        "created_date": "2025-04-04T01:00:07-04:00",
+        "published_date": "2025-04-04T01:00:07-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "Illegal Immigration",
+            "Deportation",
+            "Gangs",
+            "United States Politics and Government",
+            "Organized Crime"
+        ],
+        "org_facet": [
+            "Tren de Aragua (Gang)",
+            "Immigration and Customs Enforcement (US)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Maduro, Nicolas"
+        ],
+        "geo_facet": [
+            "Venezuela",
+            "El Salvador",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02hanson-smilde-zubillaga-hzkj/02hanson-smilde-zubillaga-hzkj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Some of the Venezuelans deported from the United States to a maximum-security prison in El Salvador.",
+                "copyright": "Agence France-Presse, via El Salvador's Presidency Press Office"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02hanson-smilde-zubillaga-hzkj/02hanson-smilde-zubillaga-hzkj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Some of the Venezuelans deported from the United States to a maximum-security prison in El Salvador.",
+                "copyright": "Agence France-Presse, via El Salvador's Presidency Press Office"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02hanson-smilde-zubillaga-hzkj/02hanson-smilde-zubillaga-hzkj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Some of the Venezuelans deported from the United States to a maximum-security prison in El Salvador.",
+                "copyright": "Agence France-Presse, via El Salvador's Presidency Press Office"
+            }
+        ],
+        "short_url": ""
     }
 ]
