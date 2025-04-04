@@ -8102,5 +8102,187 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Felon Freed by Trump Is Sent Back to Prison After Child Assault Charge",
+        "abstract": "Jonathan Braun, a drug smuggler, on Friday made an obscene gesture toward people in the courtroom and complained about his legal representation.",
+        "url": "https://www.nytimes.com/2025/04/04/nyregion/jonathan-braun-trump.html",
+        "uri": "nyt://article/ce4f7025-1144-5050-ae9b-3e150ca5a04f",
+        "byline": "By Santul Nerkar and Michael S. Schmidt",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T14:54:25-04:00",
+        "created_date": "2025-04-04T13:11:05-04:00",
+        "published_date": "2025-04-04T13:11:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Assaults",
+            "Child Abuse and Neglect",
+            "Amnesties, Commutations and Pardons",
+            "Crime and Criminals"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Matsumoto, Kiyo A",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04met-edny-braun-01-lhjq/04met-edny-braun-01-lhjq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jonathan Braun has been arrested five times since the president freed him at the end of his last term.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04met-edny-braun-01-lhjq/04met-edny-braun-01-lhjq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jonathan Braun has been arrested five times since the president freed him at the end of his last term.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04met-edny-braun-01-lhjq/04met-edny-braun-01-lhjq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jonathan Braun has been arrested five times since the president freed him at the end of his last term.",
+                "copyright": "Dave Sanders for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Appeals Court Orders Thousands of Voters to Verify Information in Contested N.C. Election",
+        "abstract": "The ruling was a win for the Republican who narrowly lost a State Supreme Court race in November. The case has tested the boundaries of post-election litigation.",
+        "url": "https://www.nytimes.com/2025/04/04/us/north-carolina-supreme-court-race-ruling.html",
+        "uri": "nyt://article/16b2cab7-8af2-568d-a7e7-d5c3a458efc4",
+        "byline": "By Eduardo Medina and Nick Corasaniti",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T14:53:23-04:00",
+        "created_date": "2025-04-04T14:31:26-04:00",
+        "published_date": "2025-04-04T14:31:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Supreme Courts (State)",
+            "Voting Rights, Registration and Requirements"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Griffin, Jefferson (1980- )",
+            "Riggs, Allison J"
+        ],
+        "geo_facet": [
+            "North Carolina"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00nat-nc-supreme-court-pjfg/00nat-nc-supreme-court-pjfg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Judge Jefferson Griffin’s legal argument centers on a claim that some 65,000 people who voted early or by mail in the State Supreme Court race did not provide required proof of identity.",
+                "copyright": "Robert Willett/The News & Observer, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00nat-nc-supreme-court-pjfg/00nat-nc-supreme-court-pjfg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Judge Jefferson Griffin’s legal argument centers on a claim that some 65,000 people who voted early or by mail in the State Supreme Court race did not provide required proof of identity.",
+                "copyright": "Robert Willett/The News & Observer, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00nat-nc-supreme-court-pjfg/00nat-nc-supreme-court-pjfg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Judge Jefferson Griffin’s legal argument centers on a claim that some 65,000 people who voted early or by mail in the State Supreme Court race did not provide required proof of identity.",
+                "copyright": "Robert Willett/The News & Observer, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "At Least 14 Dead in Russian Strike on Zelensky’s Hometown, Ukraine Says",
+        "abstract": "The missile strike was the latest in a series of Russian attacks on urban centers that have caused significant civilian casualties despite ongoing cease-fire talks.",
+        "url": "https://www.nytimes.com/2025/04/04/world/europe/ukraine-russia-strike-zelensky-hometown.html",
+        "uri": "nyt://article/bcfa52ae-3c10-52d4-83bb-c07013e9daa3",
+        "byline": "By Constant Méheut",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T14:23:38-04:00",
+        "created_date": "2025-04-04T14:23:38-04:00",
+        "published_date": "2025-04-04T14:23:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Civilian Casualties",
+            "Russian Invasion of Ukraine (2022)",
+            "Missiles and Missile Defense Systems",
+            "Deaths (Fatalities)",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Kryvyi Rih (Ukraine)",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/world/04int-ukraine-attack/04int-ukraine-attack-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 900,
+                "width": 1350,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Russian missile attack on the central Ukrainian city of Kryvyi Rih on Friday killed at least 14 people and left dozens of others wounded, officials said.",
+                "copyright": "EyePress News, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/world/04int-ukraine-attack/04int-ukraine-attack-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Russian missile attack on the central Ukrainian city of Kryvyi Rih on Friday killed at least 14 people and left dozens of others wounded, officials said.",
+                "copyright": "EyePress News, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/world/04int-ukraine-attack/04int-ukraine-attack-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Russian missile attack on the central Ukrainian city of Kryvyi Rih on Friday killed at least 14 people and left dozens of others wounded, officials said.",
+                "copyright": "EyePress News, via Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
