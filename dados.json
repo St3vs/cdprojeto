@@ -5176,5 +5176,885 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "To Trump, U.S. Economy Is a ‘Sick Patient’ and Tariffs Are the Cure",
+        "abstract": "The president’s aides insist the fallout will be short and ultimately result in a better economy, as economists warn of higher inflation and slower growth.",
+        "url": "https://www.nytimes.com/2025/04/04/us/politics/trump-tariffs-us-economy-prices.html",
+        "uri": "nyt://article/decf7cee-c646-56b8-81fb-82357c05b8e4",
+        "byline": "By Tony Romm and Colby Smith",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T05:43:13-04:00",
+        "created_date": "2025-04-04T05:03:12-04:00",
+        "published_date": "2025-04-04T05:03:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Prices (Fares, Fees and Rates)",
+            "United States Economy",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04dc-trump-econ-cmjk/04dc-trump-econ-cmjk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Clothing and apparel makers have expressed alarm that “obviously the prices are going to go up,” since apparel sold in America is manufactured in countries facing high tariffs, like China.",
+                "copyright": "Gilles Sabrie for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04dc-trump-econ-cmjk/04dc-trump-econ-cmjk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Clothing and apparel makers have expressed alarm that “obviously the prices are going to go up,” since apparel sold in America is manufactured in countries facing high tariffs, like China.",
+                "copyright": "Gilles Sabrie for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04dc-trump-econ-cmjk/04dc-trump-econ-cmjk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Clothing and apparel makers have expressed alarm that “obviously the prices are going to go up,” since apparel sold in America is manufactured in countries facing high tariffs, like China.",
+                "copyright": "Gilles Sabrie for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "dining",
+        "subsection": "",
+        "title": "Grocery Shoppers Will Feel the Tariffs First in the Produce Aisle",
+        "abstract": "Higher prices could also be coming soon for seafood, sugar and coffee. But it may be a while before importers and retailers can gauge the effects of the new fees.",
+        "url": "https://www.nytimes.com/2025/04/03/dining/grocery-shoppers-will-feel-the-tariffs-first-in-the-produce-aisle.html",
+        "uri": "nyt://article/547d4673-e9f9-5841-9e4c-1cfcd60a9d78",
+        "byline": "By Kim Severson",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T21:59:34-04:00",
+        "created_date": "2025-04-03T20:00:52-04:00",
+        "published_date": "2025-04-03T20:00:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "Supermarkets and Grocery Stores",
+            "Prices (Fares, Fees and Rates)",
+            "Food",
+            "Seafood",
+            "Price Gouging",
+            "Coffee"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03FD-tariffs-grocery3-zcfg/03FD-tariffs-grocery3-zcfg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Shoppers are likely to feel the impact of tariffs in the produce aisles first. ",
+                "copyright": "John G Mabanglo/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03FD-tariffs-grocery3-zcfg/03FD-tariffs-grocery3-zcfg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Shoppers are likely to feel the impact of tariffs in the produce aisles first. ",
+                "copyright": "John G Mabanglo/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03FD-tariffs-grocery3-zcfg/03FD-tariffs-grocery3-zcfg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Shoppers are likely to feel the impact of tariffs in the produce aisles first. ",
+                "copyright": "John G Mabanglo/EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "How to Protect Your Retirement Savings Now as Markets Plunge",
+        "abstract": "If you’re within five years of retiring, either before or after, you’re at your most vulnerable financially. Here are steps to weather the volatility.",
+        "url": "https://www.nytimes.com/2025/04/04/business/stocks-retirement-investing.html",
+        "uri": "nyt://article/793e7097-4f59-560e-b2a8-100443167bac",
+        "byline": "By Diane Harris",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T05:38:53-04:00",
+        "created_date": "2025-04-04T05:01:29-04:00",
+        "published_date": "2025-04-04T05:01:29-04:00",
+        "material_type_facet": "",
+        "kicker": "retiring",
+        "des_facet": [
+            "Content Type: Service",
+            "Stocks and Bonds",
+            "Pensions and Retirement Plans",
+            "Personal Finances",
+            "Retirement",
+            "United States Economy"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04biz-retiring-volatility-cgfw/04biz-retiring-volatility-cgfw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Market gains historically have come in unpredictable spurts, so don’t think you can bail out of stocks now and then jump back in when the market stabilizes.",
+                "copyright": "Brendan McDermid/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04biz-retiring-volatility-cgfw/04biz-retiring-volatility-cgfw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Market gains historically have come in unpredictable spurts, so don’t think you can bail out of stocks now and then jump back in when the market stabilizes.",
+                "copyright": "Brendan McDermid/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04biz-retiring-volatility-cgfw/04biz-retiring-volatility-cgfw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Market gains historically have come in unpredictable spurts, so don’t think you can bail out of stocks now and then jump back in when the market stabilizes.",
+                "copyright": "Brendan McDermid/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "podcasts",
+        "subsection": "",
+        "title": "The Worst Stock Market Drop in Years, and Dr. Oz’s New Government Job",
+        "abstract": "Plus, what’s so hard about building trains?",
+        "url": "https://www.nytimes.com/2025/04/04/podcasts/stock-market-tariffs-dr-oz.html",
+        "uri": "nyt://article/dbb59bfe-134a-58f0-96a8-dd0cf401848c",
+        "byline": "By Tracy Mumford, Will Jarvis, Ian Stewart, Jessica Metzger, David Enrich and Michael Kimmelman",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T06:00:10-04:00",
+        "created_date": "2025-04-04T06:00:10-04:00",
+        "published_date": "2025-04-04T06:00:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Stocks and Bonds",
+            "International Trade and World Market",
+            "Birds"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04headlines-audio-promo-fcvw/04headlines-audio-promo-fcvw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump’s escalation of a global trade war on Thursday fueled the worst stock market sell-off since the coronavirus pandemic.",
+                "copyright": "Michael M. Santiago/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04headlines-audio-promo-fcvw/04headlines-audio-promo-fcvw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump’s escalation of a global trade war on Thursday fueled the worst stock market sell-off since the coronavirus pandemic.",
+                "copyright": "Michael M. Santiago/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04headlines-audio-promo-fcvw/04headlines-audio-promo-fcvw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump’s escalation of a global trade war on Thursday fueled the worst stock market sell-off since the coronavirus pandemic.",
+                "copyright": "Michael M. Santiago/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Risking Reprisals, Protesters in Gaza Call on Hamas to Step Aside",
+        "abstract": "Demanding an end to the war, hundreds pressed the militants to relinquish control of the enclave, a rare demonstration against a group that has suppressed dissent with violence.",
+        "url": "https://www.nytimes.com/2025/04/04/world/middleeast/gaza-protests-hamas.html",
+        "uri": "nyt://article/61a7cbbc-36f3-5be6-a051-077a7b881fa3",
+        "byline": "By Vivian Yee, Bilal Shbair and Adam Rasgon",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T05:32:59-04:00",
+        "created_date": "2025-04-04T05:26:14-04:00",
+        "published_date": "2025-04-04T05:26:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Demonstrations, Protests and Riots",
+            "Israel-Gaza War (2023- )",
+            "Palestinians"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-hamas-protests-khzv/04int-hamas-protests-khzv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An antiwar rally in Beit Lahia, in the northern Gaza Strip, on March 26.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-hamas-protests-khzv/04int-hamas-protests-khzv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An antiwar rally in Beit Lahia, in the northern Gaza Strip, on March 26.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-hamas-protests-khzv/04int-hamas-protests-khzv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An antiwar rally in Beit Lahia, in the northern Gaza Strip, on March 26.",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "F.B.I. Leaders Push to Restore Trust in the Agency They Once Undermined",
+        "abstract": "In recent days, Kash Patel, the F.B.I. director, and Dan Bongino, his deputy, have promised to bring change to what they have called a broken institution.",
+        "url": "https://www.nytimes.com/2025/04/04/us/politics/kash-patel-fbi-trust.html",
+        "uri": "nyt://article/49eefc1f-e582-5e68-80d6-b75c9d8d6c15",
+        "byline": "By Adam Goldman and Alan Feuer",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T05:03:06-04:00",
+        "created_date": "2025-04-04T05:03:06-04:00",
+        "published_date": "2025-04-04T05:03:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Democratic Party",
+            "Federal Bureau of Investigation",
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Bongino, Daniel",
+            "Patel, Kashyap",
+            "Trump, Donald J",
+            "Wray, Christopher A"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00DC-FBI-topart-gbhf/00DC-FBI-topart-gbhf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kash Patel, the F.B.I. director, during a hearing at the Capitol last month. Before ascending to his post, Mr. Patel repeatedly distorted the facts about the bureau’s investigation of Russian meddling into President Trump’s 2016 campaign.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00DC-FBI-topart-gbhf/00DC-FBI-topart-gbhf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kash Patel, the F.B.I. director, during a hearing at the Capitol last month. Before ascending to his post, Mr. Patel repeatedly distorted the facts about the bureau’s investigation of Russian meddling into President Trump’s 2016 campaign.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00DC-FBI-topart-gbhf/00DC-FBI-topart-gbhf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kash Patel, the F.B.I. director, during a hearing at the Capitol last month. Before ascending to his post, Mr. Patel repeatedly distorted the facts about the bureau’s investigation of Russian meddling into President Trump’s 2016 campaign.",
+                "copyright": "Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "Invasion of the Home Humanoid Robots",
+        "abstract": "Dozens of companies are building robots that look like humans. One of them is training a machine to be a butler and will soon test them in homes.",
+        "url": "https://www.nytimes.com/2025/04/04/technology/humanoid-robots-1x.html",
+        "uri": "nyt://article/28516b3a-f98c-5645-b2c2-2ff3b8ef7709",
+        "byline": "By Cade Metz, David B. Torch and Loren Elliott",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T05:36:48-04:00",
+        "created_date": "2025-04-04T05:01:05-04:00",
+        "published_date": "2025-04-04T05:01:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Robots and Robotics",
+            "vis-photo",
+            "vis-video",
+            "vis-multimedia",
+            "Artificial Intelligence",
+            "Start-ups",
+            "Privacy",
+            "Innovation",
+            "Labor and Jobs"
+        ],
+        "org_facet": [
+            "1X",
+            "OpenAI Labs"
+        ],
+        "per_facet": [
+            "Bornich, Bernt"
+        ],
+        "geo_facet": [
+            "Norway",
+            "California"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04HUMANOID-SOCIALPROMO-1-wgfc/04HUMANOID-SOCIALPROMO-1-wgfc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Loren Elliott for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04HUMANOID-SOCIALPROMO-1-wgfc/04HUMANOID-SOCIALPROMO-1-wgfc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Loren Elliott for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04HUMANOID-SOCIALPROMO-1-wgfc/04HUMANOID-SOCIALPROMO-1-wgfc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Loren Elliott for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Inside One Migrant’s Accidental Journey to a Salvadoran Prison",
+        "abstract": "Immigration officers asked Kilmar Armando Abrego Garcia if he was a gang member, and refused to believe him when he denied it, according to court papers.",
+        "url": "https://www.nytimes.com/2025/04/04/us/politics/el-salvador-deportation-migrant-trump.html",
+        "uri": "nyt://article/caca4a5f-15ee-59c3-8523-18421ac4057f",
+        "byline": "By Alan Feuer",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T05:03:12-04:00",
+        "created_date": "2025-04-04T05:03:12-04:00",
+        "published_date": "2025-04-04T05:03:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Illegal Immigration",
+            "Deportation",
+            "Prisons and Prisoners",
+            "Immigration Detention"
+        ],
+        "org_facet": [
+            "Barrio 18",
+            "Chicago Bulls",
+            "Immigration and Customs Enforcement (US)",
+            "Mara Salvatrucha (MS-13)",
+            "Tren de Aragua (Gang)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Abrego Garcia, Kilmar Armando"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00dc-deport-fkcq/00dc-deport-fkcq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1347,
+                "width": 898,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kilmar Armando Abrego Garcia has denied he was a member of a gang, and told an immigration judge about his family’s struggles with gangs in El Salvador.",
+                "copyright": "CASA, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00dc-deport-fkcq/00dc-deport-fkcq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kilmar Armando Abrego Garcia has denied he was a member of a gang, and told an immigration judge about his family’s struggles with gangs in El Salvador.",
+                "copyright": "CASA, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00dc-deport-fkcq/00dc-deport-fkcq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kilmar Armando Abrego Garcia has denied he was a member of a gang, and told an immigration judge about his family’s struggles with gangs in El Salvador.",
+                "copyright": "CASA, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russia Executes P.O.W.s Without Caring Who Watches, Ukraine Says",
+        "abstract": "Live drone footage allows Ukraine to observe what it views as war crimes unfold in real time, soldiers say.",
+        "url": "https://www.nytimes.com/2025/04/04/world/europe/russia-ukraine-pow-executions.html",
+        "uri": "nyt://article/51eaddea-acb5-509d-9b4d-c208103bab05",
+        "byline": "By Kim Barker, Sanjana Varghese and Yurii Shyvala",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T05:16:52-04:00",
+        "created_date": "2025-04-04T05:00:22-04:00",
+        "published_date": "2025-04-04T05:00:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Drones (Pilotless Planes)",
+            "Defense and Military Forces",
+            "Video Recordings, Downloads and Streaming",
+            "War Crimes, Genocide and Crimes Against Humanity",
+            "Prisoners of War",
+            "Human Rights and Human Rights Violations",
+            "United States International Relations",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Kursk (Russia)",
+            "Russia",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-ukraine-POWshootings-vglm/04int-ukraine-POWshootings-vglm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1145,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Screengrab from drone footage showing Russian soldiers executing Ukrainian prisoners of war near the village of Novoivanovka in the Kursk region of Russia.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-ukraine-POWshootings-vglm/04int-ukraine-POWshootings-vglm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 399,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Screengrab from drone footage showing Russian soldiers executing Ukrainian prisoners of war near the village of Novoivanovka in the Kursk region of Russia.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-ukraine-POWshootings-vglm/04int-ukraine-POWshootings-vglm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Screengrab from drone footage showing Russian soldiers executing Ukrainian prisoners of war near the village of Novoivanovka in the Kursk region of Russia.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "When Kenyan Maids Sought Help Overseas, Diplomats Demanded Sex",
+        "abstract": "Women say that embassy officials added a new level of indignity to the abuse they suffered while working abroad.",
+        "url": "https://www.nytimes.com/2025/04/04/world/africa/when-kenyan-maids-sought-help-overseas-diplomats-demanded-sex.html",
+        "uri": "nyt://article/9c416e61-8f98-53e8-94a0-7d0bdfb19cf8",
+        "byline": "By Justin Scheck and Abdi Latif Dahir",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T05:35:11-04:00",
+        "created_date": "2025-04-04T05:00:08-04:00",
+        "published_date": "2025-04-04T05:00:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Foreign Workers",
+            "Labor and Jobs"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Ruto, William"
+        ],
+        "geo_facet": [
+            "Saudi Arabia",
+            "Kenya",
+            "Nairobi (Kenya)",
+            "Africa",
+            "Riyadh (Saudi Arabia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/31/multimedia/00gulf-domestics-4-gpkj/00gulf-domestics-4-gpkj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Faith Gathuo.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/31/multimedia/00gulf-domestics-4-gpkj/00gulf-domestics-4-gpkj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Faith Gathuo.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/31/multimedia/00gulf-domestics-4-gpkj/00gulf-domestics-4-gpkj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Faith Gathuo.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Welcome to Birmingham, England — Mind the Rats",
+        "abstract": "A standoff between garbage collectors and municipal officials in Britain’s second largest city has left an estimated 17,000 tons of trash on the streets.",
+        "url": "https://www.nytimes.com/2025/04/04/world/europe/garbage-strike-birmingham-uk.html",
+        "uri": "nyt://article/abf8e25a-37f9-5a79-8342-5e634096cb99",
+        "byline": "By Stephen Castle",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T05:40:23-04:00",
+        "created_date": "2025-04-04T05:14:12-04:00",
+        "published_date": "2025-04-04T05:14:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Waste Materials and Disposal",
+            "Strikes",
+            "Rats",
+            "Urban Areas",
+            "Layoffs and Job Reductions",
+            "Organized Labor",
+            "Local Government",
+            "City Councils"
+        ],
+        "org_facet": [
+            "Labour Party (Great Britain)",
+            "Unite"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Birmingham (England)",
+            "Great Britain",
+            "England"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-uk-garbage-01-jfpq/04int-uk-garbage-01-jfpq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1361,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A large pile of trash on the pavement of a street in Birmingham, United Kingdom on March 24.",
+                "copyright": "Phil Noble/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-uk-garbage-01-jfpq/04int-uk-garbage-01-jfpq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A large pile of trash on the pavement of a street in Birmingham, United Kingdom on March 24.",
+                "copyright": "Phil Noble/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-uk-garbage-01-jfpq/04int-uk-garbage-01-jfpq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A large pile of trash on the pavement of a street in Birmingham, United Kingdom on March 24.",
+                "copyright": "Phil Noble/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "music",
+        "title": "A 270-Year-Old Scottish Folk Fiddle Makes Its Carnegie Hall Debut",
+        "abstract": "The ornately decorated fiddle belonged to the dance master who taught Robert Burns. At Carnegie, it will cap “Scotland’s Hoolie in New York.”",
+        "url": "https://www.nytimes.com/2025/04/04/arts/music/scottish-fiddle-robert-burns-carnegie-hall.html",
+        "uri": "nyt://article/cb3d80da-7015-5ecb-9c6f-3813ecfd89e3",
+        "byline": "By Corinna da Fonseca-Wollheim",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T05:02:12-04:00",
+        "created_date": "2025-04-04T05:02:12-04:00",
+        "published_date": "2025-04-04T05:02:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Music"
+        ],
+        "org_facet": [
+            "Carnegie Hall"
+        ],
+        "per_facet": [
+            "Burns, Robert (1759-96)"
+        ],
+        "geo_facet": [
+            "Scotland"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04FIDDLE-01-bfcg/04FIDDLE-01-bfcg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Kieran Dodds for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04FIDDLE-01-bfcg/04FIDDLE-01-bfcg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Kieran Dodds for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04FIDDLE-01-bfcg/04FIDDLE-01-bfcg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Kieran Dodds for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Key Evidence Thrown Out in Jolt to ‘Orgasmic Meditation’ Conspiracy Case",
+        "abstract": "Defense lawyers had argued that diaries by a former adherent of the OneTaste group were tainted by the way they were prepared and edited for a Netflix documentary.",
+        "url": "https://www.nytimes.com/2025/04/04/nyregion/one-taste-orgasmic-meditation-evidence.html",
+        "uri": "nyt://article/a231026a-b303-5f2a-8cb3-dd40986f9ffa",
+        "byline": "By Devlin Barrett",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T03:00:05-04:00",
+        "created_date": "2025-04-04T03:00:05-04:00",
+        "published_date": "2025-04-04T03:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Documentary Films and Programs",
+            "Decisions and Verdicts",
+            "Sex",
+            "Witnesses",
+            "Diaries"
+        ],
+        "org_facet": [
+            "OneTaste",
+            "Netflix Inc",
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Cherwitz, Rachel",
+            "Daedone, Nicole",
+            "Ayries Blanck"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/01/nyregion/00met-onetaste/00met-onetaste-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1300,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rachel Cherwitz and Nicole Daedone face charges of mistreating employees of their company, which pitched wellness through sexuality.",
+                "copyright": "Ian West/Press Association, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/01/nyregion/00met-onetaste/00met-onetaste-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rachel Cherwitz and Nicole Daedone face charges of mistreating employees of their company, which pitched wellness through sexuality.",
+                "copyright": "Ian West/Press Association, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/01/nyregion/00met-onetaste/00met-onetaste-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rachel Cherwitz and Nicole Daedone face charges of mistreating employees of their company, which pitched wellness through sexuality.",
+                "copyright": "Ian West/Press Association, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "As Unexplained Quakes Ease, Santorini Insists It’s Open for Business",
+        "abstract": "The Greek island was shaken by thousands of mostly smaller-scale temblors. Now, residents have returned, and they hope visitors will, too.",
+        "url": "https://www.nytimes.com/2025/04/04/world/europe/greece-santorini-earthquakes-tourism.html",
+        "uri": "nyt://article/fac73625-42fb-53ac-84f2-e5eda80b74a2",
+        "byline": "By Niki Kitsantonis",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T06:08:20-04:00",
+        "created_date": "2025-04-04T00:01:06-04:00",
+        "published_date": "2025-04-04T00:01:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Volcanoes",
+            "Earthquakes",
+            "Travel and Vacations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Santorini (Greece)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00int-greece-quakes-01-jhvq/00int-greece-quakes-01-jhvq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A cruise ship arriving at Santorini, Greece, last month.",
+                "copyright": "Stelios Misinas/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00int-greece-quakes-01-jhvq/00int-greece-quakes-01-jhvq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A cruise ship arriving at Santorini, Greece, last month.",
+                "copyright": "Stelios Misinas/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00int-greece-quakes-01-jhvq/00int-greece-quakes-01-jhvq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A cruise ship arriving at Santorini, Greece, last month.",
+                "copyright": "Stelios Misinas/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
