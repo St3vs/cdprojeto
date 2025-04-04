@@ -6553,5 +6553,72 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "E.U. Prepares Major Penalties Against Elon Musk’s X",
+        "abstract": "European regulators are considering fining X more than $1 billion, after weighing the risks of further antagonizing Mr. Musk and President Trump.",
+        "url": "https://www.nytimes.com/2025/04/03/technology/eu-penalties-x-elon-musk.html",
+        "uri": "nyt://article/d899df19-6909-5be7-a588-7d596759128a",
+        "byline": "By Adam Satariano",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T08:50:47-04:00",
+        "created_date": "2025-04-03T16:38:40-04:00",
+        "published_date": "2025-04-03T16:38:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Freedom of Speech and Expression",
+            "United States Politics and Government",
+            "Social Media",
+            "Regulation and Deregulation of Industry",
+            "Computers and the Internet",
+            "United States International Relations",
+            "Rumors and Misinformation",
+            "International Relations"
+        ],
+        "org_facet": [
+            "X (Formerly Twitter)",
+            "European Union"
+        ],
+        "per_facet": [
+            "Musk, Elon",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00biz-eu-musk-jklz/00biz-eu-musk-jklz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "European authorities have been weighing how big a fine to issue X as they consider the risks of further antagonizing President Trump amid wider trans-Atlantic disputes over trade, tariffs and the war in Ukraine.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00biz-eu-musk-jklz/00biz-eu-musk-jklz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "European authorities have been weighing how big a fine to issue X as they consider the risks of further antagonizing President Trump amid wider trans-Atlantic disputes over trade, tariffs and the war in Ukraine.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00biz-eu-musk-jklz/00biz-eu-musk-jklz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "European authorities have been weighing how big a fine to issue X as they consider the risks of further antagonizing President Trump amid wider trans-Atlantic disputes over trade, tariffs and the war in Ukraine.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
