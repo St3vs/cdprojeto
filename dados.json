@@ -3981,5 +3981,319 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "dining",
+        "subsection": "drinks",
+        "title": "For Wine, Tariffs Mean Fear, Uncertainty and Higher Prices",
+        "abstract": "American consumers are likely to see fewer choices on the shelves, and small producers may be the hardest hit.",
+        "url": "https://www.nytimes.com/2025/04/03/dining/drinks/wine-tariffs-prices.html",
+        "uri": "nyt://article/0d4e01ea-cb32-518b-b1a0-5d456198ad14",
+        "byline": "By Eric Asimov",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T16:49:49-04:00",
+        "created_date": "2025-04-03T16:49:49-04:00",
+        "published_date": "2025-04-03T16:49:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Prices (Fares, Fees and Rates)",
+            "Wines",
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03tariffs-wine1-qbth/03tariffs-wine1-qbth-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prices for all wines will rise under President Trump’s tariffs.",
+                "copyright": "Anthony Behar/Sipa USA, via Alamy Live News"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03tariffs-wine1-qbth/03tariffs-wine1-qbth-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prices for all wines will rise under President Trump’s tariffs.",
+                "copyright": "Anthony Behar/Sipa USA, via Alamy Live News"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03tariffs-wine1-qbth/03tariffs-wine1-qbth-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prices for all wines will rise under President Trump’s tariffs.",
+                "copyright": "Anthony Behar/Sipa USA, via Alamy Live News"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "Senate Confirms Dr. Oz to Oversee Medicare and Medicaid",
+        "abstract": "The TV celebrity doctor, a cardiothoracic surgeon, will take the reins at a time when the agency is facing cutbacks, especially for the poor, and scrutiny of its missions.",
+        "url": "https://www.nytimes.com/2025/04/03/health/dr-mehmet-oz-senate-confirmation.html",
+        "uri": "nyt://article/2a69aed7-4288-5ccc-aa9a-35b30987708e",
+        "byline": "By Reed Abelson and Susanne Craig",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T19:36:51-04:00",
+        "created_date": "2025-04-03T19:36:51-04:00",
+        "published_date": "2025-04-03T19:36:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Health Insurance and Managed Care",
+            "Medicaid",
+            "United States Politics and Government",
+            "Medicare",
+            "Elderly",
+            "Medicare Advantage"
+        ],
+        "org_facet": [
+            "Senate Committee on Finance"
+        ],
+        "per_facet": [
+            "Oz, Mehmet C",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03trump-news-oz-flth/03trump-news-oz-flth-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dr. Mehmet Oz testifying on Capitol Hill last month.",
+                "copyright": "Anna Rose Layden for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03trump-news-oz-flth/03trump-news-oz-flth-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dr. Mehmet Oz testifying on Capitol Hill last month.",
+                "copyright": "Anna Rose Layden for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03trump-news-oz-flth/03trump-news-oz-flth-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dr. Mehmet Oz testifying on Capitol Hill last month.",
+                "copyright": "Anna Rose Layden for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Tornadoes Sweep Across the South and Midwest, Killing at Least 7",
+        "abstract": "After hail, heavy rains and more than 30 tornadoes drenched the region, officials warned that a “generational flooding” disaster was possible.",
+        "url": "https://www.nytimes.com/2025/04/03/us/tornadoes-south-midwest.html",
+        "uri": "nyt://article/80c8177b-4f07-571c-95ef-e7c69440b96a",
+        "byline": "By Mitch Smith, Amanda Holpuch and Michael Levenson",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T20:37:50-04:00",
+        "created_date": "2025-04-03T20:37:50-04:00",
+        "published_date": "2025-04-03T20:37:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Tornadoes"
+        ],
+        "org_facet": [
+            "National Weather Service"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Tennessee",
+            "Indiana",
+            "Arkansas",
+            "Missouri",
+            "Kentucky"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03nat-storm-leadall-jkhp/03nat-storm-leadall-jkhp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dylon Davies embraced Skylar, his friend’s dog, after a tornado in Lake City, Ark., on Thursday.",
+                "copyright": "Brad J. Vest for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03nat-storm-leadall-jkhp/03nat-storm-leadall-jkhp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dylon Davies embraced Skylar, his friend’s dog, after a tornado in Lake City, Ark., on Thursday.",
+                "copyright": "Brad J. Vest for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03nat-storm-leadall-jkhp/03nat-storm-leadall-jkhp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dylon Davies embraced Skylar, his friend’s dog, after a tornado in Lake City, Ark., on Thursday.",
+                "copyright": "Brad J. Vest for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "media",
+        "title": "John Thornton, 59, Dies; Financier Helped Revive Local Journalism",
+        "abstract": "An idealist, he founded The Texas Tribune, a model for nonprofit grass-roots news organizations nationwide, and the American Journalism Project, which supports them.",
+        "url": "https://www.nytimes.com/2025/04/03/business/media/john-thornton-dead.html",
+        "uri": "nyt://article/26514091-5071-563b-af88-9406aa2a0b2c",
+        "byline": "By Alex Williams",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T18:42:53-04:00",
+        "created_date": "2025-04-03T18:42:53-04:00",
+        "published_date": "2025-04-03T18:42:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "News and News Media",
+            "Finances",
+            "Nonprofit Organizations",
+            "Deaths (Obituaries)"
+        ],
+        "org_facet": [
+            "American Journalism Project",
+            "Emerson Collective",
+            "Houston Endowment",
+            "Texas Tribune"
+        ],
+        "per_facet": [
+            "Thornton, John (1965-2025)",
+            "Smith, Evan (1966- )"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03Thornton--03-cfmj/03Thornton--03-cfmj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1548,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "John Thornton in the newsroom of The Texas Tribune in 2009. He founded it as a nonprofit organization to fill a void in local and regional news coverage. ",
+                "copyright": "Erich Schlegel for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03Thornton--03-cfmj/03Thornton--03-cfmj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "John Thornton in the newsroom of The Texas Tribune in 2009. He founded it as a nonprofit organization to fill a void in local and regional news coverage. ",
+                "copyright": "Erich Schlegel for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03Thornton--03-cfmj/03Thornton--03-cfmj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "John Thornton in the newsroom of The Texas Tribune in 2009. He founded it as a nonprofit organization to fill a void in local and regional news coverage. ",
+                "copyright": "Erich Schlegel for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "C.E.O. Choked Man Who Danced Barefoot on Cruise Ship, U.S. Says",
+        "abstract": "Kenneth D. DeGiorgio, the chief executive of First American Financial, was charged with assault. His lawyers say that the other man was harassing the executive’s wife.",
+        "url": "https://www.nytimes.com/2025/04/03/us/ceo-choking-virgin-cruise.html",
+        "uri": "nyt://article/091dc625-3006-5995-91cc-5933b206a9b5",
+        "byline": "By Neil Vigdor",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T19:50:22-04:00",
+        "created_date": "2025-04-03T19:17:39-04:00",
+        "published_date": "2025-04-03T19:17:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Assaults",
+            "Threats and Threatening Messages",
+            "Maritime Crime",
+            "Cruises",
+            "Crime and Criminals",
+            "Corporations",
+            "Dancing"
+        ],
+        "org_facet": [
+            "First American Financial Corp",
+            "Virgin Voyages (Virgin Cruises Intermediate Ltd)",
+            "First American Financial Corporation"
+        ],
+        "per_facet": [
+            "DeGiorgio, Kenneth D."
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03xp-cruise/03xp-cruise-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Virgin Voyages cruise ship Resilient Lady in 2024. A passenger was arrested on Tuesday after the ship docked in San Juan, Puerto Rico, and faces a federal charge.",
+                "copyright": "Horacio Villalobos/Corbis — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03xp-cruise/03xp-cruise-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Virgin Voyages cruise ship Resilient Lady in 2024. A passenger was arrested on Tuesday after the ship docked in San Juan, Puerto Rico, and faces a federal charge.",
+                "copyright": "Horacio Villalobos/Corbis — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03xp-cruise/03xp-cruise-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Virgin Voyages cruise ship Resilient Lady in 2024. A passenger was arrested on Tuesday after the ship docked in San Juan, Puerto Rico, and faces a federal charge.",
+                "copyright": "Horacio Villalobos/Corbis — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
