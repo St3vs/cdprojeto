@@ -8284,5 +8284,129 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "‘Wait, Baby, Wait’: Slumping Oil Prices Reflect Economic Worries",
+        "abstract": "Fears that President Trump’s tariffs could slash global economic growth — and demand for oil — are weighing on the market.",
+        "url": "https://www.nytimes.com/2025/04/04/business/economy/trump-tariffs-oil-prices-opec.html",
+        "uri": "nyt://article/0ace4e37-e3ec-5c39-bbde-41b1696e834f",
+        "byline": "By Stanley Reed and Rebecca F. Elliott",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T15:32:19-04:00",
+        "created_date": "2025-04-04T06:37:41-04:00",
+        "published_date": "2025-04-04T06:37:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Oil (Petroleum) and Gasoline",
+            "Customs (Tariff)",
+            "United States Economy"
+        ],
+        "org_facet": [
+            "Organization of the Petroleum Exporting Countries"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04biz-oil1-qcfl/04biz-oil1-qcfl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1362,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An oil drilling site in Midland, Texas.",
+                "copyright": "Desiree Rios for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04biz-oil1-qcfl/04biz-oil1-qcfl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An oil drilling site in Midland, Texas.",
+                "copyright": "Desiree Rios for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04biz-oil1-qcfl/04biz-oil1-qcfl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An oil drilling site in Midland, Texas.",
+                "copyright": "Desiree Rios for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "Trump Extends Deadline for a TikTok Deal",
+        "abstract": "The app was facing a Saturday deadline to change its ownership or face a ban in the United States.",
+        "url": "https://www.nytimes.com/2025/04/04/technology/trump-tiktok-deadline-delay.html",
+        "uri": "nyt://article/0baa39bd-867b-5bdd-b84b-799f57733053",
+        "byline": "By Sapna Maheshwari",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T14:54:34-04:00",
+        "created_date": "2025-04-04T13:51:39-04:00",
+        "published_date": "2025-04-04T13:51:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Mergers, Acquisitions and Divestitures",
+            "Mobile Applications",
+            "United States International Relations",
+            "Computers and the Internet"
+        ],
+        "org_facet": [
+            "TikTok (ByteDance)",
+            "Beijing Bytedance Technology Co Ltd",
+            "Amazon.com Inc",
+            "Justice Department"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/HFO-TIKTOKDELAY-lmhq/HFO-TIKTOKDELAY-lmhq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An advertisement for TikTok in New York. The popular video app now has an additional 75 days to find a new owner. ",
+                "copyright": "Juan Arredondo for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/HFO-TIKTOKDELAY-lmhq/HFO-TIKTOKDELAY-lmhq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An advertisement for TikTok in New York. The popular video app now has an additional 75 days to find a new owner. ",
+                "copyright": "Juan Arredondo for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/HFO-TIKTOKDELAY-lmhq/HFO-TIKTOKDELAY-lmhq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An advertisement for TikTok in New York. The popular video app now has an additional 75 days to find a new owner. ",
+                "copyright": "Juan Arredondo for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
