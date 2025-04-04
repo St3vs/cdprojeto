@@ -4295,5 +4295,191 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Trade War Sets Off ‘Max Pessimism’ in Global Markets as Stocks Plunge",
+        "abstract": "The S&P 500 fell almost 5 percent on Thursday, its worst drop since June 2020, as President Trump’s higher-than-expected tariffs set off another round of economic worry.",
+        "url": "https://www.nytimes.com/2025/04/02/business/trump-tariffs-global-stock-markets.html",
+        "uri": "nyt://article/7e747740-23f6-5bc8-a9b9-f033f226e763",
+        "byline": "By Joe Rennison, Danielle Kaye, River Akira Davis and Eshe Nelson",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T20:22:48-04:00",
+        "created_date": "2025-04-02T18:06:07-04:00",
+        "published_date": "2025-04-02T18:06:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "Stocks and Bonds",
+            "Standard & Poor's 500-Stock Index",
+            "Futures and Options Trading",
+            "United States Economy",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/world/stock-promo/stock-promo-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 890,
+                "width": 1442,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/world/stock-promo/stock-promo-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/world/stock-promo/stock-promo-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Administration Sends Harvard a List of Demands to Protect Federal Funds",
+        "abstract": "The list was similar to one sent to Columbia University last month after the government canceled $400 million to the school. Harvard may have $9 billion on the line.",
+        "url": "https://www.nytimes.com/2025/04/03/us/politics/trump-harvard-funding-demands.html",
+        "uri": "nyt://article/3271bfaa-2f59-5774-8df7-f46a2ebb16cb",
+        "byline": "By Michael C. Bender and Stephanie Saul",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T22:35:33-04:00",
+        "created_date": "2025-04-03T22:35:33-04:00",
+        "published_date": "2025-04-03T22:35:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Colleges and Universities",
+            "Anti-Semitism",
+            "Pro-Palestinian Campus Protests (2023- )",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Harvard University",
+            "General Services Administration"
+        ],
+        "per_facet": [
+            "Garber, Alan M"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03trump-news-harvard1-cwmq/03trump-news-harvard1-cwmq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03trump-news-harvard1-cwmq/03trump-news-harvard1-cwmq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03trump-news-harvard1-cwmq/03trump-news-harvard1-cwmq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Sophie Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Amtrak Train Strikes and Kills a Person in Pennsylvania",
+        "abstract": "Amtrak said one of its trains hit three people on the tracks near Bristol Station. Service between New York’s Penn Station and Philadelphia’s main station was temporarily suspended.",
+        "url": "https://www.nytimes.com/2025/04/03/us/amtrak-train-crash-bucks-county-pa.html",
+        "uri": "nyt://article/62d265ed-719f-5a01-b09d-676fe7291838",
+        "byline": "By Simon J. Levien",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T22:37:25-04:00",
+        "created_date": "2025-04-03T21:23:24-04:00",
+        "published_date": "2025-04-03T21:23:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Railroads",
+            "Delays (Transportation)",
+            "Transit Systems",
+            "Railroad Accidents and Safety"
+        ],
+        "org_facet": [
+            "Amtrak",
+            "Pennsylvania Station (Manhattan, NY)"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/us/politics/03xp-amtrak1/03xp-amtrak1-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from live television coverage of police officers inspecting a halted Amtrak train in Bristol, Pa., on Thursday.",
+                "copyright": "WPVI"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/us/politics/03xp-amtrak1/03xp-amtrak1-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from live television coverage of police officers inspecting a halted Amtrak train in Bristol, Pa., on Thursday.",
+                "copyright": "WPVI"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/us/politics/03xp-amtrak1/03xp-amtrak1-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from live television coverage of police officers inspecting a halted Amtrak train in Bristol, Pa., on Thursday.",
+                "copyright": "WPVI"
+            }
+        ],
+        "short_url": ""
     }
 ]
