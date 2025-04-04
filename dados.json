@@ -8912,5 +8912,366 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Loomer’s Role in Firings Shows Rising Sway of Fringe Figures on Trump",
+        "abstract": "President Trump has always solicited information from dubious sources. But now, in his second term, he has fewer people around him who try to keep those voices away.",
+        "url": "https://www.nytimes.com/2025/04/04/us/politics/trump-nsc-firings-laura-loomer.html",
+        "uri": "nyt://article/630227ca-2d1c-5c82-9c09-4b327f5d2ce2",
+        "byline": "By Jonathan Swan, Maggie Haberman and Ken Bensinger",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T18:03:40-04:00",
+        "created_date": "2025-04-04T18:03:40-04:00",
+        "published_date": "2025-04-04T18:03:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Right-Wing Extremism and Alt-Right"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Loomer, Laura",
+            "Waltz, Michael (1974- )",
+            "Haugh, Timothy D"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04dc-trump-loomer1-fjlg/04dc-trump-loomer1-fjlg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1354,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Laura Loomer, a far-right conspiracy theorist, on a tour of a migrant camp in Panama last year. ",
+                "copyright": "Federico Rios for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04dc-trump-loomer1-fjlg/04dc-trump-loomer1-fjlg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Laura Loomer, a far-right conspiracy theorist, on a tour of a migrant camp in Panama last year. ",
+                "copyright": "Federico Rios for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04dc-trump-loomer1-fjlg/04dc-trump-loomer1-fjlg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Laura Loomer, a far-right conspiracy theorist, on a tour of a migrant camp in Panama last year. ",
+                "copyright": "Federico Rios for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "Trump Rejects Biden Plan to Expand Medicare Coverage for Obesity Drugs",
+        "abstract": "Administration officials reversed a decision made during the Biden presidency that would have given millions of people access to weight-loss drugs paid for Medicare and Medicaid.",
+        "url": "https://www.nytimes.com/2025/04/04/health/trump-wegovy-obesity-drugs-medicare.html",
+        "uri": "nyt://article/db0ee33c-d016-5a19-9b07-bdcd636d330e",
+        "byline": "By Margot Sanger-Katz and Rebecca Robbins",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T18:32:02-04:00",
+        "created_date": "2025-04-04T18:32:02-04:00",
+        "published_date": "2025-04-04T18:32:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Health Insurance and Managed Care",
+            "Medicare",
+            "Obesity",
+            "Weight",
+            "Drugs (Pharmaceuticals)",
+            "Prices (Fares, Fees and Rates)",
+            "Medicaid",
+            "Regulation and Deregulation of Industry"
+        ],
+        "org_facet": [
+            "Health and Human Services Department"
+        ],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Kennedy, Robert F Jr",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2024/08/30/multimedia/04HS-OBESITY-MEDICARE/30wegovy-covid-tpfz-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Biden proposal to expand coverage of the popular weight-loss drugs would have cost billions of dollars under Medicare and Medicaid. ",
+                "copyright": "M. Scott Brauer for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/08/30/multimedia/04HS-OBESITY-MEDICARE/30wegovy-covid-tpfz-threeByTwoSmallAt2X-v3.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Biden proposal to expand coverage of the popular weight-loss drugs would have cost billions of dollars under Medicare and Medicaid. ",
+                "copyright": "M. Scott Brauer for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/08/30/multimedia/04HS-OBESITY-MEDICARE/30wegovy-covid-tpfz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Biden proposal to expand coverage of the popular weight-loss drugs would have cost billions of dollars under Medicare and Medicaid. ",
+                "copyright": "M. Scott Brauer for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Los Angeles County Plans to Pay $4 Billion to Settle Sex Abuse Claims",
+        "abstract": "The settlement, which still needs formal approval, covers more than 6,800 claims of abuse, some of which date back to 1959.",
+        "url": "https://www.nytimes.com/2025/04/04/us/los-angeles-county-plans-to-pay-4-billion-to-settle-sex-abuse-claims.html",
+        "uri": "nyt://article/5d36c740-aea2-5597-9a62-42ccef20663b",
+        "byline": "By Shawn Hubler",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T18:41:48-04:00",
+        "created_date": "2025-04-04T18:41:48-04:00",
+        "published_date": "2025-04-04T18:41:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Sex Crimes",
+            "Law and Legislation"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Los Angeles (Calif)",
+            "Los Angeles County (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/us/04nat-abuse-settlement/04nat-abuse-settlement-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1231,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ben Crump, a lawyer, center, at a news conference in 2022 with survivors of sexual abuse that occurred at MacLaren Hall in Los Angeles.",
+                "copyright": "Dean Musgrove/The Orange County Register, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/us/04nat-abuse-settlement/04nat-abuse-settlement-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ben Crump, a lawyer, center, at a news conference in 2022 with survivors of sexual abuse that occurred at MacLaren Hall in Los Angeles.",
+                "copyright": "Dean Musgrove/The Orange County Register, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/us/04nat-abuse-settlement/04nat-abuse-settlement-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ben Crump, a lawyer, center, at a news conference in 2022 with survivors of sexual abuse that occurred at MacLaren Hall in Los Angeles.",
+                "copyright": "Dean Musgrove/The Orange County Register, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Judge Orders Tufts Student’s Detention Case Moved to Vermont",
+        "abstract": "The student, Rumeysa Ozturk, was detained by ICE agents in Massachusetts, driven to Vermont and flown to a detention center in Louisiana, where the government was trying to argue her court case.",
+        "url": "https://www.nytimes.com/2025/04/04/us/tufts-student-deportation-case-vermont-rumeysa-ozturk.html",
+        "uri": "nyt://article/65034fcc-7070-5499-9b34-a33598c8ddd9",
+        "byline": "By Anemona Hartocollis",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T18:24:34-04:00",
+        "created_date": "2025-04-04T18:24:34-04:00",
+        "published_date": "2025-04-04T18:24:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Immigration Detention",
+            "Colleges and Universities"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Ozturk, Rumeysa"
+        ],
+        "geo_facet": [
+            "Louisiana",
+            "Massachusetts",
+            "Vermont"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04nat-tufts-student-cwvt/04nat-tufts-student-cwvt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People rallied in support of Rumeysa Ozturk on Thursday in front of a federal courthouse in Boston.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04nat-tufts-student-cwvt/04nat-tufts-student-cwvt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People rallied in support of Rumeysa Ozturk on Thursday in front of a federal courthouse in Boston.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04nat-tufts-student-cwvt/04nat-tufts-student-cwvt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People rallied in support of Rumeysa Ozturk on Thursday in front of a federal courthouse in Boston.",
+                "copyright": "Sophie Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "How Guantánamo Bay Figures in the Trump Immigration Crackdown",
+        "abstract": "In two months, only around 400 migrants have been held there, mostly Venezuelan and Nicaraguan citizens designated for deportation.",
+        "url": "https://www.nytimes.com/2025/04/04/us/politics/migrant-mission-guantanamo-bay.html",
+        "uri": "nyt://article/88f9efaf-7b99-5602-8a1d-f909dbb999e8",
+        "byline": "By Carol Rosenberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T18:44:01-04:00",
+        "created_date": "2025-04-04T18:05:54-04:00",
+        "published_date": "2025-04-04T18:05:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Military Bases and Installations",
+            "Illegal Immigration",
+            "Deportation",
+            "Immigration Shelters",
+            "Detainees",
+            "Executive Orders and Memorandums"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Guantanamo Bay Naval Base (Cuba)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/dc-gitmo1-twhv/dc-gitmo1-twhv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1332,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The U.S. Navy base at Guantánamo Bay has been staffed with 1,000 government workers, 900 of them members of the U.S. military and the rest immigration service agents or contractors. Only about 400 migrants have been held there over two months.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/dc-gitmo1-twhv/dc-gitmo1-twhv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The U.S. Navy base at Guantánamo Bay has been staffed with 1,000 government workers, 900 of them members of the U.S. military and the rest immigration service agents or contractors. Only about 400 migrants have been held there over two months.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/dc-gitmo1-twhv/dc-gitmo1-twhv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The U.S. Navy base at Guantánamo Bay has been staffed with 1,000 government workers, 900 of them members of the U.S. military and the rest immigration service agents or contractors. Only about 400 migrants have been held there over two months.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Stocks Keep Falling",
+        "abstract": "Also, Trump granted TikTok another reprieve. Here’s the latest at the end of Friday.",
+        "url": "https://www.nytimes.com/2025/04/04/briefing/tariffs-stock-market-tiktok-ban-ovechkin-record.html",
+        "uri": "nyt://article/0fd84f79-0a01-562e-be4f-f5507ba2cee3",
+        "byline": "By Matthew Cullen",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T17:49:02-04:00",
+        "created_date": "2025-04-04T17:49:02-04:00",
+        "published_date": "2025-04-04T17:49:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04evening-nl/04evening-nl-superJumbo-v3.png",
+                "format": "Super Jumbo",
+                "height": 779,
+                "width": 974,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04evening-nl/04evening-nl-threeByTwoSmallAt2X-v3.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04evening-nl/04evening-nl-thumbLarge-v3.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
