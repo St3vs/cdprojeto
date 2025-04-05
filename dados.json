@@ -9273,5 +9273,441 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Los Angeles County Plans to Pay $4 Billion to Settle Sex Abuse Claims",
+        "abstract": "The settlement, which still needs formal approval, covers more than 6,800 claims of abuse, some of which date back to 1959.",
+        "url": "https://www.nytimes.com/2025/04/04/us/la-county-sex-abuse-claims-settlement.html",
+        "uri": "nyt://article/5d36c740-aea2-5597-9a62-42ccef20663b",
+        "byline": "By Shawn Hubler",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T20:52:26-04:00",
+        "created_date": "2025-04-04T18:41:48-04:00",
+        "published_date": "2025-04-04T18:41:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Sex Crimes",
+            "Law and Legislation"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Los Angeles (Calif)",
+            "Los Angeles County (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/us/04nat-abuse-settlement/04nat-abuse-settlement-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1231,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ben Crump, a lawyer, center, at a news conference in 2022 with survivors of sexual abuse that occurred at MacLaren Hall in Los Angeles.",
+                "copyright": "Dean Musgrove/The Orange County Register, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/us/04nat-abuse-settlement/04nat-abuse-settlement-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ben Crump, a lawyer, center, at a news conference in 2022 with survivors of sexual abuse that occurred at MacLaren Hall in Los Angeles.",
+                "copyright": "Dean Musgrove/The Orange County Register, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/us/04nat-abuse-settlement/04nat-abuse-settlement-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ben Crump, a lawyer, center, at a news conference in 2022 with survivors of sexual abuse that occurred at MacLaren Hall in Los Angeles.",
+                "copyright": "Dean Musgrove/The Orange County Register, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Obama Calls for Universities to Stand Up for Core Values",
+        "abstract": "As the Trump administration threatens universities, the former president suggested schools shouldn’t be intimidated. But he also offered a critique of campus culture, saying it had too often shut out opposing voices.",
+        "url": "https://www.nytimes.com/2025/04/04/us/politics/obama-trump-college-speech.html",
+        "uri": "nyt://article/ba0b126e-12e7-51a6-be81-e8e2ae03c0fb",
+        "byline": "By Vimal Patel",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T20:09:42-04:00",
+        "created_date": "2025-04-04T19:33:03-04:00",
+        "published_date": "2025-04-04T19:33:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Education",
+            "Freedom of Speech and Expression",
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [
+            "Education Department (US)",
+            "Harvard University",
+            "Columbia University",
+            "University of Pennsylvania",
+            "Hamilton College"
+        ],
+        "per_facet": [
+            "Obama, Barack",
+            "Trump, Donald J",
+            "McMahon, Linda E"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04trump-news-obama-higher-ed1-wbhf/04trump-news-obama-higher-ed1-wbhf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Former President Barack Obama at a forum in Chicago in December.",
+                "copyright": "Jamie Kelter Davis for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04trump-news-obama-higher-ed1-wbhf/04trump-news-obama-higher-ed1-wbhf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Former President Barack Obama at a forum in Chicago in December.",
+                "copyright": "Jamie Kelter Davis for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04trump-news-obama-higher-ed1-wbhf/04trump-news-obama-higher-ed1-wbhf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Former President Barack Obama at a forum in Chicago in December.",
+                "copyright": "Jamie Kelter Davis for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Private School Diversity Events Are Canceled Amid Government Crackdown",
+        "abstract": "The National Association of Independent Schools said it would reassess two of its diversity conferences “given the rapidly evolving political and legal landscape.”",
+        "url": "https://www.nytimes.com/2025/04/04/nyregion/private-school-group-diversity-conferences.html",
+        "uri": "nyt://article/6535ccfe-dfbf-5df5-9f91-282dbf269ce0",
+        "byline": "By Troy Closson",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T16:34:36-04:00",
+        "created_date": "2025-04-04T16:34:36-04:00",
+        "published_date": "2025-04-04T16:34:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Private and Sectarian Schools",
+            "Education (K-12)",
+            "Israel-Gaza War (2023- )",
+            "Anti-Semitism",
+            "Diversity Initiatives"
+        ],
+        "org_facet": [
+            "Anti-Defamation League",
+            "National Assn of Independent Schools"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04met-private-school-02-gbmv/04met-private-school-02-gbmv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "One of the conferences had come under fire from several Jewish organizations that condemned remarks made by some speakers as antisemitic. ",
+                "copyright": "Sarah Blesener for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04met-private-school-02-gbmv/04met-private-school-02-gbmv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "One of the conferences had come under fire from several Jewish organizations that condemned remarks made by some speakers as antisemitic. ",
+                "copyright": "Sarah Blesener for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04met-private-school-02-gbmv/04met-private-school-02-gbmv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "One of the conferences had come under fire from several Jewish organizations that condemned remarks made by some speakers as antisemitic. ",
+                "copyright": "Sarah Blesener for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Video Shows Aid Workers Killed in Gaza Under Gunfire Barrage, With Ambulance Lights On",
+        "abstract": "The U.N. has said Israel killed the workers. The video appears to contradict Israel’s version of the incident, which described the vehicles as “advancing suspiciously” without headlights or emergency signals.",
+        "url": "https://www.nytimes.com/2025/04/04/world/middleeast/gaza-israel-aid-workers-deaths-video.html",
+        "uri": "nyt://article/8cda9f20-1d95-59bb-83a4-994efe27779c",
+        "byline": "By Farnaz Fassihi and Christoph Koettl",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T20:40:49-04:00",
+        "created_date": "2025-04-04T20:25:42-04:00",
+        "published_date": "2025-04-04T20:25:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Defense and Military Forces",
+            "Humanitarian Aid",
+            "Israel-Gaza War (2023- )",
+            "Civilian Casualties",
+            "Deaths (Fatalities)",
+            "War Crimes, Genocide and Crimes Against Humanity",
+            "International Relations"
+        ],
+        "org_facet": [
+            "International Federation of Red Cross and Red Crescent Societies",
+            "United Nations"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel",
+            "Rafah (Gaza Strip)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/autossell/04-aid-worker-video-still/04-aid-worker-video-still-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1920,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/autossell/04-aid-worker-video-still/04-aid-worker-video-still-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/autossell/04-aid-worker-video-still/04-aid-worker-video-still-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Administration Is Ordered to Return Migrant Deported to El Salvador",
+        "abstract": "A federal judge said officials had acted without “legal basis” last month when they arrested the migrant, Kilmar Armando Abrego Garcia, and put him on a plane to a notorious Salvadoran prison.",
+        "url": "https://www.nytimes.com/2025/04/04/us/politics/trump-deportations-maryland-man-el-salvador.html",
+        "uri": "nyt://article/f00306c9-32fd-55f8-bc19-dcfd2be4cb88",
+        "byline": "By Aishvarya Kavi and Alan Feuer",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T20:54:49-04:00",
+        "created_date": "2025-04-04T15:18:21-04:00",
+        "published_date": "2025-04-04T15:18:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Homeland Security Department",
+            "Justice Department",
+            "Mara Salvatrucha (MS-13)"
+        ],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "El Salvador",
+            "Maryland"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04dc-immig-new-jmbv/04dc-immig-new-jmbv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Stefania Vasquez Sura, who is married to Kilmar Armando Abrego Garcia, celebrated the judge’s decision on Friday with a cheering crowd of supporters.",
+                "copyright": "Rod Lamkey  Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04dc-immig-new-jmbv/04dc-immig-new-jmbv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Stefania Vasquez Sura, who is married to Kilmar Armando Abrego Garcia, celebrated the judge’s decision on Friday with a cheering crowd of supporters.",
+                "copyright": "Rod Lamkey  Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04dc-immig-new-jmbv/04dc-immig-new-jmbv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Stefania Vasquez Sura, who is married to Kilmar Armando Abrego Garcia, celebrated the judge’s decision on Friday with a cheering crowd of supporters.",
+                "copyright": "Rod Lamkey  Jr. for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "I Led Harvard’s Medical School, and I Fear for What’s to Come",
+        "abstract": "The task before higher education is immense.",
+        "url": "https://www.nytimes.com/2025/04/04/opinion/harvard-medicine-higher-education.html",
+        "uri": "nyt://article/280b479e-435d-5d74-a9bb-cf8d5ce306ea",
+        "byline": "By Jeffrey Flier",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T05:02:02-04:00",
+        "created_date": "2025-04-04T05:02:02-04:00",
+        "published_date": "2025-04-04T05:02:02-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "Colleges and Universities",
+            "Anti-Semitism",
+            "United States Politics and Government",
+            "Federal Aid (US)",
+            "Medical Schools",
+            "Grants (Corporate and Foundation)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/opinion/04flier-image/04flier-image-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2033,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Matt Rota"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/opinion/04flier-image/04flier-image-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Matt Rota"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/opinion/04flier-image/04flier-image-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Matt Rota"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Vandalism of Muslim Prayer Room at N.Y.U. Is Investigated as Hate Crime",
+        "abstract": "Graffiti was etched onto walls of the room, at a university library, and prayer mats kept there had been soaked in urine.",
+        "url": "https://www.nytimes.com/2025/04/04/nyregion/vandalism-muslim-prayer-room-nyu.html",
+        "uri": "nyt://article/321a1c05-23f2-5018-a517-23ca2c513623",
+        "byline": "By Liam Stack",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T19:12:17-04:00",
+        "created_date": "2025-04-04T19:11:10-04:00",
+        "published_date": "2025-04-04T19:11:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Colleges and Universities",
+            "Vandalism",
+            "Muslim Americans",
+            "Discrimination",
+            "Hate Crimes"
+        ],
+        "org_facet": [
+            "New York University"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04nyu-vandalism-02-bfhm/04nyu-vandalism-02-bfhm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Students and staff members say they were shaken after the vandalism at a prayer room for Muslim students at the Bobst Library on Washington Square Park in Manhattan.",
+                "copyright": "Amir Hamja for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04nyu-vandalism-02-bfhm/04nyu-vandalism-02-bfhm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Students and staff members say they were shaken after the vandalism at a prayer room for Muslim students at the Bobst Library on Washington Square Park in Manhattan.",
+                "copyright": "Amir Hamja for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04nyu-vandalism-02-bfhm/04nyu-vandalism-02-bfhm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Students and staff members say they were shaken after the vandalism at a prayer room for Muslim students at the Bobst Library on Washington Square Park in Manhattan.",
+                "copyright": "Amir Hamja for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
