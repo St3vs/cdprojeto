@@ -11601,5 +11601,199 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "What to Know About Trump’s Tariffs and the Global Trade War",
+        "abstract": "The newest wave of Mr. Trump’s trade policies increased global uncertainty, causing stocks to crash and other nations to retaliate.",
+        "url": "https://www.nytimes.com/article/trump-tariffs-canada-mexico-china.html",
+        "uri": "nyt://article/c66d01de-f1ad-555e-8b1b-8ef2081a8a2e",
+        "byline": "By Ana Swanson, Danielle Kaye, Lazaro Gamio, Jeanna Smialek and Martin Fackler",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T09:27:48-04:00",
+        "created_date": "2025-02-01T18:00:57-05:00",
+        "published_date": "2025-02-01T18:00:57-05:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "Protectionism (Trade)",
+            "International Trade and World Market",
+            "Executive Orders and Memorandums",
+            "United States Economy",
+            "United States International Relations",
+            "Inflation (Economics)",
+            "Prices (Fares, Fees and Rates)",
+            "United States-Mexico-Canada Agreement",
+            "United States Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Canada",
+            "China",
+            "Mexico"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/multimedia/2025-03-10-tariff-tracker-index/2025-03-10-tariff-tracker-index-superJumbo-v6.jpg",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/multimedia/2025-03-10-tariff-tracker-index/2025-03-10-tariff-tracker-index-threeByTwoSmallAt2X-v7.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/multimedia/2025-03-10-tariff-tracker-index/2025-03-10-tariff-tracker-index-thumbLarge-v6.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Paul Krugman on the ‘Biggest Trade Shock in History’",
+        "abstract": "The trade economist Paul Krugman parses the ‘layers of wrongness’ in Trump’s tariff policy.",
+        "url": "https://www.nytimes.com/2025/04/05/opinion/ezra-klein-podcast-paul-krugman.html",
+        "uri": "nyt://article/5cad946b-1671-5720-8ba4-85f8d6b73054",
+        "byline": "By Ezra Klein",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T09:08:43-04:00",
+        "created_date": "2025-04-05T07:00:29-04:00",
+        "published_date": "2025-04-05T07:00:29-04:00",
+        "material_type_facet": "",
+        "kicker": "The Ezra Klein Show",
+        "des_facet": [
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "United States Economy",
+            "Customs (Tariff)",
+            "Factories and Manufacturing",
+            "Economics (Theory and Philosophy)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Krugman, Paul",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/opinion/05eks-krugman/05eks-krugman-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photograph by Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/opinion/05eks-krugman/05eks-krugman-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photograph by Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/opinion/05eks-krugman/05eks-krugman-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photograph by Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "weather",
+        "subsection": "",
+        "title": "Rain Inundates Central U.S. as Storm Brings Threat of Flash Floods",
+        "abstract": "The storm has already wreaked havoc across the South and the Midwest, killing at least eight people, including a boy who was swept away by floodwaters in Kentucky.",
+        "url": "https://www.nytimes.com/2025/04/05/weather/severe-storm-flood-central-us.html",
+        "uri": "nyt://article/f69eefcf-563b-5406-bbc6-ac95d873ac05",
+        "byline": "By Simon J. Levien and Amy Graff",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T09:46:41-04:00",
+        "created_date": "2025-04-05T07:59:33-04:00",
+        "published_date": "2025-04-05T07:59:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Tornadoes",
+            "Floods",
+            "Weather"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Indiana",
+            "Kentucky",
+            "Missouri",
+            "Tennessee"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05NAT-STORM-lqgb/05NAT-STORM-lqgb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1177,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Floodwaters in Bowling Green, Ky., on Friday. Western Tennessee, southeastern Arkansas, western Mississippi and Louisiana will face severe risk from the storm on Saturday.",
+                "copyright": "Grace Mcdowell/Daily News, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05NAT-STORM-lqgb/05NAT-STORM-lqgb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Floodwaters in Bowling Green, Ky., on Friday. Western Tennessee, southeastern Arkansas, western Mississippi and Louisiana will face severe risk from the storm on Saturday.",
+                "copyright": "Grace Mcdowell/Daily News, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05NAT-STORM-lqgb/05NAT-STORM-lqgb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Floodwaters in Bowling Green, Ky., on Friday. Western Tennessee, southeastern Arkansas, western Mississippi and Louisiana will face severe risk from the storm on Saturday.",
+                "copyright": "Grace Mcdowell/Daily News, via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
