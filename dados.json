@@ -11795,5 +11795,298 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "When Huge Trump Tariffs Hit Small African Economies",
+        "abstract": "The amount of manufactured goods exported from Africa to the United States is minuscule. But for Lesotho, the impact of a stunning 50 percent tariff is enormous.",
+        "url": "https://www.nytimes.com/2025/04/05/business/economy/lesotho-trump-tariffs-trade.html",
+        "uri": "nyt://article/33bb6e08-9a0d-5dd5-876b-7e0b13a76b03",
+        "byline": "By Patricia Cohen",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T10:34:56-04:00",
+        "created_date": "2025-04-05T05:03:38-04:00",
+        "published_date": "2025-04-05T05:03:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Developing Countries",
+            "Jeans (Apparel)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Africa",
+            "Lesotho"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00Biz-Africa-Tariffs-01-mcfl/00Biz-Africa-Tariffs-01-mcfl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A worker folds jeans at textile factory in Maseru, Lesotho. The textile industry is the country’s largest private employer and produces its top export.",
+                "copyright": "Roberta Ciuccio/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00Biz-Africa-Tariffs-01-mcfl/00Biz-Africa-Tariffs-01-mcfl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A worker folds jeans at textile factory in Maseru, Lesotho. The textile industry is the country’s largest private employer and produces its top export.",
+                "copyright": "Roberta Ciuccio/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00Biz-Africa-Tariffs-01-mcfl/00Biz-Africa-Tariffs-01-mcfl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A worker folds jeans at textile factory in Maseru, Lesotho. The textile industry is the country’s largest private employer and produces its top export.",
+                "copyright": "Roberta Ciuccio/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Netanyahu Will Meet Trump in Washington",
+        "abstract": "The Israeli prime minister will visit President Trump at the White House on Monday amid his nation’s renewed campaign in Gaza.",
+        "url": "https://www.nytimes.com/2025/04/05/world/middleeast/netanyahu-trump-washington.html",
+        "uri": "nyt://article/ee2dbe9f-bada-5a66-9e37-7b7e2ed4c0c2",
+        "byline": "By Zolan Kanno-Youngs and Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T10:23:45-04:00",
+        "created_date": "2025-04-05T10:03:06-04:00",
+        "published_date": "2025-04-05T10:03:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [
+            "Netanyahu, Benjamin",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-israel-us-netanyahu-bvzt/05int-israel-us-netanyahu-bvzt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1413,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel in Budapest on Friday.",
+                "copyright": "Marton Monus/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-israel-us-netanyahu-bvzt/05int-israel-us-netanyahu-bvzt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel in Budapest on Friday.",
+                "copyright": "Marton Monus/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-israel-us-netanyahu-bvzt/05int-israel-us-netanyahu-bvzt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel in Budapest on Friday.",
+                "copyright": "Marton Monus/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "magazine",
+        "subsection": "",
+        "title": "The Life and Death of a Block Destroyed By the L.A. Fires",
+        "abstract": "A block is more than just houses — it’s one of our most basic forms of community. This is the story of what’s lost when a whole block burns.",
+        "url": "https://www.nytimes.com/interactive/2025/04/04/magazine/los-angeles-fires-altadena.html",
+        "uri": "nyt://interactive/6d0d8029-f13e-53fc-aa1f-d3fa8564d876",
+        "byline": "By Jaime Lowe",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-04T15:59:13-04:00",
+        "created_date": "2025-04-04T11:34:22-04:00",
+        "published_date": "2025-04-04T11:34:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Southern California Wildfires (Jan 2025)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Altadena (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/magazine/06mag-fire-promostill/06mag-fire-promostill-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/magazine/06mag-fire-promostill/06mag-fire-promostill-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/magazine/06mag-fire-promostill/06mag-fire-promostill-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "After the Fires, Rick Caruso Aspires to a New Role: Shadow Mayor of Los Angeles",
+        "abstract": "The businessman has won supporters and detractors as he considers running for mayor or governor of California as Los Angeles rebuilds from the wildfires in January.",
+        "url": "https://www.nytimes.com/2025/04/05/us/rick-caruso-los-angeles.html",
+        "uri": "nyt://article/d3dca7c9-32df-521b-8bad-af08c5466751",
+        "byline": "By Adam Nagourney and Shawn Hubler",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T05:00:18-04:00",
+        "created_date": "2025-04-05T05:00:18-04:00",
+        "published_date": "2025-04-05T05:00:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections, Mayors",
+            "Southern California Wildfires (Jan 2025)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Caruso, Rick J",
+            "Bass, Karen Ruth"
+        ],
+        "geo_facet": [
+            "Los Angeles (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00nat-caruso-01-cjlt/00nat-caruso-01-cjlt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rick Caruso lost his run for mayor of Los Angeles in 2022.",
+                "copyright": "Mark Abramson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00nat-caruso-01-cjlt/00nat-caruso-01-cjlt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rick Caruso lost his run for mayor of Los Angeles in 2022.",
+                "copyright": "Mark Abramson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00nat-caruso-01-cjlt/00nat-caruso-01-cjlt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rick Caruso lost his run for mayor of Los Angeles in 2022.",
+                "copyright": "Mark Abramson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "An Endangered Galápagos Tortoise Is a First-Time Mother at 100",
+        "abstract": "Mommy, a Western Santa Cruz tortoise, recently welcomed four hatchlings at the Philadelphia Zoo, where she has lived since 1932.",
+        "url": "https://www.nytimes.com/2025/04/05/science/galapagos-tortoise-hatchlings-philadelphia-zoo.html",
+        "uri": "nyt://article/be62cf7b-17b7-5bfb-bfec-a0d9e9b4048c",
+        "byline": "By Sopan Deb",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T09:08:53-04:00",
+        "created_date": "2025-04-05T09:08:53-04:00",
+        "published_date": "2025-04-05T09:08:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Endangered and Extinct Species",
+            "Turtles and Tortoises",
+            "Zoos",
+            "Reproduction (Biological)",
+            "Conservation of Resources"
+        ],
+        "org_facet": [
+            "Philadelphia Zoo"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Galapagos Islands"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/autossell/Galapagos-tortoise-eggs-hatching-1/Galapagos-tortoise-eggs-hatching-1-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Philadelphia Zoo"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/autossell/Galapagos-tortoise-eggs-hatching-1/Galapagos-tortoise-eggs-hatching-1-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Philadelphia Zoo"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/autossell/Galapagos-tortoise-eggs-hatching-1/Galapagos-tortoise-eggs-hatching-1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Philadelphia Zoo"
+            }
+        ],
+        "short_url": ""
     }
 ]
