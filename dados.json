@@ -12344,5 +12344,194 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Anti-Trump Protests Get Underway Across the Country",
+        "abstract": "The mass action, “Hands Off!,” was planned at a time when many on the left have bemoaned what they considered a lack of strong resistance to President Trump.",
+        "url": "https://www.nytimes.com/2025/04/05/us/politics/anti-trump-protests-hands-off.html",
+        "uri": "nyt://article/c27e0e72-4d95-52f4-8b92-f7a893254bed",
+        "byline": "By Shaila Dewan",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T14:53:46-04:00",
+        "created_date": "2025-04-05T12:49:56-04:00",
+        "published_date": "2025-04-05T12:49:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Demonstrations, Protests and Riots"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Kentucky",
+            "Florida",
+            "Washington (DC)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05trump-news-saturday-protests-ptqf/05trump-news-saturday-protests-ptqf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Adam Gray for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05trump-news-saturday-protests-ptqf/05trump-news-saturday-protests-ptqf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Adam Gray for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05trump-news-saturday-protests-ptqf/05trump-news-saturday-protests-ptqf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Adam Gray for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Democrats Are Looking for the Resistance in All the Wrong Places",
+        "abstract": "Federal workers can become the standard bearers of the Democratic opposition.",
+        "url": "https://www.nytimes.com/2025/04/05/opinion/federal-workers-protest-trump-resistance.html",
+        "uri": "nyt://article/ad47a17b-0fd8-5ed3-97af-5bc44fc108f7",
+        "byline": "By Micah L. Sifry",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T07:00:06-04:00",
+        "created_date": "2025-04-05T07:00:06-04:00",
+        "published_date": "2025-04-05T07:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "Demonstrations, Protests and Riots",
+            "United States Politics and Government",
+            "Government Employees"
+        ],
+        "org_facet": [
+            "Government Efficiency Department (US)",
+            "Democratic Party"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Musk, Elon"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/opinion/05sifry/05sifry-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tara Booth"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/opinion/05sifry/05sifry-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tara Booth"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/opinion/05sifry/05sifry-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tara Booth"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Ex-Aides to Texas Attorney General Win $6.6 Million in Whistle-Blower Case",
+        "abstract": "A judge found that four whistle-blowers who accused Ken Paxton, the Texas attorney general, of corruption and reported him to the F.B.I. were unjustly fired.",
+        "url": "https://www.nytimes.com/2025/04/05/us/ken-paxton-aides-whistleblowers-texas-ag.html",
+        "uri": "nyt://article/36ff539e-ce41-55cc-9190-67c48b7453c9",
+        "byline": "By Simon J. Levien",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T14:41:23-04:00",
+        "created_date": "2025-04-05T14:41:23-04:00",
+        "published_date": "2025-04-05T14:41:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Decisions and Verdicts",
+            "Whistle-Blowers",
+            "United States Politics and Government",
+            "Corruption (Institutional)",
+            "Attorneys General",
+            "Impeachment",
+            "Courts and the Judiciary"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Paxton, Ken"
+        ],
+        "geo_facet": [
+            "Texas",
+            "Travis County (Tex)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05xp-paxton-gqfj/05xp-paxton-gqfj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The four whistle-blowers from the Texas attorney general’s office attending the final day of the impeachment trial of Ken Paxton in September 2023.",
+                "copyright": "Jordan Vonderhaar for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05xp-paxton-gqfj/05xp-paxton-gqfj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The four whistle-blowers from the Texas attorney general’s office attending the final day of the impeachment trial of Ken Paxton in September 2023.",
+                "copyright": "Jordan Vonderhaar for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05xp-paxton-gqfj/05xp-paxton-gqfj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The four whistle-blowers from the Texas attorney general’s office attending the final day of the impeachment trial of Ken Paxton in September 2023.",
+                "copyright": "Jordan Vonderhaar for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
