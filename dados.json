@@ -12715,5 +12715,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Family’s Cash Registers Ring as Financial Meltdown Plays Out",
+        "abstract": "The party was on at a Saudi-backed LIV Golf tournament at the president’s Doral resort in Florida and a fund-raiser at Mar-a-Lago, even as markets tumbled.",
+        "url": "https://www.nytimes.com/2025/04/05/us/politics/trump-family-saudi-golf.html",
+        "uri": "nyt://article/caabc083-ad5a-5c29-b577-c7fc88a1e58c",
+        "byline": "By Eric Lipton, Theodore Schleifer and Zolan Kanno-Youngs",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T16:53:56-04:00",
+        "created_date": "2025-04-05T14:24:00-04:00",
+        "published_date": "2025-04-05T14:24:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Sovereign Wealth Funds",
+            "Golf",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "LIV Golf",
+            "Mar-a-Lago (Palm Beach, Fla)",
+            "Public Investment Fund (Saudi Arabia)"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Doral (Fla)",
+            "Jupiter (Fla)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/00dc-trump-events-01-bgvj/00dc-trump-events-01-bgvj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "LIV Golf, the Saudi-backed league, has sponsored a tournament at the Trump family’s Miami golf resort four times.",
+                "copyright": "Scott McIntyre for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/00dc-trump-events-01-bgvj/00dc-trump-events-01-bgvj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "LIV Golf, the Saudi-backed league, has sponsored a tournament at the Trump family’s Miami golf resort four times.",
+                "copyright": "Scott McIntyre for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/00dc-trump-events-01-bgvj/00dc-trump-events-01-bgvj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "LIV Golf, the Saudi-backed league, has sponsored a tournament at the Trump family’s Miami golf resort four times.",
+                "copyright": "Scott McIntyre for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
