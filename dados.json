@@ -9833,5 +9833,193 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "upshot",
+        "subsection": "",
+        "title": "Why Small Changes Meant Big Differences in Tariff Rates, From Bermuda to Switzerland",
+        "abstract": "Brunei’s tariffs could be much lower. Equatorial Guinea’s could be way higher. And Australia could have no tariffs at all. It all depends on choices hidden in the Trump formula.",
+        "url": "https://www.nytimes.com/interactive/2025/04/04/upshot/trump-tariffs-reciprocal.html",
+        "uri": "nyt://interactive/4a6e7c8f-fddf-56db-9d81-2c5b145a118e",
+        "byline": "By Ben Blatt, Francesca Paris and Ethan Singer",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-04T23:35:37-04:00",
+        "created_date": "2025-04-04T22:59:50-04:00",
+        "published_date": "2025-04-04T22:59:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "United States Politics and Government",
+            "United States International Relations",
+            "Embargoes and Sanctions"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04up-tariff-bhcp/04up-tariff-bhcp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1750,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump with a board showing tariffs from different countries.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04up-tariff-bhcp/04up-tariff-bhcp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump with a board showing tariffs from different countries.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04up-tariff-bhcp/04up-tariff-bhcp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump with a board showing tariffs from different countries.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "New York Warns Trump It Will Not Comply With Public School D.E.I. Order",
+        "abstract": "New York’s stance differed from the muted and deferential responses from other major institutions to the administration’s threats.",
+        "url": "https://www.nytimes.com/2025/04/04/us/politics/new-york-trump-dei-order.html",
+        "uri": "nyt://article/02b9439f-1e54-5932-b203-83fcdaa56d74",
+        "byline": "By Troy Closson",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T22:59:33-04:00",
+        "created_date": "2025-04-04T19:21:32-04:00",
+        "published_date": "2025-04-04T19:21:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Federal Aid (US)",
+            "Diversity Initiatives",
+            "Education (K-12)",
+            "States (US)",
+            "Affirmative Action"
+        ],
+        "org_facet": [
+            "Education Department (NYS)"
+        ],
+        "per_facet": [
+            "Johnson, Brandon (Chicago, Ill, Politician)"
+        ],
+        "geo_facet": [
+            "Chicago (Ill)",
+            "New York State"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/04trump-news-ny-education-sub/03nat-dei-schools-mvwp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A 12th grade Black studies classroom in Harlem, last month.",
+                "copyright": "José A. Alvarado Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/04trump-news-ny-education-sub/03nat-dei-schools-mvwp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A 12th grade Black studies classroom in Harlem, last month.",
+                "copyright": "José A. Alvarado Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/04trump-news-ny-education-sub/04trump-news-ny-education-sub-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A 12th grade Black studies classroom in Harlem, last month.",
+                "copyright": "José A. Alvarado Jr. for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Detained in The Hague, Duterte Pursues a Political Comeback at Home",
+        "abstract": "Rodrigo Duterte, the former Philippine president who is facing charges of crimes against humanity, is running for mayor in a race analysts say he could win.",
+        "url": "https://www.nytimes.com/2025/04/05/world/asia/duterte-mayor-davao.html",
+        "uri": "nyt://article/da2bdca2-df4a-5afe-a5d5-e6586d3ca551",
+        "byline": "By Aie Balagtas See",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T00:04:50-04:00",
+        "created_date": "2025-04-05T00:01:07-04:00",
+        "published_date": "2025-04-05T00:01:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Demonstrations, Protests and Riots",
+            "Politics and Government",
+            "War Crimes, Genocide and Crimes Against Humanity"
+        ],
+        "org_facet": [
+            "International Criminal Court"
+        ],
+        "per_facet": [
+            "Duterte, Rodrigo",
+            "Duterte, Sara",
+            "Marcos, Ferdinand Jr"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/30/multimedia/xxxphilippines-duterte-01-chqt/xxxphilippines-duterte-01-chqt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of Rodrigo Duterte, the arrested former Philippine president, gathered on his 80th birthday on March 28 in Davao City, the Philippines.",
+                "copyright": "Eloisa Lopez/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/30/multimedia/xxxphilippines-duterte-01-chqt/xxxphilippines-duterte-01-chqt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of Rodrigo Duterte, the arrested former Philippine president, gathered on his 80th birthday on March 28 in Davao City, the Philippines.",
+                "copyright": "Eloisa Lopez/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/30/multimedia/xxxphilippines-duterte-01-chqt/xxxphilippines-duterte-01-chqt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of Rodrigo Duterte, the arrested former Philippine president, gathered on his 80th birthday on March 28 in Davao City, the Philippines.",
+                "copyright": "Eloisa Lopez/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
