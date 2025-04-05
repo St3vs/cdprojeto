@@ -12533,5 +12533,127 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Musk Says He Hopes Europe and U.S. Move to a ‘Zero-Tariff Situation’",
+        "abstract": "The billionaire adviser to the Trump administration appeared to part ways with the president in a videoconference appearance with Italy’s far-right League party.",
+        "url": "https://www.nytimes.com/2025/04/05/us/politics/musk-says-he-hopes-europe-and-us-move-to-a-zero-tariff-situation.html",
+        "uri": "nyt://article/3f904cd5-d2b3-5047-8f3d-6d9eabe5f708",
+        "byline": "By Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T15:26:22-04:00",
+        "created_date": "2025-04-05T15:17:52-04:00",
+        "published_date": "2025-04-05T15:17:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Right-Wing Extremism and Alt-Right"
+        ],
+        "org_facet": [
+            "European Union"
+        ],
+        "per_facet": [
+            "Musk, Elon",
+            "Salvini, Matteo"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05trump-news-musk-italy1-qfwk/05trump-news-musk-italy1-qfwk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk speaking last week in Green Bay, Wis., during an America PAC town hall.",
+                "copyright": "Jamie Kelter Davis"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05trump-news-musk-italy1-qfwk/05trump-news-musk-italy1-qfwk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk speaking last week in Green Bay, Wis., during an America PAC town hall.",
+                "copyright": "Jamie Kelter Davis"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05trump-news-musk-italy1-qfwk/05trump-news-musk-italy1-qfwk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk speaking last week in Green Bay, Wis., during an America PAC town hall.",
+                "copyright": "Jamie Kelter Davis"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Scenes From States Devastated by a Powerful Storm System",
+        "abstract": "The severe weather stretched from Texas to Ohio, causing tornadoes and flooding across the central United States.",
+        "url": "https://www.nytimes.com/2025/04/03/us/storm-tornado-damage-photos-midwest-south.html",
+        "uri": "nyt://article/48ffd2d2-39e6-545e-84d2-206c3471e63d",
+        "byline": "By The New York Times",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T15:54:25-04:00",
+        "created_date": "2025-04-03T21:49:41-04:00",
+        "published_date": "2025-04-03T21:49:41-04:00",
+        "material_type_facet": "",
+        "kicker": "In photos and video",
+        "des_facet": [
+            "Weather",
+            "Rain"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Arkansas",
+            "Tennessee",
+            "Kentucky",
+            "Indiana",
+            "Missouri",
+            "Oklahoma"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05nat-storm-photos-mtwc/05nat-storm-photos-mtwc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A flooded subdivision on Saturday in Bowling Green, Ky.",
+                "copyright": "Austin Anthony for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05nat-storm-photos-mtwc/05nat-storm-photos-mtwc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A flooded subdivision on Saturday in Bowling Green, Ky.",
+                "copyright": "Austin Anthony for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05nat-storm-photos-mtwc/05nat-storm-photos-mtwc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A flooded subdivision on Saturday in Bowling Green, Ky.",
+                "copyright": "Austin Anthony for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
