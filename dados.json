@@ -9709,5 +9709,129 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Swiss Indignant to Make the Top 10 of Trump’s Tariffs List",
+        "abstract": "Swiss companies bemoan the loss of a reliable partner, and called the 32 percent tariff “incomprehensible.”",
+        "url": "https://www.nytimes.com/2025/04/04/business/trump-tariffs-switzerland.html",
+        "uri": "nyt://article/39f0b29c-936e-5e2c-8f15-894cc3c70cb7",
+        "byline": "By Liz Alderman and Melissa Eddy",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T16:21:46-04:00",
+        "created_date": "2025-04-04T15:06:56-04:00",
+        "published_date": "2025-04-04T15:06:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "Politics and Government",
+            "Customs (Tariff)",
+            "Small Business",
+            "Chocolate"
+        ],
+        "org_facet": [
+            "Victorinox AG"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Switzerland"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/biz-swiss-tariffs-01-kwlf/biz-swiss-tariffs-01-kwlf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Switzerland, known for neutrality, chocolates and watches, recently scrapped all industrial tariffs — including on U.S. goods.",
+                "copyright": "Fabrice Coffrini/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/biz-swiss-tariffs-01-kwlf/biz-swiss-tariffs-01-kwlf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Switzerland, known for neutrality, chocolates and watches, recently scrapped all industrial tariffs — including on U.S. goods.",
+                "copyright": "Fabrice Coffrini/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/biz-swiss-tariffs-01-kwlf/biz-swiss-tariffs-01-kwlf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Switzerland, known for neutrality, chocolates and watches, recently scrapped all industrial tariffs — including on U.S. goods.",
+                "copyright": "Fabrice Coffrini/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "your-money",
+        "subsection": "",
+        "title": "Tempted to Panic-Buy? Sit Down and Have a $1.50 Hot Dog Instead.",
+        "abstract": "A census of Costco carts on Thursday revealed little fear. Tariffs could go as fast as they’re coming, and our columnist is not stuffing his pantry.",
+        "url": "https://www.nytimes.com/2025/04/04/your-money/tariffs-panic-buying.html",
+        "uri": "nyt://article/d8f3bc0b-57e9-5f1c-ae2e-82eb02a47323",
+        "byline": "By Ron Lieber",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T14:58:18-04:00",
+        "created_date": "2025-04-04T12:00:06-04:00",
+        "published_date": "2025-04-04T12:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "Your money",
+        "des_facet": [
+            "Personal Finances",
+            "Customs (Tariff)",
+            "Shopping and Retail",
+            "Consumer Behavior"
+        ],
+        "org_facet": [
+            "Costco Wholesale Corporation"
+        ],
+        "per_facet": [
+            "Cuban, Mark"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04MONEY-gwfh/04MONEY-gwfh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Leave the toilet paper. Take the frankfurter. ",
+                "copyright": "Kerry Tasker for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04MONEY-gwfh/04MONEY-gwfh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Leave the toilet paper. Take the frankfurter. ",
+                "copyright": "Kerry Tasker for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04MONEY-gwfh/04MONEY-gwfh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Leave the toilet paper. Take the frankfurter. ",
+                "copyright": "Kerry Tasker for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
