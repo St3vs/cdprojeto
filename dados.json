@@ -11475,5 +11475,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Communities Brace for Flooding as Storm Moves Across Central U.S.",
+        "abstract": "The storm has already wreaked havoc across the South and the Midwest, killing at least eight people, including a boy who was swept away by floodwaters in Kentucky.",
+        "url": "https://www.nytimes.com/2025/04/05/us/severe-storm-flood-central-us.html",
+        "uri": "nyt://article/f69eefcf-563b-5406-bbc6-ac95d873ac05",
+        "byline": "By Simon J. Levien",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T07:59:33-04:00",
+        "created_date": "2025-04-05T07:59:33-04:00",
+        "published_date": "2025-04-05T07:59:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Tornadoes",
+            "Floods",
+            "Weather"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Indiana",
+            "Kentucky",
+            "Missouri",
+            "Tennessee"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05NAT-STORM-lqgb/05NAT-STORM-lqgb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1177,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Floodwaters in Bowling Green, Ky., on Friday. Western Tennessee, southeastern Arkansas, western Mississippi and Louisiana will face severe risk from the storm on Saturday.",
+                "copyright": "Grace Mcdowell/Daily News, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05NAT-STORM-lqgb/05NAT-STORM-lqgb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Floodwaters in Bowling Green, Ky., on Friday. Western Tennessee, southeastern Arkansas, western Mississippi and Louisiana will face severe risk from the storm on Saturday.",
+                "copyright": "Grace Mcdowell/Daily News, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05NAT-STORM-lqgb/05NAT-STORM-lqgb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Floodwaters in Bowling Green, Ky., on Friday. Western Tennessee, southeastern Arkansas, western Mississippi and Louisiana will face severe risk from the storm on Saturday.",
+                "copyright": "Grace Mcdowell/Daily News, via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
