@@ -12088,5 +12088,68 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Prosecutors on George Santos Case Seek 7-Year Sentence",
+        "abstract": "The disgraced former congressman is set to be sentenced on April 25. His lawyers asked for a penalty of two years, the minimum allowed.",
+        "url": "https://www.nytimes.com/2025/04/05/nyregion/george-santos-sentencing-prison.html",
+        "uri": "nyt://article/3506ac72-5813-5558-a48c-c6f94209498a",
+        "byline": "By Isabella Kwai and Alyce McFadden",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T11:20:24-04:00",
+        "created_date": "2025-04-05T11:07:07-04:00",
+        "published_date": "2025-04-05T11:07:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Elections, House of Representatives",
+            "Campaign Finance",
+            "Sentences (Criminal)"
+        ],
+        "org_facet": [
+            "House of Representatives"
+        ],
+        "per_facet": [
+            "Santos, George (1988- )"
+        ],
+        "geo_facet": [
+            "New York State"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05xp-santos-hpwt/05xp-santos-hpwt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "George Santos was expelled from Congress in 2023, after a report by the House Ethics Committee found evidence that he had broken federal law.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05xp-santos-hpwt/05xp-santos-hpwt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "George Santos was expelled from Congress in 2023, after a report by the House Ethics Committee found evidence that he had broken federal law.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05xp-santos-hpwt/05xp-santos-hpwt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "George Santos was expelled from Congress in 2023, after a report by the House Ethics Committee found evidence that he had broken federal law.",
+                "copyright": "Dave Sanders for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
