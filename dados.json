@@ -11165,5 +11165,315 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Trump Envoy Visits Lebanon Amid Fears Over a Shaky Cease-Fire",
+        "abstract": "Morgan Ortagus, President Trump’s deputy Middle East envoy, met with senior officials as tensions with Israel threaten the truce.",
+        "url": "https://www.nytimes.com/2025/04/05/world/middleeast/lebanon-us-israel-hezbollah.html",
+        "uri": "nyt://article/f97b956d-55c3-533b-8aab-63192e94dda7",
+        "byline": "By Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T06:21:24-04:00",
+        "created_date": "2025-04-05T06:21:24-04:00",
+        "published_date": "2025-04-05T06:21:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "War and Armed Conflicts",
+            "Iran-Israel Proxy Conflict",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [
+            "Hezbollah"
+        ],
+        "per_facet": [
+            "Morgan Ortagus"
+        ],
+        "geo_facet": [
+            "Lebanon",
+            "Israel",
+            "Middle East"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-lebanon-01-jzcl/05int-lebanon-01-jzcl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Morgan Ortagus, the U.S. deputy envoy for the Middle East, center, meeting with Prime Minister Nawaf Salam of Lebanon in Beirut on Saturday. ",
+                "copyright": "Mohamed Azakir/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-lebanon-01-jzcl/05int-lebanon-01-jzcl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Morgan Ortagus, the U.S. deputy envoy for the Middle East, center, meeting with Prime Minister Nawaf Salam of Lebanon in Beirut on Saturday. ",
+                "copyright": "Mohamed Azakir/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-lebanon-01-jzcl/05int-lebanon-01-jzcl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Morgan Ortagus, the U.S. deputy envoy for the Middle East, center, meeting with Prime Minister Nawaf Salam of Lebanon in Beirut on Saturday. ",
+                "copyright": "Mohamed Azakir/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "Tracking U.S. Measles Outbreaks",
+        "abstract": "As new cases are reported, our maps show the spread of the virus.",
+        "url": "https://www.nytimes.com/interactive/2025/health/measles-outbreak-map.html",
+        "uri": "nyt://interactive/f7dbba57-24ed-51ea-9c33-221eb46ff282",
+        "byline": "By Jonathan Corum and Teddy Rosenbluth",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-04T14:49:55-04:00",
+        "created_date": "2025-03-11T23:48:10-04:00",
+        "published_date": "2025-03-11T23:48:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Measles",
+            "Vaccination and Immunization",
+            "Disease Rates"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Texas",
+            "New Mexico",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/11/multimedia/2025-03-03-measles-outbreak-map-index/2025-03-03-measles-outbreak-map-index-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/11/multimedia/2025-03-03-measles-outbreak-map-index/2025-03-03-measles-outbreak-map-index-threeByTwoSmallAt2X-v3.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/11/multimedia/2025-03-03-measles-outbreak-map-index/2025-03-03-measles-outbreak-map-index-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "The Theories Behind the Trump Shock",
+        "abstract": "What Trump’s dramatic revision of the global trade system is intended to accomplish — and reasons for skepticism.",
+        "url": "https://www.nytimes.com/2025/04/05/opinion/trump-tariffs-theories.html",
+        "uri": "nyt://article/8892e9ae-37f1-50e2-94f4-9255b7c34def",
+        "byline": "By Ross Douthat",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T07:00:32-04:00",
+        "created_date": "2025-04-05T07:00:32-04:00",
+        "published_date": "2025-04-05T07:00:32-04:00",
+        "material_type_facet": "",
+        "kicker": "Ross Douthat",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States Economy",
+            "Customs (Tariff)",
+            "Bretton Woods Agreement"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Miran, Stephen",
+            "Nixon, Richard Milhous",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05douthat1-cflp/05douthat1-cflp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Damon Winter/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05douthat1-cflp/05douthat1-cflp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Damon Winter/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05douthat1-cflp/05douthat1-cflp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Damon Winter/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Globalization Is Collapsing. Brace Yourselves.",
+        "abstract": "The world was just as intertwined 100 years ago, and its unraveling was a disaster. Can we avoid the same outcome?",
+        "url": "https://www.nytimes.com/2025/04/05/opinion/globalization-collapse.html",
+        "uri": "nyt://article/b3b11752-c7de-5c8c-895b-95f9e759c051",
+        "byline": "By Tara Zahra",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T07:00:22-04:00",
+        "created_date": "2025-04-05T07:00:22-04:00",
+        "published_date": "2025-04-05T07:00:22-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "International Trade and World Market",
+            "World War II (1939-45)",
+            "World War I (1914-18)",
+            "Jews and Judaism",
+            "Democracy (Theory and Philosophy)",
+            "Authoritarianism (Theory and Philosophy)",
+            "War and Armed Conflicts"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/opinion/06SOcover/06SOcover-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1610,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Shana Novak/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/opinion/06SOcover/06SOcover-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Shana Novak/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/opinion/06SOcover/06SOcover-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Shana Novak/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Works of Art",
+        "abstract": "Creating rules around the content we consume can help calm our overtaxed brains and manage our moods.",
+        "url": "https://www.nytimes.com/2025/04/05/briefing/works-of-art.html",
+        "uri": "nyt://article/b5c887e1-23f2-58d8-b537-7a904423fee3",
+        "byline": "By Melissa Kirsch",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T06:14:39-04:00",
+        "created_date": "2025-04-05T06:14:39-04:00",
+        "published_date": "2025-04-05T06:14:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "internal-storyline-no",
+            "Art",
+            "Culture (Arts)",
+            "Brain",
+            "Creativity",
+            "Mental Health and Disorders"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05themorning-nl/05themorning-nl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "María Jesús Contreras"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05themorning-nl/05themorning-nl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "María Jesús Contreras"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05themorning-nl/05themorning-nl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "María Jesús Contreras"
+            }
+        ],
+        "short_url": ""
     }
 ]
