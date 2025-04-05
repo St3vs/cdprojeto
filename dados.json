@@ -11536,5 +11536,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Firing of National Security Agency Chief Rattles Lawmakers",
+        "abstract": "Gen. Timothy D. Haugh, who was also the head of U.S. Cyber Command, was one of several national security officials fired on the advice of a conspiracy theorist.",
+        "url": "https://www.nytimes.com/2025/04/05/us/politics/nsa-director-haugh-trump-loomer.html",
+        "uri": "nyt://article/2b23951f-82a4-50cf-bb78-625545fdb858",
+        "byline": "By Julian E. Barnes",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T09:16:56-04:00",
+        "created_date": "2025-04-05T08:39:00-04:00",
+        "published_date": "2025-04-05T08:39:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Defense and Military Forces",
+            "Cyberwarfare and Defense",
+            "Cyberattacks and Hackers"
+        ],
+        "org_facet": [
+            "National Security Agency",
+            "United States Cyber Command"
+        ],
+        "per_facet": [
+            "Loomer, Laura",
+            "Haugh, Timothy D",
+            "Clapper, James R Jr",
+            "Himes, James A (1966- )",
+            "King, Angus Jr"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04DC-INTEL-qwkp/04DC-INTEL-qwkp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gen. Timothy D. Haugh, director of the National Security Agency and the U.S. Cyber Command, testifying before a House committee last month.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04DC-INTEL-qwkp/04DC-INTEL-qwkp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gen. Timothy D. Haugh, director of the National Security Agency and the U.S. Cyber Command, testifying before a House committee last month.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04DC-INTEL-qwkp/04DC-INTEL-qwkp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gen. Timothy D. Haugh, director of the National Security Agency and the U.S. Cyber Command, testifying before a House committee last month.",
+                "copyright": "Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
