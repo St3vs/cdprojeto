@@ -12151,5 +12151,198 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "He Said He Would Ban Congressional Stock Trading. Now in Office, He Trades Freely.",
+        "abstract": "Representative Rob Bresnahan Jr., who campaigned on prohibiting stock trading by members of Congress, has emerged as one of the most active stock traders in the freshman class.",
+        "url": "https://www.nytimes.com/2025/04/05/us/politics/congress-stock-trading-ban.html",
+        "uri": "nyt://article/87c40f26-263e-530d-add5-3d090100e462",
+        "byline": "By Annie Karni",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T12:05:30-04:00",
+        "created_date": "2025-04-05T11:55:56-04:00",
+        "published_date": "2025-04-05T11:55:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Law and Legislation",
+            "Ethics and Official Misconduct",
+            "Insider Trading",
+            "Stocks and Bonds"
+        ],
+        "org_facet": [
+            "House of Representatives",
+            "Senate"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Pennsylvania",
+            "Wilkes-Barre (Pa)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05dc-bresnahan-01-vlgt/05dc-bresnahan-01-vlgt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Since he took office, Representative Rob Bresnahan Jr. has reported 264 stock trades, according to Capitol Trades, a site that monitors the stock market activity of lawmakers.",
+                "copyright": "Carolyn Kaster/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05dc-bresnahan-01-vlgt/05dc-bresnahan-01-vlgt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Since he took office, Representative Rob Bresnahan Jr. has reported 264 stock trades, according to Capitol Trades, a site that monitors the stock market activity of lawmakers.",
+                "copyright": "Carolyn Kaster/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05dc-bresnahan-01-vlgt/05dc-bresnahan-01-vlgt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Since he took office, Representative Rob Bresnahan Jr. has reported 264 stock trades, according to Capitol Trades, a site that monitors the stock market activity of lawmakers.",
+                "copyright": "Carolyn Kaster/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "travel",
+        "subsection": "",
+        "title": "Epic Universe Is Coming. Here’s a Sneak Peek.",
+        "abstract": "The new $7 billion theme park in Orlando opens in May. With it, Universal aims to challenge Disney by letting visitors explore lands based on movies and games.",
+        "url": "https://www.nytimes.com/2025/04/05/travel/universal-epic-universe-theme-park-orlando-preview.html",
+        "uri": "nyt://article/40178406-51b1-5c39-bede-40569005dce3",
+        "byline": "By Brooks Barnes and Todd Anderson",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T05:03:28-04:00",
+        "created_date": "2025-04-05T05:03:28-04:00",
+        "published_date": "2025-04-05T05:03:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Movies",
+            "Amusement and Theme Parks",
+            "Travel and Vacations",
+            "Harry Potter (Fictional Character)",
+            "Restaurants",
+            "How to Train Your Dragon 2 (Movie)",
+            "Super Mario Bros (Video Game)"
+        ],
+        "org_facet": [
+            "Universal Orlando Resort"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Orlando (Fla)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05trav-universal-epic-promo-wjph/05trav-universal-epic-promo-wjph-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1547,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Todd Anderson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05trav-universal-epic-promo-wjph/05trav-universal-epic-promo-wjph-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Todd Anderson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05trav-universal-epic-promo-wjph/05trav-universal-epic-promo-wjph-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Todd Anderson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Should a Killer Profit From Putting His Death Row Writings Up for Sale?",
+        "abstract": "Albert Jones’s 11 books describe life in prison. His victims’ relatives say his family should not benefit from a sale of his story.",
+        "url": "https://www.nytimes.com/2025/04/05/nyregion/albert-jones-death-row-inmate-books-sale.html",
+        "uri": "nyt://article/4f57451a-7796-5e8e-b5f9-2be21962097a",
+        "byline": "By Corey Kilgannon",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T10:04:18-04:00",
+        "created_date": "2025-04-05T03:00:13-04:00",
+        "published_date": "2025-04-05T03:00:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Prisons and Prisoners",
+            "Book Trade and Publishing",
+            "Books and Literature",
+            "Book Fairs",
+            "Archives and Records",
+            "Capital Punishment"
+        ],
+        "org_facet": [
+            "San Quentin Prison",
+            "Park Avenue Armory (Manhattan, NY)"
+        ],
+        "per_facet": [
+            "Jones, Albert (Ru-Al)",
+            "Ben Kinmont"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/nyregion/00met-prison-books/00met-prison-books-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1369,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ben Kinmont, right, in blue shirt, deals mainly in antiquarian volumes, but also modern books concerned with “gastronomy and economic precarity.”",
+                "copyright": "Angelina Katsanis for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/nyregion/00met-prison-books/00met-prison-books-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ben Kinmont, right, in blue shirt, deals mainly in antiquarian volumes, but also modern books concerned with “gastronomy and economic precarity.”",
+                "copyright": "Angelina Katsanis for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/nyregion/00met-prison-books/00met-prison-books-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ben Kinmont, right, in blue shirt, deals mainly in antiquarian volumes, but also modern books concerned with “gastronomy and economic precarity.”",
+                "copyright": "Angelina Katsanis for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
