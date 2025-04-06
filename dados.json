@@ -13091,5 +13091,328 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Inspectors Say More Than 100 Chemical Weapons Sites Could Remain in Syria",
+        "abstract": "The number, far higher than any previous estimate, poses a test for the new government. Experts fear that sarin, chlorine and mustard gas stockpiles could be unsecured.",
+        "url": "https://www.nytimes.com/2025/04/06/world/middleeast/syria-chemical-weapons-assad.html",
+        "uri": "nyt://article/311114d5-5fc6-5efb-a001-040cbb890338",
+        "byline": "By Megha Rajagopalan",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T00:01:07-04:00",
+        "created_date": "2025-04-06T00:01:07-04:00",
+        "published_date": "2025-04-06T00:01:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Biological and Chemical Warfare",
+            "Civilian Casualties",
+            "Arms Control and Limitation and Disarmament",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Organization for the Prohibition of Chemical Weapons",
+            "White Helmets (Syrian Civil Defense Volunteer Group)"
+        ],
+        "per_facet": [
+            "Assad, Bashar al-"
+        ],
+        "geo_facet": [
+            "Damascus (Syria)",
+            "Ghouta (Syria)",
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00int-syria-weapons-01-fmhw/00int-syria-weapons-01-fmhw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Investigating a possible chemical weapons attack site in the Ain Tarma area of Syria in 2013. When president, Bashar al-Assad used chemical weapons during the yearslong civil war.",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00int-syria-weapons-01-fmhw/00int-syria-weapons-01-fmhw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Investigating a possible chemical weapons attack site in the Ain Tarma area of Syria in 2013. When president, Bashar al-Assad used chemical weapons during the yearslong civil war.",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00int-syria-weapons-01-fmhw/00int-syria-weapons-01-fmhw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Investigating a possible chemical weapons attack site in the Ain Tarma area of Syria in 2013. When president, Bashar al-Assad used chemical weapons during the yearslong civil war.",
+                "copyright": "Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "After Trump’s Tariffs, Stocks Plunged but Penguin Memes Ticked Up",
+        "abstract": "The internet poked fun at the Trump administration’s decision to impose new tariffs on Heard Island and McDonald Islands, Australian territories near Antarctica where many penguins but no people live.",
+        "url": "https://www.nytimes.com/2025/04/05/world/americas/penguins-tariffs-island.html",
+        "uri": "nyt://article/4aedd256-cf9c-5372-8132-095304eb9f59",
+        "byline": "By Eve Sampson",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T18:16:17-04:00",
+        "created_date": "2025-04-05T18:16:17-04:00",
+        "published_date": "2025-04-05T18:16:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "International Trade and World Market",
+            "Social Media",
+            "Penguins"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Heard Island and McDonald Islands"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-tariffs-penguins-kbgj/05int-tariffs-penguins-kbgj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1325,
+                "width": 1988,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released by the Australian Antarctic Division shows a group of King penguins standing on the shores of Corinthian Bay in the Australian territory of Heard Island.",
+                "copyright": "Matt Curnock/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-tariffs-penguins-kbgj/05int-tariffs-penguins-kbgj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released by the Australian Antarctic Division shows a group of King penguins standing on the shores of Corinthian Bay in the Australian territory of Heard Island.",
+                "copyright": "Matt Curnock/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-tariffs-penguins-kbgj/05int-tariffs-penguins-kbgj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released by the Australian Antarctic Division shows a group of King penguins standing on the shores of Corinthian Bay in the Australian territory of Heard Island.",
+                "copyright": "Matt Curnock/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "British Carmaker Jaguar Land Rover Pauses Shipments to U.S.",
+        "abstract": "The luxury automaker, which faces 25 percent import tariffs, said it was halting shipments in April as it addresses the new trading terms.",
+        "url": "https://www.nytimes.com/2025/04/05/business/jaguar-land-rover-tariffs-shipments.html",
+        "uri": "nyt://article/2a11d61c-9894-5400-9e32-86624777c478",
+        "byline": "By Eshe Nelson",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T22:37:39-04:00",
+        "created_date": "2025-04-05T12:25:05-04:00",
+        "published_date": "2025-04-05T12:25:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Automobiles",
+            "International Trade and World Market",
+            "Luxury Goods and Services",
+            "Customs (Tariff)",
+            "Prices (Fares, Fees and Rates)"
+        ],
+        "org_facet": [
+            "Jaguar Land Rover",
+            "Tata Motors Ltd"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05biz-jlr-tariffs-2-hwlj/05biz-jlr-tariffs-2-hwlj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1229,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New vehicles at the Jaguar Land Rover plant near Liverpool, England.",
+                "copyright": "Adam Vaughan/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05biz-jlr-tariffs-2-hwlj/05biz-jlr-tariffs-2-hwlj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New vehicles at the Jaguar Land Rover plant near Liverpool, England.",
+                "copyright": "Adam Vaughan/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05biz-jlr-tariffs-2-hwlj/05biz-jlr-tariffs-2-hwlj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New vehicles at the Jaguar Land Rover plant near Liverpool, England.",
+                "copyright": "Adam Vaughan/EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "‘0 to 1939 in 3 seconds’: Why Anti-Elon Musk Satire Is Flourishing in Britain",
+        "abstract": "Humor and art have been used to mock the powerful in Britain for centuries. Now Elon Musk is on the receiving end.",
+        "url": "https://www.nytimes.com/2025/04/06/world/europe/anti-elon-musk-tesla-ads.html",
+        "uri": "nyt://article/778134a8-415d-5be7-8017-4d29b67fc870",
+        "byline": "By Michael D. Shear",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T00:01:14-04:00",
+        "created_date": "2025-04-06T00:01:14-04:00",
+        "published_date": "2025-04-06T00:01:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Electric and Hybrid Vehicles",
+            "United States Politics and Government",
+            "Social Media",
+            "Demonstrations, Protests and Riots",
+            "Right-Wing Extremism and Alt-Right",
+            "Comedy and Humor",
+            "Authoritarianism (Theory and Philosophy)"
+        ],
+        "org_facet": [
+            "Center for Political Beauty",
+            "Tesla Motors Inc"
+        ],
+        "per_facet": [
+            "Musk, Elon",
+            "Ruch, Philipp"
+        ],
+        "geo_facet": [
+            "Berlin (Germany)",
+            "Europe",
+            "Great Britain",
+            "London (England)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-uk-musk-01-kfbt/06int-uk-musk-01-kfbt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A fake advertisement on a bus stop in London last month.",
+                "copyright": "Leon Neal/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-uk-musk-01-kfbt/06int-uk-musk-01-kfbt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A fake advertisement on a bus stop in London last month.",
+                "copyright": "Leon Neal/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-uk-musk-01-kfbt/06int-uk-musk-01-kfbt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A fake advertisement on a bus stop in London last month.",
+                "copyright": "Leon Neal/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "For Many Russian Exiles, Even a Peace Deal Might Not Mean a Ticket Home",
+        "abstract": "Hundreds of thousands fled Russia after the Ukraine invasion, fearing the draft and widening repression. Talks toward a possible truce have done little to allay their fears.",
+        "url": "https://www.nytimes.com/2025/04/06/world/europe/russian-exiles-return-putin-war-ceasefire.html",
+        "uri": "nyt://article/4ee2497a-0152-5404-9a97-f85dffd75ee1",
+        "byline": "By Nataliya Vasilyeva",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T00:01:07-04:00",
+        "created_date": "2025-04-06T00:01:07-04:00",
+        "published_date": "2025-04-06T00:01:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "International Relations",
+            "Youth"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Istanbul (Turkey)",
+            "Russia",
+            "Turkey"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-russians-abroad-01-bmvf/06int-russians-abroad-01-bmvf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "At a recent exhibition at Black Mustache, a bookstore in Istanbul founded by a Russian exile in 2022.",
+                "copyright": "Emin Ozmen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-russians-abroad-01-bmvf/06int-russians-abroad-01-bmvf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "At a recent exhibition at Black Mustache, a bookstore in Istanbul founded by a Russian exile in 2022.",
+                "copyright": "Emin Ozmen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-russians-abroad-01-bmvf/06int-russians-abroad-01-bmvf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "At a recent exhibition at Black Mustache, a bookstore in Istanbul founded by a Russian exile in 2022.",
+                "copyright": "Emin Ozmen for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
