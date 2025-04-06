@@ -15821,5 +15821,78 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "theater",
+        "subsection": "",
+        "title": "John Lithgow’s ‘Giant’ Is Among the Big Winners at the Olivier Awards",
+        "abstract": "The play, about Roald Dahl’s antisemitism, took home three awards at Britain’s equivalent of the Tonys. So did a “Fiddler on the Roof” revival and a folk rock “Benjamin Button.”",
+        "url": "https://www.nytimes.com/2025/04/06/theater/olivier-awards-winners-giant-lithgow.html",
+        "uri": "nyt://article/f641350c-203c-5159-a524-d7d872ac9dc5",
+        "byline": "By Alex Marshall",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T16:30:07-04:00",
+        "created_date": "2025-04-06T16:30:07-04:00",
+        "published_date": "2025-04-06T16:30:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Theater",
+            "Awards, Decorations and Honors",
+            "Actors and Actresses",
+            "Giant (Play)",
+            "The Curious Case of Benjamin Button (Play)",
+            "Fiddler on the Roof (Play)",
+            "Hello, Dolly! (Play)",
+            "The Years (Play)",
+            "Titanique (Play)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Lithgow, John",
+            "Rosenblatt, Mark (Theater Director)",
+            "Hytner, Nicholas",
+            "Arbo, Eline",
+            "Icke, Robert (1986- )",
+            "Manville, Lesley",
+            "Staunton, Imelda"
+        ],
+        "geo_facet": [
+            "London (England)",
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/CUL-OLIVIER-AWARDS-mkwt/CUL-OLIVIER-AWARDS-mkwt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "John Lithgow as Roald Dahl in “Giant.” Lithgow won the best actor prize at the Olivier Awards.",
+                "copyright": "Manuel Harlan"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/CUL-OLIVIER-AWARDS-mkwt/CUL-OLIVIER-AWARDS-mkwt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "John Lithgow as Roald Dahl in “Giant.” Lithgow won the best actor prize at the Olivier Awards.",
+                "copyright": "Manuel Harlan"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/CUL-OLIVIER-AWARDS-mkwt/CUL-OLIVIER-AWARDS-mkwt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "John Lithgow as Roald Dahl in “Giant.” Lithgow won the best actor prize at the Olivier Awards.",
+                "copyright": "Manuel Harlan"
+            }
+        ],
+        "short_url": ""
     }
 ]
