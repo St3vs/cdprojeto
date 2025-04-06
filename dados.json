@@ -13030,5 +13030,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Justice Dept. Accuses Top Immigration Lawyer of Failing to Follow Orders",
+        "abstract": "Erez Reuveni conceded in court that the deportation last month of Kilmar Armando Abrego Garcia, who had a court order allowing him to stay in the United States, should never have taken place.",
+        "url": "https://www.nytimes.com/2025/04/05/us/politics/justice-dept-immigration-lawyer-leave.html",
+        "uri": "nyt://article/614e3854-2bd7-5bd3-a526-4ac2dd1341d9",
+        "byline": "By Glenn Thrush",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T18:42:09-04:00",
+        "created_date": "2025-04-05T17:04:39-04:00",
+        "published_date": "2025-04-05T17:04:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Deportation"
+        ],
+        "org_facet": [
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Blanche, Todd (Attorney)",
+            "Bondi, Pamela J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05-DOJ-Reuveni-lgbp/05-DOJ-Reuveni-lgbp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Department of Justice building in Washington. Erez Reuveni was promoted to acting deputy director of the Justice Department’s Office of Immigration Litigation two weeks ago.",
+                "copyright": "Sarah Silbiger for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05-DOJ-Reuveni-lgbp/05-DOJ-Reuveni-lgbp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Department of Justice building in Washington. Erez Reuveni was promoted to acting deputy director of the Justice Department’s Office of Immigration Litigation two weeks ago.",
+                "copyright": "Sarah Silbiger for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05-DOJ-Reuveni-lgbp/05-DOJ-Reuveni-lgbp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Department of Justice building in Washington. Erez Reuveni was promoted to acting deputy director of the Justice Department’s Office of Immigration Litigation two weeks ago.",
+                "copyright": "Sarah Silbiger for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
