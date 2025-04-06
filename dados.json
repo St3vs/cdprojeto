@@ -13547,5 +13547,839 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trump’s Tariffs Will Wound Free Trade, but the Blow May Not Be Fatal",
+        "abstract": "Free trade has been so beneficial to so many countries that the world may find a way to live without its biggest player.",
+        "url": "https://www.nytimes.com/2025/04/06/world/europe/trade-trump-tariffs-brexit.html",
+        "uri": "nyt://article/88a1de89-a653-5496-9b3e-a4df695098b2",
+        "byline": "By Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T05:01:37-04:00",
+        "created_date": "2025-04-06T05:01:37-04:00",
+        "published_date": "2025-04-06T05:01:37-04:00",
+        "material_type_facet": "",
+        "kicker": "Analysis",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "International Relations",
+            "Great Britain Withdrawal from EU (Brexit)"
+        ],
+        "org_facet": [
+            "World Trade Organization",
+            "European Union"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Starmer, Keir"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-global-trade-assess-kzvh/06int-global-trade-assess-kzvh-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump on Wednesday in the White House Rose Garden, where he announced a sweeping list of tariffs on more than 100 countries.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-global-trade-assess-kzvh/06int-global-trade-assess-kzvh-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump on Wednesday in the White House Rose Garden, where he announced a sweeping list of tariffs on more than 100 countries.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-global-trade-assess-kzvh/06int-global-trade-assess-kzvh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump on Wednesday in the White House Rose Garden, where he announced a sweeping list of tariffs on more than 100 countries.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "Small Businesses Face a ‘Tornado’ of Challenges: Cuts, Freezes and Now Tariffs",
+        "abstract": "President Trump vowed to aid entrepreneurs by reducing taxes and slicing red tape. But some owners say other policies have put them at a disadvantage.",
+        "url": "https://www.nytimes.com/2025/04/06/business/economy/trump-tariffs-small-business.html",
+        "uri": "nyt://article/27fbe17e-48ce-56c3-9839-8a38ab48bcf2",
+        "byline": "By Lydia DePillis",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T05:01:38-04:00",
+        "created_date": "2025-04-06T05:01:38-04:00",
+        "published_date": "2025-04-06T05:01:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Small Business",
+            "Federal Aid (US)",
+            "International Trade and World Market",
+            "United States Economy",
+            "Entrepreneurship",
+            "Customs (Tariff)",
+            "Executive Orders and Memorandums",
+            "Regulation and Deregulation of Industry"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06biz-trump-small-biz-wgtf/06biz-trump-small-biz-wgtf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ben Coryell, owner of Golden Mountain Guides in Colorado, is concerned about how long his business can continue to offer climbing courses and mountaineering expeditions.",
+                "copyright": "Rachel Woolf for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06biz-trump-small-biz-wgtf/06biz-trump-small-biz-wgtf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ben Coryell, owner of Golden Mountain Guides in Colorado, is concerned about how long his business can continue to offer climbing courses and mountaineering expeditions.",
+                "copyright": "Rachel Woolf for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06biz-trump-small-biz-wgtf/06biz-trump-small-biz-wgtf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ben Coryell, owner of Golden Mountain Guides in Colorado, is concerned about how long his business can continue to offer climbing courses and mountaineering expeditions.",
+                "copyright": "Rachel Woolf for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "upshot",
+        "subsection": "",
+        "title": "For Republicans, Tariffs Pose a Risk Like No Other",
+        "abstract": "Trump’s political strength is built on the economy. If it sinks, he could drag his party down with him.",
+        "url": "https://www.nytimes.com/2025/04/06/upshot/trump-tariffs-republicans-risk.html",
+        "uri": "nyt://article/29f1b7c3-8565-5212-8782-c1a3e50949a4",
+        "byline": "By Nate Cohn",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T05:01:45-04:00",
+        "created_date": "2025-04-06T05:01:45-04:00",
+        "published_date": "2025-04-06T05:01:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "United States Politics and Government",
+            "Polls and Public Opinion",
+            "Presidential Election of 2024",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00up-tariff1-vlct/00up-tariff1-vlct-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The fallout from tariffs could obscure the popular elements of the Trump agenda.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00up-tariff1-vlct/00up-tariff1-vlct-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The fallout from tariffs could obscure the popular elements of the Trump agenda.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00up-tariff1-vlct/00up-tariff1-vlct-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The fallout from tariffs could obscure the popular elements of the Trump agenda.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "President’s Third Term Talk Defies Constitution and Tests Democracy",
+        "abstract": "The 22nd Amendment is clear: President Trump has to give up his office after his second term. But his refusal to accept that underscores how far he is willing to consider going to consolidate power.",
+        "url": "https://www.nytimes.com/2025/04/06/us/politics/trump-third-term-constitution.html",
+        "uri": "nyt://article/fcb956a2-c7ff-50e6-80af-4f0ae576c269",
+        "byline": "By Peter Baker",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T05:01:40-04:00",
+        "created_date": "2025-04-06T05:01:40-04:00",
+        "published_date": "2025-04-06T05:01:40-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States Politics and Government",
+            "Presidential Election of 2020",
+            "Presidential Power (US)",
+            "Democracy (Theory and Philosophy)",
+            "Polls and Public Opinion",
+            "Authoritarianism (Theory and Philosophy)",
+            "Storming of the US Capitol (Jan, 2021)",
+            "Fourteenth Amendment (US Constitution)"
+        ],
+        "org_facet": [
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06dc-assess-hkwf/06dc-assess-hkwf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Donald Trump speaks to the media outside of the White House on Thursday.",
+                "copyright": "Tom Brenner for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06dc-assess-hkwf/06dc-assess-hkwf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Donald Trump speaks to the media outside of the White House on Thursday.",
+                "copyright": "Tom Brenner for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06dc-assess-hkwf/06dc-assess-hkwf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Donald Trump speaks to the media outside of the White House on Thursday.",
+                "copyright": "Tom Brenner for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Used Tesla Market Heats Up as Owners Sell to Protest Elon Musk",
+        "abstract": "Teslas that have been sold or traded in during the backlash against the company’s chief executive have become bargains on lots.",
+        "url": "https://www.nytimes.com/2025/04/06/business/used-tesla-elon-musk-trump.html",
+        "uri": "nyt://article/5421ce1f-2eab-5d55-9a40-30d2b5e4ec58",
+        "byline": "By Neal E. Boudette",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T05:00:42-04:00",
+        "created_date": "2025-04-06T05:00:42-04:00",
+        "published_date": "2025-04-06T05:00:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Electric and Hybrid Vehicles",
+            "Automobiles",
+            "United States Politics and Government",
+            "Demonstrations, Protests and Riots",
+            "Prices (Fares, Fees and Rates)",
+            "Customer Relations",
+            "Used Cars",
+            "Automobile Service and Charging Stations",
+            "Tax Credits, Deductions and Exemptions"
+        ],
+        "org_facet": [
+            "Tesla Motors Inc",
+            "Government Efficiency Department (US)"
+        ],
+        "per_facet": [
+            "Musk, Elon",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Alameda County (Calif)",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04biz-used-teslas-01-jhcg/04biz-used-teslas-01-jhcg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Used Teslas at Hayward Honda in Hayward, Calif. Many owners began selling their Teslas as a form of protest or because they no longer wanted to be associated with the company, led by Elon Musk.",
+                "copyright": "Loren Elliott for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04biz-used-teslas-01-jhcg/04biz-used-teslas-01-jhcg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Used Teslas at Hayward Honda in Hayward, Calif. Many owners began selling their Teslas as a form of protest or because they no longer wanted to be associated with the company, led by Elon Musk.",
+                "copyright": "Loren Elliott for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04biz-used-teslas-01-jhcg/04biz-used-teslas-01-jhcg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Used Teslas at Hayward Honda in Hayward, Calif. Many owners began selling their Teslas as a form of protest or because they no longer wanted to be associated with the company, led by Elon Musk.",
+                "copyright": "Loren Elliott for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "magazine",
+        "subsection": "",
+        "title": "This Is the Holocaust Story I Said I Wouldn’t Write",
+        "abstract": "For years, my friend’s father asked me to recount his childhood escape from the Nazis. Why did it take me this long?",
+        "url": "https://www.nytimes.com/2025/04/06/magazine/holocaust-story-education.html",
+        "uri": "nyt://article/9653be93-1a32-5a03-ba12-2ae8d2454d9d",
+        "byline": "By Taffy Brodesser-Akner",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T05:00:34-04:00",
+        "created_date": "2025-04-06T05:00:34-04:00",
+        "published_date": "2025-04-06T05:00:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Holocaust and the Nazi Era",
+            "Jews and Judaism",
+            "Museums",
+            "World War II (1939-45)",
+            "Concentration Camps",
+            "Anti-Semitism",
+            "War Crimes, Genocide and Crimes Against Humanity"
+        ],
+        "org_facet": [
+            "Museum of Jewish Heritage"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Hungary"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/magazine/06mag-holocaust/06mag-holocaust-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1365,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "[[CAPTION INFO: Jehuda Lindenblatt at home in November 2024.]]",
+                "copyright": "Elinor Carucci for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/magazine/06mag-holocaust/06mag-holocaust-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "[[CAPTION INFO: Jehuda Lindenblatt at home in November 2024.]]",
+                "copyright": "Elinor Carucci for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/magazine/06mag-holocaust/06mag-holocaust-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "[[CAPTION INFO: Jehuda Lindenblatt at home in November 2024.]]",
+                "copyright": "Elinor Carucci for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Sudanese Refugees Flee to Chad Amid Deadly Airstrikes",
+        "abstract": "",
+        "url": "https://www.nytimes.com/2025/04/06/world/africa/sudan-strikes-refugees.html",
+        "uri": "nyt://article/883836fb-50bf-569a-b897-6cbccc104c89",
+        "byline": "By Alex Pena",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T04:55:04-04:00",
+        "created_date": "2025-04-06T04:55:04-04:00",
+        "published_date": "2025-04-06T04:55:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Refugees and Displaced Persons",
+            "War Crimes, Genocide and Crimes Against Humanity",
+            "Doctors"
+        ],
+        "org_facet": [
+            "Rapid Support Forces (Sudan)",
+            "Sudanese Armed Forces"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Sudan",
+            "Darfur (Sudan)",
+            "Chad"
+        ],
+        "multimedia": null,
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "media",
+        "title": "‘White Lotus’ Audience Is Big, and Keeps Getting Bigger",
+        "abstract": "The show, which ends its third season on Sunday, has built one of the largest audiences of any HBO series.",
+        "url": "https://www.nytimes.com/2025/04/06/business/media/white-lotus-ratings.html",
+        "uri": "nyt://article/076932ac-eb1f-5f80-ba2c-309bf1383ba6",
+        "byline": "By John Koblin",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T05:01:30-04:00",
+        "created_date": "2025-04-06T05:01:30-04:00",
+        "published_date": "2025-04-06T05:01:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Television",
+            "Ratings (Audience Measurement)"
+        ],
+        "org_facet": [
+            "Home Box Office",
+            "HBO Max",
+            "Nielsen Media Research"
+        ],
+        "per_facet": [
+            "Bloys, Casey",
+            "White, Mike (1970- )"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06biz-lotus-fix-qmkh/06biz-lotus-fix-qmkh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1280,
+                "width": 1920,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Stars in the third season of HBO’s “The White Lotus” include, from left, Sam Nivola, Sarah Catherine Hook and Patrick Schwarzenegger. ",
+                "copyright": "Fabio Lovino/HBO, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06biz-lotus-fix-qmkh/06biz-lotus-fix-qmkh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Stars in the third season of HBO’s “The White Lotus” include, from left, Sam Nivola, Sarah Catherine Hook and Patrick Schwarzenegger. ",
+                "copyright": "Fabio Lovino/HBO, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06biz-lotus-fix-qmkh/06biz-lotus-fix-qmkh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Stars in the third season of HBO’s “The White Lotus” include, from left, Sam Nivola, Sarah Catherine Hook and Patrick Schwarzenegger. ",
+                "copyright": "Fabio Lovino/HBO, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "‘The White Lotus’: 7 Questions for the Season 3 Finale",
+        "abstract": "As this season heads into its supersized conclusion on Sunday night, here are a few questions that need answers.",
+        "url": "https://www.nytimes.com/2025/04/06/arts/television/the-white-lotus-season-3-finale-preview.html",
+        "uri": "nyt://article/cf368d4d-5563-5ef1-9fca-df4242f3a64c",
+        "byline": "By Noel Murray",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T05:01:11-04:00",
+        "created_date": "2025-04-06T05:01:11-04:00",
+        "published_date": "2025-04-06T05:01:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Television",
+            "The White Lotus (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/arts/06WLprimer/06WLprimer-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1788,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "What fate awaits Rick (Walton Goggins) in the “White Lotus” season finale?",
+                "copyright": "Fabio Lovino/HBO"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/arts/06WLprimer/06WLprimer-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "What fate awaits Rick (Walton Goggins) in the “White Lotus” season finale?",
+                "copyright": "Fabio Lovino/HBO"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/arts/06WLprimer/06WLprimer-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "What fate awaits Rick (Walton Goggins) in the “White Lotus” season finale?",
+                "copyright": "Fabio Lovino/HBO"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "style",
+        "subsection": "",
+        "title": "We’ll Always Have Lorazepam",
+        "abstract": "“The White Lotus” Season 3 may be ending, but the medication that has become synonymous with it has found a new life in memes and merchandise.",
+        "url": "https://www.nytimes.com/2025/04/06/style/the-white-lotus-lorazepam-memes.html",
+        "uri": "nyt://article/db1ca971-de90-5681-9408-23c13b56bef0",
+        "byline": "By Valeriya Safronova",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T05:00:47-04:00",
+        "created_date": "2025-04-06T05:00:47-04:00",
+        "published_date": "2025-04-06T05:00:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Television",
+            "Social Media",
+            "Voice and Speech",
+            "Drugs (Pharmaceuticals)",
+            "The White Lotus (TV Program)"
+        ],
+        "org_facet": [
+            "Home Box Office"
+        ],
+        "per_facet": [
+            "Posey, Parker"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06LORAZEPAM-01-lfzw/06LORAZEPAM-01-lfzw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1260,
+                "width": 1890,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Victoria Ratliff (Parker Posey) dipping into her stash of lorazepam on “The White Lotus.”",
+                "copyright": "HBO"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06LORAZEPAM-01-lfzw/06LORAZEPAM-01-lfzw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Victoria Ratliff (Parker Posey) dipping into her stash of lorazepam on “The White Lotus.”",
+                "copyright": "HBO"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06LORAZEPAM-01-lfzw/06LORAZEPAM-01-lfzw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Victoria Ratliff (Parker Posey) dipping into her stash of lorazepam on “The White Lotus.”",
+                "copyright": "HBO"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "With Universities Threatened, Can Boston Still Be Boston?",
+        "abstract": "Colleges and teaching hospitals are the cornerstones of the city’s economy — and identity. But federal funding cuts to higher education could change that.",
+        "url": "https://www.nytimes.com/2025/04/06/us/boston-trump-harvard-university-funding.html",
+        "uri": "nyt://article/246f4c1c-504e-5399-bfa6-bf5ad157bd07",
+        "byline": "By Jenna Russell",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T05:01:05-04:00",
+        "created_date": "2025-04-06T05:01:05-04:00",
+        "published_date": "2025-04-06T05:01:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Colleges and Universities",
+            "Federal Aid (US)",
+            "Research",
+            "Hospitals",
+            "Federal-State Relations (US)",
+            "Deportation",
+            "Grants (Corporate and Foundation)",
+            "Layoffs and Job Reductions",
+            "Education (K-12)",
+            "Anti-Semitism",
+            "International Study and Teaching",
+            "Drugs (Pharmaceuticals)",
+            "Libraries and Librarians",
+            "Law Schools",
+            "Foreign Students (in US)",
+            "Illegal Immigration",
+            "Medicine and Health",
+            "Labor and Jobs"
+        ],
+        "org_facet": [
+            "Biogen Inc",
+            "Boston Children's Hospital",
+            "Columbia University",
+            "Harvard Law School",
+            "Harvard University",
+            "Homeland Security Department",
+            "Mass General Brigham Inc",
+            "Massachusetts Institute of Technology",
+            "National Institutes of Health",
+            "Pennsylvania State University",
+            "Tufts University",
+            "University of Massachusetts",
+            "Vertex Pharmaceuticals Inc"
+        ],
+        "per_facet": [
+            "Bacow, Lawrence S",
+            "Healey, Maura (1971- )",
+            "Orban, Viktor",
+            "Trump, Donald J",
+            "Vance, J D",
+            "Wu, Michelle (1985- )"
+        ],
+        "geo_facet": [
+            "Alaska",
+            "Boston (Mass)",
+            "Cambridge (Mass)",
+            "China",
+            "Houston (Tex)",
+            "Massachusetts",
+            "Massachusetts Bay Colony",
+            "New England States (US)",
+            "Virginia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06nat-boston-identity-01-vktl/06nat-boston-identity-01-vktl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard is facing a government review of $9 billion in federal grants and contracts. ",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06nat-boston-identity-01-vktl/06nat-boston-identity-01-vktl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard is facing a government review of $9 billion in federal grants and contracts. ",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06nat-boston-identity-01-vktl/06nat-boston-identity-01-vktl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard is facing a government review of $9 billion in federal grants and contracts. ",
+                "copyright": "Sophie Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "This Agency Fights Corruption. New York City Leaders Have Weakened It.",
+        "abstract": "The Department of Investigation, tasked with stamping out corruption in city government, has lost more than a quarter of its employees since 2019.",
+        "url": "https://www.nytimes.com/2025/04/06/nyregion/nyc-corruption-adams-doi.html",
+        "uri": "nyt://article/ca5da3fb-3f33-5775-aa1f-45278a76cf06",
+        "byline": "By Jan Ransom",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T03:00:06-04:00",
+        "created_date": "2025-04-06T03:00:06-04:00",
+        "published_date": "2025-04-06T03:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Corruption (Institutional)",
+            "Eric Adams Federal Corruption Case (24 CR 556)",
+            "Ethics and Official Misconduct",
+            "Politics and Government",
+            "Budgets and Budgeting"
+        ],
+        "org_facet": [
+            "City Council (NYC)",
+            "Correction Department (NYC)",
+            "Department of Investigation (NYC)",
+            "Office of Management and Budget (US)",
+            "Tammany Hall"
+        ],
+        "per_facet": [
+            "Adams, Eric L",
+            "Bloomberg, Michael R",
+            "de Blasio, Bill",
+            "Giuliani, Rudolph W",
+            "Tweed, William M"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/01/multimedia/00met-adams-doi1-bvcg/00met-adams-doi1-bvcg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Under Mayor Eric Adams, New York’s anti-corruption agency has struggled to fill vacant positions.",
+                "copyright": "Graham Dickie/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/01/multimedia/00met-adams-doi1-bvcg/00met-adams-doi1-bvcg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Under Mayor Eric Adams, New York’s anti-corruption agency has struggled to fill vacant positions.",
+                "copyright": "Graham Dickie/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/01/multimedia/00met-adams-doi1-bvcg/00met-adams-doi1-bvcg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Under Mayor Eric Adams, New York’s anti-corruption agency has struggled to fill vacant positions.",
+                "copyright": "Graham Dickie/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "‘A Minecraft Movie’ Arrives as a Surprise Box Office Smash",
+        "abstract": "Weekend ticket sales will total at least $140 million, analysts said, about 75 percent more than expected, ending a Hollywood dry spell.",
+        "url": "https://www.nytimes.com/2025/04/06/business/a-minecraft-movie-box-office.html",
+        "uri": "nyt://article/d4279d17-147d-53b1-9aef-e65e5276d042",
+        "byline": "By Brooks Barnes",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T05:01:43-04:00",
+        "created_date": "2025-04-06T05:01:43-04:00",
+        "published_date": "2025-04-06T05:01:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Box Office Sales",
+            "Movies",
+            "A Minecraft Movie (Movie)"
+        ],
+        "org_facet": [
+            "Legendary Pictures",
+            "Legendary Entertainment",
+            "Warner Bros Discovery"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00biz-box-office-tqvm/00biz-box-office-tqvm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Legendary Entertainment helped Warner Bros. adapt the Minecraft video game into a movie starring, from left, Jack Black, Jason Momoa and Sebastian Hansen.",
+                "copyright": "Warner Bros. Pictures"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00biz-box-office-tqvm/00biz-box-office-tqvm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Legendary Entertainment helped Warner Bros. adapt the Minecraft video game into a movie starring, from left, Jack Black, Jason Momoa and Sebastian Hansen.",
+                "copyright": "Warner Bros. Pictures"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00biz-box-office-tqvm/00biz-box-office-tqvm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Legendary Entertainment helped Warner Bros. adapt the Minecraft video game into a movie starring, from left, Jack Black, Jason Momoa and Sebastian Hansen.",
+                "copyright": "Warner Bros. Pictures"
+            }
+        ],
+        "short_url": ""
     }
 ]
