@@ -14963,5 +14963,541 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Buy or Wait? Americans Wrestle With How Tariffs Will Affect Their Shopping.",
+        "abstract": "In the first weekend since President Trump unveiled broad tariffs, many shoppers sought to get ahead of expected price hikes, while others showed patience.",
+        "url": "https://www.nytimes.com/2025/04/06/us/trump-tariffs-shopping-consumer-panic-buying.html",
+        "uri": "nyt://article/5382ae92-e55e-5a6e-b703-6beb853f44f6",
+        "byline": "By Orlando Mayorquín",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T12:34:02-04:00",
+        "created_date": "2025-04-06T12:34:02-04:00",
+        "published_date": "2025-04-06T12:34:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Shopping and Retail",
+            "United States Economy",
+            "Consumer Behavior"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06nat-shopping-tariffs-01-jgbc/06nat-shopping-tariffs-01-jgbc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A shopper in Marina del Rey, Calif. Many Americans this weekend were out in grocery stores, car dealerships, malls and big discount chains, racing to figure out how to get ahead of the new tariffs plan.",
+                "copyright": "Mark Abramson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06nat-shopping-tariffs-01-jgbc/06nat-shopping-tariffs-01-jgbc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A shopper in Marina del Rey, Calif. Many Americans this weekend were out in grocery stores, car dealerships, malls and big discount chains, racing to figure out how to get ahead of the new tariffs plan.",
+                "copyright": "Mark Abramson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06nat-shopping-tariffs-01-jgbc/06nat-shopping-tariffs-01-jgbc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A shopper in Marina del Rey, Calif. Many Americans this weekend were out in grocery stores, car dealerships, malls and big discount chains, racing to figure out how to get ahead of the new tariffs plan.",
+                "copyright": "Mark Abramson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "upshot",
+        "subsection": "",
+        "title": "The Three States That Are Especially Stuck if Congress Cuts Medicaid",
+        "abstract": "States that were once reluctant to expand Medicaid now have their state budgets tied to the fate of the program by constitutional amendments.",
+        "url": "https://www.nytimes.com/2025/04/06/upshot/medicaid-cuts-republicans-states.html",
+        "uri": "nyt://article/6d114146-c7b5-5ccb-a7fb-459bd861d725",
+        "byline": "By Sarah Kliff and Margot Sanger-Katz",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T08:49:21-04:00",
+        "created_date": "2025-04-06T05:00:32-04:00",
+        "published_date": "2025-04-06T05:00:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Medicaid",
+            "Federal-State Relations (US)",
+            "Health Insurance and Managed Care",
+            "United States Politics and Government",
+            "Law and Legislation",
+            "Federal Aid (US)",
+            "States (US)",
+            "Patient Protection and Affordable Care Act (2010)"
+        ],
+        "org_facet": [
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Hawley, Josh D (1979- )"
+        ],
+        "geo_facet": [
+            "Missouri",
+            "Oklahoma",
+            "South Dakota"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/2025-04-04-medicaid-states-index/2025-04-04-medicaid-states-index-superJumbo-v2.png",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/2025-04-04-medicaid-states-index/2025-04-04-medicaid-states-index-threeByTwoSmallAt2X-v3.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/2025-04-04-medicaid-states-index/2025-04-04-medicaid-states-index-thumbLarge-v2.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Republicans Want to Make the Trump Tax Cuts Last Forever",
+        "abstract": "Senate Republicans are hoping to ice Democrats out from deciding the fate of President Trump’s 2017 tax cuts, a move that Democrats could eventually use against them.",
+        "url": "https://www.nytimes.com/2025/04/06/us/politics/republicans-tax-cuts.html",
+        "uri": "nyt://article/38920150-9a05-5573-b40e-d3dbc42d1bf7",
+        "byline": "By Andrew Duehren",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T05:01:18-04:00",
+        "created_date": "2025-04-06T05:01:18-04:00",
+        "published_date": "2025-04-06T05:01:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Taxation",
+            "Politics and Government",
+            "Federal Budget (US)",
+            "Tax Cuts and Jobs Act (2017)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06dc-trumptax-mkzl/06dc-trumptax-mkzl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator John Thune of South Dakota, the Republican majority leader, said that “Senate Republicans are united with the president in viewing a temporary extension as unacceptable.”",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06dc-trumptax-mkzl/06dc-trumptax-mkzl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator John Thune of South Dakota, the Republican majority leader, said that “Senate Republicans are united with the president in viewing a temporary extension as unacceptable.”",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06dc-trumptax-mkzl/06dc-trumptax-mkzl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator John Thune of South Dakota, the Republican majority leader, said that “Senate Republicans are united with the president in viewing a temporary extension as unacceptable.”",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "The Canadian Political Brawler Who Had a 25-Point Lead and a Problem: Trump",
+        "abstract": "Just two months ago, Pierre Poilievre seemed destined to become Canada’s next prime minister. But his double-digit polling lead vanished with President Trump’s threat to annex Canada.",
+        "url": "https://www.nytimes.com/2025/04/06/world/canada/pierre-poilievre-conservative-party-trump.html",
+        "uri": "nyt://article/ed4ca25d-d2ab-5f4c-b284-e7888b60b952",
+        "byline": "By Norimitsu Onishi",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T10:36:29-04:00",
+        "created_date": "2025-04-06T05:00:56-04:00",
+        "published_date": "2025-04-06T05:00:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Politics and Government",
+            "Elections",
+            "Content Type: Personal Profile"
+        ],
+        "org_facet": [
+            "Conservative Party (Canada)",
+            "University of Calgary"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Harper, Stephen J",
+            "Poilievre, Pierre",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00int-canada-poilievre-gmbz/00int-canada-poilievre-gmbz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pierre Poilievre greeting supporters during his campaign launch for the Canadian federal election, in Manotick, a community in Ottawa, Ontario, Canada, on March 23.",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00int-canada-poilievre-gmbz/00int-canada-poilievre-gmbz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pierre Poilievre greeting supporters during his campaign launch for the Canadian federal election, in Manotick, a community in Ottawa, Ontario, Canada, on March 23.",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00int-canada-poilievre-gmbz/00int-canada-poilievre-gmbz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pierre Poilievre greeting supporters during his campaign launch for the Canadian federal election, in Manotick, a community in Ottawa, Ontario, Canada, on March 23.",
+                "copyright": "Cole Burston for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Trump, Tariffs, a New Leader: Canada’s Liberals Enjoy Early Election Lift",
+        "abstract": "The Liberal Party, which not long ago seemed destined to crash in federal elections under Justin Trudeau, is experiencing a reversal of fortune. Here’s what a close review of polls shows.",
+        "url": "https://www.nytimes.com/2025/04/06/world/canada/liberals-carney-trump-tariffs-election.html",
+        "uri": "nyt://article/fe4e071b-ebda-5dcf-b0e6-7110c894bc86",
+        "byline": "By Kaleigh Rogers",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T10:55:28-04:00",
+        "created_date": "2025-04-06T05:01:02-04:00",
+        "published_date": "2025-04-06T05:01:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Polls and Public Opinion",
+            "United States International Relations",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Elections"
+        ],
+        "org_facet": [
+            "Conservative Party (Canada)",
+            "Liberal Party (Canada)"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Poilievre, Pierre",
+            "Singh, Jagmeet",
+            "Trudeau, Justin",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Canada",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00int-canada-elections-polls-qvtm/00int-canada-elections-polls-qvtm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Support signs for the Liberal Party of Canada, in the windows of a house in the community of Manotick, in Ottawa, Ontario.",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00int-canada-elections-polls-qvtm/00int-canada-elections-polls-qvtm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Support signs for the Liberal Party of Canada, in the windows of a house in the community of Manotick, in Ottawa, Ontario.",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00int-canada-elections-polls-qvtm/00int-canada-elections-polls-qvtm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Support signs for the Liberal Party of Canada, in the windows of a house in the community of Manotick, in Ottawa, Ontario.",
+                "copyright": "Cole Burston for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Canada Drops the Gloves in Tariff Spat, Makes Its Case on U.S. Billboards",
+        "abstract": "The tariffs-are-a-tax messages are targeting residents in places like Pittsburgh that count on Canadian trade.",
+        "url": "https://www.nytimes.com/2025/04/06/us/canada-tariffs-billboards-pittsburgh-pennsylvania.html",
+        "uri": "nyt://article/becf72ef-97de-598f-8b9a-5fa0e3c417bf",
+        "byline": "By Billy Witz",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T05:00:48-04:00",
+        "created_date": "2025-04-06T05:00:48-04:00",
+        "published_date": "2025-04-06T05:00:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Outdoor Advertising",
+            "Hockey, Ice",
+            "Taxation",
+            "United States Economy",
+            "Protectionism (Trade)",
+            "Political Advertising",
+            "Stanley Cup",
+            "The Star-Spangled Banner (Song)"
+        ],
+        "org_facet": [
+            "BlackBerry",
+            "Census Bureau",
+            "Edmonton Oilers",
+            "Ottawa Senators",
+            "Pittsburgh Penguins",
+            "Toronto Maple Leafs",
+            "University of Pittsburgh"
+        ],
+        "per_facet": [
+            "Balsillie, James L",
+            "Crosby, Sidney",
+            "Harris, Kamala D",
+            "Lemieux, Mario",
+            "Myers, Mike",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Allegheny County (Pa)",
+            "Canada",
+            "Finland",
+            "Florida",
+            "Hamilton (Ontario)",
+            "Mexico",
+            "Monongahela River",
+            "Montreal (Quebec)",
+            "Ontario (Canada)",
+            "Ottawa (Ontario)",
+            "Philadelphia (Pa)",
+            "Pittsburgh (Pa)",
+            "Saskatchewan (Canada)",
+            "Saskatoon (Saskatchewan)",
+            "Sweden",
+            "Vancouver (British Columbia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00nat-pitt-trade-01-khcl/00nat-pitt-trade-01-khcl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1379,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A digital billboard outside Pittsburgh paid for by the government of Canada. ",
+                "copyright": "Jeff Swensen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00nat-pitt-trade-01-khcl/00nat-pitt-trade-01-khcl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A digital billboard outside Pittsburgh paid for by the government of Canada. ",
+                "copyright": "Jeff Swensen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00nat-pitt-trade-01-khcl/00nat-pitt-trade-01-khcl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A digital billboard outside Pittsburgh paid for by the government of Canada. ",
+                "copyright": "Jeff Swensen for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "personaltech",
+        "title": "Can Using a Dumber Phone Cure ‘Brain Rot’?",
+        "abstract": "Minimalist gadgets like the new Light Phone III, a smartphone that barely does anything, promise to help us focus. The trade-offs are big.",
+        "url": "https://www.nytimes.com/2025/04/06/technology/personaltech/light-phone-iii-brain-rot.html",
+        "uri": "nyt://article/d8cdd730-108b-5738-9a6a-26e2f1e5937e",
+        "byline": "By Brian X. Chen",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T05:01:11-04:00",
+        "created_date": "2025-04-06T05:01:11-04:00",
+        "published_date": "2025-04-06T05:01:11-04:00",
+        "material_type_facet": "",
+        "kicker": "Tech Fix",
+        "des_facet": [
+            "Smartphones",
+            "Mobile Applications",
+            "Computers and the Internet",
+            "Text Messaging",
+            "iPhone",
+            "Web Browsers",
+            "Start-ups",
+            "Mobile Commerce and Payments",
+            "Cameras"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/TECHFIX-DUMBTECH-stills-03-thmw/TECHFIX-DUMBTECH-stills-03-thmw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Kindle and Light Phone III both have matte touch screens.",
+                "copyright": "Andria Lo for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/TECHFIX-DUMBTECH-stills-03-thmw/TECHFIX-DUMBTECH-stills-03-thmw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Kindle and Light Phone III both have matte touch screens.",
+                "copyright": "Andria Lo for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/TECHFIX-DUMBTECH-stills-03-thmw/TECHFIX-DUMBTECH-stills-03-thmw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Kindle and Light Phone III both have matte touch screens.",
+                "copyright": "Andria Lo for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "After the L.A. Fires, These Schools Face Another Threat: Layoffs",
+        "abstract": "A dozen teachers in Pasadena, Calif., whose homes burned were told they’ll lose their jobs at the end of the school year, a crisis for educators and students alike.",
+        "url": "https://www.nytimes.com/2025/04/06/us/la-fires-pasadena-school-layoffs.html",
+        "uri": "nyt://article/e56de01c-0fdc-584f-bc2d-cb999fc23c60",
+        "byline": "By Jesus Jiménez",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T06:50:06-04:00",
+        "created_date": "2025-04-06T05:00:56-04:00",
+        "published_date": "2025-04-06T05:00:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Wildfires",
+            "Education"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "California"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00nat-ca-fire-layoffs-01-qhtl/00nat-ca-fire-layoffs-01-qhtl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Layoff notices across California school districts are typical early in the year. But in a district where many students and employees had to evacuate during the Eaton fire, the loss is intensified.",
+                "copyright": "Maggie Shannon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00nat-ca-fire-layoffs-01-qhtl/00nat-ca-fire-layoffs-01-qhtl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Layoff notices across California school districts are typical early in the year. But in a district where many students and employees had to evacuate during the Eaton fire, the loss is intensified.",
+                "copyright": "Maggie Shannon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00nat-ca-fire-layoffs-01-qhtl/00nat-ca-fire-layoffs-01-qhtl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Layoff notices across California school districts are typical early in the year. But in a district where many students and employees had to evacuate during the Eaton fire, the loss is intensified.",
+                "copyright": "Maggie Shannon for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
