@@ -13414,5 +13414,138 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "A Playbook for Standing Up to President Trump",
+        "abstract": "Law firms and universities do not need to capitulate. Here’s how they can fight back.",
+        "url": "https://www.nytimes.com/2025/04/06/opinion/trump-law-firms-universities.html",
+        "uri": "nyt://article/5a8c7b7f-5e88-5ecc-b479-d37a51d77574",
+        "byline": "By The Editorial Board",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T01:00:12-04:00",
+        "created_date": "2025-04-06T01:00:12-04:00",
+        "published_date": "2025-04-06T01:00:12-04:00",
+        "material_type_facet": "",
+        "kicker": "The Editorial Board",
+        "des_facet": [
+            "Legal Profession",
+            "United States Politics and Government",
+            "Colleges and Universities",
+            "Conservatism (US Politics)",
+            "Freedom of Speech and Expression",
+            "Executive Orders and Memorandums",
+            "Courts and the Judiciary"
+        ],
+        "org_facet": [
+            "Columbia University",
+            "Paul Weiss Rifkind Wharton & Garrison",
+            "Perkins Coie LLP",
+            "Skadden, Arps, Slate, Meagher & Flom LLP"
+        ],
+        "per_facet": [
+            "Clement, Paul D",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/opinion/06editorial-firms/06editorial-firms-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "illustration",
+                "caption": "",
+                "copyright": "Illustration by Rebecca Chew/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/opinion/06editorial-firms/06editorial-firms-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "illustration",
+                "caption": "",
+                "copyright": "Illustration by Rebecca Chew/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/opinion/06editorial-firms/06editorial-firms-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "illustration",
+                "caption": "",
+                "copyright": "Illustration by Rebecca Chew/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "‘Adolescence’ and the Surprising Difficulty of Hugging a Teen Son",
+        "abstract": "I didn’t know how to tear down that wall of silence and mystery that creeps up between parents and their teens, but I knew doing so was essential.",
+        "url": "https://www.nytimes.com/2025/04/06/opinion/adolescence-affection-aggression-parenting.html",
+        "uri": "nyt://article/3a7b5a4a-b24b-55b4-af1d-19883e3b0648",
+        "byline": "By Esau McCaulley",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T01:00:05-04:00",
+        "created_date": "2025-04-06T01:00:05-04:00",
+        "published_date": "2025-04-06T01:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "Teenagers and Adolescence",
+            "Television",
+            "Men and Boys",
+            "Children and Childhood",
+            "Parenting",
+            "Computers and the Internet",
+            "Emotions",
+            "Hugging",
+            "Love (Emotion)",
+            "adolescence (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/opinion/06mccaulley-image/05mccaulley-image-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "illustration",
+                "caption": "",
+                "copyright": "Diego Mallo"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/opinion/06mccaulley-image/05mccaulley-image-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "illustration",
+                "caption": "",
+                "copyright": "Diego Mallo"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/opinion/06mccaulley-image/05mccaulley-image-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "illustration",
+                "caption": "",
+                "copyright": "Diego Mallo"
+            }
+        ],
+        "short_url": ""
     }
 ]
