@@ -12780,5 +12780,255 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Administration Revokes Visas of South Sudanese in Clash Over Deportees",
+        "abstract": "Secretary of State Marco Rubio said he was making the move because the transitional government of South Sudan had refused to accept its citizens in a timely manner.",
+        "url": "https://www.nytimes.com/2025/04/05/us/politics/trump-administration-revokes-visas-of-south-sudanese-in-clash-over-deportees.html",
+        "uri": "nyt://article/dced19b6-1d1c-5b6a-a2a0-556be35bee7f",
+        "byline": "By Edward Wong and Hamed Aleaziz",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T19:46:37-04:00",
+        "created_date": "2025-04-05T19:46:07-04:00",
+        "published_date": "2025-04-05T19:46:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Visas"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Rubio, Marco"
+        ],
+        "geo_facet": [
+            "South Sudan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/07/multimedia/05dc-rubio-southsudan/07southsudan-1-mtqh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1537,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A billboard showing President Salva Kiir of South Sudan in Juba, the country’s capital, last year. Secretary of State Marco Rubio said he would revoke the visas of all South Sudanese passport holders over the country’s failure to accept the return of its repatriated citizens.",
+                "copyright": "Ivor Prickett for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/07/multimedia/05dc-rubio-southsudan/07southsudan-1-mtqh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A billboard showing President Salva Kiir of South Sudan in Juba, the country’s capital, last year. Secretary of State Marco Rubio said he would revoke the visas of all South Sudanese passport holders over the country’s failure to accept the return of its repatriated citizens.",
+                "copyright": "Ivor Prickett for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/07/multimedia/05dc-rubio-southsudan/07southsudan-1-mtqh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A billboard showing President Salva Kiir of South Sudan in Juba, the country’s capital, last year. Secretary of State Marco Rubio said he would revoke the visas of all South Sudanese passport holders over the country’s failure to accept the return of its repatriated citizens.",
+                "copyright": "Ivor Prickett for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel Says Its Account of Rescue Workers Killed in Gaza Was Partly ‘Mistaken’",
+        "abstract": "The Israeli military had previously asserted that the workers had been “advancing suspiciously” toward its troops. A video obtained by The New York Times on Friday appeared to contradict that account.",
+        "url": "https://www.nytimes.com/2025/04/05/world/middleeast/israel-killing-rescue-workers-gaza.html",
+        "uri": "nyt://article/6579720d-14f6-5088-86ff-0e200dc60a7b",
+        "byline": "By Isabel Kershner",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T18:57:17-04:00",
+        "created_date": "2025-04-05T18:57:17-04:00",
+        "published_date": "2025-04-05T18:57:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Civilian Casualties",
+            "Humanitarian Aid",
+            "Defense and Military Forces",
+            "Palestinians"
+        ],
+        "org_facet": [
+            "Hamas",
+            "International Federation of Red Cross and Red Crescent Societies"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Rafah (Gaza Strip)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/world/05int-IDF-inquiry/05int-IDF-inquiry-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A screenshot from a video captured the moment Israeli troops opened fire on a group of medics in Gaza, in late March.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/world/05int-IDF-inquiry/05int-IDF-inquiry-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 401,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A screenshot from a video captured the moment Israeli troops opened fire on a group of medics in Gaza, in late March.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/world/05int-IDF-inquiry/05int-IDF-inquiry-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A screenshot from a video captured the moment Israeli troops opened fire on a group of medics in Gaza, in late March.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "South Korea’s Democracy Is Broken",
+        "abstract": "The country’s martial law fiasco is a stark warning for democracies everywhere about what happens when political polarization spirals out of control.",
+        "url": "https://www.nytimes.com/2025/04/05/opinion/south-korea-democracy-president-martial-law.html",
+        "uri": "nyt://article/658470f3-64c6-5691-975a-d60b66106e68",
+        "byline": "By Se-Woong Koo",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T07:00:05-04:00",
+        "created_date": "2025-04-05T07:00:05-04:00",
+        "published_date": "2025-04-05T07:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Democracy (Theory and Philosophy)",
+            "Martial Law",
+            "Coups D'Etat and Attempted Coups D'Etat"
+        ],
+        "org_facet": [
+            "People Power Party"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "South Korea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/opinion/05koo/05koo-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Hwa’shin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/opinion/05koo/05koo-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Hwa’shin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/opinion/05koo/05koo-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Hwa’shin"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Chevron Must Pay $745 Million for Coastal Damages, Louisiana Jury Rules",
+        "abstract": "The verdict will likely influence similar lawsuits against other oil companies over coastal damage in the state.",
+        "url": "https://www.nytimes.com/2025/04/05/us/chevron-trial-louisiana-damages.html",
+        "uri": "nyt://article/d87776c7-938e-5d11-8b79-a4b104d74af9",
+        "byline": "By Adeel Hassan",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T20:42:01-04:00",
+        "created_date": "2025-04-05T20:42:01-04:00",
+        "published_date": "2025-04-05T20:42:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Oil (Petroleum) and Gasoline",
+            "Coast Erosion",
+            "Rivers",
+            "Environment",
+            "Decisions and Verdicts",
+            "Offshore Drilling and Exploration",
+            "Water Pollution",
+            "Compensation for Damages (Law)",
+            "Suits and Litigation (Civil)"
+        ],
+        "org_facet": [
+            "Chevron Corporation"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Louisiana",
+            "Plaquemines Parish (La)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05xp-chevron/05xp-chevron-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1331,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Chevron facility in Plaquemines Parish, La., in 2008.",
+                "copyright": "Mario Tama/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05xp-chevron/05xp-chevron-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Chevron facility in Plaquemines Parish, La., in 2008.",
+                "copyright": "Mario Tama/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05xp-chevron/05xp-chevron-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Chevron facility in Plaquemines Parish, La., in 2008.",
+                "copyright": "Mario Tama/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
