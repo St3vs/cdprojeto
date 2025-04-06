@@ -14768,5 +14768,72 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "movies",
+        "subsection": "",
+        "title": "Upper West Side Theater Is Sold After Governor Allocates $3.5 Million",
+        "abstract": "A nonprofit bought the landmark Metro Theater after receiving financial support from Gov. Kathy Hochul, the State Senate and Steven Spielberg’s foundation.",
+        "url": "https://www.nytimes.com/2025/04/06/movies/metro-theater-sold-hochul-grants.html",
+        "uri": "nyt://article/e3ae7cf6-ad4e-55ab-b355-f8674b6f9fc6",
+        "byline": "By Annie Aguiar",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T10:30:05-04:00",
+        "created_date": "2025-04-06T10:30:05-04:00",
+        "published_date": "2025-04-06T10:30:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Theaters (Buildings)",
+            "Real Estate (Commercial)",
+            "Restoration and Renovation",
+            "State Legislatures"
+        ],
+        "org_facet": [
+            "Metro Theater"
+        ],
+        "per_facet": [
+            "Hochul, Kathleen C",
+            "Deutchman, Ira",
+            "Spielberg, Steven",
+            "Lasher, Micah C"
+        ],
+        "geo_facet": [
+            "Upper West Side (Manhattan, NY)",
+            "New York State"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06cul-metro-theater-wtjz/06cul-metro-theater-wtjz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1370,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Signs protesting the closure of the Metro Theater in Manhattan in September 2004. The theater reopened months later but has been closed since December 2005.",
+                "copyright": "Ruth Fremson/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06cul-metro-theater-wtjz/06cul-metro-theater-wtjz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Signs protesting the closure of the Metro Theater in Manhattan in September 2004. The theater reopened months later but has been closed since December 2005.",
+                "copyright": "Ruth Fremson/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06cul-metro-theater-wtjz/06cul-metro-theater-wtjz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Signs protesting the closure of the Metro Theater in Manhattan in September 2004. The theater reopened months later but has been closed since December 2005.",
+                "copyright": "Ruth Fremson/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
