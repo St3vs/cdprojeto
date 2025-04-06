@@ -15499,5 +15499,195 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "What We Know About the Case of Gaza Aid Workers Killed by Israeli Gunfire",
+        "abstract": "The Israeli military, confronted with video evidence contradicting its initial account, now says it was “mistaken.”",
+        "url": "https://www.nytimes.com/2025/04/06/world/middleeast/gaza-aid-workers-killed-israel.html",
+        "uri": "nyt://article/2b56fe81-6052-566e-82ef-972dfc81ec07",
+        "byline": "By Isabel Kershner",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T13:29:08-04:00",
+        "created_date": "2025-04-06T13:29:08-04:00",
+        "published_date": "2025-04-06T13:29:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [
+            "American Red Cross",
+            "Hamas",
+            "International Committee of the Red Cross",
+            "International Federation of Red Cross and Red Crescent Societies"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel",
+            "Rafah (Gaza Strip)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-wwk-israel-prcs-bglw/06int-wwk-israel-prcs-bglw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Palestine Red Crescent and other emergency services last Monday carrying the bodies of rescue workers killed a week earlier by Israeli forces in Gaza.",
+                "copyright": "Eyad Baba/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-wwk-israel-prcs-bglw/06int-wwk-israel-prcs-bglw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Palestine Red Crescent and other emergency services last Monday carrying the bodies of rescue workers killed a week earlier by Israeli forces in Gaza.",
+                "copyright": "Eyad Baba/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-wwk-israel-prcs-bglw/06int-wwk-israel-prcs-bglw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Palestine Red Crescent and other emergency services last Monday carrying the bodies of rescue workers killed a week earlier by Israeli forces in Gaza.",
+                "copyright": "Eyad Baba/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Israel Turns Away 2 British Lawmakers",
+        "abstract": "The lawmakers, Abtisam Mohamed and Yuan Yang, said they were “astounded” by the decision to refuse them entry.",
+        "url": "https://www.nytimes.com/2025/04/06/world/europe/israel-uk-parliament-entry-abtisam-mohamed-yuan-yang.html",
+        "uri": "nyt://article/be0806a5-9dd9-54a2-9608-4694ed2d6fe5",
+        "byline": "By Amelia Nierenberg and Isabel Kershner",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T13:57:14-04:00",
+        "created_date": "2025-04-06T13:02:15-04:00",
+        "published_date": "2025-04-06T13:02:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Conservative Party (Great Britain)",
+            "Labour Party (Great Britain)"
+        ],
+        "per_facet": [
+            "Lammy, David"
+        ],
+        "geo_facet": [
+            "Great Britain",
+            "Israel",
+            "Gaza Strip"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-israel-uk-gpbf/06int-israel-uk-gpbf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ben-Gurion International Airport, which services Jerusalem and Tel Aviv, is Israel’s busiest although many airlines avoid traveling to and from the country. ",
+                "copyright": "Amit Elkayam for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-israel-uk-gpbf/06int-israel-uk-gpbf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ben-Gurion International Airport, which services Jerusalem and Tel Aviv, is Israel’s busiest although many airlines avoid traveling to and from the country. ",
+                "copyright": "Amit Elkayam for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-israel-uk-gpbf/06int-israel-uk-gpbf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ben-Gurion International Airport, which services Jerusalem and Tel Aviv, is Israel’s busiest although many airlines avoid traveling to and from the country. ",
+                "copyright": "Amit Elkayam for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "They Pushed for Cuomo to Resign. Now They’re Clearing His Comeback Path.",
+        "abstract": "Many political, business and union leaders who castigated former Gov. Andrew Cuomo and pressed him to resign have done an about-face and support his run for mayor.",
+        "url": "https://www.nytimes.com/2025/04/06/nyregion/cuomo-democrats-mayor-comeback.html",
+        "uri": "nyt://article/7534a746-20ce-5ffb-8a01-e11866967b52",
+        "byline": "By Nicholas Fandos",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T13:39:29-04:00",
+        "created_date": "2025-04-06T12:48:20-04:00",
+        "published_date": "2025-04-06T12:48:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Sexual Harassment",
+            "Ethics and Official Misconduct",
+            "Primaries and Caucuses",
+            "Elections, Mayors",
+            "#MeToo Movement"
+        ],
+        "org_facet": [
+            "Democratic Party"
+        ],
+        "per_facet": [
+            "Cuomo, Andrew M"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07met-cuomo-180-01-mhtv/07met-cuomo-180-01-mhtv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Andrew Cuomo leads polling in the 2025 Democratic primary for mayor of New York City.",
+                "copyright": "Shuran Huang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07met-cuomo-180-01-mhtv/07met-cuomo-180-01-mhtv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Andrew Cuomo leads polling in the 2025 Democratic primary for mayor of New York City.",
+                "copyright": "Shuran Huang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07met-cuomo-180-01-mhtv/07met-cuomo-180-01-mhtv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Andrew Cuomo leads polling in the 2025 Democratic primary for mayor of New York City.",
+                "copyright": "Shuran Huang for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
