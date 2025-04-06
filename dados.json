@@ -15894,5 +15894,128 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Eyewitnesses Recount Deadly Israeli Attack on Medics in Gaza",
+        "abstract": "The New York Times interviewed two people who described being detained by Israeli soldiers and looking on as they opened fire on ambulances and a fire truck, killing 15.",
+        "url": "https://www.nytimes.com/2025/04/06/world/middleeast/gaza-medics-killed-israel.html",
+        "uri": "nyt://article/836791e8-101e-5461-a8b2-3699a2664c6d",
+        "byline": "By Vivian Yee and Bilal Shbair",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T18:03:00-04:00",
+        "created_date": "2025-04-06T17:07:47-04:00",
+        "published_date": "2025-04-06T17:07:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Civilian Casualties",
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [
+            "International Federation of Red Cross and Red Crescent Societies",
+            "United Nations"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Israel",
+            "Gaza Strip",
+            "Rafah (Gaza Strip)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-gaza-medics-ptqv/06int-gaza-medics-ptqv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1188,
+                "width": 1531,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Munther Abed, a volunteer paramedic, said he survived an Israeli attack on his ambulance.",
+                "copyright": "Bilal Shbair for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-gaza-medics-ptqv/06int-gaza-medics-ptqv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Munther Abed, a volunteer paramedic, said he survived an Israeli attack on his ambulance.",
+                "copyright": "Bilal Shbair for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-gaza-medics-ptqv/06int-gaza-medics-ptqv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Munther Abed, a volunteer paramedic, said he survived an Israeli attack on his ambulance.",
+                "copyright": "Bilal Shbair for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Man Is Shot by N.Y.P.D. After Attacking 4 Girls With Cleaver",
+        "abstract": "The man may be related to the girls, who all survived, the police said. An 11-year-old called 911, and officers rushed to the house in Brooklyn where the children lived.",
+        "url": "https://www.nytimes.com/2025/04/06/nyregion/stabbing-cleaver-police-shooting-brooklyn.html",
+        "uri": "nyt://article/71780214-4f64-59a6-add0-7c1051c6100c",
+        "byline": "By Chelsia Rose Marcius and Alyce McFadden",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T17:06:37-04:00",
+        "created_date": "2025-04-06T16:47:45-04:00",
+        "published_date": "2025-04-06T16:47:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Assaults",
+            "Nine-One-One (911) (Emergency Phone Number)",
+            "Deaths (Fatalities)",
+            "Attacks on Police"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Longqian Chen"
+        ],
+        "geo_facet": [
+            "Bensonhurst (Brooklyn, NY)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06MET-BROOKLYN-STABBING-1-lwjk/06MET-BROOKLYN-STABBING-1-lwjk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Investigators at the scene in Bensonhurst, Brooklyn, where the police said a man slashed four children before he was shot by officers.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06MET-BROOKLYN-STABBING-1-lwjk/06MET-BROOKLYN-STABBING-1-lwjk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Investigators at the scene in Bensonhurst, Brooklyn, where the police said a man slashed four children before he was shot by officers.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06MET-BROOKLYN-STABBING-1-lwjk/06MET-BROOKLYN-STABBING-1-lwjk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Investigators at the scene in Bensonhurst, Brooklyn, where the police said a man slashed four children before he was shot by officers.",
+                "copyright": "Dave Sanders for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
