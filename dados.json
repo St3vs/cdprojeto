@@ -16017,5 +16017,129 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Stocks Are Set to Extend Sharp Fall",
+        "abstract": "Futures on the S&P 500, which allow investors to trade the index before the official start of trading on Monday, added to last week’s sell-off.",
+        "url": "https://www.nytimes.com/2025/04/06/business/stocks-trump-tariffs.html",
+        "uri": "nyt://article/04825923-a289-505e-a362-5a9bf101f01c",
+        "byline": "By Joe Rennison",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T18:54:16-04:00",
+        "created_date": "2025-04-06T18:43:04-04:00",
+        "published_date": "2025-04-06T18:43:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Standard & Poor's 500-Stock Index",
+            "Stocks and Bonds",
+            "International Trade and World Market",
+            "United States Economy",
+            "Nasdaq Composite Index",
+            "Russell 2,000 Stock Index"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06biz-stocks-fpvg/06biz-stocks-fpvg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has so far brushed off concerns about the market reaction and potential economic consequences, showing little intention of backing down.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06biz-stocks-fpvg/06biz-stocks-fpvg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has so far brushed off concerns about the market reaction and potential economic consequences, showing little intention of backing down.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06biz-stocks-fpvg/06biz-stocks-fpvg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has so far brushed off concerns about the market reaction and potential economic consequences, showing little intention of backing down.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "",
+        "title": "Marcia Marcus, Painter Rediscovered in Her Last Decade, Dies at 97",
+        "abstract": "A popular downtown artist in the 1960s, she worked in obscurity after art world trends left her behind. Now her startlingly fresh work is on view again.",
+        "url": "https://www.nytimes.com/2025/04/06/arts/marcia-marcus-dead.html",
+        "uri": "nyt://article/f9d5c2ef-55d2-57e6-8245-15f8bc69d75c",
+        "byline": "By Penelope Green",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T18:20:51-04:00",
+        "created_date": "2025-04-06T14:39:09-04:00",
+        "published_date": "2025-04-06T14:39:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Art"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Marcus, Marcia (1928-2025)",
+            "Grooms, Red",
+            "Neel, Alice",
+            "Samaras, Lucas"
+        ],
+        "geo_facet": [
+            "Inwood (Manhattan, NY)",
+            "Provincetown (Mass)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04Marcus--04-fgbj/04Marcus--04-fgbj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1288,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Marcia Marcus’s 1973 painting “Self-Portrait as Athena.” She painted herself over and over again, in a variety of costumes and settings.",
+                "copyright": "Marcia Marcus/Artists Rights Society (ARS), New York, via the Estate of Marcia Marcus"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04Marcus--04-fgbj/04Marcus--04-fgbj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Marcia Marcus’s 1973 painting “Self-Portrait as Athena.” She painted herself over and over again, in a variety of costumes and settings.",
+                "copyright": "Marcia Marcus/Artists Rights Society (ARS), New York, via the Estate of Marcia Marcus"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04Marcus--04-fgbj/04Marcus--04-fgbj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Marcia Marcus’s 1973 painting “Self-Portrait as Athena.” She painted herself over and over again, in a variety of costumes and settings.",
+                "copyright": "Marcia Marcus/Artists Rights Society (ARS), New York, via the Estate of Marcia Marcus"
+            }
+        ],
+        "short_url": ""
     }
 ]
