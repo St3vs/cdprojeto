@@ -15689,5 +15689,137 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "After a Blowout Week, Wall Street Decision Makers Brace for More Chaos",
+        "abstract": "The financial titans who backed Trump are now dealing with the fallout from his tariffs. They spent the weekend surveying the damage of last week’s major sell-off.",
+        "url": "https://www.nytimes.com/2025/04/06/business/stock-market-plunge-investment-bank-impact.html",
+        "uri": "nyt://article/4afb31bf-3a0e-5cad-9c8b-893b6d5b9291",
+        "byline": "By Rob Copeland, Lauren Hirsch and Maureen Farrell",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T16:10:22-04:00",
+        "created_date": "2025-04-06T14:35:38-04:00",
+        "published_date": "2025-04-06T14:35:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "Stocks and Bonds",
+            "Hedge Funds",
+            "Standard & Poor's 500-Stock Index",
+            "Labor and Jobs"
+        ],
+        "org_facet": [
+            "Bank of America Corporation",
+            "Citadel Investment Group",
+            "Wells Fargo & Company"
+        ],
+        "per_facet": [
+            "Bessent, Scott",
+            "Dimon, James",
+            "Trump, Donald J",
+            "Griffin, Kenneth C"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06biz-wallstreet-worries-kzpg/06biz-wallstreet-worries-kzpg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The New York Stock Exchange on Friday. Bankers, executives and traders said this weekend that they felt flashbacks to the global financial crisis that began in 2007.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06biz-wallstreet-worries-kzpg/06biz-wallstreet-worries-kzpg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The New York Stock Exchange on Friday. Bankers, executives and traders said this weekend that they felt flashbacks to the global financial crisis that began in 2007.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06biz-wallstreet-worries-kzpg/06biz-wallstreet-worries-kzpg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The New York Stock Exchange on Friday. Bankers, executives and traders said this weekend that they felt flashbacks to the global financial crisis that began in 2007.",
+                "copyright": "Karsten Moran for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Defiant, Le Pen Tells Supporters ‘I Won’t Give Up’ Despite 5-Year Ban",
+        "abstract": "In a speech, Marine Le Pen, the French far-right leader, cast a judicial decision prohibiting her from running for office as a threat to democracy.",
+        "url": "https://www.nytimes.com/2025/04/06/world/europe/france-marine-le-pen-rally.html",
+        "uri": "nyt://article/bb0b7e29-3c65-50dc-97d8-f26d070820de",
+        "byline": "By Aurelien Breeden and Catherine Porter",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T15:21:35-04:00",
+        "created_date": "2025-04-06T15:21:35-04:00",
+        "published_date": "2025-04-06T15:21:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Embezzlement",
+            "Demonstrations, Protests and Riots",
+            "Decisions and Verdicts"
+        ],
+        "org_facet": [
+            "National Rally (France)",
+            "European Parliament"
+        ],
+        "per_facet": [
+            "Le Pen, Marine"
+        ],
+        "geo_facet": [
+            "France",
+            "Paris (France)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06france-lepen-rally-mcwj/06france-lepen-rally-mcwj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Marine Le Pen arriving to deliver a speech in Paris on Sunday.",
+                "copyright": "Julien De Rosa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06france-lepen-rally-mcwj/06france-lepen-rally-mcwj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Marine Le Pen arriving to deliver a speech in Paris on Sunday.",
+                "copyright": "Julien De Rosa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06france-lepen-rally-mcwj/06france-lepen-rally-mcwj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Marine Le Pen arriving to deliver a speech in Paris on Sunday.",
+                "copyright": "Julien De Rosa/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
