@@ -19564,5 +19564,248 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Global Leaders Rush to Woo Trump, Hoping to Sway Him on Tariffs",
+        "abstract": "Dozens of foreign governments were trying to appeal to the president to have steep tariffs rolled back, but the president and his advisers have indicated negotiations could be difficult.",
+        "url": "https://www.nytimes.com/2025/04/07/us/politics/trump-tariffs-foreign-governments-negotiations.html",
+        "uri": "nyt://article/bb1f39c5-d9bf-5b71-aecf-4cebc126f6a2",
+        "byline": "By Ana Swanson, Alexandra Stevenson, Damien Cave and Jeanna Smialek",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T16:48:11-04:00",
+        "created_date": "2025-04-07T15:33:12-04:00",
+        "published_date": "2025-04-07T15:33:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "Customs (Tariff)",
+            "Politics and Government",
+            "United States International Relations",
+            "United States Economy",
+            "Factories and Manufacturing",
+            "Protectionism (Trade)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-tariffs-outreach-htpq/07dc-tariffs-outreach-htpq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with the press pool on Air Force One as he traveled from West Palm Beach, Fla., to Joint Base Andrews in Maryland on Sunday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-tariffs-outreach-htpq/07dc-tariffs-outreach-htpq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with the press pool on Air Force One as he traveled from West Palm Beach, Fla., to Joint Base Andrews in Maryland on Sunday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-tariffs-outreach-htpq/07dc-tariffs-outreach-htpq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with the press pool on Air Force One as he traveled from West Palm Beach, Fla., to Joint Base Andrews in Maryland on Sunday.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "No Big Stick: Many Tariff Targets Avoid Hitting Back",
+        "abstract": "Just two of the 20 largest exporters to the United States have matched Mr. Trump’s moves with new tariffs of their own.",
+        "url": "https://www.nytimes.com/interactive/2025/04/07/business/economy/trump-tariffs-reaction-china-eu-canada.html",
+        "uri": "nyt://interactive/58268e35-e2e3-5c46-93d0-d35a7e261a62",
+        "byline": "By Agnes Chang, Lazaro Gamio, Samuel Granados and Lauren Leatherby",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-07T16:43:17-04:00",
+        "created_date": "2025-04-07T16:41:20-04:00",
+        "published_date": "2025-04-07T16:41:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "International Trade and World Market"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/2025-04-07-tariff-country-negotiations-index/2025-04-07-tariff-country-negotiations-index-superJumbo-v7.png",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/2025-04-07-tariff-country-negotiations-index/2025-04-07-tariff-country-negotiations-index-threeByTwoSmallAt2X-v8.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/2025-04-07-tariff-country-negotiations-index/2025-04-07-tariff-country-negotiations-index-thumbLarge-v7.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "media",
+        "title": "Trump and Paramount Agree on Mediator in ‘60 Minutes’ Lawsuit",
+        "abstract": "President Trump’s $20 billion suit accuses CBS News of deceptively editing an interview with former Vice President Kamala Harris.",
+        "url": "https://www.nytimes.com/2025/04/07/business/media/trump-paramount-mediator-60-minutes.html",
+        "uri": "nyt://article/f7d246f4-e841-5ca1-b358-b86380a529f2",
+        "byline": "By Lauren Hirsch and Benjamin Mullin",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T16:51:38-04:00",
+        "created_date": "2025-04-07T16:48:30-04:00",
+        "published_date": "2025-04-07T16:48:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Media",
+            "Suits and Litigation (Civil)",
+            "News and News Media",
+            "Freedom of the Press"
+        ],
+        "org_facet": [
+            "Paramount Global",
+            "CBS News"
+        ],
+        "per_facet": [
+            "Owens, Bill (Television Executive)",
+            "Redstone, Shari",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07biz-paramount-trump-flbq/07biz-paramount-trump-flbq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump claims in a lawsuit that “60 Minutes” deceptively edited an interview with former Vice President Kamala Harris. CBS News says the editing is protected by the First Amendment.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07biz-paramount-trump-flbq/07biz-paramount-trump-flbq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump claims in a lawsuit that “60 Minutes” deceptively edited an interview with former Vice President Kamala Harris. CBS News says the editing is protected by the First Amendment.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07biz-paramount-trump-flbq/07biz-paramount-trump-flbq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump claims in a lawsuit that “60 Minutes” deceptively edited an interview with former Vice President Kamala Harris. CBS News says the editing is protected by the First Amendment.",
+                "copyright": "Erin Schaff/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "space",
+        "title": "Jeremiah Ostriker, Who Plumbed Dark Forces That Shape Universe, Dies at 87",
+        "abstract": "There’s more to the universe than meets the eye, he found. His studies led astronomy to the dark side, changing our view of what’s out there.",
+        "url": "https://www.nytimes.com/2025/04/07/science/space/jeremiah-ostriker-dead.html",
+        "uri": "nyt://article/f78cd955-716b-5d2e-b356-d9d3b5bda3f7",
+        "byline": "By Dennis Overbye",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T16:44:28-04:00",
+        "created_date": "2025-04-07T16:44:28-04:00",
+        "published_date": "2025-04-07T16:44:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Space and Astronomy",
+            "Dark Matter (Astronomy)",
+            "Stars and Galaxies",
+            "Black Holes (Space)",
+            "Deaths (Obituaries)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Ostriker, Jeremiah"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2023/05/16/multimedia/Ostriker-lgzt/Ostriker-lgzt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jeremiah Ostriker in an undated photo. His work altered humankind’s understanding of how galaxies are formed and evolve, and what the universe is made of.",
+                "copyright": "Denise Applewhite/Princeton University"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2023/05/16/multimedia/Ostriker-lgzt/Ostriker-lgzt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jeremiah Ostriker in an undated photo. His work altered humankind’s understanding of how galaxies are formed and evolve, and what the universe is made of.",
+                "copyright": "Denise Applewhite/Princeton University"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2023/05/16/multimedia/Ostriker-lgzt/Ostriker-lgzt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jeremiah Ostriker in an undated photo. His work altered humankind’s understanding of how galaxies are formed and evolve, and what the universe is made of.",
+                "copyright": "Denise Applewhite/Princeton University"
+            }
+        ],
+        "short_url": ""
     }
 ]
