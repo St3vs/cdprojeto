@@ -16787,5 +16787,804 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Trump’s Trade War Raises Bar for Fed Rate Cuts",
+        "abstract": "Tariffs set to take effect this week risk stoking even higher inflation and slower growth than expected, complicating the central bank’s decisions on monetary policy.",
+        "url": "https://www.nytimes.com/2025/04/07/business/federal-reserve-trump-tariffs-inflation.html",
+        "uri": "nyt://article/71dc6a47-583c-5e76-bbe9-34748c38c50b",
+        "byline": "By Colby Smith",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T05:16:41-04:00",
+        "created_date": "2025-04-07T05:03:38-04:00",
+        "published_date": "2025-04-07T05:03:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Banking and Financial Institutions",
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "United States Economy",
+            "Interest Rates",
+            "Inflation (Economics)",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Federal Reserve System"
+        ],
+        "per_facet": [
+            "Powell, Jerome H",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-fed-tariffs-01-chzj/07dc-fed-tariffs-01-chzj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "As the rout in financial markets intensified last week, President Trump turned his ire toward the Federal Reserve, which he has pressured to resume interest rate cuts.",
+                "copyright": "Anna Rose Layden for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-fed-tariffs-01-chzj/07dc-fed-tariffs-01-chzj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "As the rout in financial markets intensified last week, President Trump turned his ire toward the Federal Reserve, which he has pressured to resume interest rate cuts.",
+                "copyright": "Anna Rose Layden for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-fed-tariffs-01-chzj/07dc-fed-tariffs-01-chzj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "As the rout in financial markets intensified last week, President Trump turned his ire toward the Federal Reserve, which he has pressured to resume interest rate cuts.",
+                "copyright": "Anna Rose Layden for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Gulf Coast Shrimpers See Hope in Trump’s Tariffs",
+        "abstract": "After years struggling to compete with cheaper, farm-raised imported shrimp, shrimpers from Florida to Louisiana are optimistic that the new tariffs will help them.",
+        "url": "https://www.nytimes.com/2025/04/07/us/politics/trump-tariffs-fishing-shrimp.html",
+        "uri": "nyt://article/fd41bd57-9705-51ad-b390-b8bb91b56343",
+        "byline": "By Emily Cochrane",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T05:03:17-04:00",
+        "created_date": "2025-04-07T05:03:17-04:00",
+        "published_date": "2025-04-07T05:03:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Shrimp",
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "Customs (Tariff)",
+            "Fishing, Commercial",
+            "Prices (Fares, Fees and Rates)",
+            "Seafood"
+        ],
+        "org_facet": [
+            "United States International Trade Commission"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Biloxi (Miss)",
+            "Fort Myers (Fla)",
+            "Fort Myers Beach (Fla)",
+            "Gulf Coast (US)",
+            "Mississippi"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/00nat-gulfcoast-shrimpers-03-jlmc/00nat-gulfcoast-shrimpers-03-jlmc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1638,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Shrimp is sold at Big Daddy’s Seafood Market in Fort Myers Beach, Fla. ",
+                "copyright": "Zack Wittman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/00nat-gulfcoast-shrimpers-03-jlmc/00nat-gulfcoast-shrimpers-03-jlmc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Shrimp is sold at Big Daddy’s Seafood Market in Fort Myers Beach, Fla. ",
+                "copyright": "Zack Wittman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/00nat-gulfcoast-shrimpers-03-jlmc/00nat-gulfcoast-shrimpers-03-jlmc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Shrimp is sold at Big Daddy’s Seafood Market in Fort Myers Beach, Fla. ",
+                "copyright": "Zack Wittman for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "How X Is Benefiting as Musk Advises Trump",
+        "abstract": "The social media platform has experienced a return in advertisers and new exposure as an official source of government news.",
+        "url": "https://www.nytimes.com/2025/04/07/technology/elon-musk-x-trump.html",
+        "uri": "nyt://article/3ab568be-cb76-554d-8420-25b2af1f1cf5",
+        "byline": "By Kate Conger",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T05:22:38-04:00",
+        "created_date": "2025-04-07T05:01:04-04:00",
+        "published_date": "2025-04-07T05:01:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Social Media",
+            "Online Advertising",
+            "Computers and the Internet"
+        ],
+        "org_facet": [
+            "X (Formerly Twitter)"
+        ],
+        "per_facet": [
+            "Musk, Elon",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/15/business/00sub-musk-x/00musk-x-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1805,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Pablo Delcan"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/15/business/00sub-musk-x/00musk-x-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Pablo Delcan"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/15/business/00sub-musk-x/00musk-x-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Pablo Delcan"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Kennedy’s Plan to Send Health Officials to ‘Indian Country’ Angers Native Leaders",
+        "abstract": "Health Secretary Robert F. Kennedy Jr. says he is committed to improving the Indian Health Service. Native American leaders have doubts. “It’s shameful,” one said.",
+        "url": "https://www.nytimes.com/2025/04/07/us/politics/rfk-indian-health-service.html",
+        "uri": "nyt://article/3bb8378d-f24e-57d7-8206-acfe332f498c",
+        "byline": "By Sheryl Gay Stolberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T05:01:54-04:00",
+        "created_date": "2025-04-07T05:01:54-04:00",
+        "published_date": "2025-04-07T05:01:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Native Americans"
+        ],
+        "org_facet": [
+            "Health and Human Services Department",
+            "Centers for Disease Control and Prevention",
+            "Indian Health Service"
+        ],
+        "per_facet": [
+            "Haaland, Deb",
+            "Kennedy, Robert F Jr"
+        ],
+        "geo_facet": [
+            "Alaska",
+            "New Mexico"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/28/multimedia/06dc-rfk-indian/06dc-rfk-indian-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Robert F. Kennedy Jr., the health secretary, has spoken often of his and his family’s longstanding commitment to Native Americans.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/28/multimedia/06dc-rfk-indian/06dc-rfk-indian-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Robert F. Kennedy Jr., the health secretary, has spoken often of his and his family’s longstanding commitment to Native Americans.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/28/multimedia/06dc-rfk-indian/06dc-rfk-indian-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Robert F. Kennedy Jr., the health secretary, has spoken often of his and his family’s longstanding commitment to Native Americans.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "In Odesa, Many Wonder About the Benefits of a Black Sea Cease-Fire With Russia",
+        "abstract": "Ukrainian Navy officers and business owners in the port city pondered what Kyiv could gain from a truce after it pushed back Russian vessels and resumed commercial shipping.",
+        "url": "https://www.nytimes.com/2025/04/07/world/europe/ukraine-russia-black-sea-truce.html",
+        "uri": "nyt://article/22352548-97a7-5266-8c33-ad5eef58d91c",
+        "byline": "By Constant Méheut",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T05:01:56-04:00",
+        "created_date": "2025-04-07T05:01:56-04:00",
+        "published_date": "2025-04-07T05:01:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Embargoes and Sanctions",
+            "Ships and Shipping",
+            "Ports",
+            "Defense and Military Forces",
+            "Peace Process"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Black Sea",
+            "Odessa (Ukraine)",
+            "Ukraine",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07int-ukraine-blacksea-02-mhfc/07int-ukraine-blacksea-02-mhfc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ukrainian sailors aboard a navy patrol boat on the Black Sea this month. Russia and Ukraine have said they are committed to stop fighting in the Black Sea, with caveats.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07int-ukraine-blacksea-02-mhfc/07int-ukraine-blacksea-02-mhfc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ukrainian sailors aboard a navy patrol boat on the Black Sea this month. Russia and Ukraine have said they are committed to stop fighting in the Black Sea, with caveats.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07int-ukraine-blacksea-02-mhfc/07int-ukraine-blacksea-02-mhfc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ukrainian sailors aboard a navy patrol boat on the Black Sea this month. Russia and Ukraine have said they are committed to stop fighting in the Black Sea, with caveats.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "‘The White Lotus’: Jason Isaacs Has Tricks Up His Sleeves",
+        "abstract": "The actor discussed accents, the awkwardness of onscreen nudity and his character’s surprising fate in the season finale.",
+        "url": "https://www.nytimes.com/2025/04/07/arts/television/the-white-lotus-jason-isaacs-season-finale.html",
+        "uri": "nyt://article/e90b0d3c-8100-5b52-aa5b-0a09f6a0001d",
+        "byline": "By Alexis Soloski",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T05:14:49-04:00",
+        "created_date": "2025-04-07T05:03:23-04:00",
+        "published_date": "2025-04-07T05:03:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Television",
+            "The White Lotus (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Isaacs, Jason"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07cul-WL-isaacs-03-gcjh/07cul-WL-isaacs-03-gcjh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“I don’t know what acting is, and I don’t know how I do it,” Jason Isaacs said. “It’s an animal instinct.”",
+                "copyright": "Chantal Anderson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07cul-WL-isaacs-03-gcjh/07cul-WL-isaacs-03-gcjh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“I don’t know what acting is, and I don’t know how I do it,” Jason Isaacs said. “It’s an animal instinct.”",
+                "copyright": "Chantal Anderson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07cul-WL-isaacs-03-gcjh/07cul-WL-isaacs-03-gcjh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“I don’t know what acting is, and I don’t know how I do it,” Jason Isaacs said. “It’s an animal instinct.”",
+                "copyright": "Chantal Anderson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "books",
+        "subsection": "",
+        "title": "Craving More of ‘The White Lotus’? Read These Books Next",
+        "abstract": "From scathing satires of wealth to murder mysteries set at luxe resorts, these novels are sure to scratch that Mike White itch.",
+        "url": "https://www.nytimes.com/2025/04/07/books/books-like-the-white-lotus.html",
+        "uri": "nyt://article/3e68152a-7768-5cae-91c9-347ebfdf780f",
+        "byline": "By Calum Marsh",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T05:01:35-04:00",
+        "created_date": "2025-04-07T05:01:35-04:00",
+        "published_date": "2025-04-07T05:01:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Books and Literature",
+            "genre-books-thriller",
+            "The White Lotus (TV Program)",
+            "Kismet (Book)",
+            "The Hunting Party (Book)",
+            "Bad Summer People (Book)",
+            "Long Island Compromise (Book)",
+            "I Eat Men Like Air (Book)",
+            "Memento Mori (Book)",
+            "Tangerine (Book)",
+            "Havoc (Book)",
+            "Death on the Nile (Book)",
+            "The Resort (Book)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07TBR-WHITELOTUS-READINGLIST-lvqg/07TBR-WHITELOTUS-READINGLIST-lvqg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1280,
+                "width": 1920,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Aimee Lou Wood’s character, Chelsea, escapes the mayhem with a good book.",
+                "copyright": "HBO"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07TBR-WHITELOTUS-READINGLIST-lvqg/07TBR-WHITELOTUS-READINGLIST-lvqg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Aimee Lou Wood’s character, Chelsea, escapes the mayhem with a good book.",
+                "copyright": "HBO"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07TBR-WHITELOTUS-READINGLIST-lvqg/07TBR-WHITELOTUS-READINGLIST-lvqg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Aimee Lou Wood’s character, Chelsea, escapes the mayhem with a good book.",
+                "copyright": "HBO"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "The Pandemic Is Not the Only Reason U.S. Students Are Losing Ground",
+        "abstract": "For years, the country’s lowest-scoring students were steadily improving on national tests. Starting around 2013, something changed.",
+        "url": "https://www.nytimes.com/2025/04/07/us/low-performing-students-reasons.html",
+        "uri": "nyt://article/2497af29-57df-50d5-9a34-3388ffc1acf3",
+        "byline": "By Sarah Mervosh",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T05:00:25-04:00",
+        "created_date": "2025-04-07T05:00:25-04:00",
+        "published_date": "2025-04-07T05:00:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Education (K-12)",
+            "Tests and Examinations",
+            "Smartphones",
+            "Mathematics",
+            "Illiteracy",
+            "No Child Left Behind Act",
+            "National Assessment of Educational Progress"
+        ],
+        "org_facet": [
+            "Education Department (US)"
+        ],
+        "per_facet": [
+            "Spellings, Margaret",
+            "Bush, George W"
+        ],
+        "geo_facet": [
+            "Mississippi",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/2025-04-02-student-achievement-gap-index/2025-04-02-student-achievement-gap-index-superJumbo-v2.png",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/2025-04-02-student-achievement-gap-index/2025-04-02-student-achievement-gap-index-threeByTwoSmallAt2X-v3.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/2025-04-02-student-achievement-gap-index/2025-04-02-student-achievement-gap-index-thumbLarge-v2.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "In 15 Years, 80,000 Homes in the New York Area May Be Lost to Flooding",
+        "abstract": "The metro region’s housing shortage is acute. But by 2040, dozens of neighborhoods and suburbs are likely to have lost thousands of homes to floods, a new report found.",
+        "url": "https://www.nytimes.com/2025/04/07/nyregion/climate-change-housing-crisis-new-york-city.html",
+        "uri": "nyt://article/e824eb22-2cb5-50e8-b57f-f81d8992a72e",
+        "byline": "By Mihir Zaveri and Hilary Howard",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T03:52:16-04:00",
+        "created_date": "2025-04-07T03:00:07-04:00",
+        "published_date": "2025-04-07T03:00:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Zoning",
+            "Global Warming",
+            "Floods",
+            "Real Estate and Housing (Residential)",
+            "Affordable Housing",
+            "Suburbs",
+            "Urban Areas",
+            "Buildings (Structures)",
+            "Area Planning and Renewal",
+            "Building (Construction)"
+        ],
+        "org_facet": [
+            "Rebuild by Design",
+            "Regional Plan Assn"
+        ],
+        "per_facet": [
+            "Adams, Eric L",
+            "Hochul, Kathleen C"
+        ],
+        "geo_facet": [
+            "Long Island (NY)",
+            "Westchester County (NY)",
+            "Staten Island (NYC)",
+            "Rockaway Peninsula (Queens, NY)",
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/nyregion/13met-housing-future-top/00ny-flooding36-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Some 100,000 New Yorkers currently live in low-lying coastal areas affected by routine flooding. About half of them reside in the neighborhoods surrounding Jamaica Bay.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/nyregion/13met-housing-future-top/00ny-flooding36-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Some 100,000 New Yorkers currently live in low-lying coastal areas affected by routine flooding. About half of them reside in the neighborhoods surrounding Jamaica Bay.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/nyregion/13met-housing-future-top/31met-housing-future-top-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Some 100,000 New Yorkers currently live in low-lying coastal areas affected by routine flooding. About half of them reside in the neighborhoods surrounding Jamaica Bay.",
+                "copyright": "Dave Sanders for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "A Split on the Right Over Whether Teenagers Can Have Guns",
+        "abstract": "Conservative judges have come to opposite conclusions on what the Second Amendment has to say about limiting the gun rights of those under 21.",
+        "url": "https://www.nytimes.com/2025/04/07/us/politics/courts-guns-teenagers.html",
+        "uri": "nyt://article/df6f4d53-e962-555d-a947-3ccaf93c4624",
+        "byline": "By Adam Liptak",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T05:03:34-04:00",
+        "created_date": "2025-04-07T05:03:34-04:00",
+        "published_date": "2025-04-07T05:03:34-04:00",
+        "material_type_facet": "",
+        "kicker": "Sidebar",
+        "des_facet": [
+            "Gun Control",
+            "United States Politics and Government",
+            "Law and Legislation",
+            "Second Amendment (US Constitution)",
+            "Conservatism (US Politics)",
+            "Age, Chronological"
+        ],
+        "org_facet": [
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Pryor, William H Jr",
+            "Thomas, Clarence"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-bar/07dc-bar-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court will consider next week whether to hear a case involving a Minnesota law that makes it a crime for people younger than 21 to carry guns in public.",
+                "copyright": "Eduardo Munoz/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-bar/07dc-bar-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court will consider next week whether to hear a case involving a Minnesota law that makes it a crime for people younger than 21 to carry guns in public.",
+                "copyright": "Eduardo Munoz/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-bar/07dc-bar-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court will consider next week whether to hear a case involving a Minnesota law that makes it a crime for people younger than 21 to carry guns in public.",
+                "copyright": "Eduardo Munoz/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Adrienne Adams Pitches Guaranteed Income as Major Campaign Proposal",
+        "abstract": "Adrienne Adams, the New York City Council speaker who is running for mayor, will release a plan to provide guaranteed income for homeless families.",
+        "url": "https://www.nytimes.com/2025/04/07/nyregion/adrienne-adams-nyc-mayor-guaranteed-income.html",
+        "uri": "nyt://article/ee711b5d-9ad7-5f86-8fcd-08fcc3e5b64f",
+        "byline": "By Emma G. Fitzsimmons",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T05:39:59-04:00",
+        "created_date": "2025-04-07T05:03:43-04:00",
+        "published_date": "2025-04-07T05:03:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Income",
+            "Children and Childhood",
+            "Elections, Mayors",
+            "Homeless Persons",
+            "Local Government",
+            "Primaries and Caucuses"
+        ],
+        "org_facet": [
+            "City Council (NYC)"
+        ],
+        "per_facet": [
+            "Adams, Adrienne (1960- )"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07met-guaranteed-income-1-whmg/07met-guaranteed-income-1-whmg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Adrienne Adams, the New York City Council speaker, entered the Democratic mayoral primary late and is seeking to stand out in a crowded field.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07met-guaranteed-income-1-whmg/07met-guaranteed-income-1-whmg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Adrienne Adams, the New York City Council speaker, entered the Democratic mayoral primary late and is seeking to stand out in a crowded field.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07met-guaranteed-income-1-whmg/07met-guaranteed-income-1-whmg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Adrienne Adams, the New York City Council speaker, entered the Democratic mayoral primary late and is seeking to stand out in a crowded field.",
+                "copyright": "Dave Sanders for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "What to Know About the Destructive Spring Storm System",
+        "abstract": "Heavy rains, damaging winds and dangerous floods have ravaged the South and the Midwest for days, killing at least 18 people.",
+        "url": "https://www.nytimes.com/2025/04/07/us/midwest-south-storm-floods-tornadoes.html",
+        "uri": "nyt://article/0139fe56-7bd6-5ed8-9f5c-ad625e5f2282",
+        "byline": "By Patrick J. Lyons",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T06:11:55-04:00",
+        "created_date": "2025-04-07T05:08:01-04:00",
+        "published_date": "2025-04-07T05:08:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Tornadoes",
+            "Floods",
+            "Weather",
+            "Deaths (Fatalities)",
+            "Rain",
+            "Levees and Dams",
+            "Rivers",
+            "Infrastructure (Public Works)",
+            "Disasters and Emergencies",
+            "Wind"
+        ],
+        "org_facet": [
+            "National Weather Service"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Arkansas",
+            "Benton (Ark)",
+            "Georgia",
+            "Kentucky",
+            "Little Rock (Ark)",
+            "Memphis (Tenn)",
+            "Nashville (Tenn)",
+            "Southeastern States (US)",
+            "Tennessee",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/autossell/storm-video-topper-still-1h/storm-video-topper-still-1h-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 1147,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/autossell/storm-video-topper-still-1h/storm-video-topper-still-1h-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/autossell/storm-video-topper-still-1h/storm-video-topper-still-1h-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
     }
 ]
