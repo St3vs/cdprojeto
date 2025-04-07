@@ -17772,5 +17772,65 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "dining",
+        "subsection": "",
+        "title": "Blanca, an Acclaimed Brooklyn Restaurant, Is Closing",
+        "abstract": "The quirky tasting counter behind Roberta’s pizzeria mixed low-key vibes with high-stakes cuisine.",
+        "url": "https://www.nytimes.com/2025/04/07/dining/blanca-nyc-restaurant-closing.html",
+        "uri": "nyt://article/c79cc442-e59e-5502-804d-a56427150dd4",
+        "byline": "By Pete Wells",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T09:01:46-04:00",
+        "created_date": "2025-04-07T09:01:46-04:00",
+        "published_date": "2025-04-07T09:01:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Restaurants",
+            "Shutdowns (Institutional)"
+        ],
+        "org_facet": [
+            "Blanca (Brooklyn, NY, Restaurant)"
+        ],
+        "per_facet": [
+            "Blamey, Victoria",
+            "Mirarchi, Carlo"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07FD-blanca-closing2-mbtg/07FD-blanca-closing2-mbtg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The small counter in a cinder-block building was an unlikely oasis of comfort and creativity.",
+                "copyright": "Blanca"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07FD-blanca-closing2-mbtg/07FD-blanca-closing2-mbtg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The small counter in a cinder-block building was an unlikely oasis of comfort and creativity.",
+                "copyright": "Blanca"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07FD-blanca-closing2-mbtg/07FD-blanca-closing2-mbtg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The small counter in a cinder-block building was an unlikely oasis of comfort and creativity.",
+                "copyright": "Blanca"
+            }
+        ],
+        "short_url": ""
     }
 ]
