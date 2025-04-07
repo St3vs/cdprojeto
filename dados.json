@@ -18438,5 +18438,386 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "‘The Tsunami Is Coming’: China’s Global Exports Are Just Getting Started",
+        "abstract": "A staggering $1.9 trillion in extra industrial lending is fueling a continued flood of exports that could be spread even wider across the world by the Trump tariffs.",
+        "url": "https://www.nytimes.com/2025/04/07/business/china-manufacturing-exports-trump-tariffs.html",
+        "uri": "nyt://article/24d1c55e-c9c6-5511-ae14-4a2ce47b9e0b",
+        "byline": "By Keith Bradsher",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T06:30:47-04:00",
+        "created_date": "2025-04-07T05:03:32-04:00",
+        "published_date": "2025-04-07T05:03:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Factories and Manufacturing",
+            "Electric and Hybrid Vehicles",
+            "Customs (Tariff)",
+            "Protectionism (Trade)"
+        ],
+        "org_facet": [
+            "BYD Co Ltd",
+            "GAC Group"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Tai, Katherine (1974- )"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07Biz-China-Tsunami-pltw/07Biz-China-Tsunami-pltw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "When Zeekr, an electric carmaker, opened its factory in Ningbo, China, four years ago, the facility had 500 robots. Now it has 820, with more on the way.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07Biz-China-Tsunami-pltw/07Biz-China-Tsunami-pltw-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "When Zeekr, an electric carmaker, opened its factory in Ningbo, China, four years ago, the facility had 500 robots. Now it has 820, with more on the way.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07Biz-China-Tsunami-pltw/07Biz-China-Tsunami-pltw-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "When Zeekr, an electric carmaker, opened its factory in Ningbo, China, four years ago, the facility had 500 robots. Now it has 820, with more on the way.",
+                "copyright": "Qilai Shen for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "U.S. Visa Ban Adds to South Sudan’s Mounting Troubles",
+        "abstract": "The Trump administration’s revocation of all visas held by South Sudanese nationals comes as the East African nation faces the threat of renewed war.",
+        "url": "https://www.nytimes.com/2025/04/07/world/africa/south-sudan-visas-trump.html",
+        "uri": "nyt://article/528efc70-719f-5f74-9511-867ecc2de8e4",
+        "byline": "By Abdi Latif Dahir",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T09:47:59-04:00",
+        "created_date": "2025-04-07T09:47:59-04:00",
+        "published_date": "2025-04-07T09:47:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Visas"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Rubio, Marco",
+            "Machar, Riek",
+            "Kiir Mayardit, Salva",
+            "Museveni, Yoweri",
+            "Christopher Landau"
+        ],
+        "geo_facet": [
+            "South Sudan",
+            "Juba (South Sudan)",
+            "Uganda"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07southsudan-new1-fbzv/07southsudan-new1-fbzv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1537,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The international airport in South Sudan’s capital, Juba. The Trump administration has not said whether it would seek to deport South Sudanese nationals whose visas had been revoked.",
+                "copyright": "Ivor Prickett for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07southsudan-new1-fbzv/07southsudan-new1-fbzv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The international airport in South Sudan’s capital, Juba. The Trump administration has not said whether it would seek to deport South Sudanese nationals whose visas had been revoked.",
+                "copyright": "Ivor Prickett for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07southsudan-new1-fbzv/07southsudan-new1-fbzv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The international airport in South Sudan’s capital, Juba. The Trump administration has not said whether it would seek to deport South Sudanese nationals whose visas had been revoked.",
+                "copyright": "Ivor Prickett for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "In Trump’s Second Term, Retribution Comes in Many Forms",
+        "abstract": "President Trump’s campaign to exact revenge against his perceived foes has turned out to be far more expansive, creative, efficient — and for now, less reliant on the justice system — than anticipated.",
+        "url": "https://www.nytimes.com/2025/04/07/us/politics/trump-biden-law-firms-revenge.html",
+        "uri": "nyt://article/0a1454a1-e808-5603-ae34-b6b87c4066a4",
+        "byline": "By Michael S. Schmidt",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T06:31:42-04:00",
+        "created_date": "2025-04-07T05:01:14-04:00",
+        "published_date": "2025-04-07T05:01:14-04:00",
+        "material_type_facet": "",
+        "kicker": "news analysis",
+        "des_facet": [
+            "United States Politics and Government",
+            "Presidential Power (US)",
+            "Legal Profession",
+            "Executive Orders and Memorandums"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00dc-retribution-01-qzmv/00dc-retribution-01-qzmv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00dc-retribution-01-qzmv/00dc-retribution-01-qzmv-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00dc-retribution-01-qzmv/00dc-retribution-01-qzmv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Justice Dept. Raises Executive Privilege to Try to Muzzle Fired Pardon Attorney",
+        "abstract": "A fight over the testimony of Elizabeth G. Oyer could have a ripple effect on whether other fired Justice Department lawyers speak publicly about their experiences.",
+        "url": "https://www.nytimes.com/2025/04/07/us/politics/justice-department-pardon-attorney.html",
+        "uri": "nyt://article/b0ce0485-b554-5eed-8495-1a99463ee2f1",
+        "byline": "By Devlin Barrett",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T12:22:09-04:00",
+        "created_date": "2025-04-07T10:25:35-04:00",
+        "published_date": "2025-04-07T10:25:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Executive Privilege, Doctrine of",
+            "United States Politics and Government",
+            "Whistle-Blowers",
+            "Firearms"
+        ],
+        "org_facet": [
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Oyer, Elizabeth G",
+            "Blanche, Todd (Attorney)",
+            "Trump, Donald J",
+            "Gibson, Mel"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-gibson-lzkt/07dc-gibson-lzkt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1639,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A lawyer in the office of the deputy attorney general warned Elizabeth G. Oyer, the Justice Department’s former pardon attorney, that she was “not authorized to disclose” records to lawmakers.",
+                "copyright": "U.S. Department of Justice"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-gibson-lzkt/07dc-gibson-lzkt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A lawyer in the office of the deputy attorney general warned Elizabeth G. Oyer, the Justice Department’s former pardon attorney, that she was “not authorized to disclose” records to lawmakers.",
+                "copyright": "U.S. Department of Justice"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-gibson-lzkt/07dc-gibson-lzkt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A lawyer in the office of the deputy attorney general warned Elizabeth G. Oyer, the Justice Department’s former pardon attorney, that she was “not authorized to disclose” records to lawmakers.",
+                "copyright": "U.S. Department of Justice"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "A $4 Billion Sex Abuse Settlement in L.A., After Childhoods of ‘Pure Hell’",
+        "abstract": "Thousands of plaintiffs, once children in Los Angeles County’s juvenile detention and foster care systems, are part of a record-breaking payout.",
+        "url": "https://www.nytimes.com/2025/04/07/us/los-angeles-county-abuse-settlement.html",
+        "uri": "nyt://article/1fd05c79-9818-5152-8d03-57511509e779",
+        "byline": "By Shawn Hubler and Shaila Dewan",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T10:57:31-04:00",
+        "created_date": "2025-04-07T10:21:11-04:00",
+        "published_date": "2025-04-07T10:21:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Child Abuse and Neglect",
+            "Sex Crimes",
+            "Compensation for Damages (Law)",
+            "Foster Care"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Los Angeles County (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/nat-sex-abuse-victims-promo-zkmv/nat-sex-abuse-victims-promo-zkmv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mark Abramson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/nat-sex-abuse-victims-promo-zkmv/nat-sex-abuse-victims-promo-zkmv-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mark Abramson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/nat-sex-abuse-victims-promo-zkmv/nat-sex-abuse-victims-promo-zkmv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mark Abramson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "Scientists Revive the Dire Wolf, or Something Close",
+        "abstract": "Dire wolves, made famous by “Game of Thrones,” went extinct some 13,000 years ago. Now, researchers have bred gray-wolf pups that carry genes of their ancient cousins.",
+        "url": "https://www.nytimes.com/2025/04/07/science/colossal-dire-wolf-deextinction.html",
+        "uri": "nyt://article/1e4b372f-fcda-55f9-92e4-8ee73771ea35",
+        "byline": "By Carl Zimmer",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T12:33:23-04:00",
+        "created_date": "2025-04-07T12:33:23-04:00",
+        "published_date": "2025-04-07T12:33:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Endangered and Extinct Species",
+            "Hunting and Trapping",
+            "Paleontology",
+            "Genetics and Heredity",
+            "Animals",
+            "Fossils",
+            "Cloning",
+            "Wolves",
+            "DNA (Deoxyribonucleic Acid)",
+            "Conservation of Resources",
+            "Biodiversity",
+            "Mammoths (Animals)"
+        ],
+        "org_facet": [
+            "Colossal Laboratories and Biosciences"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08HS-DIREWOLF-01-wgjm/08HS-DIREWOLF-01-wgjm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A 6-month-old wolf pup is one of three that carry dire-wolf genes, including genes for a white coat and a large body. The three animals, bred by scientists at Colossal Biosciences, live in captivity in the northern United States.",
+                "copyright": "Colossal Biosciences"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08HS-DIREWOLF-01-wgjm/08HS-DIREWOLF-01-wgjm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A 6-month-old wolf pup is one of three that carry dire-wolf genes, including genes for a white coat and a large body. The three animals, bred by scientists at Colossal Biosciences, live in captivity in the northern United States.",
+                "copyright": "Colossal Biosciences"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08HS-DIREWOLF-01-wgjm/08HS-DIREWOLF-01-wgjm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A 6-month-old wolf pup is one of three that carry dire-wolf genes, including genes for a white coat and a large body. The three animals, bred by scientists at Colossal Biosciences, live in captivity in the northern United States.",
+                "copyright": "Colossal Biosciences"
+            }
+        ],
+        "short_url": ""
     }
 ]
