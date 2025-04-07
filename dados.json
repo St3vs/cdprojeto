@@ -16208,5 +16208,123 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "Bitcoin Is Down 10% Since Trump’s Global Tariff Announcement",
+        "abstract": "The rapid drop shows that cryptocurrencies, which the president has promoted, are subject to the same market gyrations as any other risky asset.",
+        "url": "https://www.nytimes.com/2025/04/06/business/economy/trump-bitcoin-crypto-tariffs.html",
+        "uri": "nyt://article/eb45bca9-4afd-538b-8393-aee0a5fda877",
+        "byline": "By David Yaffe-Bellany",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T22:36:59-04:00",
+        "created_date": "2025-04-06T22:36:59-04:00",
+        "published_date": "2025-04-06T22:36:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Bitcoin (Currency)",
+            "Virtual Currency",
+            "International Trade and World Market",
+            "Prices (Fares, Fees and Rates)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07markets-tariffs-crypto-jvlb/07markets-tariffs-crypto-jvlb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Bitcoin at a cryptocurrency exchange.",
+                "copyright": "Dale De La Rey/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07markets-tariffs-crypto-jvlb/07markets-tariffs-crypto-jvlb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Bitcoin at a cryptocurrency exchange.",
+                "copyright": "Dale De La Rey/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07markets-tariffs-crypto-jvlb/07markets-tariffs-crypto-jvlb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Bitcoin at a cryptocurrency exchange.",
+                "copyright": "Dale De La Rey/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Judge Calls Mistaken Deportation of Maryland Man a ‘Grievous Error’",
+        "abstract": "Judge Paula Xinis, who has ordered that the Trump administration return the man, Kilmar Armando Abrego Garcia, by Monday, also rejected a request to pause that order.",
+        "url": "https://www.nytimes.com/2025/04/06/us/politics/trump-deportation-el-salvador-judge-xinis.html",
+        "uri": "nyt://article/d6c5f6f1-c826-59d2-8cee-fb0b94721a2f",
+        "byline": "By Alan Feuer",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T16:58:38-04:00",
+        "created_date": "2025-04-06T10:36:59-04:00",
+        "published_date": "2025-04-06T10:36:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Illegal Immigration",
+            "Deportation"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "El Salvador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06trump-news-Albrego-Garcia2-hfzp/06trump-news-Albrego-Garcia2-hfzp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Stefania Vasquez Sura, wife of Kilmar Armando Abrego Garcia, listening to her husband’s attorney speak at the Federal District Court in Greenbelt, Md., on Friday.",
+                "copyright": "Rod Lamkey Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06trump-news-Albrego-Garcia2-hfzp/06trump-news-Albrego-Garcia2-hfzp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Stefania Vasquez Sura, wife of Kilmar Armando Abrego Garcia, listening to her husband’s attorney speak at the Federal District Court in Greenbelt, Md., on Friday.",
+                "copyright": "Rod Lamkey Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06trump-news-Albrego-Garcia2-hfzp/06trump-news-Albrego-Garcia2-hfzp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Stefania Vasquez Sura, wife of Kilmar Armando Abrego Garcia, listening to her husband’s attorney speak at the Federal District Court in Greenbelt, Md., on Friday.",
+                "copyright": "Rod Lamkey Jr. for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
