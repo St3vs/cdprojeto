@@ -18819,5 +18819,254 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Defending Trump Policies in Court Leads to Criticism, Doubt and Punishment",
+        "abstract": "Inside the Justice Department’s civil division, lawyers are squeezed between judges demanding answers and bosses’ instructions to protect the Trump agenda at all costs.",
+        "url": "https://www.nytimes.com/2025/04/07/us/politics/justice-department-trump-policies-defense.html",
+        "uri": "nyt://article/924cac25-06e1-5fb9-bf2c-b1c1bb028bec",
+        "byline": "By Devlin Barrett and Glenn Thrush",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T13:30:19-04:00",
+        "created_date": "2025-04-07T12:59:49-04:00",
+        "published_date": "2025-04-07T12:59:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Presidential Power (US)",
+            "Legal Profession",
+            "Suits and Litigation (Civil)",
+            "Federal Courts (US)"
+        ],
+        "org_facet": [
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Blanche, Todd (Attorney)",
+            "Bondi, Pamela J",
+            "Reuveni, Erez",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-justice1-zmvg/07dc-justice1-zmvg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Career lawyers say they increasingly feel trapped between President Trump’s political appointees, like Attorney General Pam Bondi, and judges who demand comprehensible answers to basic questions.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-justice1-zmvg/07dc-justice1-zmvg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Career lawyers say they increasingly feel trapped between President Trump’s political appointees, like Attorney General Pam Bondi, and judges who demand comprehensible answers to basic questions.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-justice1-zmvg/07dc-justice1-zmvg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Career lawyers say they increasingly feel trapped between President Trump’s political appointees, like Attorney General Pam Bondi, and judges who demand comprehensible answers to basic questions.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Appeals Court Reinstates 2 Leaders of Federal Boards Fired by Trump",
+        "abstract": "A full appeals court panel voted 7-4 to restore Cathy Harris and Gwynne Wilcox to their positions, setting up an expected Supreme Court finale.",
+        "url": "https://www.nytimes.com/2025/04/07/us/politics/labor-relations-merit-systems-board.html",
+        "uri": "nyt://article/38e476ea-5a1e-5060-ba90-59403f9a7037",
+        "byline": "By Zach Montague",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T11:54:12-04:00",
+        "created_date": "2025-04-07T11:21:39-04:00",
+        "published_date": "2025-04-07T11:21:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Appointments and Executive Changes",
+            "Collective Bargaining"
+        ],
+        "org_facet": [
+            "Merit Systems Protection Board (US)",
+            "National Labor Relations Board"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07trump-news-mspb-reinstatement-gvwj/07trump-news-mspb-reinstatement-gvwj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The headquarters of the National Labor Relations Board in Washington.",
+                "copyright": "Andrew Kelly/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07trump-news-mspb-reinstatement-gvwj/07trump-news-mspb-reinstatement-gvwj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The headquarters of the National Labor Relations Board in Washington.",
+                "copyright": "Andrew Kelly/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07trump-news-mspb-reinstatement-gvwj/07trump-news-mspb-reinstatement-gvwj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The headquarters of the National Labor Relations Board in Washington.",
+                "copyright": "Andrew Kelly/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Video Shows Search for Missing Gaza Paramedics Before Israelis Shoot Rescuers",
+        "abstract": "The Palestine Red Crescent released a video made by a paramedic before he was killed, and called the deaths of 15 rescue workers “a full-fledged war crime.” Israel has said it is investigating.",
+        "url": "https://www.nytimes.com/2025/04/07/world/middleeast/gaza-paramedics-video.html",
+        "uri": "nyt://article/dcf0ac5b-b179-5cab-bf9a-da61452fcd2a",
+        "byline": "By Vivian Yee and Fatima AbdulKarim",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T13:15:03-04:00",
+        "created_date": "2025-04-07T13:15:03-04:00",
+        "published_date": "2025-04-07T13:15:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Ambulances",
+            "Fires and Firefighters",
+            "Emergency Medical Treatment"
+        ],
+        "org_facet": [
+            "United Nations",
+            "International Federation of Red Cross and Red Crescent Societies",
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel",
+            "West Bank"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07gaza-medics-1-mcfj/07gaza-medics-1-mcfj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a cellphone video taken by a paramedic moments before he and other rescue workers were killed by Israelis in Gaza on March 23, and released by the Palestine Red Crescent.",
+                "copyright": "Palestinian Red Crescent"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07gaza-medics-1-mcfj/07gaza-medics-1-mcfj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a cellphone video taken by a paramedic moments before he and other rescue workers were killed by Israelis in Gaza on March 23, and released by the Palestine Red Crescent.",
+                "copyright": "Palestinian Red Crescent"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07gaza-medics-1-mcfj/07gaza-medics-1-mcfj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a cellphone video taken by a paramedic moments before he and other rescue workers were killed by Israelis in Gaza on March 23, and released by the Palestine Red Crescent.",
+                "copyright": "Palestinian Red Crescent"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "upshot",
+        "subsection": "",
+        "title": "10-Minute Challenge: ‘The Seasons’ by Lee Krasner",
+        "abstract": "We’d like you to look at one piece of art for 10 minutes, uninterrupted.",
+        "url": "https://www.nytimes.com/interactive/2025/04/06/upshot/ten-minute-challenge-seasons.html",
+        "uri": "nyt://interactive/bd7602fa-a455-5ac9-96c1-c2627261510d",
+        "byline": "By Larry Buchanan",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-06T22:37:48-04:00",
+        "created_date": "2025-04-06T22:12:06-04:00",
+        "published_date": "2025-04-06T22:12:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Art",
+            "Emotions"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Krasner, Lee",
+            "Pollock, Jackson",
+            "Conaty, Kim"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/31/us/ten-minute-challenge-seasons-1743449086475/ten-minute-challenge-seasons-1743449086475-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 932,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Pollock-Krasner Foundation/Artists Rights Society (ARS), New York",
+                "copyright": "The Pollock-Krasner Foundation/Artists Rights Society (ARS), New York"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/31/us/ten-minute-challenge-seasons-1743449086475/ten-minute-challenge-seasons-1743449086475-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Pollock-Krasner Foundation/Artists Rights Society (ARS), New York",
+                "copyright": "The Pollock-Krasner Foundation/Artists Rights Society (ARS), New York"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/31/us/ten-minute-challenge-seasons-1743449086475/ten-minute-challenge-seasons-1743449086475-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Pollock-Krasner Foundation/Artists Rights Society (ARS), New York",
+                "copyright": "The Pollock-Krasner Foundation/Artists Rights Society (ARS), New York"
+            }
+        ],
+        "short_url": ""
     }
 ]
