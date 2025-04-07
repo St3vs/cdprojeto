@@ -19068,5 +19068,323 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Asks Supreme Court to Block Order Requiring Return of Wrongly Deported Migrant",
+        "abstract": "The government said Judge Paula Xinis, who ordered that the administration return the migrant, Kilmar Armando Abrego Garcia, by Monday, had engaged in “district-court diplomacy.”",
+        "url": "https://www.nytimes.com/2025/04/07/us/politics/supreme-court-wrongly-deported.html",
+        "uri": "nyt://article/cd89e2f6-dff3-5f5f-b59c-6f22cda5deb4",
+        "byline": "By Adam Liptak",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T13:07:44-04:00",
+        "created_date": "2025-04-07T11:45:46-04:00",
+        "published_date": "2025-04-07T11:45:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Deportation",
+            "Illegal Immigration",
+            "Presidential Power (US)",
+            "War and Emergency Powers (US)",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [
+            "Supreme Court (US)",
+            "Tren de Aragua (Gang)"
+        ],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Trump, Donald J",
+            "Xinis, Paula"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-immig-kptz/07dc-immig-kptz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An appellate court panel likened Kilmar Armando Abrego Garcia’s inadvertent deportation to an act of official kidnapping.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-immig-kptz/07dc-immig-kptz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An appellate court panel likened Kilmar Armando Abrego Garcia’s inadvertent deportation to an act of official kidnapping.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-immig-kptz/07dc-immig-kptz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An appellate court panel likened Kilmar Armando Abrego Garcia’s inadvertent deportation to an act of official kidnapping.",
+                "copyright": "Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Administration Aims to Spend $45 Billion to Expand Immigrant Detention",
+        "abstract": "A request for proposals for new detention facilities and other services would allow the government to expedite the contracting process and rapidly expand detention.",
+        "url": "https://www.nytimes.com/2025/04/07/us/politics/trump-administration-immigrant-detention-facilities-services.html",
+        "uri": "nyt://article/8c55fff0-36f8-5ef4-b781-cf8482640bfd",
+        "byline": "By Allison McCann, Alexandra Berzon and Hamed Aleaziz",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T14:58:52-04:00",
+        "created_date": "2025-04-07T14:42:10-04:00",
+        "published_date": "2025-04-07T14:42:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Immigration and Emigration",
+            "Immigration Detention",
+            "United States Politics and Government",
+            "Deportation",
+            "Illegal Immigration",
+            "Federal Budget (US)",
+            "Government Contracts and Procurement"
+        ],
+        "org_facet": [
+            "Immigration and Customs Enforcement (US)",
+            "Homeland Security Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-ice-detention-contract-01-lvhz/07dc-ice-detention-contract-01-lvhz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "CoreCivic signed a five-year, $246 million contract to reopen a family detention center in Dilley, Texas, seen in 2015. The company is one of several private detention operators to have already signed new contracts since President Trump took office.",
+                "copyright": "Ilana Panich-Linsman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-ice-detention-contract-01-lvhz/07dc-ice-detention-contract-01-lvhz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "CoreCivic signed a five-year, $246 million contract to reopen a family detention center in Dilley, Texas, seen in 2015. The company is one of several private detention operators to have already signed new contracts since President Trump took office.",
+                "copyright": "Ilana Panich-Linsman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-ice-detention-contract-01-lvhz/07dc-ice-detention-contract-01-lvhz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "CoreCivic signed a five-year, $246 million contract to reopen a family detention center in Dilley, Texas, seen in 2015. The company is one of several private detention operators to have already signed new contracts since President Trump took office.",
+                "copyright": "Ilana Panich-Linsman for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Trump Is Threatening School Funding. Here’s What Families Should Know.",
+        "abstract": "The impact of the upheaval could vary greatly across the country. New York, for example, is not feeling significant effects so far, but district leaders are watching closely.",
+        "url": "https://www.nytimes.com/2025/04/07/nyregion/trump-education-funding-schools-parents.html",
+        "uri": "nyt://article/6e5edfaf-2b80-5245-a67b-4b33cb4ed9d7",
+        "byline": "By Troy Closson",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T14:14:04-04:00",
+        "created_date": "2025-04-07T14:14:04-04:00",
+        "published_date": "2025-04-07T14:14:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Federal Aid (US)",
+            "Income Inequality",
+            "United States Politics and Government",
+            "Education (K-12)",
+            "Diversity Initiatives"
+        ],
+        "org_facet": [
+            "Education Department (NYC)",
+            "Education Department (US)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/00met-schools-trump-01-hfzg/00met-schools-trump-01-hfzg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration is seeking to dismantle the Education Department.",
+                "copyright": "Joe Raedle/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/00met-schools-trump-01-hfzg/00met-schools-trump-01-hfzg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration is seeking to dismantle the Education Department.",
+                "copyright": "Joe Raedle/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/00met-schools-trump-01-hfzg/00met-schools-trump-01-hfzg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration is seeking to dismantle the Education Department.",
+                "copyright": "Joe Raedle/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "‘The White Lotus’: Walton Goggins Knows It Had to End This Way",
+        "abstract": "“I realized that there was really no other conclusion,” the actor said in an interview on Monday about the season finale.",
+        "url": "https://www.nytimes.com/2025/04/07/arts/television/walton-goggins-white-lotus-finale.html",
+        "uri": "nyt://article/9b4e903f-bfca-5f55-81a0-ebdd559a0617",
+        "byline": "By Alexis Soloski",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T14:17:49-04:00",
+        "created_date": "2025-04-07T13:56:45-04:00",
+        "published_date": "2025-04-07T13:56:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Television",
+            "The White Lotus (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Goggins, Walton"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/arts/07goggins1/07goggins1-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1280,
+                "width": 1920,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rick (Walton Goggins) and Chelsea (Aimee Lou Wood) reunited one last time in the season finale of “The White Lotus.”",
+                "copyright": "Fabio Lovino/HBO"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/arts/07goggins1/07goggins1-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rick (Walton Goggins) and Chelsea (Aimee Lou Wood) reunited one last time in the season finale of “The White Lotus.”",
+                "copyright": "Fabio Lovino/HBO"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/arts/07goggins1/07goggins1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rick (Walton Goggins) and Chelsea (Aimee Lou Wood) reunited one last time in the season finale of “The White Lotus.”",
+                "copyright": "Fabio Lovino/HBO"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Transgender Woman Arrested After Using Bathroom at Florida State Capitol",
+        "abstract": "Marcy Rheintgen said she was held in jail overnight after she deliberately challenged a state law by entering a women’s bathroom in the government building.",
+        "url": "https://www.nytimes.com/2025/04/07/us/politics/trans-student-arrest-bathroom-law-florida.html",
+        "uri": "nyt://article/b4a9e154-363d-5e1e-b9f8-ecc76a8b54c4",
+        "byline": "By Amanda Holpuch",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T14:29:30-04:00",
+        "created_date": "2025-04-07T14:17:03-04:00",
+        "published_date": "2025-04-07T14:17:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "State Legislatures",
+            "Bathrooms and Toilets",
+            "Law and Legislation",
+            "Civil Rights and Liberties",
+            "Transgender",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "American Civil Liberties Union",
+            "Equality Florida"
+        ],
+        "per_facet": [
+            "DeSantis, Ron",
+            "Rheintgen, Marcy"
+        ],
+        "geo_facet": [
+            "Florida"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06xp-florida1-gqvp/06xp-florida1-gqvp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1639,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Marcy Rheintgen said she deliberately broke a Florida law to challenge a ban against transgender people from using bathrooms consistent with their gender identity in government buildings. ",
+                "copyright": "Marcy Rheintgen, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06xp-florida1-gqvp/06xp-florida1-gqvp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Marcy Rheintgen said she deliberately broke a Florida law to challenge a ban against transgender people from using bathrooms consistent with their gender identity in government buildings. ",
+                "copyright": "Marcy Rheintgen, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06xp-florida1-gqvp/06xp-florida1-gqvp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Marcy Rheintgen said she deliberately broke a Florida law to challenge a ban against transgender people from using bathrooms consistent with their gender identity in government buildings. ",
+                "copyright": "Marcy Rheintgen, via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
