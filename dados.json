@@ -16141,5 +16141,72 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "Jay North, Child Star From ‘Dennis the Menace,’ Dies at 73",
+        "abstract": "Mr. North was best known for playing the towheaded Dennis Mitchell on the television series, which ran on CBS from 1959 to 1963.",
+        "url": "https://www.nytimes.com/2025/04/06/arts/television/jay-north-dennis-the-menance-dead.html",
+        "uri": "nyt://article/11ab096a-6f3c-510e-bfeb-2a021b18465b",
+        "byline": "By Alexandra E. Petri and Daniel E. Slotnik",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T20:49:31-04:00",
+        "created_date": "2025-04-06T20:23:42-04:00",
+        "published_date": "2025-04-06T20:23:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Television",
+            "Comedy and Humor",
+            "Children and Childhood",
+            "Nineteen Hundred Fifties",
+            "Comic Books and Strips",
+            "Actors and Actresses",
+            "Dennis the Menace (TV Program)"
+        ],
+        "org_facet": [
+            "CBS Corporation"
+        ],
+        "per_facet": [
+            "Jay North"
+        ],
+        "geo_facet": [
+            "Los Angeles (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06xp-North-top/06xp-North-top-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1621,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jay North in 1959. He played the well-meaning but high jinks-prone Dennis Mitchell in the television series “Dennis the Menace.”",
+                "copyright": "Gabi Rona/MPTV Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06xp-North-top/06xp-North-top-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jay North in 1959. He played the well-meaning but high jinks-prone Dennis Mitchell in the television series “Dennis the Menace.”",
+                "copyright": "Gabi Rona/MPTV Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06xp-North-top/06xp-North-top-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jay North in 1959. He played the well-meaning but high jinks-prone Dennis Mitchell in the television series “Dennis the Menace.”",
+                "copyright": "Gabi Rona/MPTV Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
