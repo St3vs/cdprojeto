@@ -17709,5 +17709,68 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "magazine",
+        "subsection": "",
+        "title": "How Contracting Work Became a Race to the Bottom",
+        "abstract": "The reality of being a contractor includes inexperienced workers, sketchy business practices and low, low margins.",
+        "url": "https://www.nytimes.com/2025/04/07/magazine/contractors-construction-real-estate.html",
+        "uri": "nyt://article/f93ab492-bf8f-5a88-b58b-99308372ade3",
+        "byline": "By Marcela Valdes",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T05:41:04-04:00",
+        "created_date": "2025-04-07T05:01:22-04:00",
+        "published_date": "2025-04-07T05:01:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Home Repairs and Improvements",
+            "Real Estate and Housing (Residential)",
+            "Freelancing, Self-Employment and Independent Contracting",
+            "Labor and Jobs",
+            "Wages and Salaries",
+            "Building (Construction)",
+            "Foreign Workers",
+            "Workers' Compensation Insurance",
+            "Workplace Hazards and Violations",
+            "Prices (Fares, Fees and Rates)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/magazine/13mag-construction-04/13mag-construction-04-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1463,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Whelan with Michael Robinson, from the carpenters’ union, using a temporary ramp at a client’s house.",
+                "copyright": "Victor Llorente for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/magazine/13mag-construction-04/13mag-construction-04-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Whelan with Michael Robinson, from the carpenters’ union, using a temporary ramp at a client’s house.",
+                "copyright": "Victor Llorente for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/magazine/13mag-construction-04/13mag-construction-04-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Whelan with Michael Robinson, from the carpenters’ union, using a temporary ramp at a client’s house.",
+                "copyright": "Victor Llorente for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
