@@ -19386,5 +19386,183 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Johnson Reaches Agreement to Kill Proxy Voting Proposal in the House",
+        "abstract": "Republicans who had been poised to force a vote on changing House rules to allow new parents to vote remotely pulled back after the speaker offered a watered-down solution for a narrow set of new mothers.",
+        "url": "https://www.nytimes.com/2025/04/07/us/politics/johnson-agreement-house-proxy-voting-proposal.html",
+        "uri": "nyt://article/faf90f78-435f-58b5-91c2-691084a365ac",
+        "byline": "By Annie Karni",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T15:42:10-04:00",
+        "created_date": "2025-04-07T15:42:10-04:00",
+        "published_date": "2025-04-07T15:42:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [
+            "Johnson, Mike (1972- )",
+            "Luna, Anna Paulina",
+            "Jacobs, Sara (1989- )"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-proxyvoting-gpkj/07dc-proxyvoting-gpkj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Anna Paulina Luna, Republican of Florida, speaking at the Capitol last month.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-proxyvoting-gpkj/07dc-proxyvoting-gpkj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Anna Paulina Luna, Republican of Florida, speaking at the Capitol last month.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-proxyvoting-gpkj/07dc-proxyvoting-gpkj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Anna Paulina Luna, Republican of Florida, speaking at the Capitol last month.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "When It Comes to D.E.I. and ICE, Trump Is Using Federal Grants as Leverage",
+        "abstract": "The Department of Homeland Security is reviewing billions of dollars in grants to make sure cities and states are complying with President Trump’s priorities on immigration and diversity.",
+        "url": "https://www.nytimes.com/2025/04/07/us/politics/trump-homeland-security-ice-dei-grants.html",
+        "uri": "nyt://article/2e8591f2-367f-5ec7-9b1b-fea7ee625fe1",
+        "byline": "By Benjamin Oreskes, Zolan Kanno-Youngs and Hamed Aleaziz",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T15:22:21-04:00",
+        "created_date": "2025-04-07T15:19:35-04:00",
+        "published_date": "2025-04-07T15:19:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Federal Aid (US)",
+            "United States Politics and Government",
+            "Federal-State Relations (US)"
+        ],
+        "org_facet": [
+            "Federal Emergency Management Agency",
+            "Homeland Security Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07DC-DHS-phfv/07DC-DHS-phfv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An Immigration and Customs Enforcement raid in Denver in February. Trump administration changes could imperil tens of billions of dollars in grants to states and cities that have rules limiting cooperation with ICE.",
+                "copyright": "Chet Strange for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07DC-DHS-phfv/07DC-DHS-phfv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An Immigration and Customs Enforcement raid in Denver in February. Trump administration changes could imperil tens of billions of dollars in grants to states and cities that have rules limiting cooperation with ICE.",
+                "copyright": "Chet Strange for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07DC-DHS-phfv/07DC-DHS-phfv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An Immigration and Customs Enforcement raid in Denver in February. Trump administration changes could imperil tens of billions of dollars in grants to states and cities that have rules limiting cooperation with ICE.",
+                "copyright": "Chet Strange for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "N.C. Supreme Court Halts Voter Eligibility Review in Contested Judicial Race",
+        "abstract": "A razor-close race for a seat on the court is the last 2024 statewide election in the nation to remain uncertified.",
+        "url": "https://www.nytimes.com/2025/04/07/us/politics/north-carolina-supreme-court-election-ballots.html",
+        "uri": "nyt://article/90ee97a4-79d4-5b22-a5cb-44e7c710948c",
+        "byline": "By Nick Corasaniti and Eduardo Medina",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T15:55:55-04:00",
+        "created_date": "2025-04-07T15:53:16-04:00",
+        "published_date": "2025-04-07T15:53:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Supreme Courts (State)",
+            "Decisions and Verdicts",
+            "Voting Rights, Registration and Requirements"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Griffin, Jefferson (1980- )",
+            "Riggs, Allison J"
+        ],
+        "geo_facet": [
+            "North Carolina"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07nat-nc-courts-gmhc/07nat-nc-courts-gmhc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Judge Jefferson Griffin, who fell about 700 votes short of winning a State Supreme Court seat in November, is seeking to disqualify as many as 65,000 people’s ballots in the election.",
+                "copyright": "Robert Willett/The News & Observer, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07nat-nc-courts-gmhc/07nat-nc-courts-gmhc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Judge Jefferson Griffin, who fell about 700 votes short of winning a State Supreme Court seat in November, is seeking to disqualify as many as 65,000 people’s ballots in the election.",
+                "copyright": "Robert Willett/The News & Observer, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07nat-nc-courts-gmhc/07nat-nc-courts-gmhc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Judge Jefferson Griffin, who fell about 700 votes short of winning a State Supreme Court seat in November, is seeking to disqualify as many as 65,000 people’s ballots in the election.",
+                "copyright": "Robert Willett/The News & Observer, via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
