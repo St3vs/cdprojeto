@@ -17832,5 +17832,75 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "As Kennedy Champions Chronic Disease Prevention, Key Research Is Cut",
+        "abstract": "Two significant programs that invested in research on diabetes, dementia, obesity and kidney disease have ended since the start of the Trump administration.",
+        "url": "https://www.nytimes.com/2025/04/07/health/rfk-hhs-diabetes-obesity-disease.html",
+        "uri": "nyt://article/d7c90240-ae45-5be3-88eb-e2ee9cbcc4d9",
+        "byline": "By Gina Kolata",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T09:27:26-04:00",
+        "created_date": "2025-04-07T09:27:26-04:00",
+        "published_date": "2025-04-07T09:27:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Chronic Condition (Health)",
+            "Federal Aid (US)",
+            "Diabetes",
+            "United States Politics and Government",
+            "Dementia",
+            "Research",
+            "Diet and Nutrition",
+            "Alzheimer's Disease",
+            "Diversity Initiatives"
+        ],
+        "org_facet": [
+            "Health and Human Services Department",
+            "National Institute of Child Health and Human Development",
+            "National Institutes of Health",
+            "Columbia University",
+            "Harvard Medical School"
+        ],
+        "per_facet": [
+            "Kennedy, Robert F Jr"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00HS-chronic-disease-01-zqwg/00HS-chronic-disease-01-zqwg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1088,
+                "width": 1631,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Robert F. Kennedy Jr. noted the high burden of chronic disease in his confirmation hearing to lead the Health and Human Services Department.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00HS-chronic-disease-01-zqwg/00HS-chronic-disease-01-zqwg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Robert F. Kennedy Jr. noted the high burden of chronic disease in his confirmation hearing to lead the Health and Human Services Department.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00HS-chronic-disease-01-zqwg/00HS-chronic-disease-01-zqwg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Robert F. Kennedy Jr. noted the high burden of chronic disease in his confirmation hearing to lead the Health and Human Services Department.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
