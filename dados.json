@@ -19807,5 +19807,312 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "2 U.S. Border Officers Charged With Taking Bribes to Allow Undocumented Migrants",
+        "abstract": "Prosecutors said the men allowed dozens of cars with undocumented immigrants to pass through their inspection lanes in Southern California in exchange for cash.",
+        "url": "https://www.nytimes.com/2025/04/07/us/us-border-officers-bribes-charged.html",
+        "uri": "nyt://article/30b31cc4-1704-56cc-8e4f-526fc2949dd8",
+        "byline": "By Johnny Diaz",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T15:03:29-04:00",
+        "created_date": "2025-04-07T15:03:29-04:00",
+        "published_date": "2025-04-07T15:03:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Illegal Immigration",
+            "Bribery and Kickbacks",
+            "Smuggling",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [
+            "Customs and Border Protection (US)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "California",
+            "San Ysidro (Calif)",
+            "Mexico"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/22/multimedia/07xp-border1/22DC-TRUMP-IMMIG-PRINT-02-gfzp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pedestrians crossing from Tijuana, Mexico, through the San Ysidro port of entry into Southern California last year.",
+                "copyright": "Meridith Kohut for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/22/multimedia/07xp-border1/22DC-TRUMP-IMMIG-PRINT-02-gfzp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pedestrians crossing from Tijuana, Mexico, through the San Ysidro port of entry into Southern California last year.",
+                "copyright": "Meridith Kohut for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/22/multimedia/07xp-border1/07xp-border1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pedestrians crossing from Tijuana, Mexico, through the San Ysidro port of entry into Southern California last year.",
+                "copyright": "Meridith Kohut for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "FEMA Cuts More Than $300 Million in Disaster Aid to New York",
+        "abstract": "Much of the money was to go toward flood mitigation in vulnerable areas of New York City that were struck hard by Hurricane Sandy and the remnants of Hurricane Ida.",
+        "url": "https://www.nytimes.com/2025/04/07/nyregion/fema-cuts-new-york.html",
+        "uri": "nyt://article/922ff77b-bf4c-5d7b-8230-ff03b190ab53",
+        "byline": "By Benjamin Oreskes, Dana Rubinstein and Grace Ashford",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T17:48:09-04:00",
+        "created_date": "2025-04-07T17:48:09-04:00",
+        "published_date": "2025-04-07T17:48:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Federal Aid (US)",
+            "Disasters and Emergencies",
+            "Floods",
+            "Federal-State Relations (US)"
+        ],
+        "org_facet": [
+            "Federal Emergency Management Agency"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "New York State",
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/00met-fema-cuts-01-kmhp/00met-fema-cuts-01-kmhp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New York State was expecting millions of dollars in federal funds to better prepare localities in flood-prone areas for damaging storms like Hurricane Ida in 2021.",
+                "copyright": "Desiree Rios for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/00met-fema-cuts-01-kmhp/00met-fema-cuts-01-kmhp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New York State was expecting millions of dollars in federal funds to better prepare localities in flood-prone areas for damaging storms like Hurricane Ida in 2021.",
+                "copyright": "Desiree Rios for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/00met-fema-cuts-01-kmhp/00met-fema-cuts-01-kmhp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New York State was expecting millions of dollars in federal funds to better prepare localities in flood-prone areas for damaging storms like Hurricane Ida in 2021.",
+                "copyright": "Desiree Rios for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Another Law Firm Braces for Possible Blowback From Trump",
+        "abstract": "Cadwalader, Wickersham & Taft balked at having one of its partners represent Donald Trump in his criminal cases. Now the firm is among those that have been pushed to agree to a deal with the White House.",
+        "url": "https://www.nytimes.com/2025/04/07/us/politics/law-firms-trump-cadwalader-wickersham-taft.html",
+        "uri": "nyt://article/b5a47652-d30b-5f46-b4a5-fdd9ef1fe9df",
+        "byline": "By Maggie Haberman, Ben Protess and Michael S. Schmidt",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T17:30:44-04:00",
+        "created_date": "2025-04-07T17:19:26-04:00",
+        "published_date": "2025-04-07T17:19:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Legal Profession",
+            "United States Politics and Government",
+            "Presidential Power (US)",
+            "Executive Orders and Memorandums"
+        ],
+        "org_facet": [
+            "Cadwalader, Wickersham & Taft LLP"
+        ],
+        "per_facet": [
+            "Blanche, Todd (Attorney)",
+            "Epshteyn, Boris",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-legal-pqtc/07dc-legal-pqtc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "To represent Donald Trump in his criminal trials, Todd Blanche had to leave his white-shoe law firm in Manhattan.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-legal-pqtc/07dc-legal-pqtc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "To represent Donald Trump in his criminal trials, Todd Blanche had to leave his white-shoe law firm in Manhattan.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-legal-pqtc/07dc-legal-pqtc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "To represent Donald Trump in his criminal trials, Todd Blanche had to leave his white-shoe law firm in Manhattan.",
+                "copyright": "Dave Sanders for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "dining",
+        "subsection": "",
+        "title": "The Pong-Pong Fruit in ‘White Lotus’ Really Is That Dangerous",
+        "abstract": "Indigenous to parts of South and Southeast Asia, Australia and the Pacific islands, the fruit contains a toxin in its seeds that attacks the heart.",
+        "url": "https://www.nytimes.com/2025/04/07/dining/white-lotus-pong-pong-fruit-suicide-tree.html",
+        "uri": "nyt://article/3b1071fb-04bd-54df-9b27-4460a1dab380",
+        "byline": "By Remy Tumin",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T16:51:31-04:00",
+        "created_date": "2025-04-07T16:51:31-04:00",
+        "published_date": "2025-04-07T16:51:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "The White Lotus (TV Program)",
+            "Fruit",
+            "Poisoning and Poisons"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Southeast Asia",
+            "Thailand"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07FD-PONG-PONG1-wbzj/07FD-PONG-PONG1-wbzj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tim Ratliff, the beleaguered patriarch of a wealthy Southern family in “The White Lotus,” fixates on the poisonous fruit of the pong-pong tree.",
+                "copyright": "HBO"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07FD-PONG-PONG1-wbzj/07FD-PONG-PONG1-wbzj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tim Ratliff, the beleaguered patriarch of a wealthy Southern family in “The White Lotus,” fixates on the poisonous fruit of the pong-pong tree.",
+                "copyright": "HBO"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07FD-PONG-PONG1-wbzj/07FD-PONG-PONG1-wbzj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tim Ratliff, the beleaguered patriarch of a wealthy Southern family in “The White Lotus,” fixates on the poisonous fruit of the pong-pong tree.",
+                "copyright": "HBO"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Man’s 7 ‘Emotional Support’ Tigers Seized in Nevada",
+        "abstract": "The local authorities arrested Karl Mitchell, who claimed he had been authorized by a doctor to keep the tigers.",
+        "url": "https://www.nytimes.com/2025/04/07/us/tigers-nevada-arrest-joe-exotic.html",
+        "uri": "nyt://article/747f45c4-3278-50e9-adce-6bb2d8a26631",
+        "byline": "By Livia Albeck-Ripka",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T17:21:36-04:00",
+        "created_date": "2025-04-07T17:21:36-04:00",
+        "published_date": "2025-04-07T17:21:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Animal Abuse, Rights and Welfare",
+            "Service Dogs and Other Animals",
+            "Animals",
+            "Tigers"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Nevada",
+            "Pahrump (Nev)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06xp-tigers/06xp-tigers-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Karl Mitchell claimed he had permission to keep the tigers as “emotional support” animals.",
+                "copyright": "Nye County Sheriff’s Office"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06xp-tigers/06xp-tigers-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Karl Mitchell claimed he had permission to keep the tigers as “emotional support” animals.",
+                "copyright": "Nye County Sheriff’s Office"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06xp-tigers/06xp-tigers-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Karl Mitchell claimed he had permission to keep the tigers as “emotional support” animals.",
+                "copyright": "Nye County Sheriff’s Office"
+            }
+        ],
+        "short_url": ""
     }
 ]
