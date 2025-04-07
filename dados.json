@@ -16648,5 +16648,144 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Everything Is Going According to Plan",
+        "abstract": "Will President Trump’s tariffs go down as one of the 100 worst decisions in presidential history? 50? 10?",
+        "url": "https://www.nytimes.com/2025/04/07/opinion/trump-tariffs-economy-third-term.html",
+        "uri": "nyt://article/a0d65d2a-6dbc-5da5-bdd2-ecc265b77c70",
+        "byline": "By Gail Collins and Bret Stephens",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T05:03:48-04:00",
+        "created_date": "2025-04-07T05:03:48-04:00",
+        "published_date": "2025-04-07T05:03:48-04:00",
+        "material_type_facet": "",
+        "kicker": "The Conversation",
+        "des_facet": [
+            "United States Politics and Government",
+            "Presidential Election of 2024",
+            "Right-Wing Extremism and Alt-Right",
+            "Signal Chat Leak (Trump Administration)",
+            "Organized Labor",
+            "Demonstrations, Protests and Riots",
+            "United States Economy"
+        ],
+        "org_facet": [
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07conversation-pcwz/07conversation-pcwz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07conversation-pcwz/07conversation-pcwz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07conversation-pcwz/07conversation-pcwz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Trump Is Selling Jews a Dangerous Lie",
+        "abstract": "Antisemitism is real. But the enemy of our enemy is not necessarily our friend.",
+        "url": "https://www.nytimes.com/2025/04/07/opinion/trump-jewish-antisemitism-wesleyan.html",
+        "uri": "nyt://article/5220ce76-4449-5870-a364-903ba98bb802",
+        "byline": "By Michael S. Roth",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T05:02:07-04:00",
+        "created_date": "2025-04-07T05:02:07-04:00",
+        "published_date": "2025-04-07T05:02:07-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "United States Politics and Government",
+            "Anti-Semitism",
+            "Colleges and Universities",
+            "Jews and Judaism",
+            "Discrimination",
+            "Law and Legislation",
+            "Minorities",
+            "Demonstrations, Protests and Riots",
+            "Neo Nazi Groups",
+            "Freedom of Speech and Expression",
+            "Federal Aid (US)"
+        ],
+        "org_facet": [
+            "Anti-Defamation League",
+            "Columbia University",
+            "Education Department (US)",
+            "Justice Department",
+            "Wesleyan University"
+        ],
+        "per_facet": [
+            "McMahon, Linda E",
+            "Fuentes, Nicholas J",
+            "Stefanik, Elise",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/opinion/07roth/07roth-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Dave Bowers"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/opinion/07roth/07roth-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Dave Bowers"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/opinion/07roth/07roth-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Dave Bowers"
+            }
+        ],
+        "short_url": ""
     }
 ]
