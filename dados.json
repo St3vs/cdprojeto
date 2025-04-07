@@ -16326,5 +16326,262 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Trump’s Tariffs Imperil the Fortunes of a Nissan Factory Town",
+        "abstract": "Kanda, on Japan’s southern coast, grew in tandem with an auto plant that sends half of the cars it makes to the United States.",
+        "url": "https://www.nytimes.com/2025/04/07/business/nissan-kanda-japan-factory.html",
+        "uri": "nyt://article/68afd1f3-3edf-5753-a5cb-3a64202fdc38",
+        "byline": "By River Akira Davis and Hisako Ueno",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T00:09:57-04:00",
+        "created_date": "2025-04-07T00:09:57-04:00",
+        "published_date": "2025-04-07T00:09:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "Automobiles",
+            "International Trade and World Market",
+            "Factories and Manufacturing"
+        ],
+        "org_facet": [
+            "Nissan Motor Co"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Kanda, Japan",
+            "Kyushu (Japan)",
+            "Japan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07Biz-Japan-Tariffs-01-mfwc/07Biz-Japan-Tariffs-01-mfwc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Nissan on display at the Kitakyushu Airport, not far from the small town of Kanda in Japan. Nissan’s sprawling car factory in Kanda is the lifeblood of the town.",
+                "copyright": "Noriko Hayashi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07Biz-Japan-Tariffs-01-mfwc/07Biz-Japan-Tariffs-01-mfwc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Nissan on display at the Kitakyushu Airport, not far from the small town of Kanda in Japan. Nissan’s sprawling car factory in Kanda is the lifeblood of the town.",
+                "copyright": "Noriko Hayashi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07Biz-Japan-Tariffs-01-mfwc/07Biz-Japan-Tariffs-01-mfwc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Nissan on display at the Kitakyushu Airport, not far from the small town of Kanda in Japan. Nissan’s sprawling car factory in Kanda is the lifeblood of the town.",
+                "copyright": "Noriko Hayashi for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "In a Strongman State, a Trump Order Extinguishes Flickers of Freedom",
+        "abstract": "Cambodia’s authoritarian dynasty had silenced almost all of the country’s independent media. The remaining few are facing extinction because of an executive directive from President Trump.",
+        "url": "https://www.nytimes.com/2025/04/07/world/asia/in-a-strongman-state-a-trump-order-extinguishes-flickers-of-freedom.html",
+        "uri": "nyt://article/0f7e77f0-e0ca-5325-ad3a-03cefeea498e",
+        "byline": "By Hannah Beech and Sun Narin",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T00:01:07-04:00",
+        "created_date": "2025-04-07T00:01:07-04:00",
+        "published_date": "2025-04-07T00:01:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Foreign Aid",
+            "Politics and Government",
+            "Freedom of Speech and Expression",
+            "United States International Relations",
+            "Media"
+        ],
+        "org_facet": [
+            "Cambodian People's Party",
+            "Radio Free Asia",
+            "United States Agency for International Development",
+            "Voice of America",
+            "Voice of Democracy (News Service)"
+        ],
+        "per_facet": [
+            "Hun Manet (1977- )",
+            "Hun Sen",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Cambodia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/multimedia/int-cambodia-01-hpfz/int-cambodia-01-hpfz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1409,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Uon Chhin, left, and Yeang Sothearin, former journalists with Radio Free Asia, arriving at a court in Phnom Penh, Cambodia, in 2019.",
+                "copyright": "Samrang Pring/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/multimedia/int-cambodia-01-hpfz/int-cambodia-01-hpfz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Uon Chhin, left, and Yeang Sothearin, former journalists with Radio Free Asia, arriving at a court in Phnom Penh, Cambodia, in 2019.",
+                "copyright": "Samrang Pring/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/multimedia/int-cambodia-01-hpfz/int-cambodia-01-hpfz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Uon Chhin, left, and Yeang Sothearin, former journalists with Radio Free Asia, arriving at a court in Phnom Penh, Cambodia, in 2019.",
+                "copyright": "Samrang Pring/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "As Netanyahu Heads to Washington, He Finds an Ally in Trump",
+        "abstract": "President Trump and Prime Minister Benjamin Netanyahu are using similar playbooks as they face turmoil.",
+        "url": "https://www.nytimes.com/2025/04/07/us/politics/netanyahu-trump-israel-gaza.html",
+        "uri": "nyt://article/aba1aec1-898c-5cbf-87f9-686fd6d1143e",
+        "byline": "By Luke Broadwater",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T00:01:06-04:00",
+        "created_date": "2025-04-07T00:01:06-04:00",
+        "published_date": "2025-04-07T00:01:06-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "Israel-Gaza War (2023- )",
+            "Foreign Aid",
+            "Peace Process",
+            "Civilian Casualties",
+            "Palestinians",
+            "Courts and the Judiciary"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Netanyahu, Benjamin",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/21/multimedia/00dc-netanyahu-trump-zfmj/00dc-netanyahu-trump-zfmj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In Prime Minister Benjamin Netanyahu’s view, the first term of the Trump administration was a boon for Israel.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/21/multimedia/00dc-netanyahu-trump-zfmj/00dc-netanyahu-trump-zfmj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In Prime Minister Benjamin Netanyahu’s view, the first term of the Trump administration was a boon for Israel.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/21/multimedia/00dc-netanyahu-trump-zfmj/00dc-netanyahu-trump-zfmj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In Prime Minister Benjamin Netanyahu’s view, the first term of the Trump administration was a boon for Israel.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "‘The White Lotus’ Season 3 Finale Recap: Bloodshed and Sacrifice",
+        "abstract": "Some characters got happy endings, while some decidedly did not. But there were enough twists to keep viewers guessing until the end.",
+        "url": "https://www.nytimes.com/2025/04/06/arts/television/white-lotus-recap-season-3-finale.html",
+        "uri": "nyt://article/e9e3bf86-0b25-5e44-8022-65f2068a3f0b",
+        "byline": "By Noel Murray",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T00:14:32-04:00",
+        "created_date": "2025-04-06T23:38:29-04:00",
+        "published_date": "2025-04-06T23:38:29-04:00",
+        "material_type_facet": "",
+        "kicker": "The White Lotus",
+        "des_facet": [
+            "Television",
+            "The White Lotus (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/arts/06cul-whitelotus-recap/06cul-whitelotus-recap-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1280,
+                "width": 1920,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "And after everything that has happened, Chelsea (Aimee Lou Wood) still had eyes for only Rick.",
+                "copyright": "Fabio Lovino/HBO"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/arts/06cul-whitelotus-recap/06cul-whitelotus-recap-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "And after everything that has happened, Chelsea (Aimee Lou Wood) still had eyes for only Rick.",
+                "copyright": "Fabio Lovino/HBO"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/arts/06cul-whitelotus-recap/06cul-whitelotus-recap-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "And after everything that has happened, Chelsea (Aimee Lou Wood) still had eyes for only Rick.",
+                "copyright": "Fabio Lovino/HBO"
+            }
+        ],
+        "short_url": ""
     }
 ]
