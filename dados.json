@@ -23210,5 +23210,204 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Trump’s Tariffs Are Already Reducing Car Imports and Idling Factories",
+        "abstract": "A few carmakers have closed factories, laid off workers or shifted production in response to the auto tariffs that took effect last week.",
+        "url": "https://www.nytimes.com/2025/04/08/business/trump-tariffs-cars-auto-industry.html",
+        "uri": "nyt://article/40b82c0b-b7b0-5ad7-a45c-fe5a8db2f7d1",
+        "byline": "By Jack Ewing",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T11:30:15-04:00",
+        "created_date": "2025-04-08T11:30:15-04:00",
+        "published_date": "2025-04-08T11:30:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Automobiles",
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "Electric and Hybrid Vehicles",
+            "Factories and Manufacturing",
+            "Customs (Tariff)",
+            "Prices (Fares, Fees and Rates)",
+            "Supply Chain"
+        ],
+        "org_facet": [
+            "Audi Division of Volkswagen AG",
+            "General Motors",
+            "Hyundai Motor Co",
+            "Jaguar Land Rover",
+            "Stellantis NV"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Canada",
+            "Great Britain",
+            "Mexico"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08biz-auto-tariffs-01-mjcp/08biz-auto-tariffs-01-mjcp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Land Rover dealership in Houston. The British automaker will suspend exports to the United States this month after a 25 percent tariff on cars went into effect last week.",
+                "copyright": "Ronaldo Schemidt/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08biz-auto-tariffs-01-mjcp/08biz-auto-tariffs-01-mjcp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Land Rover dealership in Houston. The British automaker will suspend exports to the United States this month after a 25 percent tariff on cars went into effect last week.",
+                "copyright": "Ronaldo Schemidt/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08biz-auto-tariffs-01-mjcp/08biz-auto-tariffs-01-mjcp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Land Rover dealership in Houston. The British automaker will suspend exports to the United States this month after a 25 percent tariff on cars went into effect last week.",
+                "copyright": "Ronaldo Schemidt/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "I.R.S. Agrees to Share Migrants’ Tax Information with ICE",
+        "abstract": "The agreement is a major departure from the Internal Revenue Service’s efforts to gain the trust of migrants and encourage them to file their taxes.",
+        "url": "https://www.nytimes.com/2025/04/08/us/politics/irs-ice-tax-data-deal.html",
+        "uri": "nyt://article/a0b356cb-8b1d-5c7a-a24c-0da03ef9ab39",
+        "byline": "By Andrew Duehren",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T11:19:59-04:00",
+        "created_date": "2025-04-08T11:19:59-04:00",
+        "published_date": "2025-04-08T11:19:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Deportation",
+            "Illegal Immigration"
+        ],
+        "org_facet": [
+            "Immigration and Customs Enforcement (US)",
+            "Internal Revenue Service"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08trump-news-irs-tzbv/08trump-news-irs-tzbv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The ICE Processing Center in Aurora, Colo.",
+                "copyright": "Michael Ciaglo for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08trump-news-irs-tzbv/08trump-news-irs-tzbv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The ICE Processing Center in Aurora, Colo.",
+                "copyright": "Michael Ciaglo for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08trump-news-irs-tzbv/08trump-news-irs-tzbv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The ICE Processing Center in Aurora, Colo.",
+                "copyright": "Michael Ciaglo for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Case in Texas Could Shed More Light on Invocation of Alien Enemies Act",
+        "abstract": "A case involving a Venezuelan migrant, Daniel Zacarias Matos, could explore the question of whether President Trump has used the Alien Enemies Act in a lawful manner.",
+        "url": "https://www.nytimes.com/2025/04/08/us/politics/trump-alien-enemies-act-texas-venezuelan-migrant.html",
+        "uri": "nyt://article/ea38704a-c1e5-54ce-b02f-8ecf5d1d0c53",
+        "byline": "By Alan Feuer",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T12:00:36-04:00",
+        "created_date": "2025-04-08T10:44:19-04:00",
+        "published_date": "2025-04-08T10:44:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Illegal Immigration",
+            "Decisions and Verdicts",
+            "Alien Enemies Act (1798)",
+            "United States Politics and Government",
+            "United States International Relations"
+        ],
+        "org_facet": [
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Zacarias Matos, Daniel"
+        ],
+        "geo_facet": [
+            "Texas",
+            "Venezuela"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08trump-news-immig-jzwc/08trump-news-immig-jzwc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court ruled on Monday night that the Trump administration could continue to deport migrants using a wartime powers act.",
+                "copyright": "Tierney L. Cross for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08trump-news-immig-jzwc/08trump-news-immig-jzwc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court ruled on Monday night that the Trump administration could continue to deport migrants using a wartime powers act.",
+                "copyright": "Tierney L. Cross for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08trump-news-immig-jzwc/08trump-news-immig-jzwc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court ruled on Monday night that the Trump administration could continue to deport migrants using a wartime powers act.",
+                "copyright": "Tierney L. Cross for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
