@@ -23658,5 +23658,132 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Man Pleads Guilty to Trying to Assassinate Justice Kavanaugh",
+        "abstract": "Nicholas J. Roske, 29, of California, faces a maximum sentence of life in prison. He was arrested near the justice’s home in 2022, with a pistol, a knife and other weapons.",
+        "url": "https://www.nytimes.com/2025/04/08/us/kavanaugh-assassination-attempt-guilty.html",
+        "uri": "nyt://article/73972509-e0b3-55aa-b86c-f6317ab9cc0b",
+        "byline": "By Michael Levenson",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T14:03:37-04:00",
+        "created_date": "2025-04-08T14:03:37-04:00",
+        "published_date": "2025-04-08T14:03:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Assaults",
+            "Decisions and Verdicts",
+            "Firearms",
+            "Gun Control",
+            "Assassinations and Attempted Assassinations",
+            "Federal Courts (US)",
+            "Courts and the Judiciary"
+        ],
+        "org_facet": [
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Kavanaugh, Brett M",
+            "Roske, Nicholas John"
+        ],
+        "geo_facet": [
+            "Montgomery County (Md)",
+            "Simi Valley (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08xp-kavanaugh-tcfb/08xp-kavanaugh-tcfb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Justice Brett Kavanaugh at a joint meeting of Congress in March.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08xp-kavanaugh-tcfb/08xp-kavanaugh-tcfb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Justice Brett Kavanaugh at a joint meeting of Congress in March.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08xp-kavanaugh-tcfb/08xp-kavanaugh-tcfb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Justice Brett Kavanaugh at a joint meeting of Congress in March.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Is Being Royal a Job? This Prince Says Yes, and He Wants a Pension.",
+        "abstract": "A court case by the Belgian king’s younger brother argued that he was entitled to a state pension to keep his wife and adult children financially safe.",
+        "url": "https://www.nytimes.com/2025/04/08/world/europe/belgium-prince-social-security-benefits-ruling.html",
+        "uri": "nyt://article/241f1a2a-c535-5aa8-8777-c60f3dc8d9cc",
+        "byline": "By Lynsey Chutel",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T10:56:36-04:00",
+        "created_date": "2025-04-08T10:13:46-04:00",
+        "published_date": "2025-04-08T10:13:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Royal Families",
+            "Pensions and Retirement Plans"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Laurent, Prince of Belgium"
+        ],
+        "geo_facet": [
+            "Belgium"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/world/08int-belgium-prince/08int-belgium-prince-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prince Laurent of Belgium at a parade in Brussels in July.",
+                "copyright": "Geert Vanden Wijngaert/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/world/08int-belgium-prince/08int-belgium-prince-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prince Laurent of Belgium at a parade in Brussels in July.",
+                "copyright": "Geert Vanden Wijngaert/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/world/08int-belgium-prince/08int-belgium-prince-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prince Laurent of Belgium at a parade in Brussels in July.",
+                "copyright": "Geert Vanden Wijngaert/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
