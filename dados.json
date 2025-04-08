@@ -20478,5 +20478,268 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Supreme Court Overturns Lower Court’s Block on Venezuelan Deportations",
+        "abstract": "The Trump administration asked the justices to weigh in after a federal judge paused the president’s use of a wartime powers law to deport Venezuelans it accused of being gang members.",
+        "url": "https://www.nytimes.com/2025/04/07/us/politics/supreme-court-trump-venezuelan-deportations.html",
+        "uri": "nyt://article/e43e537a-4428-56f4-875f-6f181810a693",
+        "byline": "By Abbie VanSickle",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T20:15:27-04:00",
+        "created_date": "2025-04-07T19:14:20-04:00",
+        "published_date": "2025-04-07T19:14:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Deportation",
+            "Law and Legislation",
+            "Decisions and Verdicts",
+            "Courts and the Judiciary",
+            "War and Emergency Powers (US)",
+            "Alien Enemies Act (1798)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Boasberg, James E",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "El Salvador",
+            "Venezuela",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00dc-scotus-venezuela-topart-wgpb/00dc-scotus-venezuela-topart-wgpb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration sought to use the Alien Enemies Act of 1798 to deport more than 100 Venezuelans to the Terrorist Confinement Center prison in Tecoluca, El Salvador, last month, provoking a legal challenge.",
+                "copyright": "Pool photo by Alex Brandon"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00dc-scotus-venezuela-topart-wgpb/00dc-scotus-venezuela-topart-wgpb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration sought to use the Alien Enemies Act of 1798 to deport more than 100 Venezuelans to the Terrorist Confinement Center prison in Tecoluca, El Salvador, last month, provoking a legal challenge.",
+                "copyright": "Pool photo by Alex Brandon"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00dc-scotus-venezuela-topart-wgpb/00dc-scotus-venezuela-topart-wgpb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration sought to use the Alien Enemies Act of 1798 to deport more than 100 Venezuelans to the Terrorist Confinement Center prison in Tecoluca, El Salvador, last month, provoking a legal challenge.",
+                "copyright": "Pool photo by Alex Brandon"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "How Trump’s TikTok Negotiations Were Upended by China and Tariffs",
+        "abstract": "The future of the popular video app is now at the center of a geopolitical tussle between Washington and Beijing.",
+        "url": "https://www.nytimes.com/2025/04/07/technology/trump-tiktok-china-tariffs.html",
+        "uri": "nyt://article/6ca37ec0-eb12-593f-8565-ddecc8801843",
+        "byline": "By Lauren Hirsch, David McCabe and Sapna Maheshwari",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T20:25:22-04:00",
+        "created_date": "2025-04-07T19:39:24-04:00",
+        "published_date": "2025-04-07T19:39:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Relations",
+            "Social Media",
+            "Mobile Applications",
+            "Mergers, Acquisitions and Divestitures",
+            "Private Equity",
+            "Computers and the Internet",
+            "Customs (Tariff)",
+            "Executive Orders and Memorandums"
+        ],
+        "org_facet": [
+            "Andreessen Horowitz",
+            "Beijing Bytedance Technology Co Ltd",
+            "Blackstone Group, The",
+            "General Atlantic LLC",
+            "TikTok (ByteDance)"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07biz-tiktok-zqjh/07biz-tiktok-zqjh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump told reporters on Air Force One on Sunday that his administration had been “pretty close” to a deal to save TikTok, “and then China changed the deal because of tariffs.”",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07biz-tiktok-zqjh/07biz-tiktok-zqjh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump told reporters on Air Force One on Sunday that his administration had been “pretty close” to a deal to save TikTok, “and then China changed the deal because of tariffs.”",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07biz-tiktok-zqjh/07biz-tiktok-zqjh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump told reporters on Air Force One on Sunday that his administration had been “pretty close” to a deal to save TikTok, “and then China changed the deal because of tariffs.”",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "theater",
+        "subsection": "",
+        "title": "At James Earl Jones Memorial, Friends Share Laughs, Tears and Moving Stories",
+        "abstract": "At a gathering in the Broadway theater renamed to honor the star, speakers including Denzel Washington and Phylicia Rashad described Jones as an inspiration.",
+        "url": "https://www.nytimes.com/2025/04/07/theater/james-earl-jones-memorial-denzel.html",
+        "uri": "nyt://article/ac45e19a-7419-5801-afc8-43510097cbc9",
+        "byline": "By Derrick Bryson Taylor",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T20:43:19-04:00",
+        "created_date": "2025-04-07T20:43:19-04:00",
+        "published_date": "2025-04-07T20:43:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Theater",
+            "Theater (Broadway)",
+            "Actors and Actresses",
+            "Funerals and Memorials"
+        ],
+        "org_facet": [
+            "Jones, James Earl, Theater (Manhattan, NY)"
+        ],
+        "per_facet": [
+            "Jones, James Earl"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07cul-jones-memorial-01-zclt/07cul-jones-memorial-01-zclt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flynn Earl Jones at his father’s memorial service. He described his father as “one of the simplest, humblest, smartest, most curious guys.”",
+                "copyright": "Sara Krulwich/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07cul-jones-memorial-01-zclt/07cul-jones-memorial-01-zclt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flynn Earl Jones at his father’s memorial service. He described his father as “one of the simplest, humblest, smartest, most curious guys.”",
+                "copyright": "Sara Krulwich/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07cul-jones-memorial-01-zclt/07cul-jones-memorial-01-zclt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flynn Earl Jones at his father’s memorial service. He described his father as “one of the simplest, humblest, smartest, most curious guys.”",
+                "copyright": "Sara Krulwich/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Why Did So Many People Delude Themselves About Trump?",
+        "abstract": "Wall Street mistook demagogy for wisdom.",
+        "url": "https://www.nytimes.com/2025/04/07/opinion/trump-stock-market-wall-street.html",
+        "uri": "nyt://article/4750fe70-09c8-5d0a-9d53-cf7034e9dc03",
+        "byline": "By Michelle Goldberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T20:11:58-04:00",
+        "created_date": "2025-04-07T20:04:53-04:00",
+        "published_date": "2025-04-07T20:04:53-04:00",
+        "material_type_facet": "",
+        "kicker": "Michelle Goldberg",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States Economy",
+            "Customs (Tariff)",
+            "Stocks and Bonds",
+            "International Trade and World Market",
+            "Recession and Depression"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Berezin, Peter",
+            "Ackman, William A"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07goldberg-bcqj/07goldberg-bcqj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mark Peterson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07goldberg-bcqj/07goldberg-bcqj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mark Peterson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07goldberg-bcqj/07goldberg-bcqj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mark Peterson for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
