@@ -21229,5 +21229,65 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Who’s Afraid of the Post-American Order?",
+        "abstract": "Principles of free trade and cooperation have their roots in the non-Western world.",
+        "url": "https://www.nytimes.com/2025/04/08/opinion/west-american-order-free-trade.html",
+        "uri": "nyt://article/a0c664b8-6490-5f60-8eea-40473fdf91e9",
+        "byline": "By Amitav Acharya",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T01:00:06-04:00",
+        "created_date": "2025-04-08T01:00:06-04:00",
+        "published_date": "2025-04-08T01:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "International Relations",
+            "United States Politics and Government",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "United Nations"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/opinion/08acharya-image/08acharya-image-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "illustration",
+                "caption": "",
+                "copyright": "Antonio Giovanni Pinna"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/opinion/08acharya-image/08acharya-image-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "illustration",
+                "caption": "",
+                "copyright": "Antonio Giovanni Pinna"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/opinion/08acharya-image/08acharya-image-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "illustration",
+                "caption": "",
+                "copyright": "Antonio Giovanni Pinna"
+            }
+        ],
+        "short_url": ""
     }
 ]
