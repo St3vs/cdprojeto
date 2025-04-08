@@ -22328,5 +22328,373 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "An Explosive Clock Is Ticking on Iran and Its Nuclear Program",
+        "abstract": "Expected talks between Iran and the United States would be a late, and perhaps last, opportunity to control Tehran’s nuclear ambitions and avoid war.",
+        "url": "https://www.nytimes.com/2025/04/08/world/europe/iran-nuclear-sanctions-trump.html",
+        "uri": "nyt://article/f9dd970d-0883-5adb-8c34-44e375b17149",
+        "byline": "By Steven Erlanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T07:59:23-04:00",
+        "created_date": "2025-04-08T07:59:23-04:00",
+        "published_date": "2025-04-08T07:59:23-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States International Relations",
+            "Nuclear Weapons",
+            "Arms Control and Limitation and Disarmament",
+            "Nuclear Nonproliferation Treaty"
+        ],
+        "org_facet": [
+            "International Atomic Energy Agency",
+            "United Nations"
+        ],
+        "per_facet": [
+            "Khamenei, Ali",
+            "Netanyahu, Benjamin",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Iran",
+            "Israel",
+            "Middle East"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-mideast-diplo-assess-01-wpzq/08int-mideast-diplo-assess-01-wpzq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1469,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A street crossing in Tehran in November near a poster of Iranian scientists.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-mideast-diplo-assess-01-wpzq/08int-mideast-diplo-assess-01-wpzq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A street crossing in Tehran in November near a poster of Iranian scientists.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-mideast-diplo-assess-01-wpzq/08int-mideast-diplo-assess-01-wpzq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A street crossing in Tehran in November near a poster of Iranian scientists.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Some Israelis Favor Attacking Iran, Expressing Skepticism About Talks",
+        "abstract": "Many Israelis were surprised when President Trump announced that the United States would engage in “direct” negotiations with Iran in an effort to rein in the country’s nuclear program.",
+        "url": "https://www.nytimes.com/2025/04/08/world/middleeast/israel-iran-reaction.html",
+        "uri": "nyt://article/a751a13a-5f4d-5925-b330-e4851edd8fdf",
+        "byline": "By Isabel Kershner",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T08:22:30-04:00",
+        "created_date": "2025-04-08T08:14:39-04:00",
+        "published_date": "2025-04-08T08:14:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Iran-Israel Proxy Conflict",
+            "Nuclear Weapons"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Netanyahu, Benjamin",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Israel",
+            "Iran"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-israel-iran-mbjf/08int-israel-iran-mbjf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel and President Trump in the Oval Office on Monday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-israel-iran-mbjf/08int-israel-iran-mbjf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel and President Trump in the Oval Office on Monday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-israel-iran-mbjf/08int-israel-iran-mbjf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel and President Trump in the Oval Office on Monday.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Are Embryos Property or People? Even the Courts Are Confused.",
+        "abstract": "These clusters of cells are increasingly at the center of legal disputes, resulting in piecemeal decisions that have far-reaching consequences.",
+        "url": "https://www.nytimes.com/interactive/2025/04/08/opinion/embryos-court-custody-property.html",
+        "uri": "nyt://interactive/cfef0703-5b9c-5c0b-bc51-6f496ef1fd99",
+        "byline": "By Anna Louie Sussman",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-08T08:08:21-04:00",
+        "created_date": "2025-04-08T05:00:49-04:00",
+        "published_date": "2025-04-08T05:00:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Embryos (Human)",
+            "Courts and the Judiciary",
+            "In Vitro Fertilization",
+            "Law and Legislation",
+            "Divorce, Separations and Annulments"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/opinion/08embryos-static-thumb/08embryos-static-thumb-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 1500,
+                "width": 1500,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Dru Donovan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/opinion/08embryos-static-thumb/08embryos-static-thumb-threeByTwoSmallAt2X-v2.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Dru Donovan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/opinion/08embryos-static-thumb/08embryos-static-thumb-thumbLarge-v2.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Dru Donovan for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "The Global Sell-Off",
+        "abstract": "We explore the stock market panic over tariffs.",
+        "url": "https://www.nytimes.com/2025/04/08/briefing/stock-market-donald-trump-tariffs.html",
+        "uri": "nyt://article/66b9ed66-d742-5cbd-ba84-097ac56a2ab1",
+        "byline": "By German Lopez",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T06:48:35-04:00",
+        "created_date": "2025-04-08T06:48:35-04:00",
+        "published_date": "2025-04-08T06:48:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "internal-storyline-no",
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08themorning-nl-pzfq/08themorning-nl-pzfq-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The New York Stock Exchange.",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08themorning-nl-pzfq/08themorning-nl-pzfq-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The New York Stock Exchange.",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08themorning-nl-pzfq/08themorning-nl-pzfq-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The New York Stock Exchange.",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "Jon Stewart Can’t Stomach Trump’s Stock Market ‘Medicine’",
+        "abstract": "The “Daily Show” host said America’s economy was “in the midst of a beautiful metamorphosis, turning from a simple caterpillar into a dead caterpillar.”",
+        "url": "https://www.nytimes.com/2025/04/08/arts/television/jon-stewart-tariffs-stock-market.html",
+        "uri": "nyt://article/b48cd334-3959-5825-addb-78d0a56b62ad",
+        "byline": "By Trish Bendix",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T03:19:29-04:00",
+        "created_date": "2025-04-08T03:19:29-04:00",
+        "published_date": "2025-04-08T03:19:29-04:00",
+        "material_type_facet": "",
+        "kicker": "Best of Late Night",
+        "des_facet": [
+            "Television",
+            "The Daily Show with Trevor Noah (TV Program)",
+            "Jimmy Kimmel Live (TV Program)",
+            "The Tonight Show (TV Program)",
+            "Late Show with Stephen Colbert (TV Program)",
+            "Late Night with Seth Meyers (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Stewart, Jon",
+            "Kimmel, Jimmy",
+            "Fallon, Jimmy",
+            "Colbert, Stephen",
+            "Meyers, Seth"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/arts/08latenight/08latenight-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1020,
+                "width": 1820,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jon Stewart did his best to explain President Trump’s trade policies on Monday’s “Daily Show.”",
+                "copyright": "Comedy Central"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/arts/08latenight/08latenight-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jon Stewart did his best to explain President Trump’s trade policies on Monday’s “Daily Show.”",
+                "copyright": "Comedy Central"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/arts/08latenight/08latenight-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jon Stewart did his best to explain President Trump’s trade policies on Monday’s “Daily Show.”",
+                "copyright": "Comedy Central"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Roof Collapses at Dominican Republic Nightclub, Killing at Least 13",
+        "abstract": "The authorities said search and rescue operations were continuing at the Jet Set nightclub in Santo Domingo, the capital.",
+        "url": "https://www.nytimes.com/2025/04/08/world/americas/dominican-republic-nightclub-collapse.html",
+        "uri": "nyt://article/6d669300-c80a-5283-89fe-7fafa51511ab",
+        "byline": "By Amelia Nierenberg and Jonathan Wolfe",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T08:07:52-04:00",
+        "created_date": "2025-04-08T07:29:16-04:00",
+        "published_date": "2025-04-08T07:29:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Bars and Nightclubs",
+            "Deaths (Fatalities)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Dominican Republic",
+            "Santo Domingo (Dominican Republic)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/world/00social-logo-promo/00social-logo-promo-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 522,
+                "width": 1000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/world/00social-logo-promo/00social-logo-promo-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/world/00social-logo-promo/00social-logo-promo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
