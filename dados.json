@@ -20741,5 +20741,122 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "This Is Why Conservatives Turned Against Foreign Aid",
+        "abstract": "It became yet another arena for prosecuting America’s domestic disputes.",
+        "url": "https://www.nytimes.com/2025/04/07/opinion/usaid-foreign-aid-gay-trans.html",
+        "uri": "nyt://article/43693f7b-8698-5b48-baba-a1737715440e",
+        "byline": "By Matthew Schmitz",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T22:36:39-04:00",
+        "created_date": "2025-04-07T05:01:42-04:00",
+        "published_date": "2025-04-07T05:01:42-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "Foreign Aid",
+            "United States Politics and Government",
+            "Homosexuality and Bisexuality",
+            "United States International Relations",
+            "Conservatism (US Politics)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/opinion/05schmitz/05schmitz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1709,
+                "width": 1367,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "John Moore/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/opinion/05schmitz/05schmitz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "John Moore/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/opinion/05schmitz/05schmitz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "John Moore/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Boris Johnson Has Run-In With Feisty Ostrich During Texas Trip",
+        "abstract": "A video showed the former British prime minister yelping and uttering a profanity after the ostrich pecked him through a window at what appeared to be a wildlife park.",
+        "url": "https://www.nytimes.com/2025/04/07/us/ostrich-boris-johnson-texas-attack.html",
+        "uri": "nyt://article/1b53b986-cfe1-5181-8b64-cb2be1ff62f5",
+        "byline": "By Livia Albeck-Ripka",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T21:27:57-04:00",
+        "created_date": "2025-04-07T21:20:45-04:00",
+        "published_date": "2025-04-07T21:20:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Ostriches",
+            "Wildlife Sanctuaries and Nature Reserves"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Johnson, Boris"
+        ],
+        "geo_facet": [
+            "Texas"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07xp-ostrich-promo/07xp-ostrich-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 796,
+                "width": 1193,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Carrie Johnson/Instagram"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07xp-ostrich-promo/07xp-ostrich-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Carrie Johnson/Instagram"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07xp-ostrich-promo/07xp-ostrich-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Carrie Johnson/Instagram"
+            }
+        ],
+        "short_url": ""
     }
 ]
