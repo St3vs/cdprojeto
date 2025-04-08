@@ -22762,5 +22762,72 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Wall Street Bursts With Anger Over Tariff ‘Stupidity’",
+        "abstract": "Billionaire investors are in an unfamiliar position, watching and cringing as tariffs roll on and the stock market reels.",
+        "url": "https://www.nytimes.com/2025/04/08/business/trump-tariff-wall-street-reaction.html",
+        "uri": "nyt://article/13baf81b-0702-544a-91f0-77cca10ca7dd",
+        "byline": "By Rob Copeland, Maureen Farrell and Lauren Hirsch",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T09:57:58-04:00",
+        "created_date": "2025-04-08T09:36:21-04:00",
+        "published_date": "2025-04-08T09:36:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Hedge Funds",
+            "Banking and Financial Institutions",
+            "United States Economy",
+            "Standard & Poor's 500-Stock Index",
+            "High Net Worth Individuals"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Ackman, William A",
+            "Bessent, Scott",
+            "Dimon, James",
+            "Fink, Laurence D",
+            "Lutnick, Howard W",
+            "Trump, Donald J",
+            "Wiles, Susie"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/00BIZ-TARIFFS-INVESTORS-qklv/00BIZ-TARIFFS-INVESTORS-qklv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1639,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The New York Stock Exchange on Monday, when a turbulent day of trading left the S&P 500 almost 18 percent below its latest peak.",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/00BIZ-TARIFFS-INVESTORS-qklv/00BIZ-TARIFFS-INVESTORS-qklv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The New York Stock Exchange on Monday, when a turbulent day of trading left the S&P 500 almost 18 percent below its latest peak.",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/00BIZ-TARIFFS-INVESTORS-qklv/00BIZ-TARIFFS-INVESTORS-qklv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The New York Stock Exchange on Monday, when a turbulent day of trading left the S&P 500 almost 18 percent below its latest peak.",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
