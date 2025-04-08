@@ -21354,5 +21354,848 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "Tech C.E.O.s Spent Millions Courting Trump. It Has Yet to Pay Off.",
+        "abstract": "With inauguration donations and Mar-a-Lago visits, leaders of the biggest tech companies sought favor with the president in an attempt to steer regulation and tariffs, to little avail.",
+        "url": "https://www.nytimes.com/2025/04/08/technology/tech-ceos-lobbying-trump.html",
+        "uri": "nyt://article/9e139230-e632-5c41-869a-943f397eb024",
+        "byline": "By Cecilia Kang",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T05:50:59-04:00",
+        "created_date": "2025-04-08T05:01:22-04:00",
+        "published_date": "2025-04-08T05:01:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Computers and the Internet",
+            "United States Politics and Government",
+            "Inaugurations",
+            "Social Media",
+            "Antitrust Laws and Competition Issues",
+            "Presidential Election of 2024",
+            "Regulation and Deregulation of Industry",
+            "Artificial Intelligence"
+        ],
+        "org_facet": [
+            "Federal Communications Commission",
+            "Justice Department",
+            "Meta Platforms Inc",
+            "Amazon.com Inc",
+            "Apple Inc",
+            "Google Inc"
+        ],
+        "per_facet": [
+            "Bezos, Jeffrey P",
+            "Cook, Timothy D",
+            "Ferguson, Andrew N",
+            "Musk, Elon",
+            "Pichai, Sundar",
+            "Trump, Donald J",
+            "Zuckerberg, Mark E"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00biz-tech-trump-1-vpqj/00biz-tech-trump-1-vpqj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tech leaders including Mark Zuckerberg, Jeff Bezos, Sundar Pichai and Elon Musk attended President Trump’s inauguration in January.",
+                "copyright": "Pool photo by Shawn Thew"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00biz-tech-trump-1-vpqj/00biz-tech-trump-1-vpqj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tech leaders including Mark Zuckerberg, Jeff Bezos, Sundar Pichai and Elon Musk attended President Trump’s inauguration in January.",
+                "copyright": "Pool photo by Shawn Thew"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00biz-tech-trump-1-vpqj/00biz-tech-trump-1-vpqj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tech leaders including Mark Zuckerberg, Jeff Bezos, Sundar Pichai and Elon Musk attended President Trump’s inauguration in January.",
+                "copyright": "Pool photo by Shawn Thew"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "Market Chaos Could Inflict Its Own Economic Damage",
+        "abstract": "A big hit to portfolios would be felt acutely by higher-income Americans, whose spending has recently been the biggest driver of the economy.",
+        "url": "https://www.nytimes.com/2025/04/08/business/economy/stock-market-economy-trump-tariffs.html",
+        "uri": "nyt://article/6b982d24-3f68-5982-b446-6ff52e2a6489",
+        "byline": "By Ben Casselman",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T05:48:42-04:00",
+        "created_date": "2025-04-08T05:01:59-04:00",
+        "published_date": "2025-04-08T05:01:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Stocks and Bonds",
+            "United States Economy",
+            "International Trade and World Market",
+            "Consumer Behavior",
+            "Customs (Tariff)",
+            "Income",
+            "Recession and Depression",
+            "High Net Worth Individuals"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08biz-econ-market-zvmp/08biz-econ-market-zvmp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Wall Street’s sell-off reflects investor fears that President Trump’s tariffs will lead to higher prices, slower growth and possibly a global recession.",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08biz-econ-market-zvmp/08biz-econ-market-zvmp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Wall Street’s sell-off reflects investor fears that President Trump’s tariffs will lead to higher prices, slower growth and possibly a global recession.",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08biz-econ-market-zvmp/08biz-econ-market-zvmp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Wall Street’s sell-off reflects investor fears that President Trump’s tariffs will lead to higher prices, slower growth and possibly a global recession.",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Is This America’s Liz Truss Moment?",
+        "abstract": "Ms. Truss, Britain’s prime minister for 44 days, was forced out after her radical policies caused a market meltdown. But there are some key differences with President Trump.",
+        "url": "https://www.nytimes.com/2025/04/08/world/europe/trump-tariffs-markets-liz-truss.html",
+        "uri": "nyt://article/a793286a-0f76-513a-85b1-e852f3112d84",
+        "byline": "By Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T05:25:22-04:00",
+        "created_date": "2025-04-08T05:01:57-04:00",
+        "published_date": "2025-04-08T05:01:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Politics and Government",
+            "Banking and Financial Institutions",
+            "International Trade and World Market",
+            "Government Bonds",
+            "Customs (Tariff)",
+            "Economic Conditions and Trends"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Rogoff, Kenneth S",
+            "Trump, Donald J",
+            "Truss, Elizabeth (1975- )",
+            "Kwarteng, Kwasi"
+        ],
+        "geo_facet": [
+            "Great Britain",
+            "England",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2022/10/25/world/08uk-tariffs-truss/merlin_215439720_ffc1fb7a-086e-4a2f-9197-4907234611bd-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1408,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Liz Truss after her resignation speech in October 2022. She was forced out of office by her own Conservative Party in little more than six weeks, the shortest tenure for a prime minister in British history.",
+                "copyright": "Justin Tallis/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2022/10/25/world/08uk-tariffs-truss/08uk-tariffs-truss-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Liz Truss after her resignation speech in October 2022. She was forced out of office by her own Conservative Party in little more than six weeks, the shortest tenure for a prime minister in British history.",
+                "copyright": "Justin Tallis/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2022/10/25/world/08uk-tariffs-truss/08uk-tariffs-truss-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Liz Truss after her resignation speech in October 2022. She was forced out of office by her own Conservative Party in little more than six weeks, the shortest tenure for a prime minister in British history.",
+                "copyright": "Justin Tallis/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "American Whiskey Braces for Another Trump Trade War",
+        "abstract": "The already battered spirits industry will see its supply squeezed if tariffs raise import costs and other countries’ retaliation closes off export markets.",
+        "url": "https://www.nytimes.com/2025/04/08/business/trump-tariffs-whiskey.html",
+        "uri": "nyt://article/4e5456f4-b49b-538d-bdce-0da7b4a359d5",
+        "byline": "By Alan Rappeport and Jon Cherry",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T05:01:39-04:00",
+        "created_date": "2025-04-08T05:01:39-04:00",
+        "published_date": "2025-04-08T05:01:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Whiskey",
+            "Bourbon (Whiskey)",
+            "Customs (Tariff)",
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "Copper, Brass and Bronze",
+            "Prices (Fares, Fees and Rates)",
+            "Factories and Manufacturing",
+            "Agriculture and Farming",
+            "United States Economy",
+            "Consumer Behavior",
+            "United States International Relations",
+            "Economic Conditions and Trends",
+            "Corn"
+        ],
+        "org_facet": [
+            "European Union",
+            "Brown-Forman Corp",
+            "Jack Daniel Distillery (Lynchburg, Tenn)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Bivens, Ryan"
+        ],
+        "geo_facet": [
+            "Bardstown (Ky)",
+            "Kentucky",
+            "Canada",
+            "Southern States (US)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00dc-whiskey-jlth/00dc-whiskey-jlth-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00dc-whiskey-jlth/00dc-whiskey-jlth-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00dc-whiskey-jlth/00dc-whiskey-jlth-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel’s Supreme Court Considers Netanyahu’s Attempt to Fire Spy Chief",
+        "abstract": "The hearing on the move opened with unruly scenes, as hecklers forced judges to pause the proceedings before resuming them without a public audience.",
+        "url": "https://www.nytimes.com/2025/04/08/world/middleeast/israel-supreme-court-spy-chief.html",
+        "uri": "nyt://article/8482e79d-a705-57cb-a930-f6529d218821",
+        "byline": "By Aaron Boxerman and Isabel Kershner",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T05:16:04-04:00",
+        "created_date": "2025-04-08T05:16:04-04:00",
+        "published_date": "2025-04-08T05:16:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Decisions and Verdicts",
+            "Israel-Gaza War (2023- )",
+            "Appointments and Executive Changes",
+            "Espionage and Intelligence Services",
+            "Courts and the Judiciary"
+        ],
+        "org_facet": [
+            "Supreme Court of Israel"
+        ],
+        "per_facet": [
+            "Bar, Ronen (1965- )",
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-israel-shinbet-02-bmct/08int-israel-shinbet-02-bmct-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ronen Bar, who was fired as head of the Shin Bet last month.",
+                "copyright": "Pool photo by Gil Cohen-Magen"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-israel-shinbet-02-bmct/08int-israel-shinbet-02-bmct-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ronen Bar, who was fired as head of the Shin Bet last month.",
+                "copyright": "Pool photo by Gil Cohen-Magen"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-israel-shinbet-02-bmct/08int-israel-shinbet-02-bmct-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ronen Bar, who was fired as head of the Shin Bet last month.",
+                "copyright": "Pool photo by Gil Cohen-Magen"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "They Work All Day and Go Home to Shelters",
+        "abstract": "Thousands of working people in New York City now live in shelters, unable to afford apartments despite holding down jobs that pay them $50,000 or more.",
+        "url": "https://www.nytimes.com/2025/04/08/nyregion/homeless-shelters-new-york-city.html",
+        "uri": "nyt://article/e7e8a5d2-6ae3-502e-881d-61329043e688",
+        "byline": "By Eliza Shapiro and Jonah Markowitz",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T04:46:48-04:00",
+        "created_date": "2025-04-08T03:00:15-04:00",
+        "published_date": "2025-04-08T03:00:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Homeless Persons",
+            "Public and Subsidized Housing",
+            "Real Estate and Housing (Residential)",
+            "Wages and Salaries",
+            "Content Type: Personal Profile",
+            "Income Inequality",
+            "Labor and Jobs",
+            "Renting and Leasing (Real Estate)",
+            "Vouchers",
+            "audio-neutral-informative",
+            "audio-negative-sad"
+        ],
+        "org_facet": [
+            "Parks and Recreation Department (NYC)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/01/multimedia/met-homeless-workers--gtbz/met-homeless-workers--gtbz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1367,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "About a third of families living in New York City’s homeless shelters, not including migrants, include at least one working adult.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/01/multimedia/met-homeless-workers--gtbz/met-homeless-workers--gtbz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "About a third of families living in New York City’s homeless shelters, not including migrants, include at least one working adult.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/01/multimedia/met-homeless-workers--gtbz/met-homeless-workers--gtbz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "About a third of families living in New York City’s homeless shelters, not including migrants, include at least one working adult.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "books",
+        "subsection": "",
+        "title": "Let Us Help You Find Your Next Book: Fantasy",
+        "abstract": "Whether you're looking for a classic or the latest and greatest, start here.",
+        "url": "https://www.nytimes.com/interactive/2025/books/fantasy-books.html",
+        "uri": "nyt://interactive/2073080a-0497-5271-8ea5-9ef4c170241c",
+        "byline": "By The New York Times Books Staff",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-07T13:24:14-04:00",
+        "created_date": "2025-04-02T17:22:45-04:00",
+        "published_date": "2025-04-02T17:22:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "vis-design",
+            "Books and Literature",
+            "Content Type: Service"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/books/fantasy/fantasy-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/books/fantasy/fantasy-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/books/fantasy/fantasy-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "books",
+        "subsection": "",
+        "title": "Let Us Help You Find Your Next Book: Romance",
+        "abstract": "Whether you're looking for a classic or the latest and greatest, start here.",
+        "url": "https://www.nytimes.com/interactive/2025/books/romance-books.html",
+        "uri": "nyt://interactive/6b3172e7-9d9e-5d25-b168-495584fc2155",
+        "byline": "By The New York Times Books Staff",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-04T15:26:42-04:00",
+        "created_date": "2025-02-05T14:46:28-05:00",
+        "published_date": "2025-02-05T14:46:28-05:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "vis-design",
+            "Books and Literature",
+            "genre-books-romance",
+            "Content Type: Service"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/02/05/books/romance_promo/romance_promo-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/05/books/romance_promo/romance_promo-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/05/books/romance_promo/romance_promo-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "books",
+        "subsection": "",
+        "title": "Let Us Help You Find Your Next Thriller",
+        "abstract": "Whether you're looking for a classic or the latest and greatest, start here.",
+        "url": "https://www.nytimes.com/interactive/2025/books/thriller-books.html",
+        "uri": "nyt://interactive/7b4c6985-94f5-5ded-9f77-96e4655c2b96",
+        "byline": "By The New York Times Books Staff",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-04T15:33:38-04:00",
+        "created_date": "2025-01-14T12:07:01-05:00",
+        "published_date": "2025-01-14T12:07:01-05:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "vis-design",
+            "Books and Literature",
+            "genre-books-thriller",
+            "Content Type: Service"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/02/12/books/thrillersfeb12/thrillersfeb12-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/12/books/thrillersfeb12/thrillersfeb12-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/12/books/thrillersfeb12/thrillersfeb12-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "You Have the Right to an Attorney. But in Texas, Don’t Count on It.",
+        "abstract": "In some parts of the state, misdemeanor defendants routinely face charges without representation.",
+        "url": "https://www.nytimes.com/2025/04/04/us/texas-criminal-defense-attorney.html",
+        "uri": "nyt://article/3bead52c-5b1f-577d-85c5-3cb918331c27",
+        "byline": "By Jolie McCullough and Ilana Panich-Linsman",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T22:06:38-04:00",
+        "created_date": "2025-04-04T05:01:05-04:00",
+        "published_date": "2025-04-04T05:01:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "internal-open-access",
+            "Public Defenders and Court-Appointed Lawyers (Criminal)",
+            "Legal Aid for the Poor (Civil)",
+            "Law and Legislation",
+            "Courts and the Judiciary",
+            "Probation and Parole",
+            "Sentences (Criminal)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Texas",
+            "Maverick County (Tex)",
+            "Amarillo (Tex)",
+            "Leon County (Tex)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/01/multimedia/00tx-attorneys-01-tchp/00tx-attorneys-01-tchp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "County officials and stakeholders gathered for a press conference on the steps of the Texas State Capitol to recognize need for indigent defense funding in the state.",
+                "copyright": "Ilana Panich-Linsman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/01/multimedia/00tx-attorneys-01-tchp/00tx-attorneys-01-tchp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "County officials and stakeholders gathered for a press conference on the steps of the Texas State Capitol to recognize need for indigent defense funding in the state.",
+                "copyright": "Ilana Panich-Linsman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/01/multimedia/00tx-attorneys-01-tchp/00tx-attorneys-01-tchp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "County officials and stakeholders gathered for a press conference on the steps of the Texas State Capitol to recognize need for indigent defense funding in the state.",
+                "copyright": "Ilana Panich-Linsman for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Bloomberg Pumps Cash Into the Long-Term Legal Fight Against Trump",
+        "abstract": "The billionaire’s gun control group plans to spend $10 million to help elect Democratic attorneys general, who are on the front lines of legal clashes with the president.",
+        "url": "https://www.nytimes.com/2025/04/08/us/politics/michael-bloomberg-everytown-trump-democrats.html",
+        "uri": "nyt://article/595f750f-f5b8-5082-af08-f0114f6bfc9e",
+        "byline": "By Reid J. Epstein",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T05:01:54-04:00",
+        "created_date": "2025-04-08T05:01:54-04:00",
+        "published_date": "2025-04-08T05:01:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections, Attorneys General",
+            "Campaign Finance",
+            "Presidential Election of 2024",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Everytown for Gun Safety",
+            "Democratic Party"
+        ],
+        "per_facet": [
+            "Bloomberg, Michael R",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08pol-bloomberg-jwhc/jwhc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Everytown for Gun Safety, the gun control group headed by Michael R. Bloomberg, will back Democratic candidates for attorney general in 10 battleground states this year and in 2026.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08pol-bloomberg-jwhc/jwhc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Everytown for Gun Safety, the gun control group headed by Michael R. Bloomberg, will back Democratic candidates for attorney general in 10 battleground states this year and in 2026.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08pol-bloomberg-jwhc/08pol-bloomberg-jwhc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Everytown for Gun Safety, the gun control group headed by Michael R. Bloomberg, will back Democratic candidates for attorney general in 10 battleground states this year and in 2026.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "energy-environment",
+        "title": "Why a Plane-Size Machine Could Foil a Race to Build Gas Power Plants",
+        "abstract": "Wait times for the hulking turbines needed to turn natural gas into electricity have doubled in the past year as companies scramble to build data centers for A.I.",
+        "url": "https://www.nytimes.com/2025/04/08/business/energy-environment/gas-turbines-power-plants.html",
+        "uri": "nyt://article/ef5492aa-4694-57eb-8954-3dc5f58be1fd",
+        "byline": "By Rebecca F. Elliott",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T05:00:56-04:00",
+        "created_date": "2025-04-08T05:00:56-04:00",
+        "published_date": "2025-04-08T05:00:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Alternative and Renewable Energy",
+            "Natural Gas",
+            "Solar Energy",
+            "Wind Power",
+            "Artificial Intelligence",
+            "Data Centers",
+            "Energy and Power"
+        ],
+        "org_facet": [
+            "GE Vernova Group"
+        ],
+        "per_facet": [
+            "Wright, Chris (1965- )"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/28/multimedia/00gas-turbines-pkbj/00gas-turbines-pkbj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1453,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Will Crooks for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/28/multimedia/00gas-turbines-pkbj/00gas-turbines-pkbj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Will Crooks for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/28/multimedia/00gas-turbines-pkbj/00gas-turbines-pkbj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Will Crooks for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "music",
+        "title": "Clem Burke, Versatile, Hard-Driving Drummer for Blondie, Dies at 70",
+        "abstract": "He provided both the explosive percussion on hits like “Call Me” and the laid-back rhythm on the reggae-influenced “The Tide Is High.”",
+        "url": "https://www.nytimes.com/2025/04/07/arts/music/clem-burke-dead.html",
+        "uri": "nyt://article/5b9e2956-994d-576c-b8a8-3322ceb11c05",
+        "byline": "By Clay Risen",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T18:48:15-04:00",
+        "created_date": "2025-04-07T18:48:15-04:00",
+        "published_date": "2025-04-07T18:48:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Pop and Rock Music",
+            "Deaths (Obituaries)",
+            "Nineteen Hundred Eighties"
+        ],
+        "org_facet": [
+            "Blondie"
+        ],
+        "per_facet": [
+            "Harry, Deborah",
+            "Burke, Clem"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07Burke--jqch/07Burke--jqch-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1315,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Clem Burke performing with Blondie in 2022. He played with the band during its peak years, the late 1970s and early ’80s, and then again after the band re-formed in 1997 following a 15-year hiatus.",
+                "copyright": "Neil Lupin/World Entertainment News Network, via Alamy"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07Burke--jqch/07Burke--jqch-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Clem Burke performing with Blondie in 2022. He played with the band during its peak years, the late 1970s and early ’80s, and then again after the band re-formed in 1997 following a 15-year hiatus.",
+                "copyright": "Neil Lupin/World Entertainment News Network, via Alamy"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07Burke--jqch/07Burke--jqch-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Clem Burke performing with Blondie in 2022. He played with the band during its peak years, the late 1970s and early ’80s, and then again after the band re-formed in 1997 following a 15-year hiatus.",
+                "copyright": "Neil Lupin/World Entertainment News Network, via Alamy"
+            }
+        ],
+        "short_url": ""
     }
 ]
