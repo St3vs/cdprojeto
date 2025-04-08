@@ -24043,5 +24043,204 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Panama Canal Ship Pilot Navigates Tricky Waters, and Trump",
+        "abstract": "For over 40 years, Capt. Efrain Hallax, 73, has been steering vessels through the canal, and he has seen it all, from a dictator’s fall to the rise of U.S. interest in retaking the waterway.",
+        "url": "https://www.nytimes.com/2025/04/08/world/americas/panama-canal-ship-pilot.html",
+        "uri": "nyt://article/efcbff29-ff7f-5d16-906b-9cd7ffd10626",
+        "byline": "By Silvana Paternostro and Nathalia Angarita",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T16:33:26-04:00",
+        "created_date": "2025-04-08T05:00:24-04:00",
+        "published_date": "2025-04-08T05:00:24-04:00",
+        "material_type_facet": "",
+        "kicker": "The Global Profile",
+        "des_facet": [
+            "Ships and Shipping",
+            "Content Type: Personal Profile"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Efrain Hallax",
+            "Trump, Donald J",
+            "Noriega, Manuel Antonio"
+        ],
+        "geo_facet": [
+            "Panama Canal and Canal Zone",
+            "Panama"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/14/world/00PanamaCanal-BoatPilot-Profile-promo/00PanamaCanal-BoatPilot-Profile-05-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Capt. Efrain Hallax is one of 316 pilots authorized by the Authority of the Panama Canal to steer a ship through the canal.",
+                "copyright": "Nathalia Angarita for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/14/world/00PanamaCanal-BoatPilot-Profile-promo/00PanamaCanal-BoatPilot-Profile-05-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Capt. Efrain Hallax is one of 316 pilots authorized by the Authority of the Panama Canal to steer a ship through the canal.",
+                "copyright": "Nathalia Angarita for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/14/world/00PanamaCanal-BoatPilot-Profile-promo/00PanamaCanal-BoatPilot-Profile-05-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Capt. Efrain Hallax is one of 316 pilots authorized by the Authority of the Panama Canal to steer a ship through the canal.",
+                "copyright": "Nathalia Angarita for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Panama Official Accuses Hong Kong Port Operator of Misconduct",
+        "abstract": "The controller general of Panama said CK Hutchison, a Hong Kong conglomerate, did not properly renew its license to operate two ports that are part of a $19 billion deal involving BlackRock.",
+        "url": "https://www.nytimes.com/2025/04/08/business/panama-ports-ck-hutchison-audit.html",
+        "uri": "nyt://article/c8506ea7-552d-52c1-af53-ecb78bcb3aa9",
+        "byline": "By Peter Eavis",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T16:30:25-04:00",
+        "created_date": "2025-04-08T16:04:48-04:00",
+        "published_date": "2025-04-08T16:04:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "International Relations",
+            "Canals",
+            "Mergers, Acquisitions and Divestitures",
+            "United States Politics and Government",
+            "Government Contracts and Procurement",
+            "Ports",
+            "United States International Relations"
+        ],
+        "org_facet": [
+            "BlackRock Inc",
+            "CK Hutchison Holdings Ltd"
+        ],
+        "per_facet": [
+            "Fink, Laurence D",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Panama",
+            "Hong Kong",
+            "China",
+            "Panama Canal and Canal Zone"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08biz-panama-port-mvtz/08biz-panama-port-mvtz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A ship makes its way through the Panama Canal. Anel Flores, Panama’s controller general, said that he uncovered evidence that the Hong Kong conglomerate CK Hutchison was not licensed to operate two ports.",
+                "copyright": "Nathalia Angarita for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08biz-panama-port-mvtz/08biz-panama-port-mvtz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A ship makes its way through the Panama Canal. Anel Flores, Panama’s controller general, said that he uncovered evidence that the Hong Kong conglomerate CK Hutchison was not licensed to operate two ports.",
+                "copyright": "Nathalia Angarita for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08biz-panama-port-mvtz/08biz-panama-port-mvtz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A ship makes its way through the Panama Canal. Anel Flores, Panama’s controller general, said that he uncovered evidence that the Hong Kong conglomerate CK Hutchison was not licensed to operate two ports.",
+                "copyright": "Nathalia Angarita for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Dozens Die in Floods Hitting Congo’s Capital",
+        "abstract": "While the Democratic Republic of Congo reels from a new rebel offensive in the east, its capital in the west, Kinshasa,  grapples with deadly floods.",
+        "url": "https://www.nytimes.com/2025/04/08/world/africa/congo-kinshasa-floods.html",
+        "uri": "nyt://article/26103368-aab6-56ca-9047-bbc5d2b6ad09",
+        "byline": "By Saikou Jammeh",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T16:36:46-04:00",
+        "created_date": "2025-04-08T16:36:46-04:00",
+        "published_date": "2025-04-08T16:36:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Floods",
+            "Foreign Aid",
+            "Rain",
+            "Humanitarian Aid",
+            "Global Warming"
+        ],
+        "org_facet": [
+            "United Nations"
+        ],
+        "per_facet": [
+            "Tshisekedi, Felix"
+        ],
+        "geo_facet": [
+            "Congo, Democratic Republic of (Congo-Kinshasa)",
+            "Kinshasa (Democratic Republic of Congo)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08congo-1-hvpz/08congo-1-hvpz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Wading through floodwaters in the Ndjili district of Kinshasa, the Democratic Republic of Congo, on Sunday.",
+                "copyright": "Hardy Bope/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08congo-1-hvpz/08congo-1-hvpz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Wading through floodwaters in the Ndjili district of Kinshasa, the Democratic Republic of Congo, on Sunday.",
+                "copyright": "Hardy Bope/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08congo-1-hvpz/08congo-1-hvpz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Wading through floodwaters in the Ndjili district of Kinshasa, the Democratic Republic of Congo, on Sunday.",
+                "copyright": "Hardy Bope/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
