@@ -23785,5 +23785,130 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Supreme Court Pauses Ruling Requiring Rehiring of 16,000 Probationary Workers",
+        "abstract": "A federal judge in California had ordered the Trump administration to rehire government employees fired as part of its efforts to slash the federal work force.",
+        "url": "https://www.nytimes.com/2025/04/08/us/politics/supreme-court-probationary-workers.html",
+        "uri": "nyt://article/a957d83d-f446-5fd6-bc46-bf0874369b6c",
+        "byline": "By Adam Liptak",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T14:19:52-04:00",
+        "created_date": "2025-04-08T12:19:09-04:00",
+        "published_date": "2025-04-08T12:19:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Government Employees",
+            "Federal Courts (US)",
+            "Courts and the Judiciary",
+            "Presidential Power (US)"
+        ],
+        "org_facet": [
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Alsup, William Haskell",
+            "Bredar, James K",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/dc-scotus-workers-gvqm/dc-scotus-workers-gvqm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Thousands of federal workers who had been on probationary status were fired by the Office of Personnel Management under the direction of the Trump administration.",
+                "copyright": "Tierney L. Cross/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/dc-scotus-workers-gvqm/dc-scotus-workers-gvqm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Thousands of federal workers who had been on probationary status were fired by the Office of Personnel Management under the direction of the Trump administration.",
+                "copyright": "Tierney L. Cross/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/dc-scotus-workers-gvqm/dc-scotus-workers-gvqm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Thousands of federal workers who had been on probationary status were fired by the Office of Personnel Management under the direction of the Trump administration.",
+                "copyright": "Tierney L. Cross/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "The Destruction of the American Ideal",
+        "abstract": "Under Trump, we are becoming unrecognizable to our former selves.",
+        "url": "https://www.nytimes.com/2025/04/08/opinion/trump-deporation-america.html",
+        "uri": "nyt://article/112230ef-9328-57d8-aeec-a362eebdec5e",
+        "byline": "By Bret Stephens",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T15:00:06-04:00",
+        "created_date": "2025-04-08T15:00:06-04:00",
+        "published_date": "2025-04-08T15:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "Bret Stephens",
+        "des_facet": [
+            "United States Politics and Government",
+            "Deportation",
+            "Democracy (Theory and Philosophy)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/08stephens-tfgb/08stephens-tfgb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Spencer Platt/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/08stephens-tfgb/08stephens-tfgb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Spencer Platt/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/08stephens-tfgb/08stephens-tfgb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Spencer Platt/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
