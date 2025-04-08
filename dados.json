@@ -22696,5 +22696,71 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "books",
+        "subsection": "",
+        "title": "International Booker Prize Shortlist: 6 Books to Talk About",
+        "abstract": "The nominees for the translated fiction award “don’t shut down debate, they generate it,” said the author Max Porter, who leads the judging panel.",
+        "url": "https://www.nytimes.com/2025/04/08/books/international-booker-prize-shortlist.html",
+        "uri": "nyt://article/a854985a-4c9f-5dc6-9a01-495b13628970",
+        "byline": "By Alex Marshall",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T09:11:43-04:00",
+        "created_date": "2025-04-08T09:11:43-04:00",
+        "published_date": "2025-04-08T09:11:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Books and Literature",
+            "Writing and Writers",
+            "Man Booker Prize",
+            "Perfection (Book)",
+            "Under the Eye of the Big Bird (Book)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Balle, Solvej",
+            "Hughes, Sophie (Translator)",
+            "Kawakami, Hiromi",
+            "Latronico, Vincenzo",
+            "Yoneda, Asa"
+        ],
+        "geo_facet": [
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/world/08CUL-INTERNATIONAL-BOOKER11/08CUL-INTERNATIONAL-BOOKER11-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The six titles shortlisted to compete for this year’s International Booker Prize.",
+                "copyright": "Yuki Sugiura for Booker Prize Foundation"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/world/08CUL-INTERNATIONAL-BOOKER11/08CUL-INTERNATIONAL-BOOKER11-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The six titles shortlisted to compete for this year’s International Booker Prize.",
+                "copyright": "Yuki Sugiura for Booker Prize Foundation"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/world/08CUL-INTERNATIONAL-BOOKER11/08CUL-INTERNATIONAL-BOOKER11-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The six titles shortlisted to compete for this year’s International Booker Prize.",
+                "copyright": "Yuki Sugiura for Booker Prize Foundation"
+            }
+        ],
+        "short_url": ""
     }
 ]
