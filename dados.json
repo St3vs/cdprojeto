@@ -22829,5 +22829,386 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "upshot",
+        "subsection": "",
+        "title": "I.R.S. Audits Are at a Record Low. Trump’s Cuts Could Make Them Even Rarer.",
+        "abstract": "The Biden plan to increase tax revenue through more enforcement is being reversed.",
+        "url": "https://www.nytimes.com/2025/04/08/upshot/irs-tax-audits-cuts.html",
+        "uri": "nyt://article/2c8d6e83-e10b-5cb7-bc6c-1c415a8750fb",
+        "byline": "By Ben Blatt",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T10:49:21-04:00",
+        "created_date": "2025-04-08T10:35:29-04:00",
+        "published_date": "2025-04-08T10:35:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Federal Taxes (US)",
+            "Tax Evasion"
+        ],
+        "org_facet": [
+            "Internal Revenue Service"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Biden, Joseph R Jr"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/2025-03-05-irs-blatt-index/2025-03-05-irs-blatt-index-superJumbo-v2.png",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/2025-03-05-irs-blatt-index/2025-03-05-irs-blatt-index-threeByTwoSmallAt2X-v3.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/2025-03-05-irs-blatt-index/2025-03-05-irs-blatt-index-thumbLarge-v3.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Case in Texas Could Shed More Light on Invocation of Alien Enemies Act",
+        "abstract": "A case involving a Venezuelan migrant, Daniel Zacarias Matos, could explore the question of whether President Trump has used the Alien Enemies Act in a lawful manner.",
+        "url": "https://www.nytimes.com/2025/04/08/us/politics/case-in-texas-could-shed-more-light-on-invocation-of-alien-enemies-act.html",
+        "uri": "nyt://article/ea38704a-c1e5-54ce-b02f-8ecf5d1d0c53",
+        "byline": "By Alan Feuer",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T10:46:10-04:00",
+        "created_date": "2025-04-08T10:44:19-04:00",
+        "published_date": "2025-04-08T10:44:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Illegal Immigration",
+            "Decisions and Verdicts",
+            "Alien Enemies Act (1798)",
+            "United States Politics and Government",
+            "United States International Relations"
+        ],
+        "org_facet": [
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Daniel Zacarias Matos",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Texas",
+            "Venezuela"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08trump-news-immig-jzwc/08trump-news-immig-jzwc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court ruled on Monday night that the Trump administration could continue to deport migrants using a wartime powers act.",
+                "copyright": "Tierney L. Cross for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08trump-news-immig-jzwc/08trump-news-immig-jzwc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court ruled on Monday night that the Trump administration could continue to deport migrants using a wartime powers act.",
+                "copyright": "Tierney L. Cross for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08trump-news-immig-jzwc/08trump-news-immig-jzwc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court ruled on Monday night that the Trump administration could continue to deport migrants using a wartime powers act.",
+                "copyright": "Tierney L. Cross for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Glenn Youngkin, an Anti-D.E.I. Governor, Once Championed Diversity",
+        "abstract": "Not long before he became Virginia’s governor, Mr. Youngkin helped lead, and spoke approvingly of, efforts to improve racial and gender diversity at his private equity firm.",
+        "url": "https://www.nytimes.com/2025/04/08/us/politics/glenn-youngkin-dei-carlyle-virginia.html",
+        "uri": "nyt://article/ccc311e2-3c80-5b07-b9bc-b47b9f19cac1",
+        "byline": "By Katie Glueck",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T10:10:19-04:00",
+        "created_date": "2025-04-08T10:10:19-04:00",
+        "published_date": "2025-04-08T10:10:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Diversity Initiatives",
+            "Minorities",
+            "Corporate Social Responsibility",
+            "Discrimination",
+            "Hiring and Promotion",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Carlyle Group LP",
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Youngkin, Glenn A"
+        ],
+        "geo_facet": [
+            "Virginia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00pol-youngkin-topart-wgqh/00pol-youngkin-topart-wgqh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "As the co-chief executive of the Carlyle Group, Glenn Youngkin worked to address disparities in the financial sector. As governor of Virginia, he has embraced President Trump’s hostility to D.E.I. initiatives.",
+                "copyright": "Kristen Zeis for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00pol-youngkin-topart-wgqh/00pol-youngkin-topart-wgqh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "As the co-chief executive of the Carlyle Group, Glenn Youngkin worked to address disparities in the financial sector. As governor of Virginia, he has embraced President Trump’s hostility to D.E.I. initiatives.",
+                "copyright": "Kristen Zeis for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/00pol-youngkin-topart-wgqh/00pol-youngkin-topart-wgqh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "As the co-chief executive of the Carlyle Group, Glenn Youngkin worked to address disparities in the financial sector. As governor of Virginia, he has embraced President Trump’s hostility to D.E.I. initiatives.",
+                "copyright": "Kristen Zeis for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Glenn Youngkin on D.E.I., Trump’s Tariffs and a Possible 2028 Run",
+        "abstract": "In an interview, the Republican governor of Virginia spoke at length about his views on diversity efforts, among other subjects.",
+        "url": "https://www.nytimes.com/2025/04/08/us/politics/youngkin-interview-q-and-a.html",
+        "uri": "nyt://article/7a1b2ee8-2ae3-56eb-9610-6f82c59bc3a2",
+        "byline": "By Katie Glueck",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T10:12:24-04:00",
+        "created_date": "2025-04-08T10:12:24-04:00",
+        "published_date": "2025-04-08T10:12:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Diversity Initiatives",
+            "Minorities",
+            "Discrimination",
+            "United States Politics and Government",
+            "Presidential Election of 2028"
+        ],
+        "org_facet": [
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Youngkin, Glenn A"
+        ],
+        "geo_facet": [
+            "Virginia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08pol-youngkin-q-and-a-topart-zphv/08pol-youngkin-q-and-a-topart-zphv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gov. Glenn Youngkin of Virginia is widely seen as a potential future presidential candidate. ",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08pol-youngkin-q-and-a-topart-zphv/08pol-youngkin-q-and-a-topart-zphv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gov. Glenn Youngkin of Virginia is widely seen as a potential future presidential candidate. ",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08pol-youngkin-q-and-a-topart-zphv/08pol-youngkin-q-and-a-topart-zphv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gov. Glenn Youngkin of Virginia is widely seen as a potential future presidential candidate. ",
+                "copyright": "Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Pilots Discussed Alternate Ways to Land Before Deadly Jeju Air Crash",
+        "abstract": "The pilots’ conversation with air traffic controllers, revealed in a partial transcript, could offer clues to what caused the disaster in South Korea, which killed 179 people.",
+        "url": "https://www.nytimes.com/2025/04/08/world/asia/jeju-crash-communications.html",
+        "uri": "nyt://article/b781ebdf-c208-5fc5-a501-6b796e767376",
+        "byline": "By Grace Moon and Selam Gebrekidan",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T10:34:36-04:00",
+        "created_date": "2025-04-08T10:34:36-04:00",
+        "published_date": "2025-04-08T10:34:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Jeju Air Flight 2216",
+            "Aviation Accidents, Safety and Disasters",
+            "Airlines and Airplanes",
+            "Air Traffic Control",
+            "Pilots"
+        ],
+        "org_facet": [
+            "Jeju Air Co Ltd",
+            "Muan International Airport"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "South Korea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-Jeju-tower-01-vhpl/08int-Jeju-tower-01-vhpl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jeju Air Flight 2216 crashed at Muan International Airport in South Korea on Dec. 29.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-Jeju-tower-01-vhpl/08int-Jeju-tower-01-vhpl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jeju Air Flight 2216 crashed at Muan International Airport in South Korea on Dec. 29.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-Jeju-tower-01-vhpl/08int-Jeju-tower-01-vhpl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jeju Air Flight 2216 crashed at Muan International Airport in South Korea on Dec. 29.",
+                "copyright": "Chang W. Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Zelensky Claims Capture of 2 Chinese Citizens Fighting for Russia",
+        "abstract": "The Ukrainian president did not suggest that they had been sent by Beijing’s military, but he pointed to their presence as further evidence that Moscow was not truly interested in peace.",
+        "url": "https://www.nytimes.com/2025/04/08/world/europe/zelensky-russia-chinese-belgorod.html",
+        "uri": "nyt://article/0cc8c03b-ba96-5dd9-8ca9-a888fa475fde",
+        "byline": "By Maria Varenikova and David Pierson",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T10:48:31-04:00",
+        "created_date": "2025-04-08T10:48:31-04:00",
+        "published_date": "2025-04-08T10:48:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Prisoners of War"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Putin, Vladimir V",
+            "Trump, Donald J",
+            "Xi Jinping",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-ukraine-belgorod-hjwg/08int-ukraine-belgorod-hjwg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine addressing a news conference in Kyiv on Tuesday.",
+                "copyright": "Genya Savilov/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-ukraine-belgorod-hjwg/08int-ukraine-belgorod-hjwg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine addressing a news conference in Kyiv on Tuesday.",
+                "copyright": "Genya Savilov/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-ukraine-belgorod-hjwg/08int-ukraine-belgorod-hjwg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine addressing a news conference in Kyiv on Tuesday.",
+                "copyright": "Genya Savilov/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
