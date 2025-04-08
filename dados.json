@@ -23409,5 +23409,254 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Musk Calls Navarro a ‘Moron’ in Escalating Tariff Fight",
+        "abstract": "The feud between two of President Trump’s top advisers is playing out as the administration’s new tariffs have caused huge losses across global financial markets.",
+        "url": "https://www.nytimes.com/2025/04/08/us/politics/musk-navarro-tariffs-fight.html",
+        "uri": "nyt://article/d618a8d1-6108-5a5a-827f-4ebfff5fc01a",
+        "byline": "By Tyler Pager",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T13:08:28-04:00",
+        "created_date": "2025-04-08T12:11:16-04:00",
+        "published_date": "2025-04-08T12:11:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "Tesla Motors Inc",
+            "X (Formerly Twitter)"
+        ],
+        "per_facet": [
+            "Musk, Elon",
+            "Navarro, Peter",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08dc-trump-musk-tchv/08dc-trump-musk-tchv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk has been a critic of Peter Navarro.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08dc-trump-musk-tchv/08dc-trump-musk-tchv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk has been a critic of Peter Navarro.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08dc-trump-musk-tchv/08dc-trump-musk-tchv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk has been a critic of Peter Navarro.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "He Was Held Captive in His Room For Decades. Then He Set It on Fire.",
+        "abstract": "Firefighters found a 32-year-old man who weighed 68 pounds. The police say his stepmother locked him away when he was 12.",
+        "url": "https://www.nytimes.com/2025/04/08/nyregion/ct-waterbury-captive.html",
+        "uri": "nyt://article/a765c77b-836c-5881-82b3-82dc49d61f61",
+        "byline": "By Sarah Maslin Nir",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T12:05:29-04:00",
+        "created_date": "2025-04-08T12:00:44-04:00",
+        "published_date": "2025-04-08T12:00:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Fires and Firefighters",
+            "Home Schooling",
+            "Education (K-12)",
+            "Missing Persons",
+            "Child Abuse and Neglect"
+        ],
+        "org_facet": [
+            "Department of Children and Families (NJ)"
+        ],
+        "per_facet": [
+            "Sullivan, Kimberly (1968- )"
+        ],
+        "geo_facet": [
+            "Waterbury (Conn)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/met-connecticut-captive--01-qwhg/met-connecticut-captive--01-qwhg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The house at 2 Blake Street in Waterbury, Conn.",
+                "copyright": "Christopher Capozziello for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/met-connecticut-captive--01-qwhg/met-connecticut-captive--01-qwhg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The house at 2 Blake Street in Waterbury, Conn.",
+                "copyright": "Christopher Capozziello for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/met-connecticut-captive--01-qwhg/met-connecticut-captive--01-qwhg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The house at 2 Blake Street in Waterbury, Conn.",
+                "copyright": "Christopher Capozziello for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "magazine",
+        "subsection": "",
+        "title": "How Do You Rebuild a Place Like the Palisades?",
+        "abstract": "It was an idyllic pocket of Los Angeles where people knew their neighbors — and homes sold for $5 million. The fire ignited competing visions for its future.",
+        "url": "https://www.nytimes.com/2025/04/08/magazine/palisades-fire-rebuild.html",
+        "uri": "nyt://article/130b7e86-3763-574a-bc7d-9a3a8eb5f5fc",
+        "byline": "By Jesse Barron",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T13:03:15-04:00",
+        "created_date": "2025-04-08T05:01:18-04:00",
+        "published_date": "2025-04-08T05:01:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Wildfires",
+            "Real Estate and Housing (Residential)",
+            "Southern California Wildfires (Jan 2025)",
+            "Homeless Persons"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Caruso, Rick J",
+            "Bass, Karen Ruth"
+        ],
+        "geo_facet": [
+            "Pacific Palisades (Calif)",
+            "Beverly Hills (Calif)",
+            "Malibu (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/magazine/13Mag-Rebuilding-01/13Mag-Rebuilding-01-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1800,
+                "width": 1374,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo illustration by Tyler Comrie"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/magazine/13Mag-Rebuilding-01/13Mag-Rebuilding-01-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo illustration by Tyler Comrie"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/magazine/13Mag-Rebuilding-01/13Mag-Rebuilding-01-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo illustration by Tyler Comrie"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "A New Push to Open the Doors on Childhood Sexual Abuse",
+        "abstract": "A man abused as a child at a Missouri Christian camp agreed to remain silent, and took his own life. His sister is pushing several states to ban such nondisclosure agreements.",
+        "url": "https://www.nytimes.com/2025/04/08/us/non-disclosure-agreements-statute-of-limitations-states.html",
+        "uri": "nyt://article/6b0f896c-ef0a-58d8-b20e-0bdb6b39b181",
+        "byline": "By David W. Chen and Desiree Rios",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T13:05:04-04:00",
+        "created_date": "2025-04-08T05:01:04-04:00",
+        "published_date": "2025-04-08T05:01:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Child Abuse and Neglect",
+            "Sex Crimes",
+            "Law and Legislation",
+            "Nondisclosure Agreements"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Texas"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/30/multimedia/00NAT-NDA-top-tzvw/00NAT-NDA-top-tzvw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The childhood desk of Trey Carlock inside his family home in Dallas. Mr. Carlock died by suicide after he was sexually abused at a summer camp.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/30/multimedia/00NAT-NDA-top-tzvw/00NAT-NDA-top-tzvw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The childhood desk of Trey Carlock inside his family home in Dallas. Mr. Carlock died by suicide after he was sexually abused at a summer camp.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/30/multimedia/00NAT-NDA-top-tzvw/00NAT-NDA-top-tzvw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The childhood desk of Trey Carlock inside his family home in Dallas. Mr. Carlock died by suicide after he was sexually abused at a summer camp.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
     }
 ]
