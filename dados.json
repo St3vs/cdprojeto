@@ -24574,5 +24574,304 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "media",
+        "title": "Pronouns in Bio? You May Not Get a Response From the White House.",
+        "abstract": "Some Trump administration officials have declined to answer questions from several journalists on the basis of their email signatures.",
+        "url": "https://www.nytimes.com/2025/04/08/business/media/white-house-journalists-pronouns.html",
+        "uri": "nyt://article/8742fac4-02b6-5a2a-a9c0-9bf414e3f485",
+        "byline": "By Michael M. Grynbaum",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T18:58:02-04:00",
+        "created_date": "2025-04-08T18:51:16-04:00",
+        "published_date": "2025-04-08T18:51:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "News and News Media",
+            "United States Politics and Government",
+            "Freedom of the Press",
+            "Gender"
+        ],
+        "org_facet": [
+            "New York Times"
+        ],
+        "per_facet": [
+            "Miller, Katie Rose",
+            "Leavitt, Karoline"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08biz-pronouns1-phjk/08biz-pronouns1-phjk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“As a matter of policy, we do not respond to reporters with pronouns in their bios,” Karoline Leavitt, the White House press secretary, wrote to a New York Times reporter.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08biz-pronouns1-phjk/08biz-pronouns1-phjk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“As a matter of policy, we do not respond to reporters with pronouns in their bios,” Karoline Leavitt, the White House press secretary, wrote to a New York Times reporter.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08biz-pronouns1-phjk/08biz-pronouns1-phjk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“As a matter of policy, we do not respond to reporters with pronouns in their bios,” Karoline Leavitt, the White House press secretary, wrote to a New York Times reporter.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "Nuclear Testing Not Advised, Trump’s Nominee Says in Senate Hearing",
+        "abstract": "Brandon Williams, the nominee to lead the National Nuclear Security Administration, said he would recommend reliance on “scientific information” rather than a restart of explosive testing.",
+        "url": "https://www.nytimes.com/2025/04/08/science/nuclear-testing-nnsa-williams.html",
+        "uri": "nyt://article/f86bd98e-0e75-5fb9-997c-cbafcb933077",
+        "byline": "By William J. Broad",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T18:12:42-04:00",
+        "created_date": "2025-04-08T18:12:42-04:00",
+        "published_date": "2025-04-08T18:12:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Nuclear Tests",
+            "Nuclear Weapons",
+            "United States Politics and Government",
+            "United States Defense and Military Forces",
+            "Appointments and Executive Changes",
+            "your-feed-science"
+        ],
+        "org_facet": [
+            "National Nuclear Security Administration",
+            "Senate Committee on Armed Services"
+        ],
+        "per_facet": [
+            "Williams, Brandon",
+            "Rosen, Jacky (1957- )"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/science/08HS-nuke/08HS-nuke-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Brandon Williams, a former New York representative and President Trump’s nominee for under secretary for nuclear security at the Department of Energy, in 2023.",
+                "copyright": "Tom Williams/CQ-Roll Call, Inc., via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/science/08HS-nuke/08HS-nuke-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Brandon Williams, a former New York representative and President Trump’s nominee for under secretary for nuclear security at the Department of Energy, in 2023.",
+                "copyright": "Tom Williams/CQ-Roll Call, Inc., via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/science/08HS-nuke/08HS-nuke-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Brandon Williams, a former New York representative and President Trump’s nominee for under secretary for nuclear security at the Department of Energy, in 2023.",
+                "copyright": "Tom Williams/CQ-Roll Call, Inc., via Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "theater",
+        "subsection": "",
+        "title": "The Loose Screws, Hot Flames and Infinite Joy of William Finn",
+        "abstract": "The composer and lyricist of “A New Brain,” “Falsettos” and other shows answered the pains of life with jaunty songs. He died this week at 73.",
+        "url": "https://www.nytimes.com/2025/04/08/theater/william-finn-appraisal.html",
+        "uri": "nyt://article/6c7fe3d2-5b0c-550d-a24b-17e83237dd39",
+        "byline": "By Jesse Green",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T19:05:51-04:00",
+        "created_date": "2025-04-08T18:08:03-04:00",
+        "published_date": "2025-04-08T18:08:03-04:00",
+        "material_type_facet": "",
+        "kicker": "An Appraisal",
+        "des_facet": [
+            "Theater",
+            "A New Brain (Play)",
+            "Falsettos (Play)",
+            "The 25th Annual Putnam County Spelling Bee (Play)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Finn, William"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/finn-appraisal-vghl-print1-SUB/finn-appraisal-vghl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "William Finn’s “A New Brain,” starring Andy Grotelueschen and Adam Chanler-Berat in a 2023 production, drew upon Finn’s near-death experience from a stroke. ",
+                "copyright": "Daniel Rader"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/finn-appraisal-vghl-print1-SUB/finn-appraisal-vghl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "William Finn’s “A New Brain,” starring Andy Grotelueschen and Adam Chanler-Berat in a 2023 production, drew upon Finn’s near-death experience from a stroke. ",
+                "copyright": "Daniel Rader"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/finn-appraisal-vghl-print1-SUB/finn-appraisal-vghl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "William Finn’s “A New Brain,” starring Andy Grotelueschen and Adam Chanler-Berat in a 2023 production, drew upon Finn’s near-death experience from a stroke. ",
+                "copyright": "Daniel Rader"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Trump Pressed Ahead With Sweeping Tariffs",
+        "abstract": "Also, a roof collapse in the Dominican Republic killed at least 58 people. Here’s the latest at the end of Tuesday.",
+        "url": "https://www.nytimes.com/2025/04/08/briefing/trump-latest-tariffs-roof-collapse-dominican-republic.html",
+        "uri": "nyt://article/f8db410f-3d8d-50dc-8fec-163ad160b57f",
+        "byline": "By Matthew Cullen",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T18:09:24-04:00",
+        "created_date": "2025-04-08T18:09:24-04:00",
+        "published_date": "2025-04-08T18:09:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08evening-tariffs-pvbj/08evening-tariffs-pvbj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08evening-tariffs-pvbj/08evening-tariffs-pvbj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08evening-tariffs-pvbj/08evening-tariffs-pvbj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Gang War Ravaged East Harlem for Six Months, Prosecutors Say",
+        "abstract": "The Manhattan district attorney charged 16 people, most of them minors, in a score of shootings. Violence among New York City’s youth has soared.",
+        "url": "https://www.nytimes.com/2025/04/08/nyregion/east-harlem-gang-war-charges.html",
+        "uri": "nyt://article/c9e762b6-fc70-5f0f-a8b5-a89dc1bdcb8e",
+        "byline": "By Chelsia Rose Marcius",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T18:56:33-04:00",
+        "created_date": "2025-04-08T18:56:33-04:00",
+        "published_date": "2025-04-08T18:56:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Youth",
+            "Gangs",
+            "Murders, Attempted Murders and Homicides"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Bragg, Alvin",
+            "Tisch, Jessica (1981- )"
+        ],
+        "geo_facet": [
+            "East Harlem (Manhattan, NY)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08met-gang-01-jmwv/08met-gang-01-jmwv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alvin Bragg, Manhattan’s district attorney, said the gang war was brazen and terrifying.",
+                "copyright": "Caitlin Ochs for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08met-gang-01-jmwv/08met-gang-01-jmwv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alvin Bragg, Manhattan’s district attorney, said the gang war was brazen and terrifying.",
+                "copyright": "Caitlin Ochs for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08met-gang-01-jmwv/08met-gang-01-jmwv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alvin Bragg, Manhattan’s district attorney, said the gang war was brazen and terrifying.",
+                "copyright": "Caitlin Ochs for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
