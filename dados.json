@@ -23910,5 +23910,138 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "In Trump Cases, Supreme Court Retreats From Confrontation",
+        "abstract": "In a series of narrow and technical rulings, the justices have seemed to take pains to avoid a showdown with a president who has challenged the judiciary’s legitimacy.",
+        "url": "https://www.nytimes.com/2025/04/08/us/supreme-court-trump-confrontation.html",
+        "uri": "nyt://article/0d85f17f-3d86-5331-b06f-7107b683a7b5",
+        "byline": "By Adam Liptak",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T16:01:21-04:00",
+        "created_date": "2025-04-08T14:52:38-04:00",
+        "published_date": "2025-04-08T14:52:38-04:00",
+        "material_type_facet": "",
+        "kicker": "news analysis",
+        "des_facet": [
+            "Decisions and Verdicts",
+            "United States Politics and Government",
+            "Illegal Immigration",
+            "Deportation",
+            "Executive Orders and Memorandums",
+            "Courts and the Judiciary",
+            "Constitution (US)"
+        ],
+        "org_facet": [
+            "Justice Department",
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Barrett, Amy Coney",
+            "Roberts, John G Jr",
+            "Trump, Donald J",
+            "Jackson, Ketanji Brown (1970- )",
+            "Kagan, Elena",
+            "Sotomayor, Sonia"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08dc-scotus-topart-ghzl/08dc-scotus-topart-ghzl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A slew of cases related to President Trump’s executive orders have arrived on what critics call the court’s “shadow docket,” as emergency applications requiring the justices to move very quickly, on thin briefs and no oral arguments. ",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08dc-scotus-topart-ghzl/08dc-scotus-topart-ghzl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A slew of cases related to President Trump’s executive orders have arrived on what critics call the court’s “shadow docket,” as emergency applications requiring the justices to move very quickly, on thin briefs and no oral arguments. ",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08dc-scotus-topart-ghzl/08dc-scotus-topart-ghzl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A slew of cases related to President Trump’s executive orders have arrived on what critics call the court’s “shadow docket,” as emergency applications requiring the justices to move very quickly, on thin briefs and no oral arguments. ",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Tariffs May Make It Too Expensive to ‘Drill, Baby, Drill’",
+        "abstract": "President Trump’s tariff polices have sent oil prices falling, which may push energy companies to reconsider their plans to drill.",
+        "url": "https://www.nytimes.com/2025/04/08/climate/tariffs-oil-drilling-trump.html",
+        "uri": "nyt://article/a4eb6527-3a18-5f07-8a6b-34cea388653d",
+        "byline": "By Claire Brown",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T15:55:55-04:00",
+        "created_date": "2025-04-08T15:27:07-04:00",
+        "published_date": "2025-04-08T15:27:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Prices (Fares, Fees and Rates)",
+            "Global Warming",
+            "Carbon Caps and Emissions Trading Programs",
+            "Oil (Petroleum) and Gasoline"
+        ],
+        "org_facet": [
+            "Organization of the Petroleum Exporting Countries"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08cli-newsletter-Oil-Canada-mglp/08cli-newsletter-Oil-Canada-mglp-superJumbo-v4.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A pump jack on the prairies near Claresholm, Alberta.",
+                "copyright": "Todd Korol/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08cli-newsletter-Oil-Canada-mglp/08cli-newsletter-Oil-Canada-mglp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A pump jack on the prairies near Claresholm, Alberta.",
+                "copyright": "Todd Korol/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08cli-newsletter-Oil-Canada-mglp/08cli-newsletter-Oil-Canada-mglp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A pump jack on the prairies near Claresholm, Alberta.",
+                "copyright": "Todd Korol/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
