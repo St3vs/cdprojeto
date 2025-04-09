@@ -25465,5 +25465,135 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Wants an Iran Nuclear Deal, but It Must Be Better Than Obama’s",
+        "abstract": "Nuclear talks between the United States and Iran are set for Saturday. President Trump has set a high bar for success.",
+        "url": "https://www.nytimes.com/2025/04/09/us/politics/trump-iran-nuclear-deal.html",
+        "uri": "nyt://article/cb9c7e7a-2de8-5073-a034-6628c23d92db",
+        "byline": "By Luke Broadwater and David E. Sanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T00:01:13-04:00",
+        "created_date": "2025-04-09T00:01:13-04:00",
+        "published_date": "2025-04-09T00:01:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Embargoes and Sanctions",
+            "Nuclear Weapons",
+            "Missiles and Missile Defense Systems"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Araghchi, Abbas",
+            "Mousavian, Seyed Hossein",
+            "Obama, Barack",
+            "Trump, Donald J",
+            "Witkoff, Steven",
+            "Waltz, Michael (1974- )"
+        ],
+        "geo_facet": [
+            "Iran",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-prexy-topart-wckb/09dc-prexy-topart-wckb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Steve Witkoff, the president’s friend and fellow New York real estate developer, reportedly will lead the American side of the negotiations. Mr. Witkoff has no known background in the complex technology of nuclear fuel enrichment, or the many steps to nuclear bomb making.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-prexy-topart-wckb/09dc-prexy-topart-wckb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Steve Witkoff, the president’s friend and fellow New York real estate developer, reportedly will lead the American side of the negotiations. Mr. Witkoff has no known background in the complex technology of nuclear fuel enrichment, or the many steps to nuclear bomb making.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-prexy-topart-wckb/09dc-prexy-topart-wckb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Steve Witkoff, the president’s friend and fellow New York real estate developer, reportedly will lead the American side of the negotiations. Mr. Witkoff has no known background in the complex technology of nuclear fuel enrichment, or the many steps to nuclear bomb making.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Where Ukrainian Children Once Played, Piles of Toys Memorialize the Dead",
+        "abstract": "A Russian missile strike near a playground in central Ukraine killed 19 people, including nine children. The attack was a painful reminder that a cease-fire remains as distant as ever.",
+        "url": "https://www.nytimes.com/2025/04/09/world/europe/ukraine-kryvyi-ri-attack.html",
+        "uri": "nyt://article/9f537875-0c7c-5b78-9bf6-2f527bc899cb",
+        "byline": "By Constant Méheut, Evelina Riabenko, Daria Mitiuk and Finbarr O’Reilly",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T00:01:15-04:00",
+        "created_date": "2025-04-09T00:01:15-04:00",
+        "published_date": "2025-04-09T00:01:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Civilian Casualties",
+            "Deaths (Fatalities)",
+            "Funerals and Memorials",
+            "vis-photo"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Kryvyi Rih (Ukraine)",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09ukraine-strike-1-ljwq/09ukraine-strike-1-ljwq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A woman prays at a makeshift memorial in Kryvyi Rih, Ukraine, where a Russian Strike on Friday killed 19 people, including nine children.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09ukraine-strike-1-ljwq/09ukraine-strike-1-ljwq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A woman prays at a makeshift memorial in Kryvyi Rih, Ukraine, where a Russian Strike on Friday killed 19 people, including nine children.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09ukraine-strike-1-ljwq/09ukraine-strike-1-ljwq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A woman prays at a makeshift memorial in Kryvyi Rih, Ukraine, where a Russian Strike on Friday killed 19 people, including nine children.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
     }
 ]
