@@ -26987,5 +26987,63 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "U.S. Bond Sell-Off Raises Questions About ‘Safe Haven’ Status",
+        "abstract": "As the fallout from President Trump’s global trade war spreads, investors are even fleeing U.S. Treasuries.",
+        "url": "https://www.nytimes.com/2025/04/09/business/economy/bonds-tariffs-safe-haven.html",
+        "uri": "nyt://article/a9253f74-d60d-5651-81c3-8fc28f936f07",
+        "byline": "By Colby Smith",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T09:48:05-04:00",
+        "created_date": "2025-04-09T09:48:05-04:00",
+        "published_date": "2025-04-09T09:48:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "Government Bonds",
+            "United States Economy",
+            "Credit and Debt"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-bonds-zkbq/09markets-tariffs-bonds-zkbq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "U.S. government bond markets have swung.",
+                "copyright": "Athit Perawongmetha/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-bonds-zkbq/09markets-tariffs-bonds-zkbq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "U.S. government bond markets have swung.",
+                "copyright": "Athit Perawongmetha/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-bonds-zkbq/09markets-tariffs-bonds-zkbq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "U.S. government bond markets have swung.",
+                "copyright": "Athit Perawongmetha/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
