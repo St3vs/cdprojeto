@@ -28326,5 +28326,191 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "music",
+        "title": "5 Songs by Rubby Pérez, the Merengue Singer Lost in the Roof Collapse",
+        "abstract": "The musician, 69, got his break in the 1980s and continued releasing albums through 2022.",
+        "url": "https://www.nytimes.com/2025/04/09/arts/music/rubby-perez-songs-dominican-republic-roof-collapse.html",
+        "uri": "nyt://article/53b36871-f5ef-529f-92b7-134998b96980",
+        "byline": "By Stephen Thomas Erlewine",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T16:51:10-04:00",
+        "created_date": "2025-04-09T16:51:10-04:00",
+        "published_date": "2025-04-09T16:51:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Latin Music",
+            "Content Type: Personal Profile"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Rubby Perez"
+        ],
+        "geo_facet": [
+            "Santo Domingo (Dominican Republic)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/arts/09cul-perez/09cul-perez-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1619,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rubby Pérez in 2012. The musician was onstage at the Jet Set nightclub in Santo Domingo, Dominican Republic, on Tuesday when the ceiling collapsed, killing at least 124.",
+                "copyright": "Frank Franklin II, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/arts/09cul-perez/09cul-perez-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rubby Pérez in 2012. The musician was onstage at the Jet Set nightclub in Santo Domingo, Dominican Republic, on Tuesday when the ceiling collapsed, killing at least 124.",
+                "copyright": "Frank Franklin II, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/arts/09cul-perez/09cul-perez-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rubby Pérez in 2012. The musician was onstage at the Jet Set nightclub in Santo Domingo, Dominican Republic, on Tuesday when the ceiling collapsed, killing at least 124.",
+                "copyright": "Frank Franklin II, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "One-Third of Maternal Deaths Occur Long After Delivery, Study Finds",
+        "abstract": "Pregnancy-related mortality has risen sharply, and doctors have overlooked a particularly dangerous period: from six weeks to one year after the birth.",
+        "url": "https://www.nytimes.com/2025/04/09/health/maternal-death-pandemic.html",
+        "uri": "nyt://article/156be500-edc1-58eb-beaf-7d758ade2473",
+        "byline": "By Roni Caryn Rabin",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T17:31:50-04:00",
+        "created_date": "2025-04-09T17:31:50-04:00",
+        "published_date": "2025-04-09T17:31:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "your-feed-science",
+            "Deaths (Fatalities)",
+            "Maternal Mortality",
+            "Research",
+            "Pregnancy and Childbirth",
+            "Heart",
+            "Babies and Infants"
+        ],
+        "org_facet": [
+            "JAMA Network Open"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/science/09hs-maternal-deaths/09hs-maternal-deaths-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The study was based on data from the C.D.C., which identified the risk of later maternal deaths — those that occur from six weeks to one year after the birth.",
+                "copyright": "Callaghan O'Hare/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/science/09hs-maternal-deaths/09hs-maternal-deaths-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The study was based on data from the C.D.C., which identified the risk of later maternal deaths — those that occur from six weeks to one year after the birth.",
+                "copyright": "Callaghan O'Hare/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/science/09hs-maternal-deaths/09hs-maternal-deaths-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The study was based on data from the C.D.C., which identified the risk of later maternal deaths — those that occur from six weeks to one year after the birth.",
+                "copyright": "Callaghan O'Hare/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "Amazon to Launch First Project Kuiper Internet Satellites: What to Know",
+        "abstract": "The spacecraft are the online giant’s entry into beaming wireless service from space, but the company has much to do before it can compete with SpaceX’s Starlink.",
+        "url": "https://www.nytimes.com/2025/04/09/science/amazon-kuiper-satellite-launch.html",
+        "uri": "nyt://article/ff980a92-1717-5885-93b7-f89cb8e43299",
+        "byline": "By Kenneth Chang and Karen Weise",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T17:04:00-04:00",
+        "created_date": "2025-04-09T17:04:00-04:00",
+        "published_date": "2025-04-09T17:04:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Satellites",
+            "Computers and the Internet",
+            "Space and Astronomy",
+            "Rocket Science and Propulsion"
+        ],
+        "org_facet": [
+            "Kuiper Systems (Amazon.com Inc)",
+            "Amazon.com Inc",
+            "United Launch Alliance"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Cape Canaveral (Fla)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09HS-kuiper-launch-01-jzwb/09HS-kuiper-launch-01-jzwb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "United Launch Alliance’s Atlas V booster being prepared for the Kuiper 1 mission at Cape Canaveral, Fla.",
+                "copyright": "United Launch Alliance"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09HS-kuiper-launch-01-jzwb/09HS-kuiper-launch-01-jzwb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "United Launch Alliance’s Atlas V booster being prepared for the Kuiper 1 mission at Cape Canaveral, Fla.",
+                "copyright": "United Launch Alliance"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09HS-kuiper-launch-01-jzwb/09HS-kuiper-launch-01-jzwb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "United Launch Alliance’s Atlas V booster being prepared for the Kuiper 1 mission at Cape Canaveral, Fla.",
+                "copyright": "United Launch Alliance"
+            }
+        ],
+        "short_url": ""
     }
 ]
