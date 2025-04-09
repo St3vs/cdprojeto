@@ -27352,5 +27352,329 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "In a Storm of Tariffs, Many Companies See China as the Safest Harbor",
+        "abstract": "The heavy U.S. tariffs on other Asian countries have made China a more appealing option for companies scared to make a hasty decision amid upheaval in global trade.",
+        "url": "https://www.nytimes.com/2025/04/09/business/trump-tariffs-china-factories.html",
+        "uri": "nyt://article/84f47e3a-2a4e-5a1d-ac8b-ac06609bff18",
+        "byline": "By Daisuke Wakabayashi",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T11:29:42-04:00",
+        "created_date": "2025-04-09T11:19:28-04:00",
+        "published_date": "2025-04-09T11:19:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Factories and Manufacturing"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "Far East, South and Southeast Asia and Pacific Areas",
+            "India",
+            "Japan",
+            "Thailand",
+            "Vietnam",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/CHINA-RECOUPLING-10-zfjl/CHINA-RECOUPLING-10-zfjl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Making restaurant appliances and cookware at a small factory in Guangzhou, China, on Wednesday.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/CHINA-RECOUPLING-10-zfjl/CHINA-RECOUPLING-10-zfjl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Making restaurant appliances and cookware at a small factory in Guangzhou, China, on Wednesday.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/CHINA-RECOUPLING-10-zfjl/CHINA-RECOUPLING-10-zfjl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Making restaurant appliances and cookware at a small factory in Guangzhou, China, on Wednesday.",
+                "copyright": "Qilai Shen for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "The Trump Envoy Who Got Close to the ‘World’s Coolest Dictator’",
+        "abstract": "U.S. officials said Ronald Johnson’s actions during his time as ambassador to El Salvador seemed less aligned with U.S. interests and more focused on protecting the country’s president.",
+        "url": "https://www.nytimes.com/2025/04/09/world/americas/ronald-johnson-ambassador-el-salvador.html",
+        "uri": "nyt://article/7d2aed51-6a31-59f2-a6bb-2d9b36259de6",
+        "byline": "By Maria Abi-Habib",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T12:11:33-04:00",
+        "created_date": "2025-04-09T11:54:52-04:00",
+        "published_date": "2025-04-09T11:54:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Gangs"
+        ],
+        "org_facet": [
+            "El Faro",
+            "Mara Salvatrucha (MS-13)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Bukele, Nayib"
+        ],
+        "geo_facet": [
+            "El Salvador",
+            "Mexico",
+            "Latin America"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-Mexico-Ambassador-gwvm/08int-Mexico-Ambassador-gwvm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ronald Johnson, President Trump’s nominee to be ambassador to Mexico, during a Senate confirmation hearing last month.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-Mexico-Ambassador-gwvm/08int-Mexico-Ambassador-gwvm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ronald Johnson, President Trump’s nominee to be ambassador to Mexico, during a Senate confirmation hearing last month.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-Mexico-Ambassador-gwvm/08int-Mexico-Ambassador-gwvm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ronald Johnson, President Trump’s nominee to be ambassador to Mexico, during a Senate confirmation hearing last month.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Trump Has Targeted These Universities. Why?",
+        "abstract": "President Trump has set his sights on defunding colleges, singling out some of the world’s wealthiest schools in what critics say is an attack on academic freedom.",
+        "url": "https://www.nytimes.com/article/trump-university-college.html",
+        "uri": "nyt://article/0444c499-7f19-51a8-a7fa-34dd67687890",
+        "byline": "By Alan Blinder",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T11:54:59-04:00",
+        "created_date": "2025-04-09T11:54:59-04:00",
+        "published_date": "2025-04-09T11:54:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Education",
+            "Colleges and Universities",
+            "United States Politics and Government",
+            "Federal Aid (US)"
+        ],
+        "org_facet": [
+            "Princeton University",
+            "Harvard University",
+            "Columbia University",
+            "University of Pennsylvania",
+            "Brown University",
+            "Cornell University"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00nat-university-explainer-tczm/00nat-university-explainer-tczm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Princeton is one of seven prominent universities that have been singled out by the Trump administration for funding cuts.",
+                "copyright": "Hannah Beier for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00nat-university-explainer-tczm/00nat-university-explainer-tczm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Princeton is one of seven prominent universities that have been singled out by the Trump administration for funding cuts.",
+                "copyright": "Hannah Beier for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00nat-university-explainer-tczm/00nat-university-explainer-tczm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Princeton is one of seven prominent universities that have been singled out by the Trump administration for funding cuts.",
+                "copyright": "Hannah Beier for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Police Commissioner, Heiress and Maybe a Future New York City Mayor",
+        "abstract": "“I don’t see it,” Jessica Tisch says. It is already a complicated life overhauling the Police Department, working for Eric Adams and keeping the Trump administration at bay.",
+        "url": "https://www.nytimes.com/2025/04/09/nyregion/jessica-tisch.html",
+        "uri": "nyt://article/e543a3ed-6a9a-5401-885c-cc1cf9195a54",
+        "byline": "By Elisabeth Bumiller and Maria Cramer",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T11:02:56-04:00",
+        "created_date": "2025-04-09T03:00:19-04:00",
+        "published_date": "2025-04-09T03:00:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Content Type: Personal Profile"
+        ],
+        "org_facet": [
+            "Police Department (NYC)",
+            "Sanitation Department (NYC)"
+        ],
+        "per_facet": [
+            "Tisch, Jessica (1981- )",
+            "Adams, Eric L"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00met-tisch-01-mktb/00met-tisch-01-mktb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jessica Tisch, a scion of one of New York’s wealthiest families, has dedicated her career to the city. ",
+                "copyright": "Victoria Will for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00met-tisch-01-mktb/00met-tisch-01-mktb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jessica Tisch, a scion of one of New York’s wealthiest families, has dedicated her career to the city. ",
+                "copyright": "Victoria Will for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00met-tisch-01-mktb/00met-tisch-01-mktb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jessica Tisch, a scion of one of New York’s wealthiest families, has dedicated her career to the city. ",
+                "copyright": "Victoria Will for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The Strange Case of an Hermès Heir, an Emir and a Deal Gone Wrong",
+        "abstract": "Nicolas Puech agreed to sell his multibillion-dollar stake in his family’s luxury goods empire to the royal family of Qatar, but then said he couldn’t gain access to his shares.",
+        "url": "https://www.nytimes.com/2025/04/09/world/europe/hermes-qatar-puech-deal.html",
+        "uri": "nyt://article/0f61df03-f877-5ae1-ae6d-829b1856d291",
+        "byline": "By Ephrat Livni",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T12:04:31-04:00",
+        "created_date": "2025-04-09T05:02:13-04:00",
+        "published_date": "2025-04-09T05:02:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Luxury Goods and Services",
+            "Fashion and Apparel",
+            "Suits and Litigation (Civil)",
+            "Royal Families"
+        ],
+        "org_facet": [
+            "Hermes International SA",
+            "LVMH Moet Hennessy Louis Vuitton SA"
+        ],
+        "per_facet": [
+            "Thani, Tamim bin Hamad al-",
+            "Arnault, Bernard"
+        ],
+        "geo_facet": [
+            "Switzerland",
+            "Qatar"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09hermes-add-mvzt/09hermes-add-mvzt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1358,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nicolas Puech at his hacienda in Aracena, Spain, in 2011.",
+                "copyright": "Bernard Bisson/JDD, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09hermes-add-mvzt/09hermes-add-mvzt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nicolas Puech at his hacienda in Aracena, Spain, in 2011.",
+                "copyright": "Bernard Bisson/JDD, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09hermes-add-mvzt/09hermes-add-mvzt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nicolas Puech at his hacienda in Aracena, Spain, in 2011.",
+                "copyright": "Bernard Bisson/JDD, via Shutterstock"
+            }
+        ],
+        "short_url": ""
     }
 ]
