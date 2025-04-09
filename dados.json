@@ -26604,5 +26604,191 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "China Dismisses Ukraine’s Assertion That ‘Many’ Chinese Are Fighting for Russia",
+        "abstract": "President Volodymyr Zelensky of Ukraine said that two Chinese men fighting alongside Russian troops had been captured and that there were “many more” on the battlefield.",
+        "url": "https://www.nytimes.com/2025/04/09/world/asia/china-ukraine-russia.html",
+        "uri": "nyt://article/4a353edc-07ce-51b0-ba78-fe6b02f7e9f9",
+        "byline": "By Berry Wang and Cassandra Vinograd",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T06:22:12-04:00",
+        "created_date": "2025-04-09T06:22:12-04:00",
+        "published_date": "2025-04-09T06:22:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Mercenaries and Private Military Contractors"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Xi Jinping",
+            "Zelensky, Volodymyr",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-china-ukraine-gmpl/09int-china-ukraine-gmpl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1372,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lin Jian, a spokesman for China’s foreign ministry, said on Wednesday that Beijing was “verifying the relevant situation” about the two Chinese men captured fighting alongside Russian troops.",
+                "copyright": "Jessica Lee/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-china-ukraine-gmpl/09int-china-ukraine-gmpl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lin Jian, a spokesman for China’s foreign ministry, said on Wednesday that Beijing was “verifying the relevant situation” about the two Chinese men captured fighting alongside Russian troops.",
+                "copyright": "Jessica Lee/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-china-ukraine-gmpl/09int-china-ukraine-gmpl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lin Jian, a spokesman for China’s foreign ministry, said on Wednesday that Beijing was “verifying the relevant situation” about the two Chinese men captured fighting alongside Russian troops.",
+                "copyright": "Jessica Lee/EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "What Rights Do Migrants Have?",
+        "abstract": "Plus, we cover the arrival of Trump’s tariffs.",
+        "url": "https://www.nytimes.com/2025/04/09/briefing/immigration-due-process-donald-trump.html",
+        "uri": "nyt://article/1c8f1a01-8ad6-5f86-a0ad-eba22f115812",
+        "byline": "By German Lopez",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T06:49:41-04:00",
+        "created_date": "2025-04-09T06:49:41-04:00",
+        "published_date": "2025-04-09T06:49:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "internal-storyline-no",
+            "Deportation",
+            "Illegal Immigration"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09themorning-nl-LEAD-vpkh/09themorning-nl-LEAD-vpkh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1450,
+                "width": 1450,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In Maiquetía, Venezuela. ",
+                "copyright": "Cristian Hernandez/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09themorning-nl-LEAD-vpkh/09themorning-nl-LEAD-vpkh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In Maiquetía, Venezuela. ",
+                "copyright": "Cristian Hernandez/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09themorning-nl-LEAD-vpkh/09themorning-nl-LEAD-vpkh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In Maiquetía, Venezuela. ",
+                "copyright": "Cristian Hernandez/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "Late Night Frantically Tries to Keep Up With the Tariffs",
+        "abstract": "“I’d say he’s like a bull in a china shop, but at 104 percent, I can’t afford to say that,” Desi Lydic said of President Trump on “The Daily Show.”",
+        "url": "https://www.nytimes.com/2025/04/09/arts/television/desi-lydic-trump-tariffs-china.html",
+        "uri": "nyt://article/0e4ac596-e34f-55e4-953e-df6be3452a96",
+        "byline": "By Trish Bendix",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T02:40:46-04:00",
+        "created_date": "2025-04-09T02:40:46-04:00",
+        "published_date": "2025-04-09T02:40:46-04:00",
+        "material_type_facet": "",
+        "kicker": "Best of Late Night",
+        "des_facet": [
+            "Television",
+            "Jimmy Kimmel Live (TV Program)",
+            "The Tonight Show (TV Program)",
+            "Late Show with Stephen Colbert (TV Program)",
+            "Late Night with Seth Meyers (TV Program)",
+            "The Daily Show with Trevor Noah (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kimmel, Jimmy",
+            "Fallon, Jimmy",
+            "Colbert, Stephen",
+            "Meyers, Seth",
+            "Lydic, Desi (1981- )"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/arts/09latenight/09latenight-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1022,
+                "width": 1813,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Desi Lydic said President Trump’s tariffs were getting serious: “We’ll know exactly how serious once we ask China to do the math for us.”",
+                "copyright": "Comedy Central"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/arts/09latenight/09latenight-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Desi Lydic said President Trump’s tariffs were getting serious: “We’ll know exactly how serious once we ask China to do the math for us.”",
+                "copyright": "Comedy Central"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/arts/09latenight/09latenight-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Desi Lydic said President Trump’s tariffs were getting serious: “We’ll know exactly how serious once we ask China to do the math for us.”",
+                "copyright": "Comedy Central"
+            }
+        ],
+        "short_url": ""
     }
 ]
