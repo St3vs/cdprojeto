@@ -25866,5 +25866,743 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "For U.S. and China, a Risky Game of Chicken With No Off-Ramp in Sight",
+        "abstract": "Neither side wants to look weak by backing down on tariffs. But if their trade relationship collapses, the global consequences could be profound.",
+        "url": "https://www.nytimes.com/2025/04/09/world/asia/china-us-tariff-trade.html",
+        "uri": "nyt://article/ef66f17d-afd0-5188-a4e4-1bf5a088a9f1",
+        "byline": "By David Pierson and Berry Wang",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T06:03:33-04:00",
+        "created_date": "2025-04-09T05:56:11-04:00",
+        "published_date": "2025-04-09T05:56:11-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Relations",
+            "United States International Relations",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "Communist Party of China",
+            "Politburo Standing Committee of the Communist Party of China"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-china-diplo-hvlb/09int-china-diplo-hvlb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A small factory in Guangzhou, China, that makes restaurant appliances. The Trump administration’s tariffs will ravage export-oriented companies along China’s eastern seaboard.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-china-diplo-hvlb/09int-china-diplo-hvlb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A small factory in Guangzhou, China, that makes restaurant appliances. The Trump administration’s tariffs will ravage export-oriented companies along China’s eastern seaboard.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-china-diplo-hvlb/09int-china-diplo-hvlb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A small factory in Guangzhou, China, that makes restaurant appliances. The Trump administration’s tariffs will ravage export-oriented companies along China’s eastern seaboard.",
+                "copyright": "Qilai Shen for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "‘Totally Silly.’ Trump’s Focus on Trade Deficit Bewilders Economists.",
+        "abstract": "Behind Trump’s new tariffs is a goal that is as ambitious as it is unrealistic: eliminating the bilateral trade deficit with every U.S. trading partner.",
+        "url": "https://www.nytimes.com/2025/04/09/business/economy/trump-trade-deficit-tariffs-economist-doubts.html",
+        "uri": "nyt://article/999bc410-32d9-5d93-abcc-f61b5d1abc51",
+        "byline": "By Ana Swanson",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T02:15:23-04:00",
+        "created_date": "2025-04-09T00:01:05-04:00",
+        "published_date": "2025-04-09T00:01:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Protectionism (Trade)",
+            "Customs (Tariff)",
+            "Economic Conditions and Trends"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04dc-trade-deficit-qwkg/04dc-trade-deficit-qwkg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The formula that the White House has devised for imposing tariffs means that, until U.S. imports from and exports to each country balance out, those nations will face additional levies.",
+                "copyright": "Scott McIntyre for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04dc-trade-deficit-qwkg/04dc-trade-deficit-qwkg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The formula that the White House has devised for imposing tariffs means that, until U.S. imports from and exports to each country balance out, those nations will face additional levies.",
+                "copyright": "Scott McIntyre for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04dc-trade-deficit-qwkg/04dc-trade-deficit-qwkg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The formula that the White House has devised for imposing tariffs means that, until U.S. imports from and exports to each country balance out, those nations will face additional levies.",
+                "copyright": "Scott McIntyre for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "podcasts",
+        "subsection": "the-headlines",
+        "title": "A Game of Chicken With China, and How Much Plastic Is in the Human Brain",
+        "abstract": "Plus, the theme park wars heat up.",
+        "url": "https://www.nytimes.com/2025/04/09/podcasts/the-headlines/china-tariff-plastics-brain-epic-universe.html",
+        "uri": "nyt://article/bb28b628-bc4b-508f-952d-9c47e898342e",
+        "byline": "By Tracy Mumford, Will Jarvis, Ian Stewart, Jessica Metzger, Alexandra Stevenson, Adam Liptak and Nina Agrawal",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T06:02:16-04:00",
+        "created_date": "2025-04-09T06:00:55-04:00",
+        "published_date": "2025-04-09T06:00:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "United States Politics and Government",
+            "Amusement and Theme Parks",
+            "Brain",
+            "Plastics"
+        ],
+        "org_facet": [
+            "Internal Revenue Service",
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-headlines-hbmp/09markets-tariffs-headlines-hbmp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Making restaurant appliances and cookware at a factory in Guangzhou, China, on Wednesday. President Trump’s latest move effectively raised import taxes on Chinese goods to more than 100 percent.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-headlines-hbmp/09markets-tariffs-headlines-hbmp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Making restaurant appliances and cookware at a factory in Guangzhou, China, on Wednesday. President Trump’s latest move effectively raised import taxes on Chinese goods to more than 100 percent.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-headlines-hbmp/09markets-tariffs-headlines-hbmp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Making restaurant appliances and cookware at a factory in Guangzhou, China, on Wednesday. President Trump’s latest move effectively raised import taxes on Chinese goods to more than 100 percent.",
+                "copyright": "Qilai Shen for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "NOAA Staffing Cuts Threaten Years of Salmon Harvests",
+        "abstract": "In Washington, where salmon is a multibillion dollar industry, government staff terminations and budget freezes may put salmon production at risk.",
+        "url": "https://www.nytimes.com/2025/04/09/climate/noaa-doge-cuts-salmon.html",
+        "uri": "nyt://article/ab95f6af-0580-5c1d-81c2-7151c38e0850",
+        "byline": "By Austyn Gaffney",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T05:01:13-04:00",
+        "created_date": "2025-04-09T05:01:13-04:00",
+        "published_date": "2025-04-09T05:01:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Fish and Other Marine Life",
+            "Endangered and Extinct Species",
+            "Layoffs and Job Reductions",
+            "Fishing, Commercial",
+            "Fish Farming"
+        ],
+        "org_facet": [
+            "Government Efficiency Department (US)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Puget Sound"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/00cli-NOAA-salmon-jhpb/00cli-NOAA-salmon-jhpb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Salmon caught on the opening day of the spring Chinook salmon run in Washougal, Wash., in 2020.",
+                "copyright": "Grant Hindsley for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/00cli-NOAA-salmon-jhpb/00cli-NOAA-salmon-jhpb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Salmon caught on the opening day of the spring Chinook salmon run in Washougal, Wash., in 2020.",
+                "copyright": "Grant Hindsley for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/00cli-NOAA-salmon-jhpb/00cli-NOAA-salmon-jhpb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Salmon caught on the opening day of the spring Chinook salmon run in Washougal, Wash., in 2020.",
+                "copyright": "Grant Hindsley for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "In Washington, a Rural County Sheriff Fights His State’s Immigration Law",
+        "abstract": "Sheriff Dale Wagner of Adams County sees his department as David fighting Goliath. But he has the support of some of President Trump’s most influential allies.",
+        "url": "https://www.nytimes.com/2025/04/09/us/washington-immigration-law.html",
+        "uri": "nyt://article/89c25f9d-b303-55fd-9099-af29c9bcd7bf",
+        "byline": "By Jazmine Ulloa and Jordan Gale",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T05:01:09-04:00",
+        "created_date": "2025-04-09T05:01:09-04:00",
+        "published_date": "2025-04-09T05:01:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Sheriffs",
+            "Illegal Immigration",
+            "Immigration and Emigration",
+            "Attorneys General",
+            "Immigration Detention",
+            "Presidential Election of 2024"
+        ],
+        "org_facet": [
+            "Customs and Border Protection (US)",
+            "House Committee on the Judiciary"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Washington (State)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09NAT-IMMIG-SHERIFF-promo-qflw/09NAT-IMMIG-SHERIFF-promo-qflw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1639,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dale Wagner, sheriff of Adams County, Wash.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09NAT-IMMIG-SHERIFF-promo-qflw/09NAT-IMMIG-SHERIFF-promo-qflw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dale Wagner, sheriff of Adams County, Wash.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09NAT-IMMIG-SHERIFF-promo-qflw/09NAT-IMMIG-SHERIFF-promo-qflw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dale Wagner, sheriff of Adams County, Wash.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "‘Where’s Alex?’ A Beloved Caregiver Is Swept Up in Trump’s Green Card Crackdown",
+        "abstract": "An autistic young man loses his caretaker as the Trump administration’s immigration crackdown expands to permanent U.S. residents convicted of minor crimes years ago.",
+        "url": "https://www.nytimes.com/2025/04/09/us/immigration-green-card-crackdown-trump.html",
+        "uri": "nyt://article/a3f303b5-1c9b-5192-a013-421df76b95fa",
+        "byline": "By Miriam Jordan and Caroline Gutman",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T05:01:59-04:00",
+        "created_date": "2025-04-09T05:01:59-04:00",
+        "published_date": "2025-04-09T05:01:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Illegal Immigration",
+            "Immigration and Emigration",
+            "Immigration Detention",
+            "Green Cards (US)"
+        ],
+        "org_facet": [
+            "Homeland Security Department",
+            "Immigration and Customs Enforcement (US)"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00nat-immig-greencardholders-top-vmzp/00nat-immig-greencardholders-top-vmzp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1536,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "John and Lena Ferris with their son Luke, center, in Falls Church, Va. ",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00nat-immig-greencardholders-top-vmzp/00nat-immig-greencardholders-top-vmzp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "John and Lena Ferris with their son Luke, center, in Falls Church, Va. ",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00nat-immig-greencardholders-top-vmzp/00nat-immig-greencardholders-top-vmzp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "John and Lena Ferris with their son Luke, center, in Falls Church, Va. ",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "What Rights Do Immigrants Have?",
+        "abstract": "The expansion of immigration enforcement actions by the Trump administration has thrown the status of some rights into question. See what is unchanged, what is expanded and what is in dispute.",
+        "url": "https://www.nytimes.com/interactive/2025/04/09/us/immigrant-rights-deportation.html",
+        "uri": "nyt://interactive/9db2e6e1-1e59-51c7-a15a-a95837fd9a62",
+        "byline": "By Albert Sun and Miriam Jordan",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-09T05:01:45-04:00",
+        "created_date": "2025-04-09T05:01:45-04:00",
+        "published_date": "2025-04-09T05:01:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-03-25-immigrants-legal-rights-index/2025-03-25-immigrants-legal-rights-index-superJumbo-v10.png",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-03-25-immigrants-legal-rights-index/2025-03-25-immigrants-legal-rights-index-threeByTwoSmallAt2X-v11.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-03-25-immigrants-legal-rights-index/2025-03-25-immigrants-legal-rights-index-thumbLarge-v10.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "well",
+        "subsection": "eat",
+        "title": "The More Protein, the Better?",
+        "abstract": "It’s a common refrain on social media. We fact-checked this and five other big protein claims circulating online.",
+        "url": "https://www.nytimes.com/2025/04/09/well/eat/protein-fact-check.html",
+        "uri": "nyt://article/c2882fb5-efd8-55a3-b06c-ce1e0d1584ed",
+        "byline": "By Alice Callahan",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T05:37:58-04:00",
+        "created_date": "2025-04-09T05:00:13-04:00",
+        "published_date": "2025-04-09T05:00:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Proteins",
+            "Diet and Nutrition",
+            "Social Media",
+            "Research",
+            "Muscles",
+            "Elderly"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/well/10WELL-PROTEIN-NEEDS-image/10WELL-PROTEIN-NEEDS-image-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Morgane Fadanelli"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/well/10WELL-PROTEIN-NEEDS-image/10WELL-PROTEIN-NEEDS-image-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Morgane Fadanelli"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/well/10WELL-PROTEIN-NEEDS-image/10WELL-PROTEIN-NEEDS-image-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Morgane Fadanelli"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Americans Are Preparing for When All Hell Breaks Loose",
+        "abstract": "Once thought of as a fringe mind-set, the prepared citizen movement is gaining traction in a world shaped by war, the pandemic and extreme weather.",
+        "url": "https://www.nytimes.com/2025/04/09/us/prepared-citizens-guns.html",
+        "uri": "nyt://article/33132b68-d413-5edc-8ebb-cc0bb60a2053",
+        "byline": "By Thomas Gibbons-Neff",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T05:00:50-04:00",
+        "created_date": "2025-04-09T05:00:50-04:00",
+        "published_date": "2025-04-09T05:00:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Firearms",
+            "Disasters and Emergencies",
+            "Fringe Groups and Movements",
+            "Organizations, Societies and Clubs",
+            "Demonstrations, Protests and Riots",
+            "United States Defense and Military Forces",
+            "Right-Wing Extremism and Alt-Right"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Leesburg (Fla)",
+            "Florida"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00nat-prepared-citizens-01-gcjp/00nat-prepared-citizens-01-gcjp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1638,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Christopher Eric Roscher, an Air Force veteran, teaches a course called Full Contender Minuteman in Leesburg, Fla.",
+                "copyright": "Zack Wittman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00nat-prepared-citizens-01-gcjp/00nat-prepared-citizens-01-gcjp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Christopher Eric Roscher, an Air Force veteran, teaches a course called Full Contender Minuteman in Leesburg, Fla.",
+                "copyright": "Zack Wittman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00nat-prepared-citizens-01-gcjp/00nat-prepared-citizens-01-gcjp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Christopher Eric Roscher, an Air Force veteran, teaches a course called Full Contender Minuteman in Leesburg, Fla.",
+                "copyright": "Zack Wittman for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Islamic State Regains Strength in Syria",
+        "abstract": "The U.S. has sent more forces to Syria, tamping down on the immediate threat, but experts warn that the extremist group could break thousands of hardened fighters out of prison.",
+        "url": "https://www.nytimes.com/2025/04/09/world/middleeast/syria-isis-prisoners.html",
+        "uri": "nyt://article/ce439044-9d69-5530-8c66-b93ee5bddb00",
+        "byline": "By Alissa J. Rubin and Eric Schmitt",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T05:51:27-04:00",
+        "created_date": "2025-04-09T05:11:32-04:00",
+        "published_date": "2025-04-09T05:11:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Terrorism",
+            "Kurds",
+            "United States Defense and Military Forces"
+        ],
+        "org_facet": [
+            "Islamic State in Iraq and Syria (ISIS)",
+            "Syrian Democratic Forces"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Syria",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00int-isis-syria-01-bplk/00int-isis-syria-01-bplk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Men accused of being Islamic State fighters last month in a cell Al-Sina Prison, run by the Syrian Democratic Forces, in Hasaka, Syria.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00int-isis-syria-01-bplk/00int-isis-syria-01-bplk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Men accused of being Islamic State fighters last month in a cell Al-Sina Prison, run by the Syrian Democratic Forces, in Hasaka, Syria.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00int-isis-syria-01-bplk/00int-isis-syria-01-bplk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Men accused of being Islamic State fighters last month in a cell Al-Sina Prison, run by the Syrian Democratic Forces, in Hasaka, Syria.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Can Hobby Lobby, With Its Conservative Principles, Win Over New York?",
+        "abstract": "The crafts retailer, whose owners are vocal about their evangelical belief, is coming to TriBeCa in Manhattan. Not everyone is pleased.",
+        "url": "https://www.nytimes.com/2025/04/09/business/hobby-lobby-nyc-store.html",
+        "uri": "nyt://article/f1c375b7-0360-5940-b051-6782ee2e40c8",
+        "byline": "By Jane Margolies",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T05:00:39-04:00",
+        "created_date": "2025-04-09T05:00:39-04:00",
+        "published_date": "2025-04-09T05:00:39-04:00",
+        "material_type_facet": "",
+        "kicker": "square feet",
+        "des_facet": [
+            "Religion-State Relations",
+            "Hobbies",
+            "Real Estate (Commercial)",
+            "Conservatism (US Politics)",
+            "Renting and Leasing (Real Estate)",
+            "Shopping and Retail"
+        ],
+        "org_facet": [
+            "Hobby Lobby Stores Inc"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00biz-HOBBYLOBBY-lede-pgcf/00biz-HOBBYLOBBY-lede-pgcf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Currently under construction, Hobby Lobby’s Manhattan store is in a large retail space that previously housed Bed Bath & Beyond and Barnes & Noble.",
+                "copyright": "Oliver Farshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00biz-HOBBYLOBBY-lede-pgcf/00biz-HOBBYLOBBY-lede-pgcf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Currently under construction, Hobby Lobby’s Manhattan store is in a large retail space that previously housed Bed Bath & Beyond and Barnes & Noble.",
+                "copyright": "Oliver Farshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00biz-HOBBYLOBBY-lede-pgcf/00biz-HOBBYLOBBY-lede-pgcf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Currently under construction, Hobby Lobby’s Manhattan store is in a large retail space that previously housed Bed Bath & Beyond and Barnes & Noble.",
+                "copyright": "Oliver Farshi for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "A Teachers’ Union Is Spending Millions to Elect Its Boss Governor",
+        "abstract": "The candidate, Sean Spiller, is president of the union, the New Jersey Education Association. A related PAC is prepared to spend $35 million on his election.",
+        "url": "https://www.nytimes.com/2025/04/09/nyregion/sean-spiller-new-jersey-race-for-governor.html",
+        "uri": "nyt://article/e4d729c3-48da-5bbf-8913-fd3fd979ece1",
+        "byline": "By Tracey Tully",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T03:00:18-04:00",
+        "created_date": "2025-04-09T03:00:18-04:00",
+        "published_date": "2025-04-09T03:00:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections, Governors"
+        ],
+        "org_facet": [
+            "New Jersey Education Assn"
+        ],
+        "per_facet": [
+            "Spiller, Sean M"
+        ],
+        "geo_facet": [
+            "New Jersey"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09met-nj-teachers-union-01-mzqg/09met-nj-teachers-union-01-mzqg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "With an enormous financial boost from the state’s largest teachers’ union, Sean Spiller has been able to stand out in a crowded field of Democrats running for governor of New Jersey.",
+                "copyright": "Bryan Anselm for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09met-nj-teachers-union-01-mzqg/09met-nj-teachers-union-01-mzqg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "With an enormous financial boost from the state’s largest teachers’ union, Sean Spiller has been able to stand out in a crowded field of Democrats running for governor of New Jersey.",
+                "copyright": "Bryan Anselm for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09met-nj-teachers-union-01-mzqg/09met-nj-teachers-union-01-mzqg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "With an enormous financial boost from the state’s largest teachers’ union, Sean Spiller has been able to stand out in a crowded field of Democrats running for governor of New Jersey.",
+                "copyright": "Bryan Anselm for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
