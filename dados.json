@@ -27676,5 +27676,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "He Served 36 Years for His Wife’s Murder and Then Forgave the Man Who Confessed",
+        "abstract": "Leo Schofield maintained his innocence all along in his wife’s 1987 murder. For “Bone Valley,” a podcast about the case, he connected with the man who said he did it.",
+        "url": "https://www.nytimes.com/2025/04/09/us/bone-valley-leo-schofield.html",
+        "uri": "nyt://article/7aeb9c14-dc8e-5e3d-aa23-023829ca1f2e",
+        "byline": "By Remy Tumin",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T11:04:02-04:00",
+        "created_date": "2025-04-09T05:01:29-04:00",
+        "published_date": "2025-04-09T05:01:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Bone Valley (Radio Program)",
+            "Podcasts",
+            "False Arrests, Convictions and Imprisonments",
+            "Murders, Attempted Murders and Homicides",
+            "Probation and Parole"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Schofield, Leo",
+            "King, Gilbert",
+            "Scott, Jeremy Lynn (1969- )"
+        ],
+        "geo_facet": [
+            "Lakeland (Fla)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09xp-schofield-portrait-01-bglv/09xp-schofield-portrait-01-bglv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1639,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Leo Schofield served 36 years in prison before he was paroled in 2023, eight years after another man, Jeremy Scott, first confessed to the crime that put Mr. Schofield away.",
+                "copyright": "Zack Wittman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09xp-schofield-portrait-01-bglv/09xp-schofield-portrait-01-bglv-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Leo Schofield served 36 years in prison before he was paroled in 2023, eight years after another man, Jeremy Scott, first confessed to the crime that put Mr. Schofield away.",
+                "copyright": "Zack Wittman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09xp-schofield-portrait-01-bglv/09xp-schofield-portrait-01-bglv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Leo Schofield served 36 years in prison before he was paroled in 2023, eight years after another man, Jeremy Scott, first confessed to the crime that put Mr. Schofield away.",
+                "copyright": "Zack Wittman for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
