@@ -25401,5 +25401,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Another Rocky Day in Markets: Stocks in Asia Sink",
+        "abstract": "With the S&P 500 nearing a bear market, shares in Asia decline as China and other major U.S. trading partners await the start of significantly higher tariffs.",
+        "url": "https://www.nytimes.com/2025/04/08/business/trump-tariffs-stock-markets.html",
+        "uri": "nyt://article/240d74df-7f03-5139-83f0-161845e3b44d",
+        "byline": "By Joe Rennison and River Akira Davis",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T22:45:51-04:00",
+        "created_date": "2025-04-08T22:33:37-04:00",
+        "published_date": "2025-04-08T22:33:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Standard & Poor's 500-Stock Index",
+            "Stocks and Bonds",
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Standard & Poor's Corp"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "United States",
+            "Japan",
+            "South Korea",
+            "Far East, South and Southeast Asia and Pacific Areas"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-04-02-world-stock-markets-inauguration-index/2025-04-02-world-stock-markets-inauguration-index-superJumbo-v9.png",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-04-02-world-stock-markets-inauguration-index/2025-04-02-world-stock-markets-inauguration-index-threeByTwoSmallAt2X-v12.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-04-02-world-stock-markets-inauguration-index/2025-04-02-world-stock-markets-inauguration-index-thumbLarge-v9.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
     }
 ]
