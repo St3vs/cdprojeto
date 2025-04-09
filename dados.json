@@ -25595,5 +25595,135 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Adams Administration Will Give ICE Space to Operate on Rikers Island",
+        "abstract": "An executive order says federal immigration agents would work with city officials on criminal investigations only. Critics say the move opens the door for wrongdoing.",
+        "url": "https://www.nytimes.com/2025/04/09/nyregion/adams-ice-rikers-island.html",
+        "uri": "nyt://article/25f84371-d15c-552a-9ae1-f867c59e1f48",
+        "byline": "By Hurubie Meko",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T00:10:52-04:00",
+        "created_date": "2025-04-09T00:08:23-04:00",
+        "published_date": "2025-04-09T00:08:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "United States Politics and Government",
+            "Eric Adams Federal Corruption Case (24 CR 556)",
+            "Illegal Immigration",
+            "Executive Orders and Memorandums"
+        ],
+        "org_facet": [
+            "Immigration and Customs Enforcement (US)",
+            "Rikers Island Prison Complex"
+        ],
+        "per_facet": [
+            "Adams, Eric L",
+            "Awawdeh, Murad",
+            "Homan, Thomas D",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2024/11/28/multimedia/08met-rikers-ice-top/28ny-rikers-explainer-01-pzfk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rikers Island holds about 7,000 people, a concentration that could provide a rich target for the immigration authorities.",
+                "copyright": "Todd Heisler/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/11/28/multimedia/08met-rikers-ice-top/28ny-rikers-explainer-01-pzfk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rikers Island holds about 7,000 people, a concentration that could provide a rich target for the immigration authorities.",
+                "copyright": "Todd Heisler/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/11/28/multimedia/08met-rikers-ice-top/28ny-rikers-explainer-01-pzfk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rikers Island holds about 7,000 people, a concentration that could provide a rich target for the immigration authorities.",
+                "copyright": "Todd Heisler/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "What Special Relationship?",
+        "abstract": "Despite Winston Churchill’s coining of the phrase “special relationship,” the history of relations between the two nations shows it’s not so special.",
+        "url": "https://www.nytimes.com/2025/04/09/opinion/us-uk-special-relationship.html",
+        "uri": "nyt://article/73eef249-8640-5494-b1e2-52a89c156a8a",
+        "byline": "By Geoffrey Wheatcroft",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T01:01:35-04:00",
+        "created_date": "2025-04-09T01:00:06-04:00",
+        "published_date": "2025-04-09T01:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "International Relations",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Acheson, Dean",
+            "Blair, Tony",
+            "Bush, George W",
+            "Churchill, Winston Leonard Spencer"
+        ],
+        "geo_facet": [
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/opinion/09wheatcroft/09wheatcroft-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Alex Gamsu Jenkins"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/opinion/09wheatcroft/09wheatcroft-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Alex Gamsu Jenkins"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/opinion/09wheatcroft/09wheatcroft-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Alex Gamsu Jenkins"
+            }
+        ],
+        "short_url": ""
     }
 ]
