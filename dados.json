@@ -27740,5 +27740,135 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Trump Administration Cuts Research Funding, Claiming It Creates ‘Climate Anxiety’",
+        "abstract": "The cuts to a Princeton University program come as the Trump administration has been reviewing an array of research grants related to global warming.",
+        "url": "https://www.nytimes.com/2025/04/09/climate/trump-noaa-princeton-climate-research.html",
+        "uri": "nyt://article/754f29fd-db15-5fad-9987-4ce86865f1b0",
+        "byline": "By Brad Plumer and Austyn Gaffney",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T13:38:22-04:00",
+        "created_date": "2025-04-09T12:48:11-04:00",
+        "published_date": "2025-04-09T12:48:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "United States Politics and Government",
+            "Research",
+            "Federal Aid (US)"
+        ],
+        "org_facet": [
+            "National Oceanic and Atmospheric Administration",
+            "Princeton University",
+            "Columbia University",
+            "Commerce Department"
+        ],
+        "per_facet": [
+            "Manabe, Syukuro"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09cli-princeton-zpfq/09cli-princeton-zpfq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The cuts included funding for a collaborative program between NOAA and Princeton University. One of the program’s meteorologists, Syukuro Manabe, won the Nobel Prize in Physics in 2021.",
+                "copyright": "Mark Makela/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09cli-princeton-zpfq/09cli-princeton-zpfq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The cuts included funding for a collaborative program between NOAA and Princeton University. One of the program’s meteorologists, Syukuro Manabe, won the Nobel Prize in Physics in 2021.",
+                "copyright": "Mark Makela/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09cli-princeton-zpfq/09cli-princeton-zpfq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The cuts included funding for a collaborative program between NOAA and Princeton University. One of the program’s meteorologists, Syukuro Manabe, won the Nobel Prize in Physics in 2021.",
+                "copyright": "Mark Makela/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "Pilot Sues Influencer on X in Latest Test of Defamation Law",
+        "abstract": "Jo Ellis, a National Guard pilot, is suing an influencer who falsely identified her as the captain of a helicopter that collided with a passenger plane in January.",
+        "url": "https://www.nytimes.com/2025/04/09/technology/pilot-lawsuit-jo-ellis-matt-wallace.html",
+        "uri": "nyt://article/4f691cbd-2575-5b27-a437-db7e04352ea4",
+        "byline": "By Stuart A. Thompson",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T13:04:59-04:00",
+        "created_date": "2025-04-09T13:03:58-04:00",
+        "published_date": "2025-04-09T13:03:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Libel and Slander",
+            "Aviation Accidents, Safety and Disasters",
+            "Rumors and Misinformation",
+            "Helicopters",
+            "Social Media",
+            "Suits and Litigation (Civil)",
+            "Transgender"
+        ],
+        "org_facet": [
+            "X (Formerly Twitter)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Ellis, Jo (Per)",
+            "Wallace, Matt"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/09biz-defamation-pilot-1/00crypto-congress-1-bzhj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jo Ellis, an Iraq combat veteran, filed a defamation lawsuit against the influencer Matt Wallace, accusing him of spreading falsehoods about her.",
+                "copyright": "Caroline Gutman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/09biz-defamation-pilot-1/00crypto-congress-1-bzhj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jo Ellis, an Iraq combat veteran, filed a defamation lawsuit against the influencer Matt Wallace, accusing him of spreading falsehoods about her.",
+                "copyright": "Caroline Gutman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/09biz-defamation-pilot-1/00crypto-congress-1-bzhj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jo Ellis, an Iraq combat veteran, filed a defamation lawsuit against the influencer Matt Wallace, accusing him of spreading falsehoods about her.",
+                "copyright": "Caroline Gutman for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
