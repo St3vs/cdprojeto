@@ -24873,5 +24873,533 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "An Experiment in Recklessness: Trump as Global Disrupter",
+        "abstract": "The global trading system is only one example of the administration tearing something apart, only to reveal that it has no plan for how to replace it.",
+        "url": "https://www.nytimes.com/2025/04/08/us/politics/trump-tariffs-global-trade-war.html",
+        "uri": "nyt://article/e56e1529-c394-5133-90c1-fd2d532bc075",
+        "byline": "By David E. Sanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T19:53:17-04:00",
+        "created_date": "2025-04-08T19:13:28-04:00",
+        "published_date": "2025-04-08T19:13:28-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "Customs (Tariff)",
+            "Smoot-Hawley Tariff Act (1930)",
+            "Protectionism (Trade)",
+            "United States Economy",
+            "Economic Conditions and Trends"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08dc-assess-01-khfv/08dc-assess-01-khfv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has appeared mostly unmoved as the knock-on effects of his administration’s moves take shape.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08dc-assess-01-khfv/08dc-assess-01-khfv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has appeared mostly unmoved as the knock-on effects of his administration’s moves take shape.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08dc-assess-01-khfv/08dc-assess-01-khfv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has appeared mostly unmoved as the knock-on effects of his administration’s moves take shape.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Officials Freeze $1 Billion for Cornell and $790 Million for Northwestern",
+        "abstract": "The funding pause amid civil rights investigations into both universities sharply escalates the Trump administration’s campaign against elite colleges.",
+        "url": "https://www.nytimes.com/2025/04/08/us/politics/cornell-northwestern-university-funds-trump.html",
+        "uri": "nyt://article/4932db84-8b86-5b5c-a337-e458b4a39664",
+        "byline": "By Michael C. Bender and Sheryl Gay Stolberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T19:21:48-04:00",
+        "created_date": "2025-04-08T19:21:48-04:00",
+        "published_date": "2025-04-08T19:21:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Colleges and Universities",
+            "Federal Aid (US)"
+        ],
+        "org_facet": [
+            "Cornell University",
+            "Northwestern University"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08dc-university-funds-kmbj/08dc-university-funds-kmbj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1360,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Students on the campus of Cornell University.",
+                "copyright": "Heather Ainsworth for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08dc-university-funds-kmbj/08dc-university-funds-kmbj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Students on the campus of Cornell University.",
+                "copyright": "Heather Ainsworth for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08dc-university-funds-kmbj/08dc-university-funds-kmbj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Students on the campus of Cornell University.",
+                "copyright": "Heather Ainsworth for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "White House Must Allow The Associated Press Full Access to Trump, Judge Rules",
+        "abstract": "The Trump administration has barred the news outlet from certain events for its use of the term “Gulf of Mexico,” which a federal judge agreed amounted to a violation of the First Amendment.",
+        "url": "https://www.nytimes.com/2025/04/08/us/politics/trump-ap-oval-office-access.html",
+        "uri": "nyt://article/b26ece38-6e55-5992-9c9a-4adc090080b3",
+        "byline": "By Zach Montague",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T19:55:43-04:00",
+        "created_date": "2025-04-08T17:07:09-04:00",
+        "published_date": "2025-04-08T17:07:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "News and News Media"
+        ],
+        "org_facet": [
+            "Associated Press",
+            "Justice Department",
+            "White House Correspondents Assn"
+        ],
+        "per_facet": [
+            "Leavitt, Karoline",
+            "McFadden, Trevor N",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/27/multimedia/00dc-press-topart-vtcq/00dc-press-topart-vtcq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Since a February spat with the Trump administration, The Associated Press has been excluded from smaller events with President Trump in the West Wing and from traveling on Air Force One.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/27/multimedia/00dc-press-topart-vtcq/00dc-press-topart-vtcq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Since a February spat with the Trump administration, The Associated Press has been excluded from smaller events with President Trump in the West Wing and from traveling on Air Force One.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/27/multimedia/00dc-press-topart-vtcq/00dc-press-topart-vtcq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Since a February spat with the Trump administration, The Associated Press has been excluded from smaller events with President Trump in the West Wing and from traveling on Air Force One.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "‘Just a Mess’: Staff Cuts, Rushed Changes and Anxiety at Social Security",
+        "abstract": "President Trump promised not to touch Social Security, but as Elon Musk’s team trims staff and plans cuts to phone services, the system is groaning under the pressure.",
+        "url": "https://www.nytimes.com/2025/04/08/us/social-security-trump.html",
+        "uri": "nyt://article/c7f639fe-689f-57d8-b581-6800f5070745",
+        "byline": "By Jack Healy, Alexandra Berzon, Tara Siegel Bernard and Nicholas Nehamas",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T16:24:45-04:00",
+        "created_date": "2025-04-08T15:18:12-04:00",
+        "published_date": "2025-04-08T15:18:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Social Security (US)",
+            "Government Employees"
+        ],
+        "org_facet": [
+            "Government Efficiency Department (US)",
+            "Social Security Administration"
+        ],
+        "per_facet": [
+            "Musk, Elon",
+            "Trump, Donald J",
+            "Dudek, Leland"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08nat-social-security-1-kvpg/08nat-social-security-1-kvpg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In Glendale, Ariz., on Tuesday, people lined up outside the Social Security Administration office before it opened.",
+                "copyright": "Adriana Zehbrauskas for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08nat-social-security-1-kvpg/08nat-social-security-1-kvpg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In Glendale, Ariz., on Tuesday, people lined up outside the Social Security Administration office before it opened.",
+                "copyright": "Adriana Zehbrauskas for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08nat-social-security-1-kvpg/08nat-social-security-1-kvpg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In Glendale, Ariz., on Tuesday, people lined up outside the Social Security Administration office before it opened.",
+                "copyright": "Adriana Zehbrauskas for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "U.S. Commanders Worry Yemen Campaign Will Drain Arms Needed to Deter China",
+        "abstract": "American military officials say the Pentagon might need to dip into stockpiles in Asia to replenish supplies in the Middle East, congressional aides say.",
+        "url": "https://www.nytimes.com/2025/04/08/us/politics/china-weapons-yemen-bombing.html",
+        "uri": "nyt://article/4dc28751-86a2-5f5b-864f-7dc369f840b9",
+        "byline": "By Edward Wong and Eric Schmitt",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T19:10:18-04:00",
+        "created_date": "2025-04-08T19:10:18-04:00",
+        "published_date": "2025-04-08T19:10:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Defense and Military Forces",
+            "United States International Relations",
+            "Stockpiling",
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [
+            "People's Liberation Army (China)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "East Asia",
+            "Far East, South and Southeast Asia and Pacific Areas",
+            "Red Sea",
+            "Middle East",
+            "Yemen"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08dc-military-china1-vjzl/08dc-military-china1-vjzl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A B-2 Spirit stealth bomber. The Pentagon has deployed two aircraft carriers, additional B-2 stealth bombers and fighter jets, as well as Patriot and THAAD air defenses to the Middle East.",
+                "copyright": "Carlos Barria/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08dc-military-china1-vjzl/08dc-military-china1-vjzl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A B-2 Spirit stealth bomber. The Pentagon has deployed two aircraft carriers, additional B-2 stealth bombers and fighter jets, as well as Patriot and THAAD air defenses to the Middle East.",
+                "copyright": "Carlos Barria/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08dc-military-china1-vjzl/08dc-military-china1-vjzl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A B-2 Spirit stealth bomber. The Pentagon has deployed two aircraft carriers, additional B-2 stealth bombers and fighter jets, as well as Patriot and THAAD air defenses to the Middle East.",
+                "copyright": "Carlos Barria/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Death of Palestinian American Boy in West Bank Sparks Outcry",
+        "abstract": "Amer Rabee, 14, was fatally shot Sunday by Israeli forces in the West Bank, according to his family. On Tuesday, community leaders gathered in New Jersey to demand justice.",
+        "url": "https://www.nytimes.com/2025/04/08/nyregion/nj-amer-rabee-killed-west-bank.html",
+        "uri": "nyt://article/3f2e640d-fedb-57e8-8cc9-d1b759051918",
+        "byline": "By Shayla Colon",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T19:29:34-04:00",
+        "created_date": "2025-04-08T19:29:34-04:00",
+        "published_date": "2025-04-08T19:29:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Terrorism",
+            "Palestinians",
+            "Murders, Attempted Murders and Homicides",
+            "Palestinian-Americans"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Israel",
+            "West Bank",
+            "New Jersey"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08met-nj-west-bank-01-whjk/08met-nj-west-bank-01-whjk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“We cannot let this horrific crime be swept under the rug,” Rania Mustafa, the executive director of the Palestinian American Community Center, said at a news conference on Tuesday. ",
+                "copyright": "Bryan Anselm for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08met-nj-west-bank-01-whjk/08met-nj-west-bank-01-whjk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“We cannot let this horrific crime be swept under the rug,” Rania Mustafa, the executive director of the Palestinian American Community Center, said at a news conference on Tuesday. ",
+                "copyright": "Bryan Anselm for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08met-nj-west-bank-01-whjk/08met-nj-west-bank-01-whjk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“We cannot let this horrific crime be swept under the rug,” Rania Mustafa, the executive director of the Palestinian American Community Center, said at a news conference on Tuesday. ",
+                "copyright": "Bryan Anselm for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Ken Paxton Says He Will Challenge Senator John Cornyn in 2026",
+        "abstract": "The announcement by Mr. Paxton, the attorney general of Texas and a firebrand conservative, set up what is expected to be a blockbuster showdown in Texas.",
+        "url": "https://www.nytimes.com/2025/04/08/us/ken-paxton-john-cornyn-senate-race.html",
+        "uri": "nyt://article/5e81c066-027f-58ac-a578-bd4a4f899502",
+        "byline": "By J. David Goodman",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T20:33:17-04:00",
+        "created_date": "2025-04-08T19:53:24-04:00",
+        "published_date": "2025-04-08T19:53:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections"
+        ],
+        "org_facet": [
+            "Senate"
+        ],
+        "per_facet": [
+            "Paxton, Ken",
+            "Cornyn, John"
+        ],
+        "geo_facet": [
+            "Texas"
+        ],
+        "multimedia": null,
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "The Skin on Mysterious Medieval Books Concealed a Shaggy Surprise",
+        "abstract": "The material on the covers of books from a French abbey was too hairy to have come from calves or other local mammals. Researchers identified its more distant origin.",
+        "url": "https://www.nytimes.com/2025/04/08/science/medieval-books-hair-binding.html",
+        "uri": "nyt://article/1bad17bc-b68c-5423-b3c6-477576eb5e60",
+        "byline": "By Jack Tamisiea",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T19:01:06-04:00",
+        "created_date": "2025-04-08T19:01:06-04:00",
+        "published_date": "2025-04-08T19:01:06-04:00",
+        "material_type_facet": "",
+        "kicker": "Trilobites",
+        "des_facet": [
+            "Manuscripts",
+            "Fur",
+            "Seals (Animals) and Sealing",
+            "Middle Ages (Historical Period)",
+            "Books and Literature",
+            "Bookbinding",
+            "your-feed-science"
+        ],
+        "org_facet": [
+            "Royal Society Open Science (Journal)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "France"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08tb-hairy-books-01-tlqm/08tb-hairy-books-01-tlqm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A manuscript created during the 12th or 13th century in the scriptorium of Clairvaux Abbey in France, found to be bound in sealskin.",
+                "copyright": "Matthew Collins"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08tb-hairy-books-01-tlqm/08tb-hairy-books-01-tlqm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A manuscript created during the 12th or 13th century in the scriptorium of Clairvaux Abbey in France, found to be bound in sealskin.",
+                "copyright": "Matthew Collins"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08tb-hairy-books-01-tlqm/08tb-hairy-books-01-tlqm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A manuscript created during the 12th or 13th century in the scriptorium of Clairvaux Abbey in France, found to be bound in sealskin.",
+                "copyright": "Matthew Collins"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "3 Are Killed in Shooting Near Fredericksburg, Va., Authorities Say",
+        "abstract": "Three others were injured in the shooting, which occurred on a suburban street in Spotsylvania County, about 60 miles southwest of Washington, D.C.",
+        "url": "https://www.nytimes.com/2025/04/08/us/shooting-virginia-fredericksburg.html",
+        "uri": "nyt://article/d9832802-864c-562d-a533-7a6511411cea",
+        "byline": "By Hank Sanders and Alexandra E. Petri",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T21:00:14-04:00",
+        "created_date": "2025-04-08T19:47:08-04:00",
+        "published_date": "2025-04-08T19:47:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Fatalities)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Fredericksburg (Va)",
+            "Spotsylvania County (Va)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08xp-shooting/08xp-shooting-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sheriff’s officers responded to a shooting on Tuesday outside Fredericksburg, Va., in which three people were killed, the authorities said.",
+                "copyright": "FOX 5"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08xp-shooting/08xp-shooting-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sheriff’s officers responded to a shooting on Tuesday outside Fredericksburg, Va., in which three people were killed, the authorities said.",
+                "copyright": "FOX 5"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08xp-shooting/08xp-shooting-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sheriff’s officers responded to a shooting on Tuesday outside Fredericksburg, Va., in which three people were killed, the authorities said.",
+                "copyright": "FOX 5"
+            }
+        ],
+        "short_url": ""
     }
 ]
