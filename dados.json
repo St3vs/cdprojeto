@@ -28064,5 +28064,267 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Rulings in New York and Texas Curb Deportations of Venezuelans to El Salvador",
+        "abstract": "The decisions suggest that the battle over using a wartime law, the Alien Enemies Act, to deport migrants is certain to persist.",
+        "url": "https://www.nytimes.com/2025/04/09/us/politics/trump-deportations-venezuela-el-salvador.html",
+        "uri": "nyt://article/d948b199-b464-5aa9-9ab3-2c6a3fd690a0",
+        "byline": "By Alan Feuer and Jonah E. Bromwich",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T14:08:13-04:00",
+        "created_date": "2025-04-09T09:49:25-04:00",
+        "published_date": "2025-04-09T09:49:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Illegal Immigration",
+            "Presidential Power (US)"
+        ],
+        "org_facet": [
+            "American Civil Liberties Union",
+            "Supreme Court (US)",
+            "Tren de Aragua (Gang)"
+        ],
+        "per_facet": [
+            "Boasberg, James E",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Brownsville (Tex)",
+            "El Salvador",
+            "Goshen (NY)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-immig-wkqb/09dc-immig-wkqb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inmates at a notorious prison in El Salvador where a group of Venezuelan migrants were sent from the United States.",
+                "copyright": "Marvin Recinos/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-immig-wkqb/09dc-immig-wkqb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inmates at a notorious prison in El Salvador where a group of Venezuelan migrants were sent from the United States.",
+                "copyright": "Marvin Recinos/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-immig-wkqb/09dc-immig-wkqb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inmates at a notorious prison in El Salvador where a group of Venezuelan migrants were sent from the United States.",
+                "copyright": "Marvin Recinos/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "House G.O.P. Leaders Press Ahead With Budget Vote as Defectors Dig In",
+        "abstract": "Republicans scheduled a vote for Wednesday evening, but they were still at least a dozen votes short of a majority for their fiscal blueprint.",
+        "url": "https://www.nytimes.com/2025/04/09/us/politics/house-budget-vote-republicans.html",
+        "uri": "nyt://article/6ffe6668-bd35-59db-bca1-1d61cd705c45",
+        "byline": "By Catie Edmondson",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T12:36:30-04:00",
+        "created_date": "2025-04-09T12:36:30-04:00",
+        "published_date": "2025-04-09T12:36:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Federal Budget (US)"
+        ],
+        "org_facet": [
+            "House of Representatives",
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Roy, Chip (1972- )",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09trump-news-budget-jbmt/09trump-news-budget-jbmt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "House Speaker Mike Johnson can’t afford to lose many Republican votes for a budget resolution.",
+                "copyright": "Tierney L. Cross for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09trump-news-budget-jbmt/09trump-news-budget-jbmt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "House Speaker Mike Johnson can’t afford to lose many Republican votes for a budget resolution.",
+                "copyright": "Tierney L. Cross for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09trump-news-budget-jbmt/09trump-news-budget-jbmt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "House Speaker Mike Johnson can’t afford to lose many Republican votes for a budget resolution.",
+                "copyright": "Tierney L. Cross for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Proxy Voting Defeat Reflects a House Out of Step With Modern Culture",
+        "abstract": "A majority of House members backed changing the rules to allow new parents to vote remotely. But in a Congress dominated by far-right Republicans, parental leave was a bridge too far.",
+        "url": "https://www.nytimes.com/2025/04/09/us/politics/house-republicans-proxy-voting-parental-leave.html",
+        "uri": "nyt://article/09ab9c5c-e637-579e-9843-482d614cd017",
+        "byline": "By Annie Karni",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T12:38:14-04:00",
+        "created_date": "2025-04-09T12:38:14-04:00",
+        "published_date": "2025-04-09T12:38:14-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States Politics and Government",
+            "Family Leaves",
+            "Parenting"
+        ],
+        "org_facet": [
+            "House of Representatives",
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Luna, Anna Paulina",
+            "Johnson, Mike (1972- )",
+            "Pettersen, Brittany (1981- )"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-proxyvoting1-lcbw/09dc-proxyvoting1-lcbw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Speaker Mike Johnson went to extraordinary lengths last week to shut down a proposal that would allow new parents in the House to vote remotely.",
+                "copyright": "Tierney L. Cross for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-proxyvoting1-lcbw/09dc-proxyvoting1-lcbw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Speaker Mike Johnson went to extraordinary lengths last week to shut down a proposal that would allow new parents in the House to vote remotely.",
+                "copyright": "Tierney L. Cross for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-proxyvoting1-lcbw/09dc-proxyvoting1-lcbw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Speaker Mike Johnson went to extraordinary lengths last week to shut down a proposal that would allow new parents in the House to vote remotely.",
+                "copyright": "Tierney L. Cross for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Palestinian Christians Remind Us: ‘We Are Also People’",
+        "abstract": "America’s religious right embraces far-right Israeli policies, leading to the repression of Palestinian Christians.",
+        "url": "https://www.nytimes.com/2025/04/09/opinion/palestinian-christian-us-evangelicals-gaza.html",
+        "uri": "nyt://article/b8c521b1-1aac-5f10-8e65-4a4662d4498f",
+        "byline": "By Nicholas Kristof",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T17:00:08-04:00",
+        "created_date": "2025-04-09T17:00:08-04:00",
+        "published_date": "2025-04-09T17:00:08-04:00",
+        "material_type_facet": "",
+        "kicker": "Nicholas Kristof",
+        "des_facet": [
+            "Christians and Christianity",
+            "Religion and Belief",
+            "Palestinians",
+            "United States Politics and Government",
+            "Evangelical Movement",
+            "Right-Wing Extremism and Alt-Right",
+            "Israeli Settlements",
+            "Jews and Judaism",
+            "Land Use Policies",
+            "Churches (Buildings)"
+        ],
+        "org_facet": [
+            "American Israel Public Affairs Committee",
+            "Christians United for Israel"
+        ],
+        "per_facet": [
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+            "Bethlehem (West Bank)",
+            "Israel",
+            "West Bank"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/09kristof-01-hkqm/09kristof-01-hkqm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Daoud Nassar on his farm in the West Bank.",
+                "copyright": "Samar Hazboun for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/09kristof-01-hkqm/09kristof-01-hkqm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Daoud Nassar on his farm in the West Bank.",
+                "copyright": "Samar Hazboun for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/09kristof-01-hkqm/09kristof-01-hkqm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Daoud Nassar on his farm in the West Bank.",
+                "copyright": "Samar Hazboun for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
