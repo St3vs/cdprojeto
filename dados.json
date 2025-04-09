@@ -27045,5 +27045,312 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "What the Government Knows About You in Official Data Sets Trump Wants to Link Together",
+        "abstract": "Databases that Elon Musk’s team is trying to access include more than 300 personal details about members of the U.S. public.",
+        "url": "https://www.nytimes.com/2025/04/09/us/politics/trump-musk-data-access.html",
+        "uri": "nyt://article/a89739f9-0436-5a58-b704-7eb2a68040e7",
+        "byline": "By Emily Badger and Sheera Frenkel",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T10:58:41-04:00",
+        "created_date": "2025-04-09T10:54:13-04:00",
+        "published_date": "2025-04-09T10:54:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Privacy",
+            "Computer Security",
+            "Executive Orders and Memorandums",
+            "Illegal Immigration"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Musk, Elon",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/2025-03-31-doge-data-index/2025-03-31-doge-data-index-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/2025-03-31-doge-data-index/2025-03-31-doge-data-index-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/2025-03-31-doge-data-index/2025-03-31-doge-data-index-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israeli Airstrike in Gaza City Leaves Many Dead, Health Officials There Say",
+        "abstract": "The strike on a home left other bodies buried under the rubble, according to the Gazan authorities. The Israeli military said it had been targeting a Hamas operative.",
+        "url": "https://www.nytimes.com/2025/04/09/world/middleeast/israel-gaza-city-strike-hamas.html",
+        "uri": "nyt://article/40c82349-0485-5e0a-9274-8e320ca84893",
+        "byline": "By Vivian Yee, Ameera Harouda, Rawan Sheikh Ahmad and Saher Alghorra",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T10:40:44-04:00",
+        "created_date": "2025-04-09T09:21:24-04:00",
+        "published_date": "2025-04-09T09:21:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Israel",
+            "Gaza Strip",
+            "Shajaiye (Gaza Strip)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-gaza-strike-vpgc-promo/09int-gaza-strike-vpgc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Relatives hold back the father of a man killed in an Israeli airstrike on a home in a neighborhood in Gaza City, on Wednesday.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-gaza-strike-vpgc-promo/09int-gaza-strike-vpgc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Relatives hold back the father of a man killed in an Israeli airstrike on a home in a neighborhood in Gaza City, on Wednesday.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-gaza-strike-vpgc-promo/09int-gaza-strike-vpgc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Relatives hold back the father of a man killed in an Israeli airstrike on a home in a neighborhood in Gaza City, on Wednesday.",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "Scientists Map Miles of Wiring in a Speck of Mouse Brain",
+        "abstract": "Scientists achieved “a milestone” by charting the activity and structure of 200,000 cells in a mouse brain and their 523 million connections.",
+        "url": "https://www.nytimes.com/2025/04/09/science/neuroscience-brain-mice-map.html",
+        "uri": "nyt://article/06a036b6-1e51-5cbb-a85a-46aa6fee8fb4",
+        "byline": "By Carl Zimmer",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T11:00:07-04:00",
+        "created_date": "2025-04-09T11:00:07-04:00",
+        "published_date": "2025-04-09T11:00:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "your-feed-science"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09hs-sci-mousebrain-01-hmjg/09hs-sci-mousebrain-01-hmjg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A small fraction of the neurons that were mapped in one cubic millimeter of mouse brain.",
+                "copyright": "Allen Institute"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09hs-sci-mousebrain-01-hmjg/09hs-sci-mousebrain-01-hmjg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A small fraction of the neurons that were mapped in one cubic millimeter of mouse brain.",
+                "copyright": "Allen Institute"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09hs-sci-mousebrain-01-hmjg/09hs-sci-mousebrain-01-hmjg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A small fraction of the neurons that were mapped in one cubic millimeter of mouse brain.",
+                "copyright": "Allen Institute"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Coalition Deal in Germany Clears Way for Friedrich Merz to Become Chancellor",
+        "abstract": "The agreement was concluded relatively quickly but still took about six and half weeks, during which the country had been virtually rudderless at a critical moment for Europe.",
+        "url": "https://www.nytimes.com/2025/04/09/world/europe/friedrich-merz-chancellor-coalition-deal.html",
+        "uri": "nyt://article/773130fb-8d8e-5f9a-96c6-dddf84cdb2cb",
+        "byline": "By Christopher F. Schuetze",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T10:41:58-04:00",
+        "created_date": "2025-04-09T09:51:33-04:00",
+        "published_date": "2025-04-09T09:51:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Right-Wing Extremism and Alt-Right",
+            "International Relations",
+            "Elections"
+        ],
+        "org_facet": [
+            "Alternative for Germany",
+            "Christian Democratic Union (Germany)",
+            "Social Democratic Party (Germany)"
+        ],
+        "per_facet": [
+            "Merz, Friedrich"
+        ],
+        "geo_facet": [
+            "Germany",
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-germany-coalition-01-hlwk/09int-germany-coalition-01-hlwk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz had been under pressure to get a coalition government moving.",
+                "copyright": "Annegret Hilse/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-germany-coalition-01-hlwk/09int-germany-coalition-01-hlwk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz had been under pressure to get a coalition government moving.",
+                "copyright": "Annegret Hilse/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-germany-coalition-01-hlwk/09int-germany-coalition-01-hlwk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz had been under pressure to get a coalition government moving.",
+                "copyright": "Annegret Hilse/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Britain Lost Out on Euro Disney. Now It’s Getting a Universal Theme Park.",
+        "abstract": "A yet-to-be-named Universal Studios theme park will be the country’s largest tourist attraction when it opens in 2031. But studio executives have not yet said which characters will be featured.",
+        "url": "https://www.nytimes.com/2025/04/09/world/europe/britain-universal-theme-park.html",
+        "uri": "nyt://article/3312c900-2fd6-5117-a918-85f4a70049b1",
+        "byline": "By Michael D. Shear",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T09:55:42-04:00",
+        "created_date": "2025-04-09T09:53:29-04:00",
+        "published_date": "2025-04-09T09:53:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Amusement and Theme Parks",
+            "Travel and Vacations",
+            "Economic Conditions and Trends",
+            "Harry Potter (Fictional Character)"
+        ],
+        "org_facet": [
+            "Universal Pictures"
+        ],
+        "per_facet": [
+            "Nandy, Lisa (1979- )",
+            "Starmer, Keir"
+        ],
+        "geo_facet": [
+            "Great Britain",
+            "London (England)",
+            "Bedfordshire"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-UK-Theme-Park-mgcl/09int-UK-Theme-Park-mgcl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain, center, with renderings of the proposed Universal Studios theme park.",
+                "copyright": "Pool photo John Sibley"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-UK-Theme-Park-mgcl/09int-UK-Theme-Park-mgcl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain, center, with renderings of the proposed Universal Studios theme park.",
+                "copyright": "Pool photo John Sibley"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-UK-Theme-Park-mgcl/09int-UK-Theme-Park-mgcl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain, center, with renderings of the proposed Universal Studios theme park.",
+                "copyright": "Pool photo John Sibley"
+            }
+        ],
+        "short_url": ""
     }
 ]
