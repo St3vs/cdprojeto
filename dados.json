@@ -28003,5 +28003,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "dining",
+        "subsection": "",
+        "title": "Is the Restaurant Good? Or Does It Just Look Good?",
+        "abstract": "Restaurateurs are finding that ambience and branding matter as much — and to many diners, more — than the food they serve.",
+        "url": "https://www.nytimes.com/2025/04/09/dining/restaurant-ambience-vibes.html",
+        "uri": "nyt://article/449fe9f2-bdd1-5189-817c-422f7c2b8276",
+        "byline": "By Priya Krishna",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T05:01:20-04:00",
+        "created_date": "2025-04-09T05:01:20-04:00",
+        "published_date": "2025-04-09T05:01:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Restaurants",
+            "Chefs",
+            "Interior Design and Furnishings"
+        ],
+        "org_facet": [
+            "Polonsky and Friends"
+        ],
+        "per_facet": [
+            "Polonsky, Anna",
+            "Ramirez, Erik (Chef)"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09FD-restaurant-packaging3-pkwj/08FD-restaurant-packaging3-pkwj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Papa San also carries branded merchandise, including lighters and matchbooks.",
+                "copyright": "Lanna Apisukh for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09FD-restaurant-packaging3-pkwj/08FD-restaurant-packaging3-pkwj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Papa San also carries branded merchandise, including lighters and matchbooks.",
+                "copyright": "Lanna Apisukh for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09FD-restaurant-packaging3-pkwj/08FD-restaurant-packaging3-pkwj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Papa San also carries branded merchandise, including lighters and matchbooks.",
+                "copyright": "Lanna Apisukh for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
