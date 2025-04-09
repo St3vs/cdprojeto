@@ -25725,5 +25725,146 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Trump’s Gulag Archipelago",
+        "abstract": "He is seeking to establish a truly chilling proposition: that no one can stop his administration from imprisoning anyone it wants, anywhere in the world.",
+        "url": "https://www.nytimes.com/2025/04/09/opinion/trump-deportations-gulag-prison.html",
+        "uri": "nyt://article/a543f8f6-8ba7-51c1-a933-07995a295f03",
+        "byline": "By Erwin Chemerinsky and Laurence H. Tribe",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T05:02:05-04:00",
+        "created_date": "2025-04-09T05:02:05-04:00",
+        "published_date": "2025-04-09T05:02:05-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "United States Politics and Government",
+            "Deportation",
+            "United States International Relations",
+            "Federal Courts (US)",
+            "Illegal Immigration",
+            "Presidential Power (US)",
+            "Habeas Corpus",
+            "Alien Enemies Act (1798)",
+            "Appeals Courts (US)"
+        ],
+        "org_facet": [
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Barrett, Amy Coney",
+            "Bukele, Nayib",
+            "Leavitt, Karoline",
+            "Rubio, Marco",
+            "Sotomayor, Sonia",
+            "Stalin, Joseph",
+            "Trump, Donald J",
+            "Xinis, Paula"
+        ],
+        "geo_facet": [
+            "El Salvador",
+            "Texas",
+            "United States",
+            "Venezuela"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00tribe1-plbw/00tribe1-plbw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jose Cabezas/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00tribe1-plbw/00tribe1-plbw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jose Cabezas/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00tribe1-plbw/00tribe1-plbw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jose Cabezas/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Trump’s Lust for Power Cannot Be Satiated",
+        "abstract": "The tariff saga is just the latest example of the president’s urge to dominate.",
+        "url": "https://www.nytimes.com/2025/04/09/opinion/trump-tariffs-rationale-power.html",
+        "uri": "nyt://article/ad372c86-e474-5dfa-a3f2-fe780875b9ab",
+        "byline": "By Jamelle Bouie",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T05:02:05-04:00",
+        "created_date": "2025-04-09T05:02:05-04:00",
+        "published_date": "2025-04-09T05:02:05-04:00",
+        "material_type_facet": "",
+        "kicker": "Jamelle Bouie",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Deportation",
+            "Presidential Power (US)",
+            "United States Economy"
+        ],
+        "org_facet": [
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09bouie-bwtc/09bouie-bwtc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Nathan Howard/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09bouie-bwtc/09bouie-bwtc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Nathan Howard/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09bouie-bwtc/09bouie-bwtc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Nathan Howard/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
