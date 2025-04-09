@@ -28512,5 +28512,235 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "upshot",
+        "subsection": "",
+        "title": "House Republicans Are Voting on a New Budget. Here’s What’s Changed.",
+        "abstract": "The new resolution calls for more tax cuts and fewer reductions in spending. It would increase the federal debt by a lot more.",
+        "url": "https://www.nytimes.com/interactive/2025/04/09/upshot/senate-vs-house-budget.html",
+        "uri": "nyt://interactive/8ba162a4-5160-5263-b6d8-06e65b139435",
+        "byline": "By Margot Sanger-Katz and Alicia Parlapiano",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-09T18:59:57-04:00",
+        "created_date": "2025-04-09T16:35:57-04:00",
+        "published_date": "2025-04-09T16:35:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Federal Budget (US)",
+            "United States Politics and Government",
+            "Taxation",
+            "Law and Legislation",
+            "National Debt (US)"
+        ],
+        "org_facet": [
+            "Republican Party"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/2025-04-09-senate-vs-house-budget-index/2025-04-09-senate-vs-house-budget-index-superJumbo-v4.png",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/2025-04-09-senate-vs-house-budget-index/2025-04-09-senate-vs-house-budget-index-threeByTwoSmallAt2X-v6.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/2025-04-09-senate-vs-house-budget-index/2025-04-09-senate-vs-house-budget-index-thumbLarge-v4.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "What Trump Just Cost America",
+        "abstract": "Do you think these former close U.S. allies are ever going to trust getting into a trench with this administration again?",
+        "url": "https://www.nytimes.com/2025/04/09/opinion/trump-tariffs-pause-china.html",
+        "uri": "nyt://article/e649cd71-708a-5f6d-9294-d55349d2f541",
+        "byline": "By Thomas L. Friedman",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T19:09:00-04:00",
+        "created_date": "2025-04-09T18:29:48-04:00",
+        "published_date": "2025-04-09T18:29:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/opinion/09friedman/09friedman-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/opinion/09friedman/09friedman-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/opinion/09friedman/09friedman-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Trump Backed Down on Tariffs",
+        "abstract": "Also, scientists mapped miles of wiring in part of a mouse brain. Here’s the latest at the end of Wednesday.",
+        "url": "https://www.nytimes.com/2025/04/09/briefing/trump-tariffs-brain-science-garden-tips.html",
+        "uri": "nyt://article/8ad9d286-f619-5569-b4a8-757c72861d2d",
+        "byline": "By Matthew Cullen",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T17:38:42-04:00",
+        "created_date": "2025-04-09T17:38:42-04:00",
+        "published_date": "2025-04-09T17:38:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/09evening-trump-pzjq-copy/10ambriefing-asia-trump-pzjq-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 2047,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/09evening-trump-pzjq-copy/10ambriefing-asia-trump-pzjq-threeByTwoSmallAt2X-v3.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/09evening-trump-pzjq-copy/10ambriefing-asia-trump-pzjq-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "travel",
+        "subsection": "",
+        "title": "Flying Somewhere? You May Finally Need That Real ID.",
+        "abstract": "After years of postponements, the deadline to show a security-enhanced Real ID at airport security checkpoints is now just weeks away. What to know.",
+        "url": "https://www.nytimes.com/2025/04/09/travel/real-id-deadline-what-to-know.html",
+        "uri": "nyt://article/f3e83321-5dc2-58bc-8473-090c810747cf",
+        "byline": "By Christine Chung and Debra Kamin",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T16:57:30-04:00",
+        "created_date": "2025-04-09T16:57:30-04:00",
+        "published_date": "2025-04-09T16:57:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Drivers Licenses",
+            "Airport Security",
+            "Passports",
+            "Travel and Vacations",
+            "Content Type: Service"
+        ],
+        "org_facet": [
+            "Transportation Security Administration"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/trav-real-id-explainer-blkz/trav-real-id-explainer-blkz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The long-delayed deadline for passengers to present a Real ID at airport security is set for May 7.",
+                "copyright": "Jeffrey Greenberg/UCG, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/trav-real-id-explainer-blkz/trav-real-id-explainer-blkz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The long-delayed deadline for passengers to present a Real ID at airport security is set for May 7.",
+                "copyright": "Jeffrey Greenberg/UCG, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/trav-real-id-explainer-blkz/trav-real-id-explainer-blkz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The long-delayed deadline for passengers to present a Real ID at airport security is set for May 7.",
+                "copyright": "Jeffrey Greenberg/UCG, via Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
