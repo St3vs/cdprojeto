@@ -31464,5 +31464,258 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump’s Tariff Reversal Calms Some G.O.P. Nerves, but Questions Linger",
+        "abstract": "Most Republicans welcomed the unexpected three-month pause on several of President Trump’s tariffs, but some want more clarity about the president’s end game and more power for Congress over trade.",
+        "url": "https://www.nytimes.com/2025/04/10/us/politics/trump-tariffs-republicans-congress.html",
+        "uri": "nyt://article/c5418ef1-1b85-5bdf-a7a2-12fef280ad39",
+        "byline": "By Robert Jimison and Maya C. Miller",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T11:11:23-04:00",
+        "created_date": "2025-04-10T11:11:23-04:00",
+        "published_date": "2025-04-10T11:11:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "United States Economy",
+            "Presidential Power (US)"
+        ],
+        "org_facet": [
+            "House of Representatives",
+            "Republican Party",
+            "Senate"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-CONG-TARIFFS-topart-bzcf/09dc-CONG-TARIFFS-topart-bzcf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Thom Tillis, Republican of North Carolina, pressed Jamieson Greer, President Trump’s top trade official, on the intent of the tariffs plan.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-CONG-TARIFFS-topart-bzcf/09dc-CONG-TARIFFS-topart-bzcf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Thom Tillis, Republican of North Carolina, pressed Jamieson Greer, President Trump’s top trade official, on the intent of the tariffs plan.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-CONG-TARIFFS-topart-bzcf/09dc-CONG-TARIFFS-topart-bzcf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Thom Tillis, Republican of North Carolina, pressed Jamieson Greer, President Trump’s top trade official, on the intent of the tariffs plan.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "Jon Hamm Finds His Way Back to the Hilltop",
+        "abstract": "For the actor, the decade since “Mad Men” ended has been a period of personal change and mixed professional success. Suddenly, he is everywhere again.",
+        "url": "https://www.nytimes.com/2025/04/10/arts/television/jon-hamm-your-friends-and-neighbors.html",
+        "uri": "nyt://article/bdfb69e7-d99b-586c-bc06-c2f84e1559c7",
+        "byline": "By Austin Considine and Adali Schell",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T12:27:57-04:00",
+        "created_date": "2025-04-10T11:45:14-04:00",
+        "published_date": "2025-04-10T11:45:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Television",
+            "Actors and Actresses",
+            "Content Type: Personal Profile",
+            "Mad Men (TV Program)",
+            "Your Friends & Neighbors (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Hamm, Jon",
+            "Aniston, Jennifer",
+            "Peet, Amanda"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13cul-hamm-promo-zktq/13cul-hamm-promo-zktq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Adali Schell for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13cul-hamm-promo-zktq/13cul-hamm-promo-zktq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Adali Schell for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13cul-hamm-promo-zktq/13cul-hamm-promo-zktq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Adali Schell for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "Medicare Bleeds Billions on Pricey Bandages, and Doctors Get a Cut",
+        "abstract": "Medicare spending on “skin substitutes” made of dried placenta has soared as doctors pocket lucrative discounts from sellers.",
+        "url": "https://www.nytimes.com/2025/04/10/health/skin-substitutes-medicare-costs.html",
+        "uri": "nyt://article/0f268249-b960-590b-95fc-ce7ab5f0af58",
+        "byline": "By Sarah Kliff and Katie Thomas",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T12:48:32-04:00",
+        "created_date": "2025-04-10T11:58:45-04:00",
+        "published_date": "2025-04-10T11:58:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Prices (Fares, Fees and Rates)",
+            "Health Insurance and Managed Care",
+            "Medicare",
+            "Skin",
+            "Regulation and Deregulation of Industry",
+            "Elderly",
+            "Diabetes",
+            "Frauds and Swindling"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/science/10SKIN-promo/10SKIN-promo-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photoillustration by The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/science/10SKIN-promo/10SKIN-promo-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photoillustration by The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/science/10SKIN-promo/10SKIN-promo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photoillustration by The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "‘They’re Coming After All of Us. So You Might As Well Tell the Truth.’",
+        "abstract": "The longtime activist and writer Sarah Schulman on why now is the time to stand up to people you oppose.",
+        "url": "https://www.nytimes.com/2025/04/10/opinion/sarah-schulman-solidarity.html",
+        "uri": "nyt://article/0b0feed9-6edf-5d43-9fd1-454d4f095c87",
+        "byline": "By Lydia Polgreen and Vishakha Darbha",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T11:49:27-04:00",
+        "created_date": "2025-04-10T05:03:00-04:00",
+        "published_date": "2025-04-10T05:03:00-04:00",
+        "material_type_facet": "",
+        "kicker": "The Opinions",
+        "des_facet": [
+            "audio-neutral-informative",
+            "United States Politics and Government",
+            "Colleges and Universities",
+            "Politics and Government",
+            "Civil Rights and Liberties",
+            "Human Rights and Human Rights Violations"
+        ],
+        "org_facet": [
+            "Democratic Party",
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Schulman, Sarah"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/opinion/10opinions-polgreen-schulman/10opinions-polgreen-schulman-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1546,
+                "width": 1546,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by The New York Times; photograph by FG Trade Latin/Getty"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/opinion/10opinions-polgreen-schulman/10opinions-polgreen-schulman-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by The New York Times; photograph by FG Trade Latin/Getty"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/opinion/10opinions-polgreen-schulman/10opinions-polgreen-schulman-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by The New York Times; photograph by FG Trade Latin/Getty"
+            }
+        ],
+        "short_url": ""
     }
 ]
