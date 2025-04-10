@@ -29533,5 +29533,129 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "The Case for Giving This Trade War a Chance",
+        "abstract": "Oren Cass argues tariffs are worth it.",
+        "url": "https://www.nytimes.com/2025/04/10/opinion/ross-douthat-interesting-times.html",
+        "uri": "nyt://article/982ea26d-91e3-503a-ac7e-e3c4af8afa4c",
+        "byline": "By Ross Douthat",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T05:01:01-04:00",
+        "created_date": "2025-04-10T05:01:01-04:00",
+        "published_date": "2025-04-10T05:01:01-04:00",
+        "material_type_facet": "",
+        "kicker": "interesting times",
+        "des_facet": [
+            "audio-neutral-informative",
+            "Populism (Theory and Philosophy)",
+            "Customs (Tariff)",
+            "Inflation (Economics)"
+        ],
+        "org_facet": [
+            "American Compass Inc",
+            "North Atlantic Treaty Organization"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Rubio, Marco"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/opinion/10rosspod-episode1/10rosspod-episode1-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/opinion/10rosspod-episode1/10rosspod-episode1-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/opinion/10rosspod-episode1/10rosspod-episode1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Do We Really Expect Investors to Forget What Just Happened?",
+        "abstract": "The reciprocal tariffs might be gone for now, but slow growth, inflation and dings to American credibility remain.",
+        "url": "https://www.nytimes.com/2025/04/10/opinion/tariffs-trump-pause-reverse.html",
+        "uri": "nyt://article/62d6fd99-0724-5bd5-8981-cc397505383a",
+        "byline": "By Rebecca Patterson",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T05:04:09-04:00",
+        "created_date": "2025-04-10T05:04:09-04:00",
+        "published_date": "2025-04-10T05:04:09-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "International Trade and World Market",
+            "Government Bonds",
+            "Customs (Tariff)",
+            "United States Economy"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/10patterson-zltj/10patterson-zltj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Philotheus Nisch for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/10patterson-zltj/10patterson-zltj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Philotheus Nisch for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/10patterson-zltj/10patterson-zltj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Philotheus Nisch for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
