@@ -31717,5 +31717,323 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "For U.S. Apparel Manufacturers, Chaotic Tariff Policy Isn’t Much Help",
+        "abstract": "Even companies that make clothing in America aren’t feeling great about stiff duties on their overseas competition.",
+        "url": "https://www.nytimes.com/2025/04/10/business/economy/tariffs-apparel-american-made.html",
+        "uri": "nyt://article/20bec2b5-3389-5345-ad3d-efada4a0dcd1",
+        "byline": "By Lydia DePillis",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T13:26:05-04:00",
+        "created_date": "2025-04-10T12:21:38-04:00",
+        "published_date": "2025-04-10T12:21:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Factories and Manufacturing",
+            "Fashion and Apparel",
+            "Prices (Fares, Fees and Rates)",
+            "United States Economy",
+            "Textiles"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00econ-apparel-01-qztm/00econ-apparel-01-qztm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1536,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Workers in a “cut and sew” apparel factory in the garment district of Manhattan. The factory is a contractor of the fashion brand Outlier.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00econ-apparel-01-qztm/00econ-apparel-01-qztm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Workers in a “cut and sew” apparel factory in the garment district of Manhattan. The factory is a contractor of the fashion brand Outlier.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00econ-apparel-01-qztm/00econ-apparel-01-qztm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Workers in a “cut and sew” apparel factory in the garment district of Manhattan. The factory is a contractor of the fashion brand Outlier.",
+                "copyright": "Karsten Moran for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Inside Trump’s Plan to ‘Get’ Greenland: Persuasion, Not Invasion",
+        "abstract": "The island’s population might not be easily convinced as the president tries to clinch what he may see as one of history’s greatest real estate deals.",
+        "url": "https://www.nytimes.com/2025/04/10/us/politics/trump-greenland-denmark.html",
+        "uri": "nyt://article/5820794f-afeb-5ff8-b7e4-ac89f7940e1e",
+        "byline": "By Michael Crowley and Maggie Haberman",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T13:25:36-04:00",
+        "created_date": "2025-04-10T12:43:47-04:00",
+        "published_date": "2025-04-10T12:43:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Indigenous People",
+            "Metals and Minerals"
+        ],
+        "org_facet": [
+            "National Security Council"
+        ],
+        "per_facet": [
+            "Frederiksen, Mette",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Arctic Regions",
+            "Denmark",
+            "Greenland"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00dc-greenland-TOP-zjhp/00dc-greenland-TOP-zjhp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Greenland’s economic and strategic value has grown as warming temperatures melt Arctic ice.",
+                "copyright": "Evgeniy Maloletka/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00dc-greenland-TOP-zjhp/00dc-greenland-TOP-zjhp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Greenland’s economic and strategic value has grown as warming temperatures melt Arctic ice.",
+                "copyright": "Evgeniy Maloletka/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00dc-greenland-TOP-zjhp/00dc-greenland-TOP-zjhp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Greenland’s economic and strategic value has grown as warming temperatures melt Arctic ice.",
+                "copyright": "Evgeniy Maloletka/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "At the Supreme Court, the Trump Agenda Is Always an ‘Emergency’",
+        "abstract": "As legal challenges to the Trump administration mount, the justices are facing a key test — a flood of “emergency applications” asking for immediate intervention.",
+        "url": "https://www.nytimes.com/2025/04/10/us/politics/supreme-court-trump-emergency.html",
+        "uri": "nyt://article/8e4088ac-db66-53ec-b4f1-237c46c822c7",
+        "byline": "By Abbie VanSickle",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T13:16:47-04:00",
+        "created_date": "2025-04-10T12:54:10-04:00",
+        "published_date": "2025-04-10T12:54:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Decisions and Verdicts",
+            "Courts and the Judiciary"
+        ],
+        "org_facet": [
+            "Supreme Court (US)",
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Jackson, Ketanji Brown (1970- )",
+            "Kagan, Elena",
+            "Roberts, John G Jr",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/us/politics/10dc-scotus-emergencydocket/10dc-scotus-emergencydocket-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration has made emergency requests of the Supreme Court in recent weeks to intervene on actions including freezing more than a billion dollars in foreign aid, deporting Venezuelans to a prison in El Salvador without due process and ending birthright citizenship.",
+                "copyright": "Photographs by Roberto Schmidt/Agence France-Presse — Getty Images; Secretaria de Prensa de la Presidencia, via Reuters; Wilfredo Lee/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/us/politics/10dc-scotus-emergencydocket/10dc-scotus-emergencydocket-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration has made emergency requests of the Supreme Court in recent weeks to intervene on actions including freezing more than a billion dollars in foreign aid, deporting Venezuelans to a prison in El Salvador without due process and ending birthright citizenship.",
+                "copyright": "Photographs by Roberto Schmidt/Agence France-Presse — Getty Images; Secretaria de Prensa de la Presidencia, via Reuters; Wilfredo Lee/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/us/politics/10dc-scotus-emergencydocket/10dc-scotus-emergencydocket-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration has made emergency requests of the Supreme Court in recent weeks to intervene on actions including freezing more than a billion dollars in foreign aid, deporting Venezuelans to a prison in El Salvador without due process and ending birthright citizenship.",
+                "copyright": "Photographs by Roberto Schmidt/Agence France-Presse — Getty Images; Secretaria de Prensa de la Presidencia, via Reuters; Wilfredo Lee/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Cabot Creamery Butter Is Recalled Over Fecal Contamination Risk",
+        "abstract": "The company said it was voluntarily recalling 189 cases of its eight-ounce, sea-salted Extra Creamy Premium Butter after it found elevated levels of coliform bacteria.",
+        "url": "https://www.nytimes.com/2025/04/10/business/cabot-creamery-butter-recall.html",
+        "uri": "nyt://article/b46766ab-4c92-59e9-b122-904fed75fc2f",
+        "byline": "By Johnny Diaz",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T13:52:36-04:00",
+        "created_date": "2025-04-10T13:49:00-04:00",
+        "published_date": "2025-04-10T13:49:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Recalls and Bans of Products",
+            "Bacteria",
+            "Feces"
+        ],
+        "org_facet": [
+            "Cabot Creamery",
+            "Food and Drug Administration",
+            "Centers for Disease Control and Prevention"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Waitsfield (Vt)",
+            "Arkansas",
+            "Connecticut",
+            "Maine",
+            "New Hampshire",
+            "Pennsylvania",
+            "Vermont",
+            "New York State"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-butter1-jptw/10xp-butter1-jptw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Cabot Creamery, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-butter1-jptw/10xp-butter1-jptw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Cabot Creamery, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-butter1-jptw/10xp-butter1-jptw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Cabot Creamery, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "Neutrinos Are Shrinking, and That’s a Good Thing for Physics",
+        "abstract": "A new estimate of the ghostly particle’s maximum possible mass brings physicists a tad closer to understanding the universe.",
+        "url": "https://www.nytimes.com/2025/04/10/science/neutrinos-mass-physics.html",
+        "uri": "nyt://article/364d08c9-2277-5671-ae13-cfa2294d1a29",
+        "byline": "By Katrina Miller",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T14:09:56-04:00",
+        "created_date": "2025-04-10T14:01:26-04:00",
+        "published_date": "2025-04-10T14:01:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Neutrinos",
+            "Physics",
+            "Research"
+        ],
+        "org_facet": [
+            "Science (Journal)"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/science/10HS-neutrino/10HS-neutrino-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A spectrometer of the Karlsruhe Tritium Neutrino Experiment in Germany in 2016.",
+                "copyright": " Uwe Anspach/picture alliance, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/science/10HS-neutrino/10HS-neutrino-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A spectrometer of the Karlsruhe Tritium Neutrino Experiment in Germany in 2016.",
+                "copyright": " Uwe Anspach/picture alliance, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/science/10HS-neutrino/10HS-neutrino-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A spectrometer of the Karlsruhe Tritium Neutrino Experiment in Germany in 2016.",
+                "copyright": " Uwe Anspach/picture alliance, via Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
