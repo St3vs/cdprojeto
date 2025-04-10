@@ -32472,5 +32472,195 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Pressuring Migrants to ‘Self-Deport,’ White House Moves to Cancel Social Security Numbers",
+        "abstract": "By placing migrants in Social Security’s “death master file,” the Trump administration is seeking to cut off their access to credit cards, bank accounts and other financial services.",
+        "url": "https://www.nytimes.com/2025/04/10/us/politics/migrants-deport-social-security-doge.html",
+        "uri": "nyt://article/16a77916-913f-5219-a6fa-9bdbb64f2947",
+        "byline": "By Alexandra Berzon, Hamed Aleaziz, Nicholas Nehamas, Ryan Mac and Tara Siegel Bernard",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T16:40:11-04:00",
+        "created_date": "2025-04-10T15:39:19-04:00",
+        "published_date": "2025-04-10T15:39:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Social Security (US)",
+            "Deportation",
+            "Illegal Immigration",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Social Security Administration",
+            "Immigration and Customs Enforcement (US)",
+            "Homeland Security Department",
+            "Government Efficiency Department (US)"
+        ],
+        "per_facet": [
+            "Musk, Elon"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10dc-data-ice-01-jqwg/10dc-data-ice-01-jqwg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Migrants who arrived in New York last year waited for shelter assignments at the Roosevelt Hotel.",
+                "copyright": "Todd Heisler/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10dc-data-ice-01-jqwg/10dc-data-ice-01-jqwg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Migrants who arrived in New York last year waited for shelter assignments at the Roosevelt Hotel.",
+                "copyright": "Todd Heisler/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10dc-data-ice-01-jqwg/10dc-data-ice-01-jqwg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Migrants who arrived in New York last year waited for shelter assignments at the Roosevelt Hotel.",
+                "copyright": "Todd Heisler/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Trump May Seek Judicial Oversight of Columbia, Potentially for Years",
+        "abstract": "The Trump administration is discussing asking a judge to enforce any deal it reaches with the school, which the White House says has not done enough to address antisemitism.",
+        "url": "https://www.nytimes.com/2025/04/10/nyregion/columbia-trump-consent-decree.html",
+        "uri": "nyt://article/ddd12254-63cb-5fdb-ac8a-e222cd4a3cf1",
+        "byline": "By Jonah E. Bromwich and Michael S. Schmidt",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T16:28:38-04:00",
+        "created_date": "2025-04-10T16:28:38-04:00",
+        "published_date": "2025-04-10T16:28:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Colleges and Universities",
+            "Anti-Semitism",
+            "Suits and Litigation (Civil)"
+        ],
+        "org_facet": [
+            "Columbia University"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10met-columbia-01-pljt/10met-columbia-01-pljt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration in March canceled about $400 million in grants and contracts to Columbia University, accusing it of failing to stem what it called the persistent harassment of Jewish students.",
+                "copyright": "Hiroko Masuike/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10met-columbia-01-pljt/10met-columbia-01-pljt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration in March canceled about $400 million in grants and contracts to Columbia University, accusing it of failing to stem what it called the persistent harassment of Jewish students.",
+                "copyright": "Hiroko Masuike/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10met-columbia-01-pljt/10met-columbia-01-pljt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration in March canceled about $400 million in grants and contracts to Columbia University, accusing it of failing to stem what it called the persistent harassment of Jewish students.",
+                "copyright": "Hiroko Masuike/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Maybe We’re Just Not Good at Thinking Anymore",
+        "abstract": "To do something as stupid as Trump’s tariff plan is the result of a lifetime of incuriosity.",
+        "url": "https://www.nytimes.com/2025/04/10/opinion/education-smart-thinking-reading-tariffs.html",
+        "uri": "nyt://article/d1bb9665-31b2-58b5-8ddc-adaa60c746cd",
+        "byline": "By David Brooks",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T17:00:06-04:00",
+        "created_date": "2025-04-10T17:00:06-04:00",
+        "published_date": "2025-04-10T17:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "David Brooks",
+        "des_facet": [
+            "Books and Literature",
+            "Computers and the Internet",
+            "Social Media",
+            "Illiteracy",
+            "Absenteeism and Truancy",
+            "Screen Time (Device)",
+            "No Child Left Behind Act",
+            "National Assessment of Educational Progress",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/10brooks1-zltp/10brooks1-zltp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jasmine Clarke for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/10brooks1-zltp/10brooks1-zltp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jasmine Clarke for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/10brooks1-zltp/10brooks1-zltp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jasmine Clarke for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
