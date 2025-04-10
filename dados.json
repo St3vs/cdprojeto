@@ -31149,5 +31149,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Plunge in Oil Prices Threatens Russia’s Vast Spending on Ukraine War",
+        "abstract": "The lower revenues, a result in part of President Trump’s trade war, could prove more damaging to the Russian economy than the penalties the United States and its allies have already imposed.",
+        "url": "https://www.nytimes.com/2025/04/10/world/europe/russia-oil-prices.html",
+        "uri": "nyt://article/dc876b0c-2dbd-5c42-9c93-a0dbeec6c859",
+        "byline": "By Anatoly Kurmanaev",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T09:26:47-04:00",
+        "created_date": "2025-04-10T05:02:32-04:00",
+        "published_date": "2025-04-10T05:02:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Embargoes and Sanctions",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Oil (Petroleum) and Gasoline",
+            "Economic Conditions and Trends"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Nabiullina, Elvira S",
+            "Putin, Vladimir V",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10russia-1-tpmq/10russia-1-tpmq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1362,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An oil refinery in Omsk, Russia, in 2023.",
+                "copyright": "Alexey Malgavko/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10russia-1-tpmq/10russia-1-tpmq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An oil refinery in Omsk, Russia, in 2023.",
+                "copyright": "Alexey Malgavko/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10russia-1-tpmq/10russia-1-tpmq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An oil refinery in Omsk, Russia, in 2023.",
+                "copyright": "Alexey Malgavko/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
