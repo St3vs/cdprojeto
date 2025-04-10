@@ -32154,5 +32154,323 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "House Votes to Require Proof of Citizenship in Federal Elections",
+        "abstract": "Conservatives have long argued for stronger laws to combat voter fraud, something that election experts say is exceedingly rare.",
+        "url": "https://www.nytimes.com/2025/04/10/us/politics/house-citizenship-elections.html",
+        "uri": "nyt://article/3ec6c15a-5490-509a-8697-73a370234221",
+        "byline": "By Michael Gold",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T15:17:13-04:00",
+        "created_date": "2025-04-10T15:07:23-04:00",
+        "published_date": "2025-04-10T15:07:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Voting Rights, Registration and Requirements",
+            "Voter Fraud (Election Fraud)",
+            "Citizenship and Naturalization",
+            "Illegal Immigration"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10dc-voting-topart-qtmz/10dc-voting-topart-qtmz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The House bill would order states to obtain proof of citizenship, such as a passport or a birth certificate, in person from those seeking to register to vote.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10dc-voting-topart-qtmz/10dc-voting-topart-qtmz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The House bill would order states to obtain proof of citizenship, such as a passport or a birth certificate, in person from those seeking to register to vote.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10dc-voting-topart-qtmz/10dc-voting-topart-qtmz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The House bill would order states to obtain proof of citizenship, such as a passport or a birth certificate, in person from those seeking to register to vote.",
+                "copyright": "Karsten Moran for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Under Trump, Gun Agency Remains Rudderless and Leaderless",
+        "abstract": "The A.T.F. has been hit by the departure of key career officials, the diversion of agents from core duties to immigration enforcement and from what amounts to a campaign of indifference.",
+        "url": "https://www.nytimes.com/2025/04/10/us/politics/trump-atf.html",
+        "uri": "nyt://article/fc2af9ee-9892-56b7-844a-91f5e2a2673f",
+        "byline": "By Glenn Thrush",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T15:41:55-04:00",
+        "created_date": "2025-04-10T13:39:28-04:00",
+        "published_date": "2025-04-10T13:39:28-04:00",
+        "material_type_facet": "",
+        "kicker": "news Analysis",
+        "des_facet": [
+            "United States Politics and Government",
+            "Gun Control"
+        ],
+        "org_facet": [
+            "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+            "Federal Bureau of Investigation",
+            "Justice Department",
+            "Senate"
+        ],
+        "per_facet": [
+            "Blanche, Todd (Attorney)",
+            "Bondi, Pamela J",
+            "Bongino, Daniel",
+            "Dettelbach, Steven M",
+            "Driscoll, Daniel P",
+            "Patel, Kashyap",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10dc-atf-topart-kjlg/10dc-atf-topart-kjlg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Bureau of Alcohol, Tobacco, Firearms and Explosives tends to draw intense scrutiny during bursts of regulatory activity under Democratic presidents, then recede into obscurity when Republicans return and reverse those regulations.",
+                "copyright": "Tamir Kalifa for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10dc-atf-topart-kjlg/10dc-atf-topart-kjlg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Bureau of Alcohol, Tobacco, Firearms and Explosives tends to draw intense scrutiny during bursts of regulatory activity under Democratic presidents, then recede into obscurity when Republicans return and reverse those regulations.",
+                "copyright": "Tamir Kalifa for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10dc-atf-topart-kjlg/10dc-atf-topart-kjlg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Bureau of Alcohol, Tobacco, Firearms and Explosives tends to draw intense scrutiny during bursts of regulatory activity under Democratic presidents, then recede into obscurity when Republicans return and reverse those regulations.",
+                "copyright": "Tamir Kalifa for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Turkey and Israel Aim to Avoid Clashes in Syria as Tensions Rise",
+        "abstract": "The two sides have started talks to prevent conflicts between their troops in Syria, amid a growing rivalry for influence in the region.",
+        "url": "https://www.nytimes.com/2025/04/10/world/middleeast/syria-turkey-israel-talks.html",
+        "uri": "nyt://article/efa215a6-f873-5f2c-9e97-ac8f5fccc24c",
+        "byline": "By Carlotta Gall",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T15:49:16-04:00",
+        "created_date": "2025-04-10T13:59:25-04:00",
+        "published_date": "2025-04-10T13:59:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )",
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+            "Syria",
+            "Turkey",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-syria-israel-turkey-talks-lcvf/10int-syria-israel-turkey-talks-lcvf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The scene of an Israeli strike in Syria’s southern Hama governorate last week.",
+                "copyright": "Abdulaziz Ketaz/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-syria-israel-turkey-talks-lcvf/10int-syria-israel-turkey-talks-lcvf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The scene of an Israeli strike in Syria’s southern Hama governorate last week.",
+                "copyright": "Abdulaziz Ketaz/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-syria-israel-turkey-talks-lcvf/10int-syria-israel-turkey-talks-lcvf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The scene of an Israeli strike in Syria’s southern Hama governorate last week.",
+                "copyright": "Abdulaziz Ketaz/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Plane Carrying 6 Members of Congress Is Clipped at Reagan Airport",
+        "abstract": "Two American Airlines jets clipped wings on a taxiway, officials said. Representative Grace Meng said that, in 10 years of flying to and from Washington, “This has never happened to me.”",
+        "url": "https://www.nytimes.com/2025/04/10/us/reagan-airport-planes-clip-wings.html",
+        "uri": "nyt://article/9d9484c1-691d-5707-a1eb-3407cf4d992a",
+        "byline": "By Neil Vigdor",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T15:49:20-04:00",
+        "created_date": "2025-04-10T15:44:01-04:00",
+        "published_date": "2025-04-10T15:44:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Airlines and Airplanes",
+            "Airports",
+            "Aviation Accidents, Safety and Disasters"
+        ],
+        "org_facet": [
+            "American Airlines",
+            "House of Representatives",
+            "Reagan, Ronald, Washington National Airport"
+        ],
+        "per_facet": [
+            "LaLota, Nicholas",
+            "Meng, Grace",
+            "Espaillat, Adriano D",
+            "Gottheimer, Joshua S (1975- )",
+            "Meeks, Gregory W",
+            "Torres, Ritchie (1988- )"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-plane-tbhw/10xp-plane-tbhw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "American Airlines planes at Reagan Airport in February. An American Airlines plane clipped wings with a regional jet on a taxi runway on Thursday.",
+                "copyright": "Al Drago for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-plane-tbhw/10xp-plane-tbhw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "American Airlines planes at Reagan Airport in February. An American Airlines plane clipped wings with a regional jet on a taxi runway on Thursday.",
+                "copyright": "Al Drago for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-plane-tbhw/10xp-plane-tbhw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "American Airlines planes at Reagan Airport in February. An American Airlines plane clipped wings with a regional jet on a taxi runway on Thursday.",
+                "copyright": "Al Drago for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "If You See This Creepy Fish, Cut Its Head Off",
+        "abstract": "The invasive northern snakehead, which has recently been appearing in Missouri and other states, must be eradicated, officials say.",
+        "url": "https://www.nytimes.com/2025/04/10/us/snakehead-fish-missouri.html",
+        "uri": "nyt://article/efc30ffe-a636-5b16-89c8-9a6bbe2ecf28",
+        "byline": "By Victor Mather",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T14:49:42-04:00",
+        "created_date": "2025-04-10T14:39:07-04:00",
+        "published_date": "2025-04-10T14:39:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Fishing, Sport",
+            "Fish and Other Marine Life",
+            "Invasive Species",
+            "Seafood"
+        ],
+        "org_facet": [
+            "Fish and Wildlife Service"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Missouri",
+            "Pennsylvania"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-fish-copy-promo/10xp-fish-copy-promo-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1997,
+                "width": 1996,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A northern snakehead. You know what to do.",
+                "copyright": "Ryan Hagerty/USFWS"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-fish-copy-promo/10xp-fish-copy-promo-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A northern snakehead. You know what to do.",
+                "copyright": "Ryan Hagerty/USFWS"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-fish-copy-promo/10xp-fish-copy-promo-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A northern snakehead. You know what to do.",
+                "copyright": "Ryan Hagerty/USFWS"
+            }
+        ],
+        "short_url": ""
     }
 ]
