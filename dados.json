@@ -29225,5 +29225,63 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump’s Targeting of Homeless Agency Signals Sharp Shift in Policy",
+        "abstract": "The president has all but shut down the United States Interagency Council on Homelessness, but his real goal appears to be a fundamental change of approach for getting people off the streets.",
+        "url": "https://www.nytimes.com/2025/04/09/us/politics/trump-homelessness.html",
+        "uri": "nyt://article/4827ac03-4f6d-5154-a5c9-490563eda385",
+        "byline": "By Jason DeParle",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T17:38:26-04:00",
+        "created_date": "2025-04-09T16:57:23-04:00",
+        "published_date": "2025-04-09T16:57:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Homeless Persons",
+            "Federal Aid (US)",
+            "United States Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-homeless-01-pbvg/09dc-homeless-01-pbvg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People at a homeless encampment in New Orleans that was shut down in January. Housing First programs were once the product of bipartisan consensus, but they are now being targeted by conservatives.",
+                "copyright": "Kathleen Flynn for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-homeless-01-pbvg/09dc-homeless-01-pbvg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People at a homeless encampment in New Orleans that was shut down in January. Housing First programs were once the product of bipartisan consensus, but they are now being targeted by conservatives.",
+                "copyright": "Kathleen Flynn for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-homeless-01-pbvg/09dc-homeless-01-pbvg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People at a homeless encampment in New Orleans that was shut down in January. Housing First programs were once the product of bipartisan consensus, but they are now being targeted by conservatives.",
+                "copyright": "Kathleen Flynn for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
