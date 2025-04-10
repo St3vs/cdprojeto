@@ -28742,5 +28742,262 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Reverses Course on Global Tariffs, Announcing 90-Day Pause",
+        "abstract": "The president further raised already steep tariffs on China, saying that Beijing should not have retaliated against his earlier trade actions.",
+        "url": "https://www.nytimes.com/2025/04/09/us/politics/trump-tariffs-stocks-china.html",
+        "uri": "nyt://article/66852ae4-b61f-5a5c-a3c1-a0e293e08c06",
+        "byline": "By Ana Swanson and Tony Romm",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T19:57:46-04:00",
+        "created_date": "2025-04-09T16:16:38-04:00",
+        "published_date": "2025-04-09T16:16:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "International Trade and World Market",
+            "United States Economy",
+            "United States International Relations",
+            "United States Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Bessent, Scott"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-pause-hzwk/09markets-tariffs-pause-hzwk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1152,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-pause-hzwk/09markets-tariffs-pause-hzwk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-pause-hzwk/09markets-tariffs-pause-hzwk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "House Votes to Curb National Injunctions, Targeting Judges Who Thwart Trump",
+        "abstract": "The legislation is part of an escalating Republican campaign to take aim at judges who have moved to halt some of President Trump’s executive orders.",
+        "url": "https://www.nytimes.com/2025/04/09/us/politics/house-vote-federal-judges-trump.html",
+        "uri": "nyt://article/76de82bf-1028-59e9-a574-2bb9032b9bcd",
+        "byline": "By Michael Gold",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T20:07:26-04:00",
+        "created_date": "2025-04-09T20:07:26-04:00",
+        "published_date": "2025-04-09T20:07:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Law and Legislation",
+            "Federal Courts (US)",
+            "Courts and the Judiciary",
+            "Impeachment"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Boasberg, James E",
+            "Issa, Darrell E",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-judges-topart-kpfh/09dc-judges-topart-kpfh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Darrell Issa, Republican of California, introduced the bill barring federal district judges from issuing nationwide injunctions.",
+                "copyright": "Valerie Plesch for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-judges-topart-kpfh/09dc-judges-topart-kpfh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Darrell Issa, Republican of California, introduced the bill barring federal district judges from issuing nationwide injunctions.",
+                "copyright": "Valerie Plesch for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-judges-topart-kpfh/09dc-judges-topart-kpfh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Darrell Issa, Republican of California, introduced the bill barring federal district judges from issuing nationwide injunctions.",
+                "copyright": "Valerie Plesch for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "U.S. Slashes Many of the Aid Programs It Had Promised to Keep",
+        "abstract": "The U.N. food program said the new cuts “could amount to a death sentence” for millions of desperate people.",
+        "url": "https://www.nytimes.com/2025/04/09/us/politics/usaid-cuts.html",
+        "uri": "nyt://article/95b207f2-3432-5d26-b48f-506427209f71",
+        "byline": "By Karoun Demirjian and Edward Wong",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T19:03:57-04:00",
+        "created_date": "2025-04-09T16:22:54-04:00",
+        "published_date": "2025-04-09T16:22:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Federal Aid (US)",
+            "Food",
+            "Humanitarian Aid",
+            "Executive Orders and Memorandums"
+        ],
+        "org_facet": [
+            "President's Emergency Plan for AIDS Relief",
+            "United States Agency for International Development",
+            "World Food Program"
+        ],
+        "per_facet": [
+            "Marocco, Pete",
+            "Rubio, Marco",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-usaid-topart-jpzm/09dc-usaid-topart-jpzm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The World Food Program estimates that the loss of U.S. funding in Afghanistan will end food assistance that about two million people rely on, including approximately 400,000 malnourished children and mothers.",
+                "copyright": "Sayed Hassib/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-usaid-topart-jpzm/09dc-usaid-topart-jpzm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The World Food Program estimates that the loss of U.S. funding in Afghanistan will end food assistance that about two million people rely on, including approximately 400,000 malnourished children and mothers.",
+                "copyright": "Sayed Hassib/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-usaid-topart-jpzm/09dc-usaid-topart-jpzm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The World Food Program estimates that the loss of U.S. funding in Afghanistan will end food assistance that about two million people rely on, including approximately 400,000 malnourished children and mothers.",
+                "copyright": "Sayed Hassib/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Senate Panel Demands Information About Gaza Protest Group at Columbia",
+        "abstract": "Lawmakers want the university to turn over all its records about Students for Justice in Palestine. At Northwestern University, two professors sued over a separate request.",
+        "url": "https://www.nytimes.com/2025/04/09/nyregion/columbia-northwestern-gaza-congress.html",
+        "uri": "nyt://article/afe6b6bc-668c-5594-94ae-9f8fc5cb9894",
+        "byline": "By Colin Moynihan and Mitch Smith",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T19:55:31-04:00",
+        "created_date": "2025-04-09T19:55:31-04:00",
+        "published_date": "2025-04-09T19:55:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Pro-Palestinian Campus Protests (2023- )",
+            "Freedom of Speech and Expression",
+            "Palestinians",
+            "Suits and Litigation (Civil)"
+        ],
+        "org_facet": [
+            "Barnard College",
+            "Columbia University",
+            "House Committee on Education and Labor",
+            "Northwestern University",
+            "Students for Justice in Palestine"
+        ],
+        "per_facet": [
+            "Armstrong, Katrina A",
+            "Cassidy, Bill (1957- )",
+            "Khalil, Mahmoud (Activist)"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09met-sdny-columbia-tgpj/09met-sdny-columbia-tgpj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Columbia University’s campus was wracked by protests over the Gaza war. The political fallout continues.",
+                "copyright": "Bing Guan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09met-sdny-columbia-tgpj/09met-sdny-columbia-tgpj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Columbia University’s campus was wracked by protests over the Gaza war. The political fallout continues.",
+                "copyright": "Bing Guan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09met-sdny-columbia-tgpj/09met-sdny-columbia-tgpj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Columbia University’s campus was wracked by protests over the Gaza war. The political fallout continues.",
+                "copyright": "Bing Guan for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
