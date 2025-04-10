@@ -31026,5 +31026,128 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Death Toll in Dominican Republic Nightclub Hits 218",
+        "abstract": "The number of dead in a roof collapse in Santo Domingo keeps rising. Officials have not said how many people were in the club at the time of the disaster.",
+        "url": "https://www.nytimes.com/2025/04/10/world/americas/dominican-republic-nightclub-collapse-deaths.html",
+        "uri": "nyt://article/94ca8c00-6f82-5ce0-b803-24aee9c5682b",
+        "byline": "By Frances Robles",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T09:17:19-04:00",
+        "created_date": "2025-04-10T08:35:33-04:00",
+        "published_date": "2025-04-10T08:35:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Bars and Nightclubs",
+            "Deaths (Fatalities)",
+            "Roofs"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Dominican Republic"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-dominican-collapse-chgq/10int-dominican-collapse-chgq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers at the Jet Set nightclub in Santo Domingo, Dominican Republic, on Wednesday, the day after its roof collapsed, killing over 200 people.",
+                "copyright": "Francesco Spotorno/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-dominican-collapse-chgq/10int-dominican-collapse-chgq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers at the Jet Set nightclub in Santo Domingo, Dominican Republic, on Wednesday, the day after its roof collapsed, killing over 200 people.",
+                "copyright": "Francesco Spotorno/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-dominican-collapse-chgq/10int-dominican-collapse-chgq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers at the Jet Set nightclub in Santo Domingo, Dominican Republic, on Wednesday, the day after its roof collapsed, killing over 200 people.",
+                "copyright": "Francesco Spotorno/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "style",
+        "subsection": "",
+        "title": "Prada to Buy Versace for Nearly $1.4 Billion",
+        "abstract": "The deal is a big bet on the value of “Made In Italy.”",
+        "url": "https://www.nytimes.com/2025/04/10/style/prada-versace-deal.html",
+        "uri": "nyt://article/e56c1566-4338-5113-b92a-505d1686e3b1",
+        "byline": "By Vanessa Friedman",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T09:19:12-04:00",
+        "created_date": "2025-04-10T08:33:35-04:00",
+        "published_date": "2025-04-10T08:33:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Fashion and Apparel",
+            "Luxury Goods and Services",
+            "your-feed-fashion"
+        ],
+        "org_facet": [
+            "Capri Holdings Ltd",
+            "Prada SpA",
+            "Versace, Gianni, SpA"
+        ],
+        "per_facet": [
+            "Bertelli, Patrizio",
+            "Guerra, Andrea",
+            "Prada, Miuccia",
+            "Versace, Donatella"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10PRADA-VERSACE-wjzl/10PRADA-VERSACE-wjzl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Miuccia Prada, left, and Donatella Versace schmoozing at a party years before the deal.",
+                "copyright": "Michel Dufour/WireImage"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10PRADA-VERSACE-wjzl/10PRADA-VERSACE-wjzl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Miuccia Prada, left, and Donatella Versace schmoozing at a party years before the deal.",
+                "copyright": "Michel Dufour/WireImage"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10PRADA-VERSACE-wjzl/10PRADA-VERSACE-wjzl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Miuccia Prada, left, and Donatella Versace schmoozing at a party years before the deal.",
+                "copyright": "Michel Dufour/WireImage"
+            }
+        ],
+        "short_url": ""
     }
 ]
