@@ -30773,5 +30773,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "Live From London, It’s Saturday Night!",
+        "abstract": "A British version of the television sketch comedy program “Saturday Night Live” is set to debut in 2026.",
+        "url": "https://www.nytimes.com/2025/04/10/arts/television/saturday-night-live-snl-london-uk.html",
+        "uri": "nyt://article/6484662f-bfe9-5ce4-b934-ee2f0a4370e9",
+        "byline": "By Jonathan Wolfe",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T06:55:47-04:00",
+        "created_date": "2025-04-10T06:23:44-04:00",
+        "published_date": "2025-04-10T06:23:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Comedy and Humor",
+            "Television",
+            "Saturday Night Live (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Michaels, Lorne"
+        ],
+        "geo_facet": [
+            "Great Britain",
+            "London (England)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-snl-uk-vbfq/10xp-snl-uk-vbfq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1368,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lorne Michaels, the creator of “Saturday Night Live,” on set in New York City in February. A British version of the late-night comedy sketch show is set to premiere next year on Sky.",
+                "copyright": "Daniel Arnold for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-snl-uk-vbfq/10xp-snl-uk-vbfq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lorne Michaels, the creator of “Saturday Night Live,” on set in New York City in February. A British version of the late-night comedy sketch show is set to premiere next year on Sky.",
+                "copyright": "Daniel Arnold for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-snl-uk-vbfq/10xp-snl-uk-vbfq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lorne Michaels, the creator of “Saturday Night Live,” on set in New York City in February. A British version of the late-night comedy sketch show is set to premiere next year on Sky.",
+                "copyright": "Daniel Arnold for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
