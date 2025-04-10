@@ -29406,5 +29406,132 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "This Is No Way to Stop the World’s Trumps",
+        "abstract": "The proscribing of Marine Le Pen will do little to staunch support for the far right.",
+        "url": "https://www.nytimes.com/2025/04/10/opinion/le-pen-france-far-right.html",
+        "uri": "nyt://article/a8fede3c-0403-5791-b6d5-1c2b800e35cb",
+        "byline": "By David Broder",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T01:00:05-04:00",
+        "created_date": "2025-04-10T01:00:05-04:00",
+        "published_date": "2025-04-10T01:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "Courts and the Judiciary",
+            "Embezzlement"
+        ],
+        "org_facet": [
+            "Alternative for Germany"
+        ],
+        "per_facet": [
+            "Le Pen, Marine",
+            "Trump, Donald J",
+            "Berlusconi, Silvio"
+        ],
+        "geo_facet": [
+            "France",
+            "Romania"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/10broder2-ktqz/10broder2-ktqz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Julien De Rosa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/10broder2-ktqz/10broder2-ktqz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Julien De Rosa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/10broder2-ktqz/10broder2-ktqz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Julien De Rosa/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Kim Shin-jo, a Failed North Korean Assassin, Dies as a Pastor in the South",
+        "abstract": "Kim Shin-jo famously said the mission of a hit squad sent by Pyongyang in 1968 was to “slit the throat” of the then South Korean dictator Park Chung-hee.",
+        "url": "https://www.nytimes.com/2025/04/10/world/asia/kim-shin-jo-dead.html",
+        "uri": "nyt://article/bebc7a17-c0e0-59fd-94b1-8dc0d4655a34",
+        "byline": "By Choe Sang-Hun",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T00:22:40-04:00",
+        "created_date": "2025-04-10T00:22:40-04:00",
+        "published_date": "2025-04-10T00:22:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Assassinations and Attempted Assassinations",
+            "Defectors (Political)",
+            "Cold War Era"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Park Chung-hee",
+            "Kim Il-sung"
+        ],
+        "geo_facet": [
+            "South Korea",
+            "North Korea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-skorea-obit-jlfq/10int-skorea-obit-jlfq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1373,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kim Shin-jo, the North Korean commando sent with a hit squad in 1968 to kill the then dictator of South Korea was the only one captured.",
+                "copyright": "United Press International/Bettmann Archive, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-skorea-obit-jlfq/10int-skorea-obit-jlfq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kim Shin-jo, the North Korean commando sent with a hit squad in 1968 to kill the then dictator of South Korea was the only one captured.",
+                "copyright": "United Press International/Bettmann Archive, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-skorea-obit-jlfq/10int-skorea-obit-jlfq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kim Shin-jo, the North Korean commando sent with a hit squad in 1968 to kill the then dictator of South Korea was the only one captured.",
+                "copyright": "United Press International/Bettmann Archive, via Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
