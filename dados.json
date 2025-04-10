@@ -32865,5 +32865,313 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Supreme Court Sides With Wrongly Deported Migrant",
+        "abstract": "A trial judge had ordered the Trump administration to take steps to return the migrant, Kilmar Armando Abrego Garcia, from a notorious prison in El Salvador.",
+        "url": "https://www.nytimes.com/2025/04/10/us/politics/supreme-court-wrongly-deported-migrant.html",
+        "uri": "nyt://article/5cc0e1cd-5ca1-5524-b527-8f84452c762d",
+        "byline": "By Adam Liptak",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T18:53:51-04:00",
+        "created_date": "2025-04-10T18:53:51-04:00",
+        "published_date": "2025-04-10T18:53:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Decisions and Verdicts",
+            "Illegal Immigration",
+            "United States Politics and Government",
+            "Deportation",
+            "Courts and the Judiciary",
+            "Presidential Power (US)"
+        ],
+        "org_facet": [
+            "Supreme Court (US)",
+            "Mara Salvatrucha (MS-13)"
+        ],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Roberts, John G Jr",
+            "Xinis, Paula"
+        ],
+        "geo_facet": [
+            "El Salvador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00dc-scotus-immig-topart-tpjh/00dc-scotus-immig-topart-tpjh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Stefania Vasquez Sura, second from right, during a demonstration in support of her husband, Kilmar Armando Abrego Garcia, in Greenbelt, Md., last week. Mr. Abrego Garcia’s lawyers have called his deportation “a Kafka-esque mistake.”",
+                "copyright": "Rod Lamkey Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00dc-scotus-immig-topart-tpjh/00dc-scotus-immig-topart-tpjh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Stefania Vasquez Sura, second from right, during a demonstration in support of her husband, Kilmar Armando Abrego Garcia, in Greenbelt, Md., last week. Mr. Abrego Garcia’s lawyers have called his deportation “a Kafka-esque mistake.”",
+                "copyright": "Rod Lamkey Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00dc-scotus-immig-topart-tpjh/00dc-scotus-immig-topart-tpjh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Stefania Vasquez Sura, second from right, during a demonstration in support of her husband, Kilmar Armando Abrego Garcia, in Greenbelt, Md., last week. Mr. Abrego Garcia’s lawyers have called his deportation “a Kafka-esque mistake.”",
+                "copyright": "Rod Lamkey Jr. for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Helicopters Pack New York’s Skies, Despite Years of Noise and Air Pollution Complaints",
+        "abstract": "Authorities say the industry has a roughly $50 million annual impact on the city, but the number of tourist helicopter flights has halved since 2016.",
+        "url": "https://www.nytimes.com/2025/04/10/nyregion/helicopters-pack-new-yorks-skies-despite-years-of-noise-and-air-pollution-complaints.html",
+        "uri": "nyt://article/35508703-fbd8-558a-b726-e2c68a04b451",
+        "byline": "By Christine Chung",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T18:55:52-04:00",
+        "created_date": "2025-04-10T18:55:52-04:00",
+        "published_date": "2025-04-10T18:55:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Aviation Accidents, Safety and Disasters",
+            "Helicopters",
+            "Travel and Vacations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10met-helicopter-crash-sightseeing-01-pbhz/10met-helicopter-crash-sightseeing-01-pbhz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1339,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sightseeing flights remain a major source of helicopter traffic in New York City, despite a decline in the number of flights in recent years.",
+                "copyright": "Gary Hershorn/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10met-helicopter-crash-sightseeing-01-pbhz/10met-helicopter-crash-sightseeing-01-pbhz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sightseeing flights remain a major source of helicopter traffic in New York City, despite a decline in the number of flights in recent years.",
+                "copyright": "Gary Hershorn/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10met-helicopter-crash-sightseeing-01-pbhz/10met-helicopter-crash-sightseeing-01-pbhz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sightseeing flights remain a major source of helicopter traffic in New York City, despite a decline in the number of flights in recent years.",
+                "copyright": "Gary Hershorn/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "personaltech",
+        "title": "Cheaper iPhones and Pixels Are Here. They Are Pretty Good.",
+        "abstract": "With tariffs threatening to drive up the costs of most things, the new entry-level phones from Apple and Google present a timely opportunity to save some bucks.",
+        "url": "https://www.nytimes.com/2025/04/10/technology/personaltech/iphone-16e-pixel-9a-cheaper-phone-models.html",
+        "uri": "nyt://article/a7e098d2-5e50-53a1-b46c-9df520e9c3ad",
+        "byline": "By Brian X. Chen",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T10:55:44-04:00",
+        "created_date": "2025-04-10T09:00:12-04:00",
+        "published_date": "2025-04-10T09:00:12-04:00",
+        "material_type_facet": "",
+        "kicker": "Tech Fix",
+        "des_facet": [
+            "Smartphones",
+            "iPhone",
+            "Computers and the Internet",
+            "Prices (Fares, Fees and Rates)",
+            "Computer and Video Games",
+            "Photography",
+            "Cameras"
+        ],
+        "org_facet": [
+            "Apple Inc",
+            "Google Inc"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/TECHFIX-1-vqbc/TECHFIX-1-vqbc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "From left, the iPhone 16e, iPhone 16, Google Pixel 9A and Google Pixel 9.",
+                "copyright": "Kelsey McClellan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/TECHFIX-1-vqbc/TECHFIX-1-vqbc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "From left, the iPhone 16e, iPhone 16, Google Pixel 9A and Google Pixel 9.",
+                "copyright": "Kelsey McClellan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/TECHFIX-1-vqbc/TECHFIX-1-vqbc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "From left, the iPhone 16e, iPhone 16, Google Pixel 9A and Google Pixel 9.",
+                "copyright": "Kelsey McClellan for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Tariff Angst Rises",
+        "abstract": "Also, six died after helicopter crashed in the Hudson River. Here’s the latest at the end of Thursday.",
+        "url": "https://www.nytimes.com/2025/04/10/briefing/tariffs-wall-street-helicopter-crash-hudson-river.html",
+        "uri": "nyt://article/c52ecddc-d276-5a70-a558-489b1c3f6c90",
+        "byline": "By Matthew Cullen",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T17:47:51-04:00",
+        "created_date": "2025-04-10T17:47:51-04:00",
+        "published_date": "2025-04-10T17:47:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/10evening-stocks/11ambriefing-asia-ny-stock-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The New York Stock Exchange.",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/10evening-stocks/11ambriefing-asia-ny-stock-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The New York Stock Exchange.",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/10evening-stocks/00BIZ-TARIFFS-INVESTORS-qklv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The New York Stock Exchange.",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "With a Jawbone, Scientists Expand the Ancient Range of a Mysterious Human Relative",
+        "abstract": "A bone discovered in Taiwan turns out to have belonged to a Denisovan, a lineage previously identified only thousands of miles away.",
+        "url": "https://www.nytimes.com/2025/04/10/science/archaeology-denisovan-taiwan.html",
+        "uri": "nyt://article/cc60eaba-92b4-555f-bc13-33d23a5d9160",
+        "byline": "By Carl Zimmer",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T15:34:34-04:00",
+        "created_date": "2025-04-10T14:00:10-04:00",
+        "published_date": "2025-04-10T14:00:10-04:00",
+        "material_type_facet": "",
+        "kicker": "ORIGINS",
+        "des_facet": [
+            "your-feed-science",
+            "Research",
+            "Denisova Hominid",
+            "Paleontology",
+            "Archaeology and Anthropology"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Frido Welker",
+            "Chun-Hsiang Chang"
+        ],
+        "geo_facet": [
+            "Denisova Cave (Siberia)",
+            "Taiwan",
+            "Laos",
+            "Tibet",
+            "Siberia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10HS-DENISOVAN-01-jbpq/10HS-DENISOVAN-01-jbpq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A jaw found in waters off Taiwan; scientists named it Penghu 1. New research indicates that it belonged to a Denisovan, an ancient lineage of humans related to Neanderthals.",
+                "copyright": "Yousuke Kaifu"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10HS-DENISOVAN-01-jbpq/10HS-DENISOVAN-01-jbpq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A jaw found in waters off Taiwan; scientists named it Penghu 1. New research indicates that it belonged to a Denisovan, an ancient lineage of humans related to Neanderthals.",
+                "copyright": "Yousuke Kaifu"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10HS-DENISOVAN-01-jbpq/10HS-DENISOVAN-01-jbpq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A jaw found in waters off Taiwan; scientists named it Penghu 1. New research indicates that it belonged to a Denisovan, an ancient lineage of humans related to Neanderthals.",
+                "copyright": "Yousuke Kaifu"
+            }
+        ],
+        "short_url": ""
     }
 ]
