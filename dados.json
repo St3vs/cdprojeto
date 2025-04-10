@@ -29657,5 +29657,1121 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump’s Encouragement of Stock Investors Draws Scrutiny",
+        "abstract": "Was the president manipulating the market with his comments, as his critics say, or reassuring Americans, as the White House maintains?",
+        "url": "https://www.nytimes.com/2025/04/09/us/politics/trump-stock-market.html",
+        "uri": "nyt://article/f264197e-0510-5bdf-b09f-571039e4225f",
+        "byline": "By Zolan Kanno-Youngs",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T22:42:49-04:00",
+        "created_date": "2025-04-09T22:42:49-04:00",
+        "published_date": "2025-04-09T22:42:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Securities and Commodities Violations",
+            "Stocks and Bonds",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Securities and Exchange Commission"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09dc-trump-markets-mfjb/09dc-trump-markets-mfjb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The New York Stock Exchange on Wednesday. Democrats and government ethics experts are asking whether President Trump, in pausing tariffs, gave the green light to his followers to cash in on a forthcoming rise in stock prices.",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09dc-trump-markets-mfjb/09dc-trump-markets-mfjb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The New York Stock Exchange on Wednesday. Democrats and government ethics experts are asking whether President Trump, in pausing tariffs, gave the green light to his followers to cash in on a forthcoming rise in stock prices.",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09dc-trump-markets-mfjb/09dc-trump-markets-mfjb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The New York Stock Exchange on Wednesday. Democrats and government ethics experts are asking whether President Trump, in pausing tariffs, gave the green light to his followers to cash in on a forthcoming rise in stock prices.",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "podcasts",
+        "subsection": "the-headlines",
+        "title": "Trump’s Drastic Tariff Turnaround, and Green Card Holders on Edge",
+        "abstract": "Plus, the soundtrack of America.",
+        "url": "https://www.nytimes.com/2025/04/10/podcasts/the-headlines/trump-tariff-green-card.html",
+        "uri": "nyt://article/20a19933-0ef6-5092-93a9-437eb1f034e1",
+        "byline": "By Tracy Mumford, Will Jarvis, Ian Stewart, Jessica Metzger, Ben Casselman and Miriam Jordan",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T06:00:10-04:00",
+        "created_date": "2025-04-10T06:00:10-04:00",
+        "published_date": "2025-04-10T06:00:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Immigration and Emigration",
+            "Pop and Rock Music"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10dc-Trump-headlines-1-zfct/10dc-Trump-headlines-1-zfct-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump on Wednesday abruptly reversed course on steep global tariffs that have roiled markets. The pause did not extend to China.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10dc-Trump-headlines-1-zfct/10dc-Trump-headlines-1-zfct-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump on Wednesday abruptly reversed course on steep global tariffs that have roiled markets. The pause did not extend to China.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10dc-Trump-headlines-1-zfct/10dc-Trump-headlines-1-zfct-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump on Wednesday abruptly reversed course on steep global tariffs that have roiled markets. The pause did not extend to China.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Trump Threatens Climate Policies in the States",
+        "abstract": "After halting federal attempts to combat global warming, President Trump is now targeting efforts by states to reduce greenhouse gases, setting up a legal clash.",
+        "url": "https://www.nytimes.com/2025/04/09/climate/trump-threatens-climate-policies-in-the-states.html",
+        "uri": "nyt://article/571c31ea-4293-51e2-b196-094324317dd2",
+        "byline": "By Lisa Friedman",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T05:37:55-04:00",
+        "created_date": "2025-04-09T18:26:03-04:00",
+        "published_date": "2025-04-09T18:26:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "United States Politics and Government",
+            "Federal-State Relations (US)",
+            "Law and Legislation",
+            "Executive Orders and Memorandums",
+            "Pollution",
+            "Coal",
+            "Oil (Petroleum) and Gasoline"
+        ],
+        "org_facet": [
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09cli-trump-states-bwtz/09cli-trump-states-bwtz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1370,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump’s executive order appeared to be directed at state measures that limit use of fossil fuels or hold fossil fuel companies liable for environmental damage.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09cli-trump-states-bwtz/09cli-trump-states-bwtz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump’s executive order appeared to be directed at state measures that limit use of fossil fuels or hold fossil fuel companies liable for environmental damage.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09cli-trump-states-bwtz/09cli-trump-states-bwtz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump’s executive order appeared to be directed at state measures that limit use of fossil fuels or hold fossil fuel companies liable for environmental damage.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Team Divided Over Future of U.S. Counterterrorism Operations in Somalia",
+        "abstract": "Some State Department officials have proposed closing the embassy in Mogadishu, the Somali capital, as a precaution after recent gains by Al Shabab militants.",
+        "url": "https://www.nytimes.com/2025/04/10/us/politics/us-embassy-somalia-future-trump.html",
+        "uri": "nyt://article/16fe0b0b-20b0-5dc1-b1e9-f3355f57ba50",
+        "byline": "By Charlie Savage and Eric Schmitt",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T05:01:24-04:00",
+        "created_date": "2025-04-10T05:01:24-04:00",
+        "published_date": "2025-04-10T05:01:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Terrorism",
+            "United States Politics and Government",
+            "United States International Relations"
+        ],
+        "org_facet": [
+            "Al Qaeda",
+            "Defense Department"
+        ],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Gorka, Sebastian",
+            "Langley, Michael E",
+            "Trump, Donald J",
+            "Mohamud, Hassan Sheikh"
+        ],
+        "geo_facet": [
+            "Afghanistan",
+            "Somalia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/dc-somalia2-mjlz/dc-somalia2-mjlz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A United States special operations forces trainer speaking to Danab recruits in 2023. The United States has trained and equipping vetted units of Somalia’s special forces, known as the Danab.",
+                "copyright": "Diana Zeyneb Alhindawi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/dc-somalia2-mjlz/dc-somalia2-mjlz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A United States special operations forces trainer speaking to Danab recruits in 2023. The United States has trained and equipping vetted units of Somalia’s special forces, known as the Danab.",
+                "copyright": "Diana Zeyneb Alhindawi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/dc-somalia2-mjlz/dc-somalia2-mjlz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A United States special operations forces trainer speaking to Danab recruits in 2023. The United States has trained and equipping vetted units of Somalia’s special forces, known as the Danab.",
+                "copyright": "Diana Zeyneb Alhindawi for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "As His Chronic Disease Tour Wraps, Kennedy Hits His Stride",
+        "abstract": "The health secretary seemed stoic — maybe nervous, even — at the start of his first major trip. But on a hike with Navajo Nation leaders, he was finally in his element.",
+        "url": "https://www.nytimes.com/2025/04/09/health/rfk-jr-maha-tour-navajo.html",
+        "uri": "nyt://article/deb6964c-2d18-5ca6-b793-2a936ded0e94",
+        "byline": "By Emily Baumgaertner Nunn",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T21:17:57-04:00",
+        "created_date": "2025-04-09T19:27:12-04:00",
+        "published_date": "2025-04-09T19:27:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Native Americans",
+            "Chronic Condition (Health)",
+            "your-feed-healthcare"
+        ],
+        "org_facet": [
+            "Health and Human Services Department",
+            "Indian Health Service"
+        ],
+        "per_facet": [
+            "Kennedy, Robert F Jr"
+        ],
+        "geo_facet": [
+            "Window Rock (Ariz)",
+            "Gallup (NM)",
+            "Phoenix (Ariz)",
+            "Salt Lake City (Utah)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09HS-RFK-TOUR-promo-qtkg/09HS-RFK-TOUR-promo-qtkg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ash Ponders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09HS-RFK-TOUR-promo-qtkg/09HS-RFK-TOUR-promo-qtkg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ash Ponders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09HS-RFK-TOUR-promo-qtkg/09HS-RFK-TOUR-promo-qtkg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ash Ponders for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "How Hamas and the U.S. Tried to Strike a Hostage Deal",
+        "abstract": "Officials met Hamas three times, breaking with a policy against contacting a group the U.S. considers a terrorist organization. But Israeli opposition and shifting positions doomed the effort.",
+        "url": "https://www.nytimes.com/2025/04/10/world/middleeast/trump-israel-hamas-hostages.html",
+        "uri": "nyt://article/8101e4d2-a035-551c-a804-31d3dd05d44f",
+        "byline": "By Adam Rasgon and Ronen Bergman",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T06:03:33-04:00",
+        "created_date": "2025-04-10T05:42:40-04:00",
+        "published_date": "2025-04-10T05:42:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Kidnapping and Hostages",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [
+            "Witkoff, Steven"
+        ],
+        "geo_facet": [
+            "Israel",
+            "Gaza Strip",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00int-us-hamas-01-qtvg/00int-us-hamas-01-qtvg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Demonstrators holding posters of hostages, including Edan Alexander, a dual Israeli and American citizen, in Tel Aviv.",
+                "copyright": "Ahmad Gharabli/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00int-us-hamas-01-qtvg/00int-us-hamas-01-qtvg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Demonstrators holding posters of hostages, including Edan Alexander, a dual Israeli and American citizen, in Tel Aviv.",
+                "copyright": "Ahmad Gharabli/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00int-us-hamas-01-qtvg/00int-us-hamas-01-qtvg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Demonstrators holding posters of hostages, including Edan Alexander, a dual Israeli and American citizen, in Tel Aviv.",
+                "copyright": "Ahmad Gharabli/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Sidelined and Still Processing Her Defeat, Harris Looks for a Way Back In",
+        "abstract": "A successful campaign for governor of California in 2026, Kamala Harris has told allies, would give her a prominent perch from which to push back against President Trump and defend Democratic priorities.",
+        "url": "https://www.nytimes.com/2025/04/10/us/politics/kamala-harris-president-california-governor.html",
+        "uri": "nyt://article/c292178f-8db0-5f7b-a02b-04a32d2563ac",
+        "byline": "By Lisa Lerer, Tyler Pager, Shane Goldmacher and Erica L. Green",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T05:01:35-04:00",
+        "created_date": "2025-04-10T05:01:35-04:00",
+        "published_date": "2025-04-10T05:01:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Presidential Election of 2024",
+            "Elections, Governors",
+            "Presidential Election of 2028",
+            "Southern California Wildfires (Jan 2025)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Harris, Kamala D",
+            "Emhoff, Douglas C",
+            "Kounalakis, Eleni",
+            "Porter, Katie (1974- )",
+            "Villaraigosa, Antonio",
+            "Walz, Tim"
+        ],
+        "geo_facet": [
+            "California"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/pol-harris3-twzj/pol-harris3-twzj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Former Vice President Kamala Harris has not decided her next move, but some of her closest allies say she is leaning toward a run for governor of California that would all but foreclose the possibility of running for president in the next election.",
+                "copyright": "Etienne Laurent/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/pol-harris3-twzj/pol-harris3-twzj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Former Vice President Kamala Harris has not decided her next move, but some of her closest allies say she is leaning toward a run for governor of California that would all but foreclose the possibility of running for president in the next election.",
+                "copyright": "Etienne Laurent/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/pol-harris3-twzj/pol-harris3-twzj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Former Vice President Kamala Harris has not decided her next move, but some of her closest allies say she is leaning toward a run for governor of California that would all but foreclose the possibility of running for president in the next election.",
+                "copyright": "Etienne Laurent/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "The Next Generation of Democrats Don’t Plan to Wait Their Turn",
+        "abstract": "Younger Democrats are announcing runs for office — sometimes against incumbents — in an expression of frustration with the establishment.",
+        "url": "https://www.nytimes.com/2025/04/10/us/politics/young-democrats-trump.html",
+        "uri": "nyt://article/599e4d25-3e83-5d6b-aff4-fa8fc37a148d",
+        "byline": "By Kellen Browning",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T05:02:23-04:00",
+        "created_date": "2025-04-10T05:02:23-04:00",
+        "published_date": "2025-04-10T05:02:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Presidential Election of 2024",
+            "Elections, House of Representatives",
+            "Primaries and Caucuses"
+        ],
+        "org_facet": [
+            "Democratic Party",
+            "Run for Something (Nonprofit)"
+        ],
+        "per_facet": [
+            "Hornedo, George",
+            "Abughazaleh, Kat",
+            "Foxx, Deja"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09pol-youngactivists-01-cqtl/09pol-youngactivists-01-cqtl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "George Hornedo, 34, announced on Wednesday that he would challenge Representative André Carson of Indiana, 50, in the Democratic primary next year.",
+                "copyright": "AJ Mast for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09pol-youngactivists-01-cqtl/09pol-youngactivists-01-cqtl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "George Hornedo, 34, announced on Wednesday that he would challenge Representative André Carson of Indiana, 50, in the Democratic primary next year.",
+                "copyright": "AJ Mast for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09pol-youngactivists-01-cqtl/09pol-youngactivists-01-cqtl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "George Hornedo, 34, announced on Wednesday that he would challenge Representative André Carson of Indiana, 50, in the Democratic primary next year.",
+                "copyright": "AJ Mast for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "well",
+        "subsection": "",
+        "title": "5 Science-Backed Longevity ‘Hacks’ That Don’t Cost a Fortune",
+        "abstract": "You don’t need a $40,000 gym membership to live a longer, healthier life.",
+        "url": "https://www.nytimes.com/2025/04/10/well/longevity-low-cost-tips.html",
+        "uri": "nyt://article/9cdc7b33-df3b-5aac-b765-e79fde1fcb30",
+        "byline": "By Mohana Ravindranath",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T05:39:49-04:00",
+        "created_date": "2025-04-10T05:00:51-04:00",
+        "published_date": "2025-04-10T05:00:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Longevity",
+            "Sleep",
+            "Loneliness",
+            "Vegetables",
+            "Content Type: Service",
+            "Exercise",
+            "Psychiatry and Psychiatrists",
+            "Tests (Medical)",
+            "Budgets and Budgeting",
+            "Diet and Nutrition",
+            "Blood",
+            "Anxiety and Stress",
+            "Health Clubs",
+            "High Net Worth Individuals",
+            "Heart",
+            "Personal Finances",
+            "Research",
+            "Fruit",
+            "Weight Lifting",
+            "Prices (Fares, Fees and Rates)",
+            "Psychedelic and Hallucinogenic Drugs",
+            "Dietary Supplements and Herbal Remedies",
+            "Medicine and Health"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/well/10WELL-LONGEVITY-BUDGET-image/10WELL-LONGEVITY-BUDGET-image-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Kate Dehler"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/well/10WELL-LONGEVITY-BUDGET-image/10WELL-LONGEVITY-BUDGET-image-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Kate Dehler"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/well/10WELL-LONGEVITY-BUDGET-image/10WELL-LONGEVITY-BUDGET-image-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Kate Dehler"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Inflation Expected to Have Eased in March",
+        "abstract": "Policymakers and economists say the latest data is only a temporary reprieve as tariffs risk stoking higher inflation.",
+        "url": "https://www.nytimes.com/2025/04/10/business/inflation-cpi-tariffs-march.html",
+        "uri": "nyt://article/9074ecf4-3e8a-5cfd-9168-b1d0fd260905",
+        "byline": "By Colby Smith",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T05:46:35-04:00",
+        "created_date": "2025-04-10T05:02:38-04:00",
+        "published_date": "2025-04-10T05:02:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Inflation (Economics)",
+            "United States Economy",
+            "Consumer Behavior",
+            "Prices (Fares, Fees and Rates)",
+            "Interest Rates"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10inflation-plqv/10inflation-plqv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Policymakers are closely monitoring surveys of consumers, in case they suggest that Americans are becoming worried about inflation staying persistently high.",
+                "copyright": "Mark Abramson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10inflation-plqv/10inflation-plqv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Policymakers are closely monitoring surveys of consumers, in case they suggest that Americans are becoming worried about inflation staying persistently high.",
+                "copyright": "Mark Abramson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10inflation-plqv/10inflation-plqv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Policymakers are closely monitoring surveys of consumers, in case they suggest that Americans are becoming worried about inflation staying persistently high.",
+                "copyright": "Mark Abramson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "magazine",
+        "subsection": "",
+        "title": "Why America Should Sprawl",
+        "abstract": "The word has become an epithet for garish, reckless growth — but to fix the housing crisis, the country needs more of it.",
+        "url": "https://www.nytimes.com/2025/04/10/magazine/suburban-sprawl-texas.html",
+        "uri": "nyt://article/ea8de238-578b-54ee-8dc7-fceae45c61ba",
+        "byline": "By Conor Dougherty",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T05:01:28-04:00",
+        "created_date": "2025-04-10T05:01:28-04:00",
+        "published_date": "2025-04-10T05:01:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Suburbs",
+            "Affordable Housing",
+            "Urban Areas",
+            "Real Estate and Housing (Residential)",
+            "Area Planning and Renewal"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Perot, Ross Jr"
+        ],
+        "geo_facet": [
+            "Dallas (Tex)",
+            "California"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/magazine/13mag-Sprawl-images/13mag-Sprawl-images-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1535,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "[PHOTO INFO: Princeton, Texas.] Replace: VIDEO TOPPER",
+                "copyright": "Dan Winters for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/magazine/13mag-Sprawl-images/13mag-Sprawl-images-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "[PHOTO INFO: Princeton, Texas.] Replace: VIDEO TOPPER",
+                "copyright": "Dan Winters for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/magazine/13mag-Sprawl-images/13mag-Sprawl-images-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "[PHOTO INFO: Princeton, Texas.] Replace: VIDEO TOPPER",
+                "copyright": "Dan Winters for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russia Freed a Detained American, Rubio Says",
+        "abstract": "The detainee, Ksenia Karelina, had been sentenced to 12 years in prison over a one-time donation to a Ukrainian charity group.",
+        "url": "https://www.nytimes.com/2025/04/10/world/europe/russia-us-ksenia-karelina-swap.html",
+        "uri": "nyt://article/039c11b0-d361-5823-8e74-5a726537be9a",
+        "byline": "By Nataliya Vasilyeva",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T05:34:58-04:00",
+        "created_date": "2025-04-10T05:34:58-04:00",
+        "published_date": "2025-04-10T05:34:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Karelina, Ksenia",
+            "Biden, Joseph R Jr",
+            "Rubio, Marco",
+            "Trump, Donald J",
+            "Witkoff, Steven",
+            "Putin, Vladimir V"
+        ],
+        "geo_facet": [
+            "Russia",
+            "United States",
+            "Abu Dhabi (United Arab Emirates)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10russia-us-swap-hqzl/10russia-us-swap-hqzl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ksenia Karelina at a court in Yekaterinburg, Russia, in August.",
+                "copyright": "EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10russia-us-swap-hqzl/10russia-us-swap-hqzl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 399,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ksenia Karelina at a court in Yekaterinburg, Russia, in August.",
+                "copyright": "EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10russia-us-swap-hqzl/10russia-us-swap-hqzl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ksenia Karelina at a court in Yekaterinburg, Russia, in August.",
+                "copyright": "EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Outside His Political Base, a Canadian’s Trumpian Pitch Is a Harder Sell",
+        "abstract": "Pierre Poilievre, the Conservative seeking to become prime minister, fires up the faithful in Alberta, including Trump supporters, with his anti-elitist, anti-woke message.",
+        "url": "https://www.nytimes.com/2025/04/10/world/americas/poilievre-populism-alberta.html",
+        "uri": "nyt://article/17a7474a-79b0-569f-8f91-837e09f1644a",
+        "byline": "By Norimitsu Onishi and Amber Bracken",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T05:03:01-04:00",
+        "created_date": "2025-04-10T05:03:01-04:00",
+        "published_date": "2025-04-10T05:03:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Populism (Theory and Philosophy)",
+            "Politics and Government",
+            "Oil (Petroleum) and Gasoline",
+            "Elections",
+            "Pipelines"
+        ],
+        "org_facet": [
+            "Conservative Party (Canada)",
+            "Liberal Party (Canada)"
+        ],
+        "per_facet": [
+            "Poilievre, Pierre",
+            "Carney, Mark J",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Alberta (Canada)",
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/world/10int-alberta-poilievre-promo/10int-alberta-poilievre-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pierre Poilievre, the Conservative party leader, speaking during a rally this week in Nisku, just south of Edmonton, Alberta.",
+                "copyright": "Amber Bracken for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/world/10int-alberta-poilievre-promo/10int-alberta-poilievre-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pierre Poilievre, the Conservative party leader, speaking during a rally this week in Nisku, just south of Edmonton, Alberta.",
+                "copyright": "Amber Bracken for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/world/10int-alberta-poilievre-promo/10int-alberta-poilievre-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pierre Poilievre, the Conservative party leader, speaking during a rally this week in Nisku, just south of Edmonton, Alberta.",
+                "copyright": "Amber Bracken for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Amid Calls to Reform Bail, Judges in St. Louis Embrace Ankle Monitors",
+        "abstract": "Proponents say the devices have helped address inequities in the criminal justice system. But many defendants have experienced unintended consequences.",
+        "url": "https://www.nytimes.com/2025/04/10/us/st-louis-ankle-monitors.html",
+        "uri": "nyt://article/8f4f128b-a883-552c-9b4e-f176b91deff2",
+        "byline": "By Taylor Tiamoyo Harris",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T06:13:29-04:00",
+        "created_date": "2025-04-10T05:00:29-04:00",
+        "published_date": "2025-04-10T05:00:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "internal-open-access",
+            "Criminal Justice",
+            "Bail",
+            "Courts and the Judiciary",
+            "Civil Rights and Liberties"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "St Louis (Mo)",
+            "Missouri",
+            "St Louis County (Mo)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/07/multimedia/00st-louis-bond-violations-cflq/00st-louis-bond-violations-cflq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1418,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "After Khyla Mason was arrested and charged with unlawful use of a weapon, she was released with an ankle monitor.",
+                "copyright": "Julia Rendleman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/07/multimedia/00st-louis-bond-violations-cflq/00st-louis-bond-violations-cflq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "After Khyla Mason was arrested and charged with unlawful use of a weapon, she was released with an ankle monitor.",
+                "copyright": "Julia Rendleman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/07/multimedia/00st-louis-bond-violations-cflq/00st-louis-bond-violations-cflq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "After Khyla Mason was arrested and charged with unlawful use of a weapon, she was released with an ankle monitor.",
+                "copyright": "Julia Rendleman for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "The Masters: A Gesundheit Unlike Any Other",
+        "abstract": "The grass and trees at Augusta National Golf Club help make the course a treasure — but also an allergy nightmare.",
+        "url": "https://www.nytimes.com/2025/04/10/us/masters-augusta-pollen-allergies.html",
+        "uri": "nyt://article/49008631-f5be-5371-b99a-9fe1e35861bb",
+        "byline": "By Alan Blinder and Doug Mills",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T05:00:46-04:00",
+        "created_date": "2025-04-10T05:00:46-04:00",
+        "published_date": "2025-04-10T05:00:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Golf",
+            "Masters Golf Tournament",
+            "Allergies",
+            "Pollen",
+            "Grass",
+            "Flowers and Plants",
+            "Respiratory Diseases",
+            "Gardens and Gardening",
+            "Forests and Forestry",
+            "Trees and Shrubs",
+            "Antihistamines"
+        ],
+        "org_facet": [
+            "Augusta National Golf Club"
+        ],
+        "per_facet": [
+            "Norman, Greg",
+            "Woods, Tiger",
+            "Rose, Justin"
+        ],
+        "geo_facet": [
+            "Augusta (Ga)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10nat-masters-allergies-top-tzgp/10nat-masters-allergies-top-tzgp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The sprawling oak tree, more than 150 years old, near the first tee and clubhouse at Augusta National Golf Club, where the Masters Tournament begins on Thursday.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10nat-masters-allergies-top-tzgp/10nat-masters-allergies-top-tzgp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The sprawling oak tree, more than 150 years old, near the first tee and clubhouse at Augusta National Golf Club, where the Masters Tournament begins on Thursday.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10nat-masters-allergies-top-tzgp/10nat-masters-allergies-top-tzgp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The sprawling oak tree, more than 150 years old, near the first tee and clubhouse at Augusta National Golf Club, where the Masters Tournament begins on Thursday.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Adams Is Allowing ICE to Return to Rikers. Here’s What to Know.",
+        "abstract": "Federal immigration officials had been barred from the New York City jail complex. The mayor says they can return, but only to work on criminal cases.",
+        "url": "https://www.nytimes.com/2025/04/10/nyregion/rikers-island-ice-adams-trump.html",
+        "uri": "nyt://article/1fb72238-abd8-5d4d-b232-59dc6f5ddb86",
+        "byline": "By Luis Ferré-Sadurní and Chelsia Rose Marcius",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T03:00:19-04:00",
+        "created_date": "2025-04-10T03:00:19-04:00",
+        "published_date": "2025-04-10T03:00:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Immigration Detention",
+            "Gangs"
+        ],
+        "org_facet": [
+            "City Council (NYC)",
+            "Correction Department (NYC)",
+            "Federal Bureau of Investigation",
+            "Mara Salvatrucha (MS-13)",
+            "Rikers Island Prison Complex",
+            "Tren de Aragua (Gang)",
+            "Immigration and Customs Enforcement (US)"
+        ],
+        "per_facet": [
+            "Adams, Eric L",
+            "Homan, Thomas D",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/met-rikers-legal-01-wjbg/met-rikers-legal-01-wjbg-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Immigration officials are being permitted to reestablish a presence on Rikers Island, the embattled New York City jail complex.",
+                "copyright": "José A. Alvarado Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/met-rikers-legal-01-wjbg/met-rikers-legal-01-wjbg-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Immigration officials are being permitted to reestablish a presence on Rikers Island, the embattled New York City jail complex.",
+                "copyright": "José A. Alvarado Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/met-rikers-legal-01-wjbg/met-rikers-legal-01-wjbg-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Immigration officials are being permitted to reestablish a presence on Rikers Island, the embattled New York City jail complex.",
+                "copyright": "José A. Alvarado Jr. for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "In the Bronx, a Battle Over the Future of Jennifer Lopez’s Alma Mater",
+        "abstract": "The religious order that owns Preston High School says it can no longer operate it. Supporters are appealing to the New York attorney general for help.",
+        "url": "https://www.nytimes.com/2025/04/10/nyregion/preston-high-school-bronx-jennifer-lopez-catholic.html",
+        "uri": "nyt://article/8d4749c6-c413-5a4a-897c-d9293449bcd5",
+        "byline": "By David Waldstein",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T03:43:32-04:00",
+        "created_date": "2025-04-10T03:00:14-04:00",
+        "published_date": "2025-04-10T03:00:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Shutdowns (Institutional)",
+            "Private and Sectarian Schools",
+            "Nuns",
+            "Education (Secondary)",
+            "Attorneys General"
+        ],
+        "org_facet": [
+            "Preston High School"
+        ],
+        "per_facet": [
+            "James, Letitia",
+            "Sisters of the Divine Compassion"
+        ],
+        "geo_facet": [
+            "Bronx (NYC)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/met-bronx-catholic-school-lvwm/met-bronx-catholic-school-lvwm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Andrea Donkor, seated, a Preston High School graduate and former board member of the school, at a public hearing about the proposed closure of the all-girls’ Catholic school.",
+                "copyright": "Elias Williams for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/met-bronx-catholic-school-lvwm/met-bronx-catholic-school-lvwm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Andrea Donkor, seated, a Preston High School graduate and former board member of the school, at a public hearing about the proposed closure of the all-girls’ Catholic school.",
+                "copyright": "Elias Williams for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/met-bronx-catholic-school-lvwm/met-bronx-catholic-school-lvwm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Andrea Donkor, seated, a Preston High School graduate and former board member of the school, at a public hearing about the proposed closure of the all-girls’ Catholic school.",
+                "copyright": "Elias Williams for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
