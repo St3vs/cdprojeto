@@ -31214,5 +31214,73 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Luigi Mangione Death Penalty Bid May Pit Prosecutors Against Each Other",
+        "abstract": "State and federal prosecutors have both accused Mr. Mangione of killing a health insurance executive. Attorney General Pam Bondi is pushing aggressively for capital punishment.",
+        "url": "https://www.nytimes.com/2025/04/10/nyregion/bondi-federal-death-penalty-mangione.html",
+        "uri": "nyt://article/a1db871a-3f97-5505-a24d-170e14670c24",
+        "byline": "By Hurubie Meko",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T10:09:40-04:00",
+        "created_date": "2025-04-10T10:09:40-04:00",
+        "published_date": "2025-04-10T10:09:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Assassinations and Attempted Assassinations",
+            "Capital Punishment",
+            "United States Attorneys"
+        ],
+        "org_facet": [
+            "Cardozo, Benjamin N, School of Law at Yeshiva University",
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Agnifilo, Karen Friedman",
+            "Bondi, Pamela J",
+            "Bragg, Alvin",
+            "Mangione, Luigi",
+            "Thompson, Brian (1974-2024)",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "New York State"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00met-mangione-cases-01-lbvm/00met-mangione-cases-01-lbvm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Luigi Mangione, accused of gunning down a health insurance executive, has attracted fervent support.",
+                "copyright": "Jefferson Siegel for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00met-mangione-cases-01-lbvm/00met-mangione-cases-01-lbvm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Luigi Mangione, accused of gunning down a health insurance executive, has attracted fervent support.",
+                "copyright": "Jefferson Siegel for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00met-mangione-cases-01-lbvm/00met-mangione-cases-01-lbvm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Luigi Mangione, accused of gunning down a health insurance executive, has attracted fervent support.",
+                "copyright": "Jefferson Siegel for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
