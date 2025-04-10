@@ -32662,5 +32662,208 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump, Offering Few Details, Insists ‘Everybody’ Wants to Make a Deal With the U.S.",
+        "abstract": "The administration says foreign governments are racing to the United States to negotiate, but exactly which countries might strike a deal — and over what — remains unclear.",
+        "url": "https://www.nytimes.com/2025/04/10/us/politics/trump-tariffs-trade-deals.html",
+        "uri": "nyt://article/2ea024dc-1945-5b2c-a3db-452daacbe5c6",
+        "byline": "By Maggie Haberman and Ana Swanson",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T18:11:03-04:00",
+        "created_date": "2025-04-10T17:47:48-04:00",
+        "published_date": "2025-04-10T17:47:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "United States Economy",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Commerce Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Lutnick, Howard W",
+            "Bessent, Scott",
+            "Hassett, Kevin A",
+            "Greer, Jamieson L",
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "China",
+            "Europe",
+            "Japan",
+            "Vietnam"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10DC-TRUMP-bfvp/10DC-TRUMP-bfvp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump and Secretary of State Marco Rubio during a cabinet meeting on Thursday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10DC-TRUMP-bfvp/10DC-TRUMP-bfvp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump and Secretary of State Marco Rubio during a cabinet meeting on Thursday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10DC-TRUMP-bfvp/10DC-TRUMP-bfvp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump and Secretary of State Marco Rubio during a cabinet meeting on Thursday.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "Nintendo Switch Game Console Release Is Whipsawed by Tariff Threats",
+        "abstract": "The company moved most of its manufacturing to Vietnam from China to avoid tariffs. But the unpredictability of President Trump’s plans have thrown Nintendo for a loop.",
+        "url": "https://www.nytimes.com/2025/04/10/technology/nintendo-switch-tariffs-trump.html",
+        "uri": "nyt://article/5134b769-1344-5e6f-9ba1-7cfa39b19002",
+        "byline": "By Eli Tan",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T13:47:47-04:00",
+        "created_date": "2025-04-10T13:47:47-04:00",
+        "published_date": "2025-04-10T13:47:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Computer and Video Games",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Prices (Fares, Fees and Rates)"
+        ],
+        "org_facet": [
+            "Nintendo Co Ltd"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Vietnam"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/biz-nintendo-tariffs-02-pgfv/biz-nintendo-tariffs-02-pgfv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People played the Nintendo Switch 2 video game console last week at an event in New York City.",
+                "copyright": "Ted Shaffrey/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/biz-nintendo-tariffs-02-pgfv/biz-nintendo-tariffs-02-pgfv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People played the Nintendo Switch 2 video game console last week at an event in New York City.",
+                "copyright": "Ted Shaffrey/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/biz-nintendo-tariffs-02-pgfv/biz-nintendo-tariffs-02-pgfv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People played the Nintendo Switch 2 video game console last week at an event in New York City.",
+                "copyright": "Ted Shaffrey/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Close to Winning Concessions From More Law Firms",
+        "abstract": "Four or five firms could soon agree to deals that would be unveiled as a package, in an escalation of the president’s crackdown on an industry that has drawn his ire.",
+        "url": "https://www.nytimes.com/2025/04/10/us/politics/trump-law-firms.html",
+        "uri": "nyt://article/fcee15ec-51ff-560e-9bae-623a9afba053",
+        "byline": "By Ben Protess, Maggie Haberman and Michael S. Schmidt",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T18:07:05-04:00",
+        "created_date": "2025-04-10T17:28:26-04:00",
+        "published_date": "2025-04-10T17:28:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Legal Profession",
+            "Presidential Power (US)",
+            "Executive Orders and Memorandums"
+        ],
+        "org_facet": [
+            "Cadwalader, Wickersham & Taft LLP",
+            "Jenner & Block",
+            "Kirkland & Ellis",
+            "Milbank LLP",
+            "Paul Weiss Rifkind Wharton & Garrison",
+            "Perkins Coie LLP",
+            "SIMPSON THACHER & BARTLETT",
+            "Skadden, Arps, Slate, Meagher & Flom LLP",
+            "Susman Godfrey LLP",
+            "Willkie Farr & Gallagher",
+            "Wilmer Cutler Pickering Hale and Dorr LLP"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10dc-trump-legal-topart-blmk/10dc-trump-legal-topart-blmk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In a cabinet meeting on Thursday, President Trump said four or five unnamed firms would reach deals with the administration, each committing to do $125 million worth of legal work on issues he supports. ",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10dc-trump-legal-topart-blmk/10dc-trump-legal-topart-blmk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In a cabinet meeting on Thursday, President Trump said four or five unnamed firms would reach deals with the administration, each committing to do $125 million worth of legal work on issues he supports. ",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10dc-trump-legal-topart-blmk/10dc-trump-legal-topart-blmk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In a cabinet meeting on Thursday, President Trump said four or five unnamed firms would reach deals with the administration, each committing to do $125 million worth of legal work on issues he supports. ",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
