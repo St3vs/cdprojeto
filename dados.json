@@ -29283,5 +29283,128 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "Inside Factories in China, a Struggle to Survive Trump’s Tariffs",
+        "abstract": "Small factories with tiny profit margins have played a central role in China’s international competitiveness. Many could now face disaster.",
+        "url": "https://www.nytimes.com/2025/04/09/business/economy/guangzhou-china-exports-tariffs.html",
+        "uri": "nyt://article/4e46f3e7-50e0-57be-908f-8d8d4709361c",
+        "byline": "By Keith Bradsher",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T23:50:28-04:00",
+        "created_date": "2025-04-09T23:50:28-04:00",
+        "published_date": "2025-04-09T23:50:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Factories and Manufacturing",
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Guangzhou (China)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/BIZ-TARIFF-GUANGZHOU-04-mjlq/BIZ-TARIFF-GUANGZHOU-04-mjlq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A small factory in Guangzhou, China, makes ovens, fryers and other equipment for restaurants and backyard barbecuers.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/BIZ-TARIFF-GUANGZHOU-04-mjlq/BIZ-TARIFF-GUANGZHOU-04-mjlq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A small factory in Guangzhou, China, makes ovens, fryers and other equipment for restaurants and backyard barbecuers.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/BIZ-TARIFF-GUANGZHOU-04-mjlq/BIZ-TARIFF-GUANGZHOU-04-mjlq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A small factory in Guangzhou, China, makes ovens, fryers and other equipment for restaurants and backyard barbecuers.",
+                "copyright": "Qilai Shen for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "How a Ukrainian Teen Became a Suspected Foot Soldier for Russia",
+        "abstract": "The teenager faces terrorism charges in an arson attack on an IKEA store in Lithuania. Investigators say it was part of a Russian sabotage campaign.",
+        "url": "https://www.nytimes.com/2025/04/10/world/europe/lithuania-ikea-fire-russia-sabotage.html",
+        "uri": "nyt://article/6d3dc092-29a7-5701-adfa-5f6cd7134010",
+        "byline": "By Andrew Higgins and Tomas Dapkus",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T00:01:05-04:00",
+        "created_date": "2025-04-10T00:01:05-04:00",
+        "published_date": "2025-04-10T00:01:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Terrorism",
+            "Espionage and Intelligence Services"
+        ],
+        "org_facet": [
+            "GRU (Russia)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Baltic Region",
+            "Kherson (Ukraine)",
+            "Lithuania",
+            "Poland"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/world/10int-lithuania-sabotage/10int-lithuania-sabotage-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Ikea in Vilnius, Lithuania, where Daniil Bardadim is accused of planting an incendiary device.",
+                "copyright": "Vytautas Kielaitis/Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/world/10int-lithuania-sabotage/10int-lithuania-sabotage-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Ikea in Vilnius, Lithuania, where Daniil Bardadim is accused of planting an incendiary device.",
+                "copyright": "Vytautas Kielaitis/Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/world/10int-lithuania-sabotage/10int-lithuania-sabotage-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Ikea in Vilnius, Lithuania, where Daniil Bardadim is accused of planting an incendiary device.",
+                "copyright": "Vytautas Kielaitis/Shutterstock"
+            }
+        ],
+        "short_url": ""
     }
 ]
