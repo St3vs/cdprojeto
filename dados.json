@@ -35659,5 +35659,189 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "dealbook",
+        "title": "Markets Worry About Finding an Exit From Trump’s Trade Fight",
+        "abstract": "Investors are concerned about the continued escalation of the U.S.-China tariff battle — and the state of the president’s negotiating leverage.",
+        "url": "https://www.nytimes.com/2025/04/11/business/dealbook/trump-tariffs-trade-assets.html",
+        "uri": "nyt://article/47086835-415e-5f87-b364-ee23812e65ab",
+        "byline": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Edmund Lee",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T08:20:41-04:00",
+        "created_date": "2025-04-11T07:38:27-04:00",
+        "published_date": "2025-04-11T07:38:27-04:00",
+        "material_type_facet": "",
+        "kicker": "DealBook Newsletter",
+        "des_facet": [
+            "internal-storyline-no",
+            "Customs (Tariff)",
+            "Protectionism (Trade)",
+            "US Dollar (Currency)",
+            "Government Bonds",
+            "United States Economy"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11db-trump-xi-qtpc/11db-trump-xi-qtpc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The gulf is widening between the United States and China over their tit-for-tat tariff clash.",
+                "copyright": "Kevin Lamarque/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11db-trump-xi-qtpc/11db-trump-xi-qtpc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The gulf is widening between the United States and China over their tit-for-tat tariff clash.",
+                "copyright": "Kevin Lamarque/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11db-trump-xi-qtpc/11db-trump-xi-qtpc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The gulf is widening between the United States and China over their tit-for-tat tariff clash.",
+                "copyright": "Kevin Lamarque/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Stay or Go? Israel’s Evacuation Orders Leave Gazans Facing an Excruciating Choice.",
+        "abstract": "A new declaration targeted eastern Gaza City, including several areas that had been declared evacuation zones. The United Nations said 390,000 people had been displaced in recent weeks.",
+        "url": "https://www.nytimes.com/2025/04/11/world/middleeast/israel-gaza-evacuations.html",
+        "uri": "nyt://article/7489b08d-b952-544e-a9a5-452288c3573b",
+        "byline": "By Adam Rasgon",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T07:10:55-04:00",
+        "created_date": "2025-04-11T07:10:55-04:00",
+        "published_date": "2025-04-11T07:10:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Palestinians",
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-gaza-evacuations-01-zhft/11int-gaza-evacuations-01-zhft-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palestinians in the Shajaiye neighborhood of Gaza City last week after an evacuation order.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-gaza-evacuations-01-zhft/11int-gaza-evacuations-01-zhft-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palestinians in the Shajaiye neighborhood of Gaza City last week after an evacuation order.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-gaza-evacuations-01-zhft/11int-gaza-evacuations-01-zhft-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palestinians in the Shajaiye neighborhood of Gaza City last week after an evacuation order.",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Effort to Get Starlink in South Africa Collides With Tension Over Musk",
+        "abstract": "A government official is preparing to ease Black ownership rules that Elon Musk claims are racist and prevent his satellite internet provider from operating in his native country.",
+        "url": "https://www.nytimes.com/2025/04/11/world/africa/starlink-south-africa-elon-musk.html",
+        "uri": "nyt://article/1c9f2202-40e3-57a5-a209-87208e274174",
+        "byline": "By John Eligon and Zimasa Matiwane",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T07:51:42-04:00",
+        "created_date": "2025-04-11T00:01:07-04:00",
+        "published_date": "2025-04-11T00:01:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Race and Ethnicity",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Starlink Satellite Constellation (SpaceX)"
+        ],
+        "per_facet": [
+            "Musk, Elon"
+        ],
+        "geo_facet": [
+            "South Africa"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10safrica-starlink-1-ptgc/10safrica-starlink-1-ptgc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1432,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Cyril Ramaphosa of South Africa answering lawmakers’ questions at Parliament in Cape Town, South Africa, last month.",
+                "copyright": "Esa Alexander/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10safrica-starlink-1-ptgc/10safrica-starlink-1-ptgc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Cyril Ramaphosa of South Africa answering lawmakers’ questions at Parliament in Cape Town, South Africa, last month.",
+                "copyright": "Esa Alexander/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10safrica-starlink-1-ptgc/10safrica-starlink-1-ptgc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Cyril Ramaphosa of South Africa answering lawmakers’ questions at Parliament in Cape Town, South Africa, last month.",
+                "copyright": "Esa Alexander/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
