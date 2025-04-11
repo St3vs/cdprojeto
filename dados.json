@@ -38052,5 +38052,300 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "F.B.I. Suspends Bureau Employee on Patel’s So-Called Enemies List",
+        "abstract": "The employee was a longtime counterintelligence analyst who had worked on the F.B.I.’s investigation examining Russian meddling in the 2016 presidential election.",
+        "url": "https://www.nytimes.com/2025/04/11/us/politics/fbi-suspends-employee-patel-enemies.html",
+        "uri": "nyt://article/b284484d-318d-5df0-a6c5-b052872049ff",
+        "byline": "By Adam Goldman",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T18:33:57-04:00",
+        "created_date": "2025-04-11T18:29:45-04:00",
+        "published_date": "2025-04-11T18:29:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Federal Criminal Case Against Trump (Documents Case)",
+            "Presidential Election of 2024"
+        ],
+        "org_facet": [
+            "Federal Bureau of Investigation",
+            "New York Post",
+            "Senate"
+        ],
+        "per_facet": [
+            "Biden, Hunter",
+            "Biden, Joseph R Jr",
+            "Durham, John H",
+            "Patel, Kashyap",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11dc-fbi-topart-qbmz/11dc-fbi-topart-qbmz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kash Patel, the F.B.I. director, told senators that the agency would not engage in retribution under his command.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11dc-fbi-topart-qbmz/11dc-fbi-topart-qbmz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kash Patel, the F.B.I. director, told senators that the agency would not engage in retribution under his command.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11dc-fbi-topart-qbmz/11dc-fbi-topart-qbmz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kash Patel, the F.B.I. director, told senators that the agency would not engage in retribution under his command.",
+                "copyright": "Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "A Judge Ordered the U.S. to Detail Its Efforts to Return a Deported Man",
+        "abstract": "Also, some Apple employees are worried about the company. Here's the latest at the end of Friday.",
+        "url": "https://www.nytimes.com/2025/04/11/briefing/court-hearing-deportation-bond-markets-tariffs.html",
+        "uri": "nyt://article/b48b8d1a-abe6-52ef-8e4d-e52bf3d84dc1",
+        "byline": "By Matthew Cullen",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T17:30:47-04:00",
+        "created_date": "2025-04-11T17:30:47-04:00",
+        "published_date": "2025-04-11T17:30:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11evening-nl-abrego-vtlf/11evening-nl-abrego-vtlf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2047,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Vasquez Sura, the wife of Kilmar Armando Abrego Garcia, today.",
+                "copyright": "Allison Robbert for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11evening-nl-abrego-vtlf/11evening-nl-abrego-vtlf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Vasquez Sura, the wife of Kilmar Armando Abrego Garcia, today.",
+                "copyright": "Allison Robbert for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11evening-nl-abrego-vtlf/11evening-nl-abrego-vtlf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Vasquez Sura, the wife of Kilmar Armando Abrego Garcia, today.",
+                "copyright": "Allison Robbert for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "style",
+        "subsection": "",
+        "title": "We Want to Hear About Your Dating and Relationship Experiences",
+        "abstract": "Third Wheel, a New York Times column about love, sex, dating and relationships, is seeking input from readers that will help shape our coverage.",
+        "url": "https://www.nytimes.com/2025/04/11/style/dating-relationship-experiences.html",
+        "uri": "nyt://article/120bb9c7-18b7-5d0b-9c23-6dddbc38b241",
+        "byline": "By Gina Cherelus",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T05:00:05-04:00",
+        "created_date": "2025-04-11T05:00:05-04:00",
+        "published_date": "2025-04-11T05:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "Third Wheel",
+        "des_facet": [
+            "Dating and Relationships"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2024/12/18/fashion/thirdwheel-callout-illo/thirdwheel-callout-illo-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2047,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Kimberly Elliott"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/12/18/fashion/thirdwheel-callout-illo/thirdwheel-callout-illo-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Kimberly Elliott"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/12/18/fashion/thirdwheel-callout-illo/thirdwheel-callout-illo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Kimberly Elliott"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "South Carolina Executes Second Inmate by Firing Squad",
+        "abstract": "Mikal Mahdi’s execution came about a month after the first person in state history was killed in such a manner. Before that, no person had been killed by a firing squad in the United States in 15 years.",
+        "url": "https://www.nytimes.com/2025/04/11/us/south-carolina-execution-firing-squad.html",
+        "uri": "nyt://article/358ec4c0-436d-5d1b-882c-58c4fb4f6a46",
+        "byline": "By Eduardo Medina",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T18:37:01-04:00",
+        "created_date": "2025-04-11T18:37:01-04:00",
+        "published_date": "2025-04-11T18:37:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Capital Punishment",
+            "Murders, Attempted Murders and Homicides"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "McMaster, Henry",
+            "Sigmon, Brad",
+            "Mikal Mahdi"
+        ],
+        "geo_facet": [
+            "South Carolina"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/NAT-SC-EXECUTION-mhzc/NAT-SC-EXECUTION-mhzc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1265,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "This photo provided by the South Carolina Department of Corrections shows the state’s death chamber in Columbia, S.C., including the electric chair, right, and a firing squad chair.",
+                "copyright": "South Carolina Dept. of Corrections, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/NAT-SC-EXECUTION-mhzc/NAT-SC-EXECUTION-mhzc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "This photo provided by the South Carolina Department of Corrections shows the state’s death chamber in Columbia, S.C., including the electric chair, right, and a firing squad chair.",
+                "copyright": "South Carolina Dept. of Corrections, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/NAT-SC-EXECUTION-mhzc/NAT-SC-EXECUTION-mhzc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "This photo provided by the South Carolina Department of Corrections shows the state’s death chamber in Columbia, S.C., including the electric chair, right, and a firing squad chair.",
+                "copyright": "South Carolina Dept. of Corrections, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Joseph Boskin, Scholar of Humor and April Fools’ Prankster, Dies at 95",
+        "abstract": "To oblige an eager reporter, he invented a story about the holiday’s origin. He didn’t realize it would turn out to be his “Andy Warhol moment.”",
+        "url": "https://www.nytimes.com/2025/04/11/us/joseph-boskin-dead-april-fools.html",
+        "uri": "nyt://article/bbc3f25a-418a-5b9f-ab01-3c65e7a6ead1",
+        "byline": "By Michael S. Rosenwald",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T18:09:53-04:00",
+        "created_date": "2025-04-11T18:04:35-04:00",
+        "published_date": "2025-04-11T18:04:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Comedy and Humor",
+            "April Fool's Day",
+            "Hoaxes and Pranks",
+            "History (Academic Subject)"
+        ],
+        "org_facet": [
+            "Boston University",
+            "Associated Press"
+        ],
+        "per_facet": [
+            "Boskin, Joseph"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11Boskin-01-btgh/11Bochner--01-btgh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2030,
+                "width": 1121,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Joseph Boskin in his Boston University office in 1999. His credentials as an authority on humor got him involved in one of the kookiest episodes in the annals of April Fools’ tomfoolery.",
+                "copyright": "Nancy Lane/MediaNews Group — Boston Herald, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11Boskin-01-btgh/11Bochner--01-btgh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Joseph Boskin in his Boston University office in 1999. His credentials as an authority on humor got him involved in one of the kookiest episodes in the annals of April Fools’ tomfoolery.",
+                "copyright": "Nancy Lane/MediaNews Group — Boston Herald, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11Boskin-01-btgh/11Bochner--01-btgh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Joseph Boskin in his Boston University office in 1999. His credentials as an authority on humor got him involved in one of the kookiest episodes in the annals of April Fools’ tomfoolery.",
+                "copyright": "Nancy Lane/MediaNews Group — Boston Herald, via Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
