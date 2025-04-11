@@ -36154,5 +36154,505 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Trump’s Trade War Leaves Wall St. Bosses in Uncomfortable Spot",
+        "abstract": "JPMorgan’s Jamie Dimon, known for his frankness, is tiptoeing around tariffs as he and other leaders of big banks reveal their latest earnings.",
+        "url": "https://www.nytimes.com/2025/04/11/business/banks-tariffs-dimon-trump-trade.html",
+        "uri": "nyt://article/c6c87ac5-0715-503d-8f64-6fcc9387aae5",
+        "byline": "By Rob Copeland",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T10:33:33-04:00",
+        "created_date": "2025-04-11T07:26:21-04:00",
+        "published_date": "2025-04-11T07:26:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Banking and Financial Institutions",
+            "Customs (Tariff)",
+            "Company Reports"
+        ],
+        "org_facet": [
+            "BlackRock Inc",
+            "JPMorgan Chase & Company",
+            "Wells Fargo & Company"
+        ],
+        "per_facet": [
+            "Dimon, James",
+            "Fink, Laurence D"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11bank-earns-zvhj/11bank-earns-zvhj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Obviously,” said Jamie Dimon, JPMorgan Chase’s chief executive, “the China stuff is significant. We don’t know the full effect.”",
+                "copyright": "Richard Drew/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11bank-earns-zvhj/11bank-earns-zvhj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Obviously,” said Jamie Dimon, JPMorgan Chase’s chief executive, “the China stuff is significant. We don’t know the full effect.”",
+                "copyright": "Richard Drew/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11bank-earns-zvhj/11bank-earns-zvhj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Obviously,” said Jamie Dimon, JPMorgan Chase’s chief executive, “the China stuff is significant. We don’t know the full effect.”",
+                "copyright": "Richard Drew/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Has Long Misled With Claims About Global Trade and Tariffs",
+        "abstract": "Across his political career, Donald J. Trump has made his case for tariffs by relying on a number of false and misleading claims. Here’s a guide.",
+        "url": "https://www.nytimes.com/article/trump-tariffs-trade-economy-fact-check.html",
+        "uri": "nyt://article/50838de2-8231-56a5-9217-12dcdc641e66",
+        "byline": "By Linda Qiu and Jamie Leventhal",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T05:10:56-04:00",
+        "created_date": "2025-04-11T05:02:02-04:00",
+        "published_date": "2025-04-11T05:02:02-04:00",
+        "material_type_facet": "",
+        "kicker": "Fact Check",
+        "des_facet": [
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Agriculture Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00dc-factcheck-sub2-lvqg/00dc-factcheck-sub2-lvqg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has pursued a whipsaw approach to tariffs, often shifting course.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00dc-factcheck-sub2-lvqg/00dc-factcheck-sub2-lvqg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has pursued a whipsaw approach to tariffs, often shifting course.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00dc-factcheck-sub2-lvqg/00dc-factcheck-sub2-lvqg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has pursued a whipsaw approach to tariffs, often shifting course.",
+                "copyright": "Erin Schaff/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "U.S. Continues to ‘Delay’ and ‘Flout’ Courts in Return of Deported Man, Lawyers Say",
+        "abstract": "The judge, clearly frustrated, reminded the Justice Department that the administration’s act of mistakenly sending a Maryland man to El Salvador “was wholly illegal from the moment it happened.”",
+        "url": "https://www.nytimes.com/2025/04/11/nyregion/us-maryland-man-deportation-delay.html",
+        "uri": "nyt://article/54e0b188-7606-5952-9b79-3cd73d77e1b7",
+        "byline": "By Alan Feuer",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T11:42:30-04:00",
+        "created_date": "2025-04-11T11:05:33-04:00",
+        "published_date": "2025-04-11T11:05:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "Government Contracts and Procurement"
+        ],
+        "org_facet": [
+            "Justice Department",
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Trump, Donald J",
+            "Xinis, Paula"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11dc-deport-fpcl/11dc-deport-fpcl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The maximum security prison in San Vicente, El Salvador, last week.",
+                "copyright": "Alex Peña/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11dc-deport-fpcl/11dc-deport-fpcl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The maximum security prison in San Vicente, El Salvador, last week.",
+                "copyright": "Alex Peña/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11dc-deport-fpcl/11dc-deport-fpcl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The maximum security prison in San Vicente, El Salvador, last week.",
+                "copyright": "Alex Peña/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "She Worked in a Harvard Lab to Reverse Aging, Until ICE Jailed Her",
+        "abstract": "President Trump’s immigration crackdown ensnared Kseniia Petrova, a scientist who fled Russia after protesting its invasion of Ukraine. She fears arrest if she is deported there.",
+        "url": "https://www.nytimes.com/2025/04/11/science/russian-scientist-ice-detained-harvard.html",
+        "uri": "nyt://article/193a0126-8721-57db-a267-0459d13fed86",
+        "byline": "By Ellen Barry",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T11:32:39-04:00",
+        "created_date": "2025-04-11T10:00:21-04:00",
+        "published_date": "2025-04-11T10:00:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Immigration Detention",
+            "Immigration and Emigration",
+            "United States Politics and Government",
+            "Foreign Workers",
+            "Colleges and Universities",
+            "Content Type: Personal Profile",
+            "Research",
+            "Science and Technology",
+            "Genetic Engineering",
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [
+            "Border Patrol (US)",
+            "Harvard Medical School",
+            "Harvard University",
+            "Immigration and Customs Enforcement (US)"
+        ],
+        "per_facet": [
+            "Petrova, Kseniia (Scientist)",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Russia",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11SCIENTIST-DETAINED-01-gfwv/11SCIENTIST-DETAINED-01-gfwv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 853,
+                "width": 1280,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kseniia Petrova, a Harvard scientist, in 2021. She has been in a Louisiana prison since Feb. 16.",
+                "copyright": "Polina Pugacheva"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11SCIENTIST-DETAINED-01-gfwv/11SCIENTIST-DETAINED-01-gfwv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kseniia Petrova, a Harvard scientist, in 2021. She has been in a Louisiana prison since Feb. 16.",
+                "copyright": "Polina Pugacheva"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11SCIENTIST-DETAINED-01-gfwv/11SCIENTIST-DETAINED-01-gfwv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kseniia Petrova, a Harvard scientist, in 2021. She has been in a Louisiana prison since Feb. 16.",
+                "copyright": "Polina Pugacheva"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "media",
+        "title": "Who Wants to Run Vanity Fair? Everyone? Anyone?",
+        "abstract": "Radhika Jones is stepping down as editor in chief, and the search for her replacement has begun. But as the magazine industry has contracted, many of the more decadent parts of the job are long gone.",
+        "url": "https://www.nytimes.com/2025/04/11/business/media/vanity-fair-editor-replacement.html",
+        "uri": "nyt://article/1118672e-1cf4-5076-8ac0-1c4382db9a85",
+        "byline": "By Katie Robertson and Jessica Testa",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T05:01:19-04:00",
+        "created_date": "2025-04-11T05:01:19-04:00",
+        "published_date": "2025-04-11T05:01:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Magazines",
+            "Appointments and Executive Changes",
+            "Trademarks and Trade Names"
+        ],
+        "org_facet": [
+            "Conde Nast Publications Inc",
+            "Vanity Fair"
+        ],
+        "per_facet": [
+            "Brown, Tina",
+            "Jones, Radhika"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/00biz-vanityfairjob-jfbc/00biz-vanityfairjob-jfbc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "There are few more prominent roles in American journalism than the editor of Vanity Fair. ",
+                "copyright": "Juan Arredondo for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/00biz-vanityfairjob-jfbc/00biz-vanityfairjob-jfbc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "There are few more prominent roles in American journalism than the editor of Vanity Fair. ",
+                "copyright": "Juan Arredondo for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/00biz-vanityfairjob-jfbc/00biz-vanityfairjob-jfbc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "There are few more prominent roles in American journalism than the editor of Vanity Fair. ",
+                "copyright": "Juan Arredondo for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "U.S. and Ukraine Reopen Talks on Contentious Minerals Deal",
+        "abstract": "Kyiv and Washington have been haggling over a deal for resource rights that President Trump sees as a way to “recoup” past U.S. aid to Ukraine.",
+        "url": "https://www.nytimes.com/2025/04/11/world/europe/ukraine-minerals-deal.html",
+        "uri": "nyt://article/6ee33e54-ced7-51ab-82f5-cbd786d7429d",
+        "byline": "By Constant Méheut",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T11:26:00-04:00",
+        "created_date": "2025-04-11T11:26:00-04:00",
+        "published_date": "2025-04-11T11:26:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "United States Politics and Government",
+            "Foreign Aid",
+            "Economic Conditions and Trends"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Kyiv (Ukraine)",
+            "Ukraine",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/10/multimedia/00int-ukraineminerals/00int-ukraine-talks-02-bqwh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine during a contentious White House meeting with President Trump and Vice President JD Vance in February.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/10/multimedia/00int-ukraineminerals/00int-ukraine-talks-02-bqwh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine during a contentious White House meeting with President Trump and Vice President JD Vance in February.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/10/multimedia/00int-ukraineminerals/00int-ukraineminerals-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine during a contentious White House meeting with President Trump and Vice President JD Vance in February.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "realestate",
+        "subsection": "",
+        "title": "Growing Cannabis on the Old Family Farm",
+        "abstract": "When Lucas Kerr decided to revive the farm that had been in his family for seven generations, he chose to plant weed, grown in New York and sold to New Yorkers.",
+        "url": "https://www.nytimes.com/2025/04/11/realestate/cannabis-farm-antiques-upstate.html",
+        "uri": "nyt://article/d4689dbe-2b82-56e2-b41e-f6bc223b7392",
+        "byline": "By Colette Coleman and Tony Cenicola",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T09:12:36-04:00",
+        "created_date": "2025-04-11T08:40:48-04:00",
+        "published_date": "2025-04-11T08:40:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Content Type: Personal Profile",
+            "Real Estate and Housing (Residential)",
+            "Marijuana",
+            "Carpets and Rugs",
+            "Antiques",
+            "Family Business"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09RE-cannabisfarm-htbz/09RE-cannabisfarm-htbz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lucas Kerr, who started the cannabis operation at Torrwood Farm, said he has found that, in New York, there’s strong demand for cannabis products grown within the state.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09RE-cannabisfarm-htbz/09RE-cannabisfarm-htbz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lucas Kerr, who started the cannabis operation at Torrwood Farm, said he has found that, in New York, there’s strong demand for cannabis products grown within the state.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09RE-cannabisfarm-htbz/09RE-cannabisfarm-htbz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lucas Kerr, who started the cannabis operation at Torrwood Farm, said he has found that, in New York, there’s strong demand for cannabis products grown within the state.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Miami-Dade Mayor Vetoes Plan to Remove Fluoride From Drinking Water",
+        "abstract": "The veto by Mayor Daniella Levine Cava, a Democrat, pushed back on a growing campaign against the mineral, which has been used for decades to prevent cavities.",
+        "url": "https://www.nytimes.com/2025/04/11/us/politics/miami-dade-fluoride-ban-veto.html",
+        "uri": "nyt://article/c0e4f551-9220-5d5c-8913-bbd6808d9554",
+        "byline": "By Emily Cochrane",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T11:29:39-04:00",
+        "created_date": "2025-04-11T11:29:39-04:00",
+        "published_date": "2025-04-11T11:29:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11nat-miami-fluoride-ghlm/11nat-miami-fluoride-ghlm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Miami-Dade County Mayor Daniella Levine Cava at a news conference last year.",
+                "copyright": "Marta Lavandier/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11nat-miami-fluoride-ghlm/11nat-miami-fluoride-ghlm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Miami-Dade County Mayor Daniella Levine Cava at a news conference last year.",
+                "copyright": "Marta Lavandier/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11nat-miami-fluoride-ghlm/11nat-miami-fluoride-ghlm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Miami-Dade County Mayor Daniella Levine Cava at a news conference last year.",
+                "copyright": "Marta Lavandier/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
