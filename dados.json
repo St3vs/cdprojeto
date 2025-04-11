@@ -37153,5 +37153,319 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Immigration Judge Rules Khalil Can Be Deported, but Legal Hurdles Remain",
+        "abstract": "The decision by a judge in Louisiana is an early victory for Secretary of State Marco Rubio, but a broader challenge is still being heard in federal court in Newark.",
+        "url": "https://www.nytimes.com/2025/04/11/nyregion/khalil-jena-deportation-ruling.html",
+        "uri": "nyt://article/6579a0c4-bf05-58b1-9d58-17ed00f35db2",
+        "byline": "By Jonah E. Bromwich",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T16:06:49-04:00",
+        "created_date": "2025-04-11T16:05:21-04:00",
+        "published_date": "2025-04-11T16:05:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Decisions and Verdicts",
+            "Deportation",
+            "Demonstrations, Protests and Riots",
+            "United States International Relations"
+        ],
+        "org_facet": [
+            "Columbia University",
+            "Homeland Security Department"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Louisiana",
+            "Newark (NJ)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11met-khalil-hearing-qwmv/11met-khalil-hearing-qwmv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mahmoud Khalil, a permanent resident, was involved in protests at Columbia University in New York.",
+                "copyright": "Bing Guan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11met-khalil-hearing-qwmv/11met-khalil-hearing-qwmv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mahmoud Khalil, a permanent resident, was involved in protests at Columbia University in New York.",
+                "copyright": "Bing Guan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11met-khalil-hearing-qwmv/11met-khalil-hearing-qwmv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mahmoud Khalil, a permanent resident, was involved in protests at Columbia University in New York.",
+                "copyright": "Bing Guan for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Will End Temporary Protections for Afghans and Cameroonians",
+        "abstract": "More than 10,000 people will be put on track for deportation in May and June as a result of the Department of Homeland Security’s action.",
+        "url": "https://www.nytimes.com/2025/04/11/us/politics/trump-tps-afghanistan-cameroon.html",
+        "uri": "nyt://article/d180f0ec-3f7d-5f6a-b503-cae089de0fd5",
+        "byline": "By Hamed Aleaziz",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T15:28:32-04:00",
+        "created_date": "2025-04-11T15:24:27-04:00",
+        "published_date": "2025-04-11T15:24:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "Deportation",
+            "Refugees and Displaced Persons"
+        ],
+        "org_facet": [
+            "Homeland Security Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Chen, Edward M",
+            "Noem, Kristi"
+        ],
+        "geo_facet": [
+            "Cameroon",
+            "Afghanistan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11dc-trump-immig-pqbg/11dc-trump-immig-pqbg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A shelter for refugees in Portland, Maine, one of many such facilities across the country for people fleeing instability in their home countries. ",
+                "copyright": "Kirsten Luce for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11dc-trump-immig-pqbg/11dc-trump-immig-pqbg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A shelter for refugees in Portland, Maine, one of many such facilities across the country for people fleeing instability in their home countries. ",
+                "copyright": "Kirsten Luce for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11dc-trump-immig-pqbg/11dc-trump-immig-pqbg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A shelter for refugees in Portland, Maine, one of many such facilities across the country for people fleeing instability in their home countries. ",
+                "copyright": "Kirsten Luce for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Stocks Post Gain for the Week, but Investors Remain Anxious",
+        "abstract": "While the S&P 500 rose, other corners of the financial markets showed that investors expect big swings to continue.",
+        "url": "https://www.nytimes.com/2025/04/11/business/stock-market-tariffs-trump.html",
+        "uri": "nyt://article/ba96c131-81c6-50e0-951d-bef913ce4c19",
+        "byline": "By Eshe Nelson and Joe Rennison",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T16:01:21-04:00",
+        "created_date": "2025-04-11T15:46:58-04:00",
+        "published_date": "2025-04-11T15:46:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Standard & Poor's 500-Stock Index",
+            "International Trade and World Market",
+            "Government Bonds",
+            "Stocks and Bonds",
+            "Currency"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11Biz-Stocks-Close-PROMO-gftq/11Biz-Stocks-Close-PROMO-gftq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11Biz-Stocks-Close-PROMO-gftq/11Biz-Stocks-Close-PROMO-gftq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11Biz-Stocks-Close-PROMO-gftq/11Biz-Stocks-Close-PROMO-gftq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "Has Disney+ Changed ‘Doctor Who’? U.S. and U.K. Fans Discuss.",
+        "abstract": "The show has a bigger budget since the streaming behemoth got involved. Has that pleased its devotees?",
+        "url": "https://www.nytimes.com/2025/04/11/arts/television/doctor-who-disney-ncuti-gatwa.html",
+        "uri": "nyt://article/65a856a8-6457-58e4-a171-5ad0a8c51d13",
+        "byline": "By Isobel Lewis",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T02:04:31-04:00",
+        "created_date": "2025-04-11T00:01:09-04:00",
+        "published_date": "2025-04-11T00:01:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Television",
+            "Doctor Who (TV Program)"
+        ],
+        "org_facet": [
+            "Disney Plus"
+        ],
+        "per_facet": [
+            "Davies, Russell T",
+            "Gatwa, Ncuti"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/world/11doctor-who-fans/11doctor-who-fans-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Varada Sethu as Belinda Chandra and Ncuti Gatwa as the Doctor in the new season of “Doctor Who.”",
+                "copyright": "James Pardon/BBC Studios/Disney/Bad Wolf"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/world/11doctor-who-fans/11doctor-who-fans-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Varada Sethu as Belinda Chandra and Ncuti Gatwa as the Doctor in the new season of “Doctor Who.”",
+                "copyright": "James Pardon/BBC Studios/Disney/Bad Wolf"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/world/11doctor-who-fans/11doctor-who-fans-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Varada Sethu as Belinda Chandra and Ncuti Gatwa as the Doctor in the new season of “Doctor Who.”",
+                "copyright": "James Pardon/BBC Studios/Disney/Bad Wolf"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "N.Y.C. Primary Voters Can Rank 5 Candidates. Many Have Heard of Only 2.",
+        "abstract": "New York City voters have nine Democrats to consider in this year’s mayoral primary, a crowded race made more complicated by the return of ranked-choice voting.",
+        "url": "https://www.nytimes.com/2025/04/11/nyregion/mayor-election-ranked-choice.html",
+        "uri": "nyt://article/0ca4a5bb-082a-5c5c-b095-3fe891bd6064",
+        "byline": "By Maya King",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T12:31:00-04:00",
+        "created_date": "2025-04-11T03:00:06-04:00",
+        "published_date": "2025-04-11T03:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Primaries and Caucuses",
+            "Voting and Voters",
+            "Ranked-Choice Voting",
+            "Elections, Mayors"
+        ],
+        "org_facet": [
+            "Democratic Party",
+            "Working Families Party"
+        ],
+        "per_facet": [
+            "Adams, Eric L",
+            "Cuomo, Andrew M"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/met-voters-rcv-zpqt/met-voters-rcv-zpqt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New York City voters got their first taste of ranked-choice voting in the June 2021 citywide primary elections.",
+                "copyright": "Desiree Rios for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/met-voters-rcv-zpqt/met-voters-rcv-zpqt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New York City voters got their first taste of ranked-choice voting in the June 2021 citywide primary elections.",
+                "copyright": "Desiree Rios for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/met-voters-rcv-zpqt/met-voters-rcv-zpqt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New York City voters got their first taste of ranked-choice voting in the June 2021 citywide primary elections.",
+                "copyright": "Desiree Rios for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
