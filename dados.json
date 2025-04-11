@@ -35843,5 +35843,127 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "How This Trade War Is Different From All Other Trade Wars",
+        "abstract": "By acting on his own, President Trump has broken with more than 200 years of U.S. history in which Congress set the direction of trade policy.",
+        "url": "https://www.nytimes.com/2025/04/11/business/tariffs-trump-markets-history-trade-wars.html",
+        "uri": "nyt://article/06fba272-aa9d-586c-b61d-8ffb4868f24c",
+        "byline": "By Jeff Sommer",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T09:18:59-04:00",
+        "created_date": "2025-04-11T05:01:39-04:00",
+        "published_date": "2025-04-11T05:01:39-04:00",
+        "material_type_facet": "",
+        "kicker": "Strategies",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "International Relations",
+            "Standard & Poor's 500-Stock Index",
+            "Recession and Depression",
+            "Nineteen Hundred Thirties",
+            "Content Type: Service",
+            "Personal Finances"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/11biz-strategies-qzpj/11biz-strategies-qzpj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "However the trade saga develops from here, the first skirmishes in a trade war have begun.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/11biz-strategies-qzpj/11biz-strategies-qzpj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "However the trade saga develops from here, the first skirmishes in a trade war have begun.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/11biz-strategies-qzpj/11biz-strategies-qzpj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "However the trade saga develops from here, the first skirmishes in a trade war have begun.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trump Envoy Arrives in Russia Seeking to Rekindle Ukraine War Talks",
+        "abstract": "The Kremlin spokesman would not say whether the Trump aide, Steve Witkoff, would meet with President Vladimir V. Putin of Russia.",
+        "url": "https://www.nytimes.com/2025/04/11/world/europe/ukraine-trump-witkoff-talks.html",
+        "uri": "nyt://article/f6c1f58c-2861-5e81-837f-f41011c30bd7",
+        "byline": "By Ivan Nechepurenko",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T09:16:19-04:00",
+        "created_date": "2025-04-11T05:05:14-04:00",
+        "published_date": "2025-04-11T05:05:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Witkoff, Steven",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-russia-us-talks-hjtl/11int-russia-us-talks-hjtl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Steve Witkoff, President Trump’s senior aide on Russia negotiations, in Washington last month.",
+                "copyright": "Maansi Srivastava for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-russia-us-talks-hjtl/11int-russia-us-talks-hjtl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Steve Witkoff, President Trump’s senior aide on Russia negotiations, in Washington last month.",
+                "copyright": "Maansi Srivastava for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-russia-us-talks-hjtl/11int-russia-us-talks-hjtl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Steve Witkoff, President Trump’s senior aide on Russia negotiations, in Washington last month.",
+                "copyright": "Maansi Srivastava for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
