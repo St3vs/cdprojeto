@@ -36654,5 +36654,130 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "The Menendez Brothers Could Still Be Released From Prison. Here’s What to Know.",
+        "abstract": "The Los Angeles County district attorney was asking a court to withdraw a resentencing petition. But Lyle and Erik Menendez still have paths to freedom.",
+        "url": "https://www.nytimes.com/article/menendez-brothers-case.html",
+        "uri": "nyt://article/4df69282-a8a8-53d9-961f-099dedef76c7",
+        "byline": "By Kate Christobek and Christine Hauser",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T12:27:17-04:00",
+        "created_date": "2024-10-21T11:20:40-04:00",
+        "published_date": "2024-10-21T11:20:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Decisions and Verdicts",
+            "Movies",
+            "Television",
+            "Murders, Attempted Murders and Homicides",
+            "Sentences (Criminal)",
+            "Documentary Films and Programs",
+            "Monsters: The Lyle and Erik Menendez Story (TV Program)"
+        ],
+        "org_facet": [
+            "Netflix Inc"
+        ],
+        "per_facet": [
+            "Menendez, Jose (1944-89)",
+            "Menendez, Lyle",
+            "Menendez, Erik"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2024/10/17/multimedia/00xp-menendezbros-qhzb/00xp-menendezbros-qhzb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1339,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lyle, left, and Erik Menendez during a court appearance in 1990. The brothers were convicted of murder in the killings of their parents.",
+                "copyright": "Nick Ut/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/10/17/multimedia/00xp-menendezbros-qhzb/00xp-menendezbros-qhzb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lyle, left, and Erik Menendez during a court appearance in 1990. The brothers were convicted of murder in the killings of their parents.",
+                "copyright": "Nick Ut/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/10/17/multimedia/00xp-menendezbros-qhzb/00xp-menendezbros-qhzb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lyle, left, and Erik Menendez during a court appearance in 1990. The brothers were convicted of murder in the killings of their parents.",
+                "copyright": "Nick Ut/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Small Plane Crashes in Boca Raton, Killing 3",
+        "abstract": "A man in a car also was injured when the plane crashed near an interstate overpass a short distance from Boca Raton Airport in Florida, the authorities said.",
+        "url": "https://www.nytimes.com/2025/04/11/us/boca-raton-plane-crash.html",
+        "uri": "nyt://article/744ddaa9-8139-5c2d-a0a6-d15c485cbfd1",
+        "byline": "By Remy Tumin",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T12:54:00-04:00",
+        "created_date": "2025-04-11T11:21:21-04:00",
+        "published_date": "2025-04-11T11:21:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Aviation Accidents, Safety and Disasters",
+            "Airlines and Airplanes",
+            "Rescues"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Boca Raton (Fla)",
+            "Interstate 95"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/autossell/NewThumb_boca/NewThumb_boca-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1620,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "@ChefGabeXXVII via X"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/autossell/NewThumb_boca/NewThumb_boca-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "@ChefGabeXXVII via X"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/autossell/NewThumb_boca/NewThumb_boca-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "@ChefGabeXXVII via X"
+            }
+        ],
+        "short_url": ""
     }
 ]
