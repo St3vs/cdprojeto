@@ -33561,5 +33561,126 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "Deepening Trade Fight With China Poses New Threat to U.S. Farmers",
+        "abstract": "Soybean producers warn that farms could go under as the Trump administration hits China with new tariffs of 145 percent.",
+        "url": "https://www.nytimes.com/2025/04/10/business/economy/trump-tariffs-china-farmers.html",
+        "uri": "nyt://article/fb786ded-b99c-571d-be54-6d10c16daf92",
+        "byline": "By Alan Rappeport",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T21:57:02-04:00",
+        "created_date": "2025-04-10T14:10:57-04:00",
+        "published_date": "2025-04-10T14:10:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Customs (Tariff)",
+            "International Trade and World Market",
+            "Agriculture and Farming",
+            "Soybeans",
+            "Protectionism (Trade)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-us-china-exports-bvlh/09markets-tariffs-us-china-exports-bvlh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1152,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The soybean industry is one of the sectors most concerned about tariff retaliation.",
+                "copyright": "Jim Vondruska/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-us-china-exports-bvlh/09markets-tariffs-us-china-exports-bvlh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The soybean industry is one of the sectors most concerned about tariff retaliation.",
+                "copyright": "Jim Vondruska/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-us-china-exports-bvlh/09markets-tariffs-us-china-exports-bvlh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The soybean industry is one of the sectors most concerned about tariff retaliation.",
+                "copyright": "Jim Vondruska/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Threatens More Tariffs and Sanctions on Mexico Over Long-Running Water Dispute",
+        "abstract": "President Trump on Thursday cited the growing water debt that Mexico owes the United States under a treaty governing the use of the countries’ shared rivers.",
+        "url": "https://www.nytimes.com/2025/04/10/us/politics/trump-mexico-water-dispute.html",
+        "uri": "nyt://article/21770d0d-6346-56dd-8704-d907e51f2574",
+        "byline": "By Chris Cameron and Emiliano Rodríguez Mega",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T21:45:08-04:00",
+        "created_date": "2025-04-10T21:45:08-04:00",
+        "published_date": "2025-04-10T21:45:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Water",
+            "Rivers"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Sheinbaum, Claudia"
+        ],
+        "geo_facet": [
+            "Mexico",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10trump-news-water-us-mexico-qjfw/10trump-news-water-us-mexico-qjfw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Las Vírgenes dam in the Mexican state of Chihuahua, which borders Texas and New Mexico.",
+                "copyright": "Daniel Berehulak for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10trump-news-water-us-mexico-qjfw/10trump-news-water-us-mexico-qjfw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Las Vírgenes dam in the Mexican state of Chihuahua, which borders Texas and New Mexico.",
+                "copyright": "Daniel Berehulak for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10trump-news-water-us-mexico-qjfw/10trump-news-water-us-mexico-qjfw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Las Vírgenes dam in the Mexican state of Chihuahua, which borders Texas and New Mexico.",
+                "copyright": "Daniel Berehulak for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
