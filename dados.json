@@ -33173,5 +33173,393 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Supreme Court Sides With Wrongly Deported Migrant",
+        "abstract": "A trial judge had ordered the Trump administration to take steps to return the migrant, Kilmar Armando Abrego Garcia, from a notorious prison in El Salvador.",
+        "url": "https://www.nytimes.com/2025/04/10/us/politics/supreme-court-trump-deported-migrant.html",
+        "uri": "nyt://article/5cc0e1cd-5ca1-5524-b527-8f84452c762d",
+        "byline": "By Adam Liptak",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T20:35:26-04:00",
+        "created_date": "2025-04-10T18:53:51-04:00",
+        "published_date": "2025-04-10T18:53:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Decisions and Verdicts",
+            "Illegal Immigration",
+            "United States Politics and Government",
+            "Deportation",
+            "Courts and the Judiciary",
+            "Presidential Power (US)"
+        ],
+        "org_facet": [
+            "Supreme Court (US)",
+            "Mara Salvatrucha (MS-13)"
+        ],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Roberts, John G Jr",
+            "Xinis, Paula"
+        ],
+        "geo_facet": [
+            "El Salvador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00dc-scotus-immig-topart-tpjh/00dc-scotus-immig-topart-tpjh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Stefania Vasquez Sura, second from right, during a demonstration in support of her husband, Kilmar Armando Abrego Garcia, in Greenbelt, Md., last week. Mr. Abrego Garcia’s lawyers have called his deportation “a Kafka-esque mistake.”",
+                "copyright": "Rod Lamkey Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00dc-scotus-immig-topart-tpjh/00dc-scotus-immig-topart-tpjh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Stefania Vasquez Sura, second from right, during a demonstration in support of her husband, Kilmar Armando Abrego Garcia, in Greenbelt, Md., last week. Mr. Abrego Garcia’s lawyers have called his deportation “a Kafka-esque mistake.”",
+                "copyright": "Rod Lamkey Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00dc-scotus-immig-topart-tpjh/00dc-scotus-immig-topart-tpjh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Stefania Vasquez Sura, second from right, during a demonstration in support of her husband, Kilmar Armando Abrego Garcia, in Greenbelt, Md., last week. Mr. Abrego Garcia’s lawyers have called his deportation “a Kafka-esque mistake.”",
+                "copyright": "Rod Lamkey Jr. for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Mahmoud Khalil’s Lawyers Will Seek Testimony From Marco Rubio",
+        "abstract": "Lawyers for the detained Columbia graduate said that the lack of substantive charges against him requires more information from the secretary of state. They acknowledge they are likely to fail.",
+        "url": "https://www.nytimes.com/2025/04/10/nyregion/khalil-rubio-testimony-deportation.html",
+        "uri": "nyt://article/237b4efe-1c2e-5d78-b725-050c5a76c29f",
+        "byline": "By Jonah E. Bromwich",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T19:22:28-04:00",
+        "created_date": "2025-04-10T19:22:28-04:00",
+        "published_date": "2025-04-10T19:22:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Freedom of Speech and Expression",
+            "Foreign Students (in US)",
+            "Anti-Semitism",
+            "Pro-Palestinian Campus Protests (2023- )"
+        ],
+        "org_facet": [
+            "Columbia University",
+            "Homeland Security Department"
+        ],
+        "per_facet": [
+            "Khalil, Mahmoud (Activist)",
+            "Rubio, Marco",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Louisiana",
+            "New Jersey"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10met-khalil-fvtj/10met-khalil-fvtj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mahmoud Khalil’s immigration case is being heard in Jena, La. A Newark judge is considering broader constitutional questions.",
+                "copyright": "Adam Gray for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10met-khalil-fvtj/10met-khalil-fvtj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mahmoud Khalil’s immigration case is being heard in Jena, La. A Newark judge is considering broader constitutional questions.",
+                "copyright": "Adam Gray for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10met-khalil-fvtj/10met-khalil-fvtj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mahmoud Khalil’s immigration case is being heard in Jena, La. A Newark judge is considering broader constitutional questions.",
+                "copyright": "Adam Gray for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Charter Company in Fatal Helicopter Crash Had Prior Mechanical Failures",
+        "abstract": "At least twice before in the past 12 years, aircraft operated by the firm New York Helicopter Charter failed while in flight.",
+        "url": "https://www.nytimes.com/2025/04/10/nyregion/nyc-helicopter-crash-company-mechanical.html",
+        "uri": "nyt://article/6c781e16-c5bc-5d6c-9448-f35f245f60d9",
+        "byline": "By Patrick McGeehan",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T20:41:06-04:00",
+        "created_date": "2025-04-10T20:40:46-04:00",
+        "published_date": "2025-04-10T20:40:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Helicopters",
+            "Aviation Accidents, Safety and Disasters",
+            "Deaths (Fatalities)"
+        ],
+        "org_facet": [
+            "National Transportation Safety Board",
+            "New York Helicopter Charter"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10met-helicopter-company-01-gqpm/10met-helicopter-company-01-gqpm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The helicopter that crashed in the Hudson River, killing six, was operated by a company whose aircraft had suffered two midair breakdowns in the past 12 years.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10met-helicopter-company-01-gqpm/10met-helicopter-company-01-gqpm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The helicopter that crashed in the Hudson River, killing six, was operated by a company whose aircraft had suffered two midair breakdowns in the past 12 years.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10met-helicopter-company-01-gqpm/10met-helicopter-company-01-gqpm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The helicopter that crashed in the Hudson River, killing six, was operated by a company whose aircraft had suffered two midair breakdowns in the past 12 years.",
+                "copyright": "Dave Sanders for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Helicopters Pack New York’s Skies, Despite Years of Noise and Air Pollution Complaints",
+        "abstract": "Authorities say the industry contributes $50 million a year to the city’s tourism economy, but the number of tourist helicopter flights has halved since 2016.",
+        "url": "https://www.nytimes.com/2025/04/10/nyregion/helicopter-tours-noise-air-pollution.html",
+        "uri": "nyt://article/35508703-fbd8-558a-b726-e2c68a04b451",
+        "byline": "By Christine Chung",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T19:48:46-04:00",
+        "created_date": "2025-04-10T18:55:52-04:00",
+        "published_date": "2025-04-10T18:55:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Aviation Accidents, Safety and Disasters",
+            "Helicopters",
+            "Travel and Vacations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10met-helicopter-crash-sightseeing-01-pbhz/10met-helicopter-crash-sightseeing-01-pbhz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1339,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sightseeing flights remain a major source of helicopter traffic in New York City, despite a decline in the number of flights in recent years.",
+                "copyright": "Gary Hershorn/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10met-helicopter-crash-sightseeing-01-pbhz/10met-helicopter-crash-sightseeing-01-pbhz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sightseeing flights remain a major source of helicopter traffic in New York City, despite a decline in the number of flights in recent years.",
+                "copyright": "Gary Hershorn/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10met-helicopter-crash-sightseeing-01-pbhz/10met-helicopter-crash-sightseeing-01-pbhz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sightseeing flights remain a major source of helicopter traffic in New York City, despite a decline in the number of flights in recent years.",
+                "copyright": "Gary Hershorn/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Escalates Use of Official Power to Intimidate and Punish His Perceived Foes",
+        "abstract": "A presidential decree instructing the Justice Department to scrutinize whether a former official broke the law crosses a new line.",
+        "url": "https://www.nytimes.com/2025/04/10/us/politics/trump-officials-justice-department.html",
+        "uri": "nyt://article/28568e46-584f-5376-a951-a00e0046fd18",
+        "byline": "By Charlie Savage, Maggie Haberman, Jonathan Swan and Michael S. Schmidt",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T20:22:49-04:00",
+        "created_date": "2025-04-10T18:38:02-04:00",
+        "published_date": "2025-04-10T18:38:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Federal Criminal Case Against Trump (Documents Case)",
+            "Classified Information and State Secrets",
+            "Cyberwarfare and Defense"
+        ],
+        "org_facet": [
+            "Cybersecurity and Infrastructure Security Agency",
+            "Federal Bureau of Investigation",
+            "Homeland Security Department",
+            "Justice Department",
+            "Susman Godfrey LLP"
+        ],
+        "per_facet": [
+            "Biden, Hunter",
+            "Bondi, Pamela J",
+            "Clinton, Hillary Rodham",
+            "Trump, Donald J",
+            "Hoover, J Edgar"
+        ],
+        "geo_facet": [
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10dc-trump-dissent-topart-lzkm/10dc-trump-dissent-topart-lzkm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump signed on Wednesday presidential memos that targeted, by name, two officials from his first term.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10dc-trump-dissent-topart-lzkm/10dc-trump-dissent-topart-lzkm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump signed on Wednesday presidential memos that targeted, by name, two officials from his first term.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10dc-trump-dissent-topart-lzkm/10dc-trump-dissent-topart-lzkm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump signed on Wednesday presidential memos that targeted, by name, two officials from his first term.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Stanford Protesters Charged With Felonies for Pro-Palestinian Occupation",
+        "abstract": "Prosecutors filed felony charges on Thursday against 12 protesters, nearly all with ties to Stanford University, for breaking into an administration building and occupying it in 2024.",
+        "url": "https://www.nytimes.com/2025/04/10/us/stanford-protesters-palestine-felony.html",
+        "uri": "nyt://article/463cd65a-e6db-5751-a7fc-e5890cf58a12",
+        "byline": "By Heather Knight and Isabelle Taft",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T19:53:06-04:00",
+        "created_date": "2025-04-10T19:53:06-04:00",
+        "published_date": "2025-04-10T19:53:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Pro-Palestinian Campus Protests (2023- )",
+            "Israel-Gaza War (2023- )",
+            "Colleges and Universities",
+            "Demonstrations, Protests and Riots"
+        ],
+        "org_facet": [
+            "Stanford University"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "California",
+            "Santa Clara County (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10nat-stanford-damage-kqjp/10nat-stanford-damage-kqjp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Students looking at a wall near the president’s office at Stanford University after it had been vandalized by protesters in June.",
+                "copyright": "Nic Coury/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10nat-stanford-damage-kqjp/10nat-stanford-damage-kqjp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Students looking at a wall near the president’s office at Stanford University after it had been vandalized by protesters in June.",
+                "copyright": "Nic Coury/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10nat-stanford-damage-kqjp/10nat-stanford-damage-kqjp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Students looking at a wall near the president’s office at Stanford University after it had been vandalized by protesters in June.",
+                "copyright": "Nic Coury/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
