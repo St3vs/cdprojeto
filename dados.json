@@ -33682,5 +33682,261 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Helicopter Crashes Into Hudson River, Killing Six",
+        "abstract": "An executive from Spain, his wife and three children died in the crash, along with the helicopter’s pilot, officials said.",
+        "url": "https://www.nytimes.com/2025/04/10/nyregion/helicopter-hudson-crash-victims.html",
+        "uri": "nyt://article/fa5ff138-cd82-5b5c-97cb-0271d6ebaf44",
+        "byline": "By Andy Newman and Chelsia Rose Marcius",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T21:22:47-04:00",
+        "created_date": "2025-04-10T21:18:59-04:00",
+        "published_date": "2025-04-10T21:18:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Aviation Accidents, Safety and Disasters",
+            "Helicopters",
+            "Deaths (Fatalities)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Jersey City (NJ)",
+            "Hudson River",
+            "Manhattan (NYC)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10met-helicopter-crash-leadall/10met-helicopter-crash-live-update-lkpw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Recovery crews removed the wreckage of the helicopter from the water near Jersey City, N.J., Thursday evening.",
+                "copyright": "Adam Gray for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10met-helicopter-crash-leadall/10met-helicopter-crash-live-update-lkpw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Recovery crews removed the wreckage of the helicopter from the water near Jersey City, N.J., Thursday evening.",
+                "copyright": "Adam Gray for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10met-helicopter-crash-leadall/10met-helicopter-crash-live-update-lkpw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Recovery crews removed the wreckage of the helicopter from the water near Jersey City, N.J., Thursday evening.",
+                "copyright": "Adam Gray for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Effort to Get Starlink in South Africa Collides With Tension Over Musk",
+        "abstract": "A government official is preparing to ease Black ownership rules that Elon Musk claims are racist and prevent his satellite internet provider from operating in his native country.",
+        "url": "https://www.nytimes.com/2025/04/11/world/africa/effort-to-get-starlink-in-south-africa-collides-with-tension-over-musk.html",
+        "uri": "nyt://article/1c9f2202-40e3-57a5-a209-87208e274174",
+        "byline": "By John Eligon and Zimasa Matiwane",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T00:01:06-04:00",
+        "created_date": "2025-04-11T00:01:06-04:00",
+        "published_date": "2025-04-11T00:01:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Race and Ethnicity",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Starlink Satellite Constellation (SpaceX)"
+        ],
+        "per_facet": [
+            "Musk, Elon"
+        ],
+        "geo_facet": [
+            "South Africa"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10safrica-starlink-1-ptgc/10safrica-starlink-1-ptgc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1432,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Cyril Ramaphosa of South Africa answering lawmakers’ questions at Parliament in Cape Town, South Africa, last month.",
+                "copyright": "Esa Alexander/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10safrica-starlink-1-ptgc/10safrica-starlink-1-ptgc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Cyril Ramaphosa of South Africa answering lawmakers’ questions at Parliament in Cape Town, South Africa, last month.",
+                "copyright": "Esa Alexander/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10safrica-starlink-1-ptgc/10safrica-starlink-1-ptgc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Cyril Ramaphosa of South Africa answering lawmakers’ questions at Parliament in Cape Town, South Africa, last month.",
+                "copyright": "Esa Alexander/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Hegseth to Attend Ukraine Defense Group Only Virtually",
+        "abstract": "His predecessor as defense secretary, Lloyd J. Austin III, started the roughly 50-nation group to support Kyiv after Russia invaded in 2022, but Mr. Hegseth has given up leadership.",
+        "url": "https://www.nytimes.com/2025/04/11/us/hegseth-ukraine-defense-group.html",
+        "uri": "nyt://article/8241484e-fd9b-539b-95e4-a75f6f7bfbb6",
+        "byline": "By John Ismay",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T00:01:12-04:00",
+        "created_date": "2025-04-11T00:01:12-04:00",
+        "published_date": "2025-04-11T00:01:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Foreign Aid",
+            "Russian Invasion of Ukraine (2022)",
+            "Federal Aid (US)"
+        ],
+        "org_facet": [
+            "Defense Department",
+            "Ukraine Defense Contact Group"
+        ],
+        "per_facet": [
+            "Austin, Lloyd J III",
+            "Biden, Joseph R Jr",
+            "Healey, John (1960- )",
+            "Hegseth, Pete",
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Russia",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00dc-hegseth-glwj/00dc-hegseth-glwj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Defense Secretary Pete Hegseth during a cabinet meeting at the White House on Thursday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00dc-hegseth-glwj/00dc-hegseth-glwj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Defense Secretary Pete Hegseth during a cabinet meeting at the White House on Thursday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00dc-hegseth-glwj/00dc-hegseth-glwj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Defense Secretary Pete Hegseth during a cabinet meeting at the White House on Thursday.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "How TikTok’s Parent, ByteDance, Became an A.I. Powerhouse",
+        "abstract": "A set of popular apps helped China’s ByteDance develop a key component of advanced artificial intelligence: information on how a billion people use the internet.",
+        "url": "https://www.nytimes.com/2025/04/11/business/tiktok-china-bytedance-ai.html",
+        "uri": "nyt://article/dee95856-5b33-5954-ad6c-d1ff014b8c9f",
+        "byline": "By Meaghan Tobin",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T00:00:11-04:00",
+        "created_date": "2025-04-11T00:00:11-04:00",
+        "published_date": "2025-04-11T00:00:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Artificial Intelligence",
+            "Computers and the Internet",
+            "Social Media",
+            "Mobile Applications"
+        ],
+        "org_facet": [
+            "Beijing Bytedance Technology Co Ltd",
+            "TikTok (ByteDance)",
+            "Douyin (ByteDance)",
+            "DeepSeek Artificial Intelligence Co Ltd",
+            "Toutiao (Chinese News Platform)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00Biz-ByteDance-AI-01-wbqh/00Biz-ByteDance-AI-01-wbqh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Beijing offices for ByteDance, which spent about $11 billion last year on infrastructure for artificial intelligence.",
+                "copyright": "Andrea Verdelli/Bloomberg"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00Biz-ByteDance-AI-01-wbqh/00Biz-ByteDance-AI-01-wbqh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Beijing offices for ByteDance, which spent about $11 billion last year on infrastructure for artificial intelligence.",
+                "copyright": "Andrea Verdelli/Bloomberg"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00Biz-ByteDance-AI-01-wbqh/00Biz-ByteDance-AI-01-wbqh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Beijing offices for ByteDance, which spent about $11 billion last year on infrastructure for artificial intelligence.",
+                "copyright": "Andrea Verdelli/Bloomberg"
+            }
+        ],
+        "short_url": ""
     }
 ]
