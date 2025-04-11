@@ -37467,5 +37467,342 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "‘This is Not Normal’: Trump’s Tariffs Upend the Bond Market",
+        "abstract": "In the usually steady government bond market, the yield on the 10-year Treasury has risen to about 4.5 percent from less than 4 percent at the end of last week.",
+        "url": "https://www.nytimes.com/2025/04/11/business/economy/treasury-bonds-tariffs.html",
+        "uri": "nyt://article/a0e3cae2-e3c3-57d7-ae1e-8bb6653f94f2",
+        "byline": "By Joe Rennison and Colby Smith",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T16:48:45-04:00",
+        "created_date": "2025-04-11T13:09:11-04:00",
+        "published_date": "2025-04-11T13:09:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Government Bonds",
+            "Banking and Financial Institutions",
+            "Stocks and Bonds",
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "United States Economy"
+        ],
+        "org_facet": [
+            "Federal Reserve System",
+            "Treasury Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11markets-tariffs-bonds-1-qclv/11markets-tariffs-bonds-1-qclv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The price of government bonds, issued by the U.S. Treasury, fell on Friday, while yields rose sharply.",
+                "copyright": "Rod Lamkey Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11markets-tariffs-bonds-1-qclv/11markets-tariffs-bonds-1-qclv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The price of government bonds, issued by the U.S. Treasury, fell on Friday, while yields rose sharply.",
+                "copyright": "Rod Lamkey Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11markets-tariffs-bonds-1-qclv/11markets-tariffs-bonds-1-qclv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The price of government bonds, issued by the U.S. Treasury, fell on Friday, while yields rose sharply.",
+                "copyright": "Rod Lamkey Jr. for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Five More Big Law Firms Reach Deals With Trump",
+        "abstract": "Kirkland & Ellis, Latham & Watkins, A&O Shearman, Simpson Thacher & Bartlett and Cadwalader, Wickersham & Taft agreed to do free legal work on causes the White House supports.",
+        "url": "https://www.nytimes.com/2025/04/11/business/trump-law-firms-kirkland-ellis-latham-watkins.html",
+        "uri": "nyt://article/548b5b5c-1d0f-5eba-b81f-64597d7ae3ec",
+        "byline": "By Matthew Goldstein",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T17:02:12-04:00",
+        "created_date": "2025-04-11T16:13:47-04:00",
+        "published_date": "2025-04-11T16:13:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Legal Profession",
+            "Presidential Power (US)"
+        ],
+        "org_facet": [
+            "Cadwalader, Wickersham & Taft LLP",
+            "Equal Employment Opportunity Commission",
+            "Jenner & Block",
+            "Kirkland & Ellis",
+            "Latham & Watkins LLP",
+            "Milbank LLP",
+            "Paul Weiss Rifkind Wharton & Garrison",
+            "Skadden, Arps, Slate, Meagher & Flom LLP",
+            "Willkie Farr & Gallagher",
+            "Wilmer Cutler Pickering Hale and Dorr LLP"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11biz-lawfirms-deals-jbtv/11biz-lawfirms-deals-jbtv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kirkland & Ellis is one of the law firms that recently reached a deal with the White House to provide free legal work to causes that President Trump supports.",
+                "copyright": "Jeenah Moon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11biz-lawfirms-deals-jbtv/11biz-lawfirms-deals-jbtv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kirkland & Ellis is one of the law firms that recently reached a deal with the White House to provide free legal work to causes that President Trump supports.",
+                "copyright": "Jeenah Moon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11biz-lawfirms-deals-jbtv/11biz-lawfirms-deals-jbtv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kirkland & Ellis is one of the law firms that recently reached a deal with the White House to provide free legal work to causes that President Trump supports.",
+                "copyright": "Jeenah Moon for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "A Tragic End to a Helicopter Pilot’s New Adventure",
+        "abstract": "Seankese Johnson, 36, was killed along with five passengers when the sightseeing helicopter he was flying suddenly crashed into the Hudson River near Jersey City.",
+        "url": "https://www.nytimes.com/2025/04/11/nyregion/seankese-johnson-nyc-helicopter-crash.html",
+        "uri": "nyt://article/6e14b76a-5a4e-5ff4-926e-513652628872",
+        "byline": "By Corey Kilgannon",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T16:44:38-04:00",
+        "created_date": "2025-04-11T15:35:22-04:00",
+        "published_date": "2025-04-11T15:35:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Aviation Accidents, Safety and Disasters",
+            "Deaths (Fatalities)",
+            "Helicopters",
+            "Pilots"
+        ],
+        "org_facet": [
+            "New York Helicopter"
+        ],
+        "per_facet": [
+            "Johnson, Seankese"
+        ],
+        "geo_facet": [
+            "Hudson River",
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11met-chopper-pilot-top-01-pmvw/11met-chopper-pilot-top-01-pmvw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A helicopter crashed into the Hudson River on Thursday afternoon.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11met-chopper-pilot-top-01-pmvw/11met-chopper-pilot-top-01-pmvw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A helicopter crashed into the Hudson River on Thursday afternoon.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11met-chopper-pilot-top-01-pmvw/11met-chopper-pilot-top-01-pmvw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A helicopter crashed into the Hudson River on Thursday afternoon.",
+                "copyright": "Dave Sanders for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Investigation Into Helicopter Crash Just Getting Underway",
+        "abstract": "Investigators for the National Transportation Safety Board said it would most likely be some time before a cause of the crash that killed six people could be determined.",
+        "url": "https://www.nytimes.com/2025/04/11/nyregion/helicopter-crash-investigation.html",
+        "uri": "nyt://article/e86906ae-33e2-5573-a1a2-e4bcc402daac",
+        "byline": "By Stefanos Chen",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T16:52:32-04:00",
+        "created_date": "2025-04-11T15:53:27-04:00",
+        "published_date": "2025-04-11T15:53:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Aviation Accidents, Safety and Disasters",
+            "Helicopters",
+            "Deaths (Fatalities)"
+        ],
+        "org_facet": [
+            "National Transportation Safety Board"
+        ],
+        "per_facet": [
+            "Homendy, Jennifer"
+        ],
+        "geo_facet": [
+            "Jersey City (NJ)",
+            "Hudson River"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11met-ntsb-presser-lwfm/11met-ntsb-presser-lwfm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Homendy, the chair of the National Transportation Safety Board, told reporters: “Everything is on the table — we don’t rule anything out.”",
+                "copyright": "<br>Yuki Iwamura/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11met-ntsb-presser-lwfm/11met-ntsb-presser-lwfm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Homendy, the chair of the National Transportation Safety Board, told reporters: “Everything is on the table — we don’t rule anything out.”",
+                "copyright": "<br>Yuki Iwamura/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11met-ntsb-presser-lwfm/11met-ntsb-presser-lwfm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Homendy, the chair of the National Transportation Safety Board, told reporters: “Everything is on the table — we don’t rule anything out.”",
+                "copyright": "<br>Yuki Iwamura/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Politicians Shouldn’t Get to Delete Inconvenient Facts",
+        "abstract": "The Trump administration has started purging the government’s digital memory. Democracies die without proper archiving and public records.",
+        "url": "https://www.nytimes.com/2025/04/11/opinion/public-records-data-history-trump.html",
+        "uri": "nyt://article/ed0bb688-d1c7-5e6c-9288-4545eeb5a253",
+        "byline": "By Nanna Bonde Thylstrup and Richard Ovenden",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T05:00:39-04:00",
+        "created_date": "2025-04-11T05:00:39-04:00",
+        "published_date": "2025-04-11T05:00:39-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "United States Politics and Government",
+            "Archives and Records",
+            "Signal Chat Leak (Trump Administration)",
+            "Computers and the Internet",
+            "Libraries and Librarians",
+            "Research",
+            "Mobile Applications",
+            "Social Media",
+            "Memory",
+            "Instant Messaging",
+            "Conservation of Resources",
+            "Privacy"
+        ],
+        "org_facet": [
+            "Data.gov",
+            "European Union",
+            "Food and Drug Administration",
+            "Internet Archive",
+            "Signal (Open Whisper Systems)",
+            "Centers for Disease Control and Prevention"
+        ],
+        "per_facet": [
+            "Musk, Elon",
+            "Derrida, Jacques",
+            "Rubio, Marco",
+            "Robinson, Jackie",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/opinion/11bondethylstrupovenden-still/11bondethylstrupovenden-still-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1800,
+                "width": 1800,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Erik Carter"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/opinion/11bondethylstrupovenden-still/11bondethylstrupovenden-still-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Erik Carter"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/opinion/11bondethylstrupovenden-still/11bondethylstrupovenden-still-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Erik Carter"
+            }
+        ],
+        "short_url": ""
     }
 ]
