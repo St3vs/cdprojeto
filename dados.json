@@ -34313,5 +34313,197 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Stocks Waver on Latest Escalation in U.S.-China Trade War",
+        "abstract": "Beijing retaliated with higher tariffs on U.S. goods, a tit-for-tat move that intensified investors’ anxiety and rattled already shaky markets.",
+        "url": "https://www.nytimes.com/2025/04/11/business/trump-tariffs-stock-markets.html",
+        "uri": "nyt://article/c3187d49-f3e4-565e-87db-01162f6a9d2d",
+        "byline": "By Eshe Nelson",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T04:59:26-04:00",
+        "created_date": "2025-04-11T04:57:09-04:00",
+        "published_date": "2025-04-11T04:57:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Standard & Poor's 500-Stock Index",
+            "Customs (Tariff)",
+            "International Trade and World Market",
+            "Stocks and Bonds"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11Biz-Stocks-01-ckpj/11Biz-Stocks-01-ckpj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Traders on the floor of the New York Stock Exchange on Thursday.",
+                "copyright": "Spencer Platt/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11Biz-Stocks-01-ckpj/11Biz-Stocks-01-ckpj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Traders on the floor of the New York Stock Exchange on Thursday.",
+                "copyright": "Spencer Platt/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11Biz-Stocks-01-ckpj/11Biz-Stocks-01-ckpj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Traders on the floor of the New York Stock Exchange on Thursday.",
+                "copyright": "Spencer Platt/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Trump’s Tariffs Are Part of a ‘Tectonic Plate Shift’ in the Global Economy",
+        "abstract": "Peter R. Orszag, the C.E.O. of Lazard, discusses how markets are reacting to the uncertainty of Trump’s tariffs.",
+        "url": "https://www.nytimes.com/2025/04/11/opinion/ezra-klein-podcast-peter-orszag.html",
+        "uri": "nyt://article/1e73a19a-52c7-5e2e-b226-ac43036ec4de",
+        "byline": "By Ezra Klein",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T05:05:40-04:00",
+        "created_date": "2025-04-11T05:05:40-04:00",
+        "published_date": "2025-04-11T05:05:40-04:00",
+        "material_type_facet": "",
+        "kicker": "The Ezra Klein Show",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "United States Economy",
+            "Stocks and Bonds",
+            "Factories and Manufacturing",
+            "Banking and Financial Institutions",
+            "Politics and Government",
+            "Government Bonds",
+            "Economic Conditions and Trends",
+            "audio-neutral-informative"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Orszag, Peter R"
+        ],
+        "geo_facet": [
+            "United States",
+            "Washington (DC)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/opinion/11eks-orszag/11eks-orszag-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/opinion/11eks-orszag/11eks-orszag-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/opinion/11eks-orszag/11eks-orszag-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "‘This Mindless Flailing Creates Recessions’: Four Economists Dissect Trump’s Tariffs",
+        "abstract": "The most dramatic effort to remake the post-World War II trade system was underway — until it wasn’t.",
+        "url": "https://www.nytimes.com/2025/04/11/opinion/tariffs-pause-reversal-markets.html",
+        "uri": "nyt://article/8c6d55a8-4e6d-56bd-88d0-f04bc0884986",
+        "byline": "By Oren Cass, Jason Furman, Rebecca Patterson and Lawrence H. Summers",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T05:02:02-04:00",
+        "created_date": "2025-04-11T05:02:02-04:00",
+        "published_date": "2025-04-11T05:02:02-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "United States Economy",
+            "Stocks and Bonds",
+            "Protectionism (Trade)",
+            "Inflation (Economics)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/opinion/11econroundtable/11econroundtable-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2029,
+                "width": 2028,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by Shoshana Schultz/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/opinion/11econroundtable/11econroundtable-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by Shoshana Schultz/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/opinion/11econroundtable/11econroundtable-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by Shoshana Schultz/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
