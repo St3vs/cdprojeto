@@ -33938,5 +33938,185 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "In Cabinet Meeting, Musk Seems to Drastically Lower DOGE’s Savings Goal",
+        "abstract": "Musk said his group was on pace to cut $150 billion from the federal budget in one budget year. That would be a sharp drop from his previous stated goal of $1 trillion.",
+        "url": "https://www.nytimes.com/2025/04/10/us/politics/musk-doge-drops-goal.html",
+        "uri": "nyt://article/2362fe36-b0b0-55fe-bc25-d55c072f3298",
+        "byline": "By David A. Fahrenthold and Maggie Haberman",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T20:00:11-04:00",
+        "created_date": "2025-04-10T18:18:09-04:00",
+        "published_date": "2025-04-10T18:18:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Federal Budget (US)"
+        ],
+        "org_facet": [
+            "Government Efficiency Department (US)"
+        ],
+        "per_facet": [
+            "Musk, Elon",
+            "Trump, Donald J",
+            "Bannon, Stephen K"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10trump-news-musk-lhtf/10trump-news-musk-lhtf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk speaks during a cabinet meeting at the White House in Washington, on Thursday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10trump-news-musk-lhtf/10trump-news-musk-lhtf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk speaks during a cabinet meeting at the White House in Washington, on Thursday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10trump-news-musk-lhtf/10trump-news-musk-lhtf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk speaks during a cabinet meeting at the White House in Washington, on Thursday.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "This Exiled Leader Ruled Ecuador for 10 Years. The Nation Still Can’t Move On.",
+        "abstract": "Rafael Correa’s presence is sustained not only by his supporters but also by his adversaries, who have failed to construct a compelling alternative.",
+        "url": "https://www.nytimes.com/2025/04/11/opinion/rafael-correa-daniel-noboa-ecuador.html",
+        "uri": "nyt://article/29cf1937-b782-57b5-8fb7-878fff44a8d1",
+        "byline": "By Caroline Ávila Nieto",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T01:00:07-04:00",
+        "created_date": "2025-04-11T01:00:07-04:00",
+        "published_date": "2025-04-11T01:00:07-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [
+            "Correa, Rafael",
+            "Noboa, Daniel",
+            "Lasso, Guillermo",
+            "Moreno, Lenin (1953- )"
+        ],
+        "geo_facet": [
+            "Ecuador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/opinion/11avila-nieto_2/11avila-nieto_2-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of the Citizen Revolution Movement party hold a banner with an image of Rafael Correa, the former president of Ecuador.",
+                "copyright": "Dolores Ochoa/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/opinion/11avila-nieto_2/11avila-nieto_2-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of the Citizen Revolution Movement party hold a banner with an image of Rafael Correa, the former president of Ecuador.",
+                "copyright": "Dolores Ochoa/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/opinion/11avila-nieto_2/11avila-nieto_2-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of the Citizen Revolution Movement party hold a banner with an image of Rafael Correa, the former president of Ecuador.",
+                "copyright": "Dolores Ochoa/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Eric Dane, McSteamy of ‘Grey’s Anatomy,’ Says He Has A.L.S.",
+        "abstract": "The actor, who plans to return to his role on the hit show “Euphoria,” told People magazine about his diagnosis.",
+        "url": "https://www.nytimes.com/2025/04/11/us/eric-dane-diagnosis-als.html",
+        "uri": "nyt://article/f912ec27-94ec-5adb-8980-48e06d848fa4",
+        "byline": "By Hank Sanders",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T00:30:01-04:00",
+        "created_date": "2025-04-11T00:30:01-04:00",
+        "published_date": "2025-04-11T00:30:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Amyotrophic Lateral Sclerosis",
+            "Actors and Actresses",
+            "Television",
+            "Grey's Anatomy (TV Program)"
+        ],
+        "org_facet": [
+            "People (Magazine)"
+        ],
+        "per_facet": [
+            "Gehrig, Lou"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-dane--01-mvwb/10xp-dane--01-mvwb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eric Dane, an actor known for his roles in “Euphoria,” “Marley & Me” and as a handsome plastic surgeon in “Grey’s Anatomy,” has been diagnosed with A.L.S.",
+                "copyright": "Axelle/Bauer-Griffin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-dane--01-mvwb/10xp-dane--01-mvwb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eric Dane, an actor known for his roles in “Euphoria,” “Marley & Me” and as a handsome plastic surgeon in “Grey’s Anatomy,” has been diagnosed with A.L.S.",
+                "copyright": "Axelle/Bauer-Griffin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-dane--01-mvwb/10xp-dane--01-mvwb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eric Dane, an actor known for his roles in “Euphoria,” “Marley & Me” and as a handsome plastic surgeon in “Grey’s Anatomy,” has been diagnosed with A.L.S.",
+                "copyright": "Axelle/Bauer-Griffin"
+            }
+        ],
+        "short_url": ""
     }
 ]
