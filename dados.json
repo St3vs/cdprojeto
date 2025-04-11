@@ -37804,5 +37804,253 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Judge Declines to Block Immigration Enforcement Operations in Places of Worship",
+        "abstract": "The ruling cast doubt on claims by a coalition of Christian and Jewish groups that their congregations were at heightened risk of becoming targets for raids under the Trump administration.",
+        "url": "https://www.nytimes.com/2025/04/11/us/politics/immigration-enforcement-places-of-worship.html",
+        "uri": "nyt://article/5754fc30-4d6a-5039-82cb-a12c6a467978",
+        "byline": "By Zach Montague",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T17:29:26-04:00",
+        "created_date": "2025-04-11T17:29:26-04:00",
+        "published_date": "2025-04-11T17:29:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Immigration and Emigration",
+            "Illegal Immigration",
+            "Religion and Belief",
+            "Freedom of Religion",
+            "Churches (Buildings)",
+            "Temples (Religious)"
+        ],
+        "org_facet": [
+            "Homeland Security Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Mayorkas, Alejandro"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11trump-news-worship-immig-pjqm/11trump-news-worship-immig-pjqm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sacred Heart Church in El Paso during a demonstration for migrant rights last month.",
+                "copyright": "Paul Ratje for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11trump-news-worship-immig-pjqm/11trump-news-worship-immig-pjqm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sacred Heart Church in El Paso during a demonstration for migrant rights last month.",
+                "copyright": "Paul Ratje for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11trump-news-worship-immig-pjqm/11trump-news-worship-immig-pjqm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sacred Heart Church in El Paso during a demonstration for migrant rights last month.",
+                "copyright": "Paul Ratje for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "White House Plan Calls for NOAA Research Programs to Be Dismantled",
+        "abstract": "A Trump administration budget proposal would essentially eliminate one of the world’s foremost Earth sciences research operations.",
+        "url": "https://www.nytimes.com/2025/04/11/climate/noaa-research-budget-cuts.html",
+        "uri": "nyt://article/e099690b-c0fa-5a87-afa3-20454e676e20",
+        "byline": "By Austyn Gaffney",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T16:44:59-04:00",
+        "created_date": "2025-04-11T14:28:55-04:00",
+        "published_date": "2025-04-11T14:28:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Research",
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "United States Politics and Government",
+            "Federal Budget (US)",
+            "Science and Technology",
+            "Government Employees"
+        ],
+        "org_facet": [
+            "National Oceanic and Atmospheric Administration"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Lofgren, Zoe"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/climate/11cli-noaa-budget/11cli-noaa-budget-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Weather analysis at NOAA’s Center for Weather and Climate Prediction headquarters in College Park, Md., in December. ",
+                "copyright": "Michael A. McCoy/Bloomberg"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/climate/11cli-noaa-budget/11cli-noaa-budget-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Weather analysis at NOAA’s Center for Weather and Climate Prediction headquarters in College Park, Md., in December. ",
+                "copyright": "Michael A. McCoy/Bloomberg"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/climate/11cli-noaa-budget/11cli-noaa-budget-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Weather analysis at NOAA’s Center for Weather and Climate Prediction headquarters in College Park, Md., in December. ",
+                "copyright": "Michael A. McCoy/Bloomberg"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "See the Moments Leading Up to the Nightclub Roof Collapse in Santo Domingo",
+        "abstract": "Video taken at the scene shows debris was already falling from the ceiling of the Jet Set nightclub before it caved in.",
+        "url": "https://www.nytimes.com/interactive/2025/04/11/world/americas/nightclub-dominican-republic-collapse.html",
+        "uri": "nyt://interactive/d60fbf30-96fc-52b9-8eb7-1e8c9ec018f9",
+        "byline": "By Helmuth Rosales",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-11T17:44:58-04:00",
+        "created_date": "2025-04-11T17:16:46-04:00",
+        "published_date": "2025-04-11T17:16:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Bars and Nightclubs",
+            "Roofs"
+        ],
+        "org_facet": [
+            "Jet Set (Santo Domingo, Dominican Republic, Nightclub)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Santo Domingo (Dominican Republic)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-11-jetset-dr-collapse-index/2025-04-11-jetset-dr-collapse-index-superJumbo-v3.jpg",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-11-jetset-dr-collapse-index/2025-04-11-jetset-dr-collapse-index-threeByTwoSmallAt2X-v4.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-11-jetset-dr-collapse-index/2025-04-11-jetset-dr-collapse-index-thumbLarge-v3.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Thousands of Voters Must Verify Information in Contested Election, N.C. Supreme Court Rules",
+        "abstract": "The number of ballots in question exceeds the slim margin by which the Democrat incumbent, Justice Allison Riggs, won.",
+        "url": "https://www.nytimes.com/2025/04/11/us/north-carolina-griffin-riggs-election-votes.html",
+        "uri": "nyt://article/bcb8fdd2-9620-5e57-a657-7eb404004c65",
+        "byline": "By Eduardo Medina and Nick Corasaniti",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T17:50:57-04:00",
+        "created_date": "2025-04-11T17:50:57-04:00",
+        "published_date": "2025-04-11T17:50:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Supreme Courts (State)",
+            "Voting Rights, Registration and Requirements"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Griffin, Jefferson (1980- )",
+            "Riggs, Allison J"
+        ],
+        "geo_facet": [
+            "North Carolina"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11nat-nc-court-zmqw/11nat-nc-court-zmqw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1402,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The appeal came from Justice Allison Riggs, the Democratic incumbent in the State Supreme Court election.",
+                "copyright": "Evelyn Hockstein/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11nat-nc-court-zmqw/11nat-nc-court-zmqw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The appeal came from Justice Allison Riggs, the Democratic incumbent in the State Supreme Court election.",
+                "copyright": "Evelyn Hockstein/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11nat-nc-court-zmqw/11nat-nc-court-zmqw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The appeal came from Justice Allison Riggs, the Democratic incumbent in the State Supreme Court election.",
+                "copyright": "Evelyn Hockstein/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
