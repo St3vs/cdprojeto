@@ -35537,5 +35537,127 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "New Talks With Iran",
+        "abstract": "The U.S. will have nuclear negotiations this weekend.",
+        "url": "https://www.nytimes.com/2025/04/11/briefing/new-talks-with-iran.html",
+        "uri": "nyt://article/971fd758-e5a6-50fa-88b6-1469276d4c10",
+        "byline": "By David E. Sanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T06:56:57-04:00",
+        "created_date": "2025-04-11T06:56:57-04:00",
+        "published_date": "2025-04-11T06:56:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "internal-storyline-no",
+            "United States Politics and Government",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Iran"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11themorning-nl-lede1-tzhm/11themorning-nl-lede1-tzhm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An anti-American mural in Tehran.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11themorning-nl-lede1-tzhm/11themorning-nl-lede1-tzhm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An anti-American mural in Tehran.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11themorning-nl-lede1-tzhm/11themorning-nl-lede1-tzhm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An anti-American mural in Tehran.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "Late Night Taps Into Trump’s Preoccupation With Water Pressure",
+        "abstract": "Jimmy Fallon said the good news is that “more powerful shower heads are on the way. Bad news: They’re all made in China.”",
+        "url": "https://www.nytimes.com/2025/04/11/arts/television/late-night-trump-shower-heads.html",
+        "uri": "nyt://article/cee7f9ce-27fd-50dd-bd14-7ece960d852a",
+        "byline": "By Trish Bendix",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T02:33:53-04:00",
+        "created_date": "2025-04-11T02:33:53-04:00",
+        "published_date": "2025-04-11T02:33:53-04:00",
+        "material_type_facet": "",
+        "kicker": "Best of Late Night",
+        "des_facet": [
+            "Television",
+            "Jimmy Kimmel Live (TV Program)",
+            "The Tonight Show (TV Program)",
+            "The Daily Show with Trevor Noah (TV Program)",
+            "Late Night with Seth Meyers (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kimmel, Jimmy",
+            "Fallon, Jimmy",
+            "Gutfeld, Greg",
+            "Lydic, Desi (1981- )",
+            "Meyers, Seth"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/arts/11latenight/11latenight-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1020,
+                "width": 1826,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“America was, like, ‘What are you doing in our 401(k)?’ And Trump was, like, ‘Stronger shower nozzles,’” Jimmy Fallon said on Thursday.",
+                "copyright": "NBC"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/arts/11latenight/11latenight-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“America was, like, ‘What are you doing in our 401(k)?’ And Trump was, like, ‘Stronger shower nozzles,’” Jimmy Fallon said on Thursday.",
+                "copyright": "NBC"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/arts/11latenight/11latenight-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“America was, like, ‘What are you doing in our 401(k)?’ And Trump was, like, ‘Stronger shower nozzles,’” Jimmy Fallon said on Thursday.",
+                "copyright": "NBC"
+            }
+        ],
+        "short_url": ""
     }
 ]
