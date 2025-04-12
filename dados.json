@@ -39176,5 +39176,68 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "White House Continues Defiant Stance on Seeking Return of Deported Man",
+        "abstract": "The Trump administration clashed with a federal judge, refusing to comply with her demand for a road map to release a Maryland man it inadvertently deported to a Salvadoran prison last month.",
+        "url": "https://www.nytimes.com/2025/04/11/us/politics/us-maryland-man-deportation-delay.html",
+        "uri": "nyt://article/54e0b188-7606-5952-9b79-3cd73d77e1b7",
+        "byline": "By Alan Feuer and Aishvarya Kavi",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T21:36:49-04:00",
+        "created_date": "2025-04-11T11:05:33-04:00",
+        "published_date": "2025-04-11T11:05:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "Government Contracts and Procurement"
+        ],
+        "org_facet": [
+            "Justice Department",
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Trump, Donald J",
+            "Xinis, Paula"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11dc-deport-fpcl/11dc-deport-fpcl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The maximum-security prison in San Vicente, El Salvador, last week.",
+                "copyright": "Alex Peña/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11dc-deport-fpcl/11dc-deport-fpcl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The maximum-security prison in San Vicente, El Salvador, last week.",
+                "copyright": "Alex Peña/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11dc-deport-fpcl/11dc-deport-fpcl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The maximum-security prison in San Vicente, El Salvador, last week.",
+                "copyright": "Alex Peña/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
