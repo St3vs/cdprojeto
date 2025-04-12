@@ -41200,5 +41200,145 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "The Bees Are Disappearing Again",
+        "abstract": "For beekeepers, the problem isn’t just climate change and extreme weather: It’s also DOGE, the trade war and the immigration crackdown.",
+        "url": "https://www.nytimes.com/2025/04/12/business/honeybees-colony-collapse.html",
+        "uri": "nyt://article/2b8ec154-c737-5888-b26a-b7c89db3dad2",
+        "byline": "By Ivan Penn and Graham Dickie",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T14:03:31-04:00",
+        "created_date": "2025-04-12T05:00:26-04:00",
+        "published_date": "2025-04-12T05:00:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Bees",
+            "United States Politics and Government",
+            "Foreign Workers",
+            "Endangered and Extinct Species",
+            "Weather",
+            "Robberies and Thefts",
+            "Conservation of Resources",
+            "Immigration and Emigration",
+            "Agriculture and Farming",
+            "Global Warming",
+            "Pesticides",
+            "International Trade and World Market",
+            "Insects",
+            "Flowers and Plants",
+            "Wildlife Die-Offs",
+            "Mites",
+            "Environment",
+            "audio-neutral-informative"
+        ],
+        "org_facet": [
+            "Agriculture Department",
+            "Environmental Protection Agency"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "California",
+            "North Dakota",
+            "Texas"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/24/00biz-bees-bzgv-cover/00biz-bees-bzgv-cover-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1920,
+                "width": 1080,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/24/00biz-bees-bzgv-cover/00biz-bees-bzgv-cover-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/24/00biz-bees-bzgv-cover/00biz-bees-bzgv-cover-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "realestate",
+        "subsection": "",
+        "title": "In a Snow Paradise, They Live in This Parking Lot",
+        "abstract": "People experiencing homelessness can sleep in their cars in this wealthy ski town in Colorado, but only if they have a job.",
+        "url": "https://www.nytimes.com/2025/04/11/realestate/colorado-homeless-parking-lot-affordable-housing.html",
+        "uri": "nyt://article/4ecd0ab1-951a-57c7-8f3b-3865b4a002c8",
+        "byline": "By Rukmini Callimachi and Erin Schaff",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T15:18:33-04:00",
+        "created_date": "2025-04-11T05:00:54-04:00",
+        "published_date": "2025-04-11T05:00:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Real Estate and Housing (Residential)",
+            "Affordable Housing",
+            "Parking Garages and Lots",
+            "Homeless Persons",
+            "Labor and Jobs",
+            "Renting and Leasing (Real Estate)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Colorado",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11re-snowcars-promo-pzjt/11re-snowcars-promo-pzjt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1362,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11re-snowcars-promo-pzjt/11re-snowcars-promo-pzjt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11re-snowcars-promo-pzjt/11re-snowcars-promo-pzjt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Erin Schaff/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
