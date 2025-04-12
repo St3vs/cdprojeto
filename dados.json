@@ -41470,5 +41470,61 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "magazine",
+        "subsection": "",
+        "title": "Secret Tunnels, Bunkers and Arsenals: The ‘Panic Industry’ Is Booming",
+        "abstract": "Fortifying the American home has become big business, selling an endless supply of paranoia.",
+        "url": "https://www.nytimes.com/interactive/2025/04/10/magazine/bunkers-prepping.html",
+        "uri": "nyt://interactive/35504227-8441-537b-a6b6-b043d469b99d",
+        "byline": "By Coralie Kraft",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-11T15:48:15-04:00",
+        "created_date": "2025-04-10T13:43:32-04:00",
+        "published_date": "2025-04-10T13:43:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Real Estate and Housing (Residential)",
+            "Home Repairs and Improvements",
+            "Doomsday"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/magazine/13mag-panic-18/13mag-panic-18-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1521,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Richard Barnes for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/magazine/13mag-panic-18/13mag-panic-18-threeByTwoSmallAt2X-v4.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Richard Barnes for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/magazine/13mag-panic-18/13mag-panic-18-thumbLarge-v3.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Richard Barnes for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
