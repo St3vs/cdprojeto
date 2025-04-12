@@ -41139,5 +41139,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "British Government Takes Control of Country’s Last Major Steel Mill",
+        "abstract": "London says it acted to prevent the plant’s Chinese owners from closing the plant, threatening jobs and national security.",
+        "url": "https://www.nytimes.com/2025/04/12/business/british-government-steel-mill.html",
+        "uri": "nyt://article/a4c0bbf1-7158-5325-b03a-9544691cb379",
+        "byline": "By Stanley Reed",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T13:38:47-04:00",
+        "created_date": "2025-04-12T13:38:09-04:00",
+        "published_date": "2025-04-12T13:38:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Steel and Iron",
+            "Politics and Government",
+            "Labor and Jobs",
+            "Nationalization of Industry",
+            "Layoffs and Job Reductions",
+            "Organized Labor"
+        ],
+        "org_facet": [
+            "Conservative Party (Great Britain)"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12biz-british-steel-top-fvjk/12biz-british-steel-top-fvjk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The British Steel plant in Scunthorpe has Britain’s last two operating blast furnaces.",
+                "copyright": "Ryan Jenkinson/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12biz-british-steel-top-fvjk/12biz-british-steel-top-fvjk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The British Steel plant in Scunthorpe has Britain’s last two operating blast furnaces.",
+                "copyright": "Ryan Jenkinson/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12biz-british-steel-top-fvjk/12biz-british-steel-top-fvjk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The British Steel plant in Scunthorpe has Britain’s last two operating blast furnaces.",
+                "copyright": "Ryan Jenkinson/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
