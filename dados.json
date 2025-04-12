@@ -41075,5 +41075,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "The 2025 Masters",
+        "abstract": "The weekend weather at the Masters Tournament is expected to be perfect for golf, and the third round began with the leader Justin Rose in a familiar position.",
+        "url": "https://www.nytimes.com/2025/04/12/us/masters-tournament-golf.html",
+        "uri": "nyt://article/84af6810-54bc-5943-8b16-5264b71bac1d",
+        "byline": "By Doug Mills",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T10:34:33-04:00",
+        "created_date": "2025-04-12T10:34:33-04:00",
+        "published_date": "2025-04-12T10:34:33-04:00",
+        "material_type_facet": "",
+        "kicker": "In photos",
+        "des_facet": [
+            "Masters Golf Tournament",
+            "Golf",
+            "vis-photo"
+        ],
+        "org_facet": [
+            "Augusta National Golf Club"
+        ],
+        "per_facet": [
+            "Rose, Justin",
+            "McIlroy, Rory",
+            "Nicklaus, Jack"
+        ],
+        "geo_facet": [
+            "Augusta (Ga)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/nat-masters-photos-3-zhmb/nat-masters-photos-3-zhmb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Scottie Scheffler teeing off on the 18th hole during the first round of the Masters Tournament in Augusta, Ga. on Thursday.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/nat-masters-photos-3-zhmb/nat-masters-photos-3-zhmb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Scottie Scheffler teeing off on the 18th hole during the first round of the Masters Tournament in Augusta, Ga. on Thursday.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/nat-masters-photos-3-zhmb/nat-masters-photos-3-zhmb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Scottie Scheffler teeing off on the 18th hole during the first round of the Masters Tournament in Augusta, Ga. on Thursday.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
     }
 ]
