@@ -40811,5 +40811,128 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Hostages Still Held in Gaza Cast Shadow Over Passover in Israel",
+        "abstract": "The holiday is usually a celebration of the liberation of ancient Israelites from slavery in Egypt. But for many Israelis, the suffering of the captives still in Gaza is tempering the joy.",
+        "url": "https://www.nytimes.com/2025/04/12/world/middleeast/israel-gaza-passover.html",
+        "uri": "nyt://article/b8c476bc-b4e0-5926-bfe9-29352ce48324",
+        "byline": "By Adam Rasgon and Rawan Sheikh Ahmad",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T09:42:04-04:00",
+        "created_date": "2025-04-12T06:52:59-04:00",
+        "published_date": "2025-04-12T06:52:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Kidnapping and Hostages",
+            "Defense and Military Forces",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-israel-passover-qwtm/12int-israel-passover-qwtm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Passover Seder last year in Tel Aviv.",
+                "copyright": "Sergey Ponomarev for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-israel-passover-qwtm/12int-israel-passover-qwtm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Passover Seder last year in Tel Aviv.",
+                "copyright": "Sergey Ponomarev for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-israel-passover-qwtm/12int-israel-passover-qwtm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Passover Seder last year in Tel Aviv.",
+                "copyright": "Sergey Ponomarev for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "After Police Chase and Fiery Crash, an Agonizing Wait to Learn the Worst",
+        "abstract": "Francisco Guzman Parra’s relatives worried that he was the driver killed when a stolen car rammed into an Upper Manhattan building. It took several days to find out.",
+        "url": "https://www.nytimes.com/2025/04/12/nyregion/guzman-inwood-crash-police.html",
+        "uri": "nyt://article/8382dc04-bf3f-52f5-9ef4-f1489ea8968f",
+        "byline": "By Maria Cramer",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T03:00:11-04:00",
+        "created_date": "2025-04-12T03:00:11-04:00",
+        "published_date": "2025-04-12T03:00:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Fires and Firefighters",
+            "Traffic Accidents and Safety",
+            "Deaths (Fatalities)"
+        ],
+        "org_facet": [
+            "Police Department (NYC)"
+        ],
+        "per_facet": [
+            "Hendry, Patrick"
+        ],
+        "geo_facet": [
+            "Inwood (Manhattan, NY)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11met-car-crash-zjbq/11met-car-crash-zjbq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friends and relatives held a vigil for Francisco Andres Guzman Parra near the site of the car crash that killed him. ",
+                "copyright": "Emon Hassan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11met-car-crash-zjbq/11met-car-crash-zjbq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friends and relatives held a vigil for Francisco Andres Guzman Parra near the site of the car crash that killed him. ",
+                "copyright": "Emon Hassan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11met-car-crash-zjbq/11met-car-crash-zjbq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friends and relatives held a vigil for Francisco Andres Guzman Parra near the site of the car crash that killed him. ",
+                "copyright": "Emon Hassan for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
