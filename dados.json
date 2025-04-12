@@ -39110,5 +39110,71 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Military Judge Throws Out Sept. 11 Case Confession as Obtained Through Torture",
+        "abstract": "The critical question of whether the prisoner’s 2007 interrogations could be used at his capital trial has shadowed the case for years.",
+        "url": "https://www.nytimes.com/2025/04/11/us/politics/sept-11-confession-torture.html",
+        "uri": "nyt://article/1d3d8ba9-f195-57f6-bae6-9bac8ad97cd3",
+        "byline": "By Carol Rosenberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T19:45:01-04:00",
+        "created_date": "2025-04-11T19:33:30-04:00",
+        "published_date": "2025-04-11T19:33:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "September 11 (2001)",
+            "Decisions and Verdicts",
+            "United States Defense and Military Forces",
+            "Torture",
+            "Cole (USS)"
+        ],
+        "org_facet": [
+            "Al Qaeda",
+            "Defense Department"
+        ],
+        "per_facet": [
+            "Ali, Ali Abdul Aziz",
+            "McCall, Matthew N"
+        ],
+        "geo_facet": [
+            "Guantanamo Bay Naval Base (Cuba)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/us/politics/11dc-gitmo/11dc-gitmo-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1310,
+                "width": 873,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ammar al-Baluchi at Guantánamo Bay in 2024 in an image provided by his lawyers. He is accused of sending money and providing other support to some of the hijackers who carried out the Sept. 11, 2001, attack.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/us/politics/11dc-gitmo/11dc-gitmo-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ammar al-Baluchi at Guantánamo Bay in 2024 in an image provided by his lawyers. He is accused of sending money and providing other support to some of the hijackers who carried out the Sept. 11, 2001, attack.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/us/politics/11dc-gitmo/11dc-gitmo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ammar al-Baluchi at Guantánamo Bay in 2024 in an image provided by his lawyers. He is accused of sending money and providing other support to some of the hijackers who carried out the Sept. 11, 2001, attack.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
     }
 ]
