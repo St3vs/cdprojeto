@@ -39239,5 +39239,1520 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Bessent Takes Tricky Center Stage as Trade Wars Roil U.S. Economy",
+        "abstract": "The Treasury secretary received counsel and criticism from some of his predecessors over President Trump’s policies.",
+        "url": "https://www.nytimes.com/2025/04/12/us/politics/bessent-trump-treasury-tariffs.html",
+        "uri": "nyt://article/ebc6e733-5d1d-5276-9dca-38b7e36c3855",
+        "byline": "By Alan Rappeport",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T05:02:07-04:00",
+        "created_date": "2025-04-12T05:02:07-04:00",
+        "published_date": "2025-04-12T05:02:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States Economy",
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Treasury Department"
+        ],
+        "per_facet": [
+            "Bessent, Scott",
+            "Trump, Donald J",
+            "Blumenthal, W Michael"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00dc-bessent-gvmc/00dc-bessent-gvmc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Treasury Secretary Scott Bessent discussing President Trump’s 90-day pause on “reciprocal” global tariffs on Wednesday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00dc-bessent-gvmc/00dc-bessent-gvmc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Treasury Secretary Scott Bessent discussing President Trump’s 90-day pause on “reciprocal” global tariffs on Wednesday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00dc-bessent-gvmc/00dc-bessent-gvmc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Treasury Secretary Scott Bessent discussing President Trump’s 90-day pause on “reciprocal” global tariffs on Wednesday.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Two Signature Trump Policies. One Agenda.",
+        "abstract": "After a week of court challenges — and market swings — The New York Times journalists Zolan Kanno-Youngs, Hamed Aleaziz and Jonathan Swan discuss how President Trump is consolidating power in his second term.",
+        "url": "https://www.nytimes.com/2025/04/12/us/politics/trump-tariffs-immigration-power.html",
+        "uri": "nyt://article/99d1cfd1-0980-5de0-a2a4-5506f35994d0",
+        "byline": "By Zolan Kanno-Youngs, Jonathan Swan, Hamed Aleaziz, Sophie Erickson, Chevaz Clarke, Mark Zemel, Jeremy Rocklin, Amy Marino, Ray Whitehouse and Zach Wood",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T05:01:59-04:00",
+        "created_date": "2025-04-12T05:01:59-04:00",
+        "published_date": "2025-04-12T05:01:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Illegal Immigration",
+            "Courts and the Judiciary",
+            "Foreign Students (in US)",
+            "vis-video"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/video/12-political-roundtable-full-cover/12-political-roundtable-full-cover-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1920,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/video/12-political-roundtable-full-cover/12-political-roundtable-full-cover-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/video/12-political-roundtable-full-cover/12-political-roundtable-full-cover-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "In South Carolina, a Once Thriving Textile Hub Is Baffled by Trump’s Tariffs",
+        "abstract": "The Upstate region of South Carolina was saved by foreign companies after the fall of its textile industry. Now, tariffs pose another round of uncertainty.",
+        "url": "https://www.nytimes.com/2025/04/12/us/south-carolina-manufacturing-tariffs.html",
+        "uri": "nyt://article/61c9c5b0-b170-5552-800e-b621d0b20f1a",
+        "byline": "By Eduardo Medina",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T05:01:37-04:00",
+        "created_date": "2025-04-12T05:01:37-04:00",
+        "published_date": "2025-04-12T05:01:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Textiles",
+            "Factories and Manufacturing"
+        ],
+        "org_facet": [
+            "Bayerische Motorenwerke AG"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "South Carolina",
+            "Spartanburg (SC)",
+            "Greenville (SC)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/us/12nat-sc-tariffs/12nat-sc-tariffs-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1441,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Union County, S.C., has not fared nearly as well as nearby areas in reviving its economy after the textile industry collapsed. But in recent years it has recruited some companies, and many locals don’t want to turn back the clock.",
+                "copyright": "Will Crooks for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/us/12nat-sc-tariffs/12nat-sc-tariffs-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Union County, S.C., has not fared nearly as well as nearby areas in reviving its economy after the textile industry collapsed. But in recent years it has recruited some companies, and many locals don’t want to turn back the clock.",
+                "copyright": "Will Crooks for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/us/12nat-sc-tariffs/12nat-sc-tariffs-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Union County, S.C., has not fared nearly as well as nearby areas in reviving its economy after the textile industry collapsed. But in recent years it has recruited some companies, and many locals don’t want to turn back the clock.",
+                "copyright": "Will Crooks for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Raise Prices? Eat Higher Costs? Retailers Face Tough Questions.",
+        "abstract": "A trade war with China and tariff threats on other countries are ramping up pressure on stores that sell products from overseas — which, for some categories, is just about all of them.",
+        "url": "https://www.nytimes.com/2025/04/12/business/retailers-tariffs-uncertainty.html",
+        "uri": "nyt://article/9b5e8e2b-50fe-5c39-864d-d8203293face",
+        "byline": "By Ken Belson and Karen Weise",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T05:03:09-04:00",
+        "created_date": "2025-04-12T05:03:09-04:00",
+        "published_date": "2025-04-12T05:03:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Prices (Fares, Fees and Rates)",
+            "Customs (Tariff)",
+            "Shopping and Retail",
+            "Fashion and Apparel"
+        ],
+        "org_facet": [
+            "Amazon.com Inc",
+            "Steven Madden Ltd",
+            "Walmart Stores Inc"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12biz-tariff-retailers-print-01-tcfl/12biz-tariff-retailers-print-01-tcfl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vivian Hoffman owns several stores that sell apparel from China. Her suppliers are already raising prices because of tariffs.",
+                "copyright": "Sasha Maslov for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12biz-tariff-retailers-print-01-tcfl/12biz-tariff-retailers-print-01-tcfl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vivian Hoffman owns several stores that sell apparel from China. Her suppliers are already raising prices because of tariffs.",
+                "copyright": "Sasha Maslov for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12biz-tariff-retailers-print-01-tcfl/12biz-tariff-retailers-print-01-tcfl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vivian Hoffman owns several stores that sell apparel from China. Her suppliers are already raising prices because of tariffs.",
+                "copyright": "Sasha Maslov for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "As Tariffs Hit, Americans Are Racing to Buy Car Seats, iPhones and Christmas Gifts",
+        "abstract": "Many Americans have purchased foreign-made products out of fears that companies could start to raise prices soon.",
+        "url": "https://www.nytimes.com/2025/04/12/us/politics/tariffs-china-iphones-panic-shopping.html",
+        "uri": "nyt://article/26a1778c-ded0-5ce1-a072-559fb6581c09",
+        "byline": "By Madeleine Ngo",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T05:02:07-04:00",
+        "created_date": "2025-04-12T05:02:07-04:00",
+        "published_date": "2025-04-12T05:02:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Computers and the Internet",
+            "Prices (Fares, Fees and Rates)",
+            "Customs (Tariff)",
+            "Consumer Behavior",
+            "E-Commerce",
+            "Social Media",
+            "iPhone",
+            "Christmas"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00dc-tariff-panic-buying-03-glmh/00dc-tariff-panic-buying-03-glmh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Fearing increased prices because of tariffs on Chinese goods, shoppers have flocked to Apple stores to buy iPhones, deciding not to wait until the release of new models later this year.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00dc-tariff-panic-buying-03-glmh/00dc-tariff-panic-buying-03-glmh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Fearing increased prices because of tariffs on Chinese goods, shoppers have flocked to Apple stores to buy iPhones, deciding not to wait until the release of new models later this year.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00dc-tariff-panic-buying-03-glmh/00dc-tariff-panic-buying-03-glmh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Fearing increased prices because of tariffs on Chinese goods, shoppers have flocked to Apple stores to buy iPhones, deciding not to wait until the release of new models later this year.",
+                "copyright": "Karsten Moran for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "How Much Are Tariffs on Chinese Goods? It’s Trickier Than You Think.",
+        "abstract": "The tariff rate on Chinese imports can be as high as 245% or zero, depending on the type of product that is being imported.",
+        "url": "https://www.nytimes.com/interactive/2025/04/12/business/economy/china-tariff-product-costs.html",
+        "uri": "nyt://interactive/ecaaf37a-9fd7-58ff-ae31-c886717a71df",
+        "byline": "By Agnes Chang, Lazaro Gamio and Pablo Robles",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-12T05:26:20-04:00",
+        "created_date": "2025-04-12T05:03:12-04:00",
+        "published_date": "2025-04-12T05:03:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "International Trade and World Market"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-10-china-tariff-stacking-new-index/2025-04-10-china-tariff-stacking-new-index-superJumbo-v5.jpg",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-10-china-tariff-stacking-new-index/2025-04-10-china-tariff-stacking-new-index-threeByTwoSmallAt2X-v8.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-10-china-tariff-stacking-new-index/2025-04-10-china-tariff-stacking-new-index-thumbLarge-v5.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "How to Ease Your Money Anxiety When the Economy Is Stressing You Out",
+        "abstract": "Wild stock market swings and rising recession fears have put Americans on edge. Here are strategies to lower the angst.",
+        "url": "https://www.nytimes.com/2025/04/12/business/money-anxiety-stock-market.html",
+        "uri": "nyt://article/e0942f18-6c16-5627-946d-9832fe56c180",
+        "byline": "By Diane Harris",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T05:01:58-04:00",
+        "created_date": "2025-04-12T05:01:58-04:00",
+        "published_date": "2025-04-12T05:01:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Personal Finances",
+            "Anxiety and Stress",
+            "Stocks and Bonds",
+            "Recession and Depression",
+            "Layoffs and Job Reductions",
+            "Content Type: Service",
+            "United States Economy",
+            "Standard & Poor's 500-Stock Index",
+            "Prices (Fares, Fees and Rates)",
+            "Psychology and Psychologists",
+            "401(k), 403(b) and 457 Plans",
+            "Depression (Mental)",
+            "Emotions",
+            "Medicine and Health",
+            "Mental Health and Disorders",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/business/0413Anxiety-Investing/0413Anxiety-Investing-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1440,
+                "width": 1965,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Lily Padula"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/business/0413Anxiety-Investing/0413Anxiety-Investing-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Lily Padula"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/business/0413Anxiety-Investing/0413Anxiety-Investing-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Lily Padula"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "upshot",
+        "subsection": "",
+        "title": "Musk’s Latest Fraud Finding Isn’t What It Seems",
+        "abstract": "His team found cases of seemingly fake people receiving unemployment benefits. But that fake data exists for a reason.",
+        "url": "https://www.nytimes.com/2025/04/12/upshot/musk-doge-fraud-claims.html",
+        "uri": "nyt://article/239d9fd8-7f5e-5120-9e19-a40d1d2d241f",
+        "byline": "By Emily Badger",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T05:03:23-04:00",
+        "created_date": "2025-04-12T05:03:23-04:00",
+        "published_date": "2025-04-12T05:03:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Identity Theft",
+            "Frauds and Swindling",
+            "Unemployment Insurance",
+            "United States Politics and Government",
+            "American Rescue Plan (2021)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Musk, Elon"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00up-elonmusk1-vbzw/00up-elonmusk1-vbzw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk following President Trump out of the Oval Office last month.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00up-elonmusk1-vbzw/00up-elonmusk1-vbzw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk following President Trump out of the Oval Office last month.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00up-elonmusk1-vbzw/00up-elonmusk1-vbzw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk following President Trump out of the Oval Office last month.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "A New Policy Points Up a Musk Obsession",
+        "abstract": "As Elon Musk continues to argue that Social Security drives illegal immigration, a new effort at the agency aims to curb it.",
+        "url": "https://www.nytimes.com/2025/04/11/us/politics/social-security-dead-migrants-list-musk-doge.html",
+        "uri": "nyt://article/590ee810-a854-5636-b3b7-cf3beb1d5ff6",
+        "byline": "By Jess Bidgood and Alexandra Berzon",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T19:40:37-04:00",
+        "created_date": "2025-04-11T19:40:37-04:00",
+        "published_date": "2025-04-11T19:40:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Elections",
+            "Social Security (US)",
+            "Deportation",
+            "Federal Budget (US)",
+            "United States Politics and Government",
+            "Medicaid",
+            "Immigration and Emigration",
+            "Medicare"
+        ],
+        "org_facet": [
+            "Government Efficiency Department (US)"
+        ],
+        "per_facet": [
+            "Dudek, Leland",
+            "Musk, Elon",
+            "Trump, Donald J",
+            "Martin, Edward Robert Jr"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11-pol-on-politics-newsletter-ssa-topitem-mbpl/11-pol-on-politics-newsletter-ssa-topitem-mbpl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Social Security Administration building in Woodlawn, Md., last month.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11-pol-on-politics-newsletter-ssa-topitem-mbpl/11-pol-on-politics-newsletter-ssa-topitem-mbpl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Social Security Administration building in Woodlawn, Md., last month.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11-pol-on-politics-newsletter-ssa-topitem-mbpl/11-pol-on-politics-newsletter-ssa-topitem-mbpl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Social Security Administration building in Woodlawn, Md., last month.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "‘The Last of Us’: What to Remember Ahead of Season 2",
+        "abstract": "Where did we last leave Joel and Ellie? Well, it was a little complicated. It was also over two years ago. Here’s a refresher.",
+        "url": "https://www.nytimes.com/2025/04/12/arts/television/last-of-us-season-2-primer.html",
+        "uri": "nyt://article/5e9ac9d8-735a-5739-8da0-8722dd332e90",
+        "byline": "By Noel Murray",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T05:03:25-04:00",
+        "created_date": "2025-04-12T05:03:25-04:00",
+        "published_date": "2025-04-12T05:03:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Television",
+            "The Last of Us (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/arts/12cul-lastofus-primer2/12cul-lastofus-primer2-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 552,
+                "width": 980,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Joel was a smuggler carrying a lot of pain when we caught up with him in 2023.",
+                "copyright": "Liane Hentscher/HBO"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/arts/12cul-lastofus-primer2/12cul-lastofus-primer2-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Joel was a smuggler carrying a lot of pain when we caught up with him in 2023.",
+                "copyright": "Liane Hentscher/HBO"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/arts/12cul-lastofus-primer2/12cul-lastofus-primer2-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Joel was a smuggler carrying a lot of pain when we caught up with him in 2023.",
+                "copyright": "Liane Hentscher/HBO"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "From ‘The Last of Us’ to ‘The Walking Dead,’ How Well Do You Know Your TV Zombies?",
+        "abstract": "“The Last of Us” returns on Sunday, the latest in TV’s lumbering horde of zombie shows. Can you tell one from another?",
+        "url": "https://www.nytimes.com/interactive/2025/04/11/arts/television/zombie-quiz-last-of-us-walking-dead.html",
+        "uri": "nyt://interactive/186ad62e-03d2-541a-91c4-80303596c3a7",
+        "byline": "By Meghan Morris and Tala Safie",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-11T16:05:21-04:00",
+        "created_date": "2025-04-11T15:23:51-04:00",
+        "published_date": "2025-04-11T15:23:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "vis-design",
+            "Television",
+            "In the Flesh (TV Program)",
+            "Fear the Walking Dead (TV Program)",
+            "The Walking Dead (TV Program)",
+            "The Last of Us (TV Program)",
+            "Black Summer (TV Program)",
+            "Z Nation (TV Program)",
+            "Kingdom (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/arts/zombie-quiz/zombie-quiz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Netflix; HBO; AMC; tvN; Fox"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/arts/zombie-quiz/zombie-quiz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Netflix; HBO; AMC; tvN; Fox"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/arts/zombie-quiz/zombie-quiz-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Netflix; HBO; AMC; tvN; Fox"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "magazine",
+        "subsection": "",
+        "title": "Ramy Youssef Is Just Trying to Be ‘Emotionally Correct’",
+        "abstract": "The creator and comedian discusses his penchant for self-reflection, how politics fits into his work and why he’s not interested in representing anyone but himself.",
+        "url": "https://www.nytimes.com/2025/04/12/magazine/ramy-youssef-interview.html",
+        "uri": "nyt://article/185e0584-6144-570c-99b9-3f5c6ac7c5b0",
+        "byline": "By Lulu Garcia-Navarro",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T07:08:08-04:00",
+        "created_date": "2025-04-12T05:15:06-04:00",
+        "published_date": "2025-04-12T05:15:06-04:00",
+        "material_type_facet": "",
+        "kicker": "The Interview",
+        "des_facet": [
+            "Ramy (TV Program)",
+            "Poor Things (Movie)",
+            "Comedy and Humor",
+            "Television",
+            "Muslim Americans",
+            "Palestinians",
+            "War Crimes, Genocide and Crimes Against Humanity"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Youssef, Ramy"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/magazine/20mag-interview-youssef-03/20mag-interview-youssef-03-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1676,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Philip Montgomery for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/magazine/20mag-interview-youssef-03/20mag-interview-youssef-03-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Philip Montgomery for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/magazine/20mag-interview-youssef-03/20mag-interview-youssef-03-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Philip Montgomery for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Before a Fatal Helicopter Crash, 2 Midair Breakdowns and Unpaid Bills",
+        "abstract": "The charter firm whose helicopter plunged into the Hudson River, killing the pilot and a family of five, had been struggling financially, records show.",
+        "url": "https://www.nytimes.com/2025/04/12/nyregion/nyc-helicopter-family-crash.html",
+        "uri": "nyt://article/ae07a4f3-b4b1-59b5-9009-1ca050af4c67",
+        "byline": "By Patrick McGeehan, Michael Rothfeld and Christopher Maag",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T03:00:19-04:00",
+        "created_date": "2025-04-12T03:00:19-04:00",
+        "published_date": "2025-04-12T03:00:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Aviation Accidents, Safety and Disasters",
+            "Helicopters",
+            "Deaths (Fatalities)",
+            "Suits and Litigation (Civil)"
+        ],
+        "org_facet": [
+            "Federal Aviation Administration",
+            "National Transportation Safety Board",
+            "New York Helicopter"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "New Jersey",
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00met-chopper-crash-thkc/00met-chopper-crash-thkc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Federal investigators were working to determine the cause of the crash, which killed the pilot and a family of five on a sightseeing tour.",
+                "copyright": "Adam Gray for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00met-chopper-crash-thkc/00met-chopper-crash-thkc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Federal investigators were working to determine the cause of the crash, which killed the pilot and a family of five on a sightseeing tour.",
+                "copyright": "Adam Gray for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00met-chopper-crash-thkc/00met-chopper-crash-thkc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Federal investigators were working to determine the cause of the crash, which killed the pilot and a family of five on a sightseeing tour.",
+                "copyright": "Adam Gray for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Whitmer Shows How Democrats Are Playing With Fire in Cozying Up to Trump",
+        "abstract": "The Michigan governor’s awkward Oval Office appearance reflected how several Democratic state leaders are cultivating cordial but politically risky relationships with the president.",
+        "url": "https://www.nytimes.com/2025/04/12/us/politics/gretchen-whitmer-trump-democrats.html",
+        "uri": "nyt://article/aed4628b-1039-5983-b0b6-a1dc12cc01f7",
+        "byline": "By Reid J. Epstein and Tyler Pager",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T05:03:10-04:00",
+        "created_date": "2025-04-12T05:03:10-04:00",
+        "published_date": "2025-04-12T05:03:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Governors (US)",
+            "United States Politics and Government",
+            "Federal Aid (US)",
+            "Federal-State Relations (US)"
+        ],
+        "org_facet": [
+            "Democratic Party"
+        ],
+        "per_facet": [
+            "Whitmer, Gretchen",
+            "Hochul, Kathleen C",
+            "Murphy, Philip D (1957- )",
+            "Newsom, Gavin",
+            "Mills, Janet T (1947- )",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12-pol-trump-dem-govs-promo-gtkl/12-pol-trump-dem-govs-promo-gtkl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12-pol-trump-dem-govs-promo-gtkl/12-pol-trump-dem-govs-promo-gtkl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12-pol-trump-dem-govs-promo-gtkl/12-pol-trump-dem-govs-promo-gtkl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Newsom Tries to Understand ‘Bro Culture.’ Will It Change Him in the Process?",
+        "abstract": "California’s governor has diagnosed one problem for Democrats — connecting with young men — and he sees his podcast as a way to address that. Other Democrats aren’t so sure.",
+        "url": "https://www.nytimes.com/2025/04/12/us/newsom-podcast-bro-culture-democrats.html",
+        "uri": "nyt://article/0dc7a2bd-2971-5a6f-b9a4-e25955048e91",
+        "byline": "By Laurel Rosenhall",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T05:01:29-04:00",
+        "created_date": "2025-04-12T05:01:29-04:00",
+        "published_date": "2025-04-12T05:01:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Podcasts"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Newsom, Gavin"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12nat-newsom-01-zlqk/12nat-newsom-01-zlqk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gov. Gavin Newsom has used his new podcast, “This Is Gavin Newsom,” to talk with conservatives and liberals about concepts of masculinity. ",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12nat-newsom-01-zlqk/12nat-newsom-01-zlqk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gov. Gavin Newsom has used his new podcast, “This Is Gavin Newsom,” to talk with conservatives and liberals about concepts of masculinity. ",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12nat-newsom-01-zlqk/12nat-newsom-01-zlqk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gov. Gavin Newsom has used his new podcast, “This Is Gavin Newsom,” to talk with conservatives and liberals about concepts of masculinity. ",
+                "copyright": "Erin Schaff/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Prepping for War With Russia on the Ice and Snow",
+        "abstract": "President Trump may be turning relations with NATO and Russian inside out, but winter war games revealed that two militaries’ cooperation was unchanged.",
+        "url": "https://www.nytimes.com/2025/04/12/world/europe/prepping-for-war-with-russia-at-36-degrees-below-zero.html",
+        "uri": "nyt://article/6657e316-d64e-5943-9dc8-33df637def34",
+        "byline": "By Jeffrey Gettleman and Jim Huylebroek",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T05:34:58-04:00",
+        "created_date": "2025-04-12T05:01:53-04:00",
+        "published_date": "2025-04-12T05:01:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "United States Politics and Government",
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations",
+            "Defense and Military Forces",
+            "Politics and Government",
+            "Global Warming"
+        ],
+        "org_facet": [
+            "North Atlantic Treaty Organization"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Arctic Regions",
+            "Finland",
+            "Rovaniemi (Finland)",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-finland-war-games-01-pvbg-promo/12int-finland-war-games-01-pvbg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jim Huylebroek for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-finland-war-games-01-pvbg-promo/12int-finland-war-games-01-pvbg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jim Huylebroek for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-finland-war-games-01-pvbg-promo/12int-finland-war-games-01-pvbg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jim Huylebroek for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Fear Shadows Many Children in Immigrant Families",
+        "abstract": "Heightened immigration enforcement is stirring anxiety among children whose parents are vulnerable to deportation. “Every day I worry they could take my mom.”",
+        "url": "https://www.nytimes.com/2025/04/12/us/fear-shadows-many-children-in-immigrant-families.html",
+        "uri": "nyt://article/14e544c7-e51c-5220-84a8-079f86983de6",
+        "byline": "By Miriam Jordan",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T05:00:43-04:00",
+        "created_date": "2025-04-12T05:00:43-04:00",
+        "published_date": "2025-04-12T05:00:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Illegal Immigration",
+            "Immigration and Emigration",
+            "Refugees and Displaced Persons",
+            "Children and Childhood"
+        ],
+        "org_facet": [
+            "Homeland Security Department"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Colorado",
+            "Columbus (Ohio)",
+            "Houston (Tex)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/nat-immig-kidvoices-1-fmcj/nat-immig-kidvoices-1-fmcj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2001,
+                "width": 1600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nine million children live in U.S. households with at least one noncitizen adult who could be affected by immigration enforcement.",
+                "copyright": "Jimena Peck for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/nat-immig-kidvoices-1-fmcj/nat-immig-kidvoices-1-fmcj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nine million children live in U.S. households with at least one noncitizen adult who could be affected by immigration enforcement.",
+                "copyright": "Jimena Peck for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/nat-immig-kidvoices-1-fmcj/nat-immig-kidvoices-1-fmcj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nine million children live in U.S. households with at least one noncitizen adult who could be affected by immigration enforcement.",
+                "copyright": "Jimena Peck for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Jewish Groups and Synagogues Defend Students Detained by ICE",
+        "abstract": "More than two dozen are joining a legal effort to free a Tufts University student the Trump administration is trying to deport because of her pro-Palestinian views.",
+        "url": "https://www.nytimes.com/2025/04/12/us/jewish-groups-synagogues-ice-student-detentions.html",
+        "uri": "nyt://article/5b651e2b-1dee-5709-8775-17eeedb3b64d",
+        "byline": "By Anemona Hartocollis",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T05:03:17-04:00",
+        "created_date": "2025-04-12T05:03:17-04:00",
+        "published_date": "2025-04-12T05:03:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Foreign Students (in US)",
+            "Freedom of Speech and Expression",
+            "Colleges and Universities",
+            "Pro-Palestinian Campus Protests (2023- )",
+            "Jews and Judaism"
+        ],
+        "org_facet": [
+            "American Jewish Committee",
+            "J Street",
+            "Tufts University"
+        ],
+        "per_facet": [
+            "Ozturk, Rumeysa"
+        ],
+        "geo_facet": [
+            "Vermont",
+            "Somerville (Mass)",
+            "Louisiana"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11nat-jewish-react-wzbl/11nat-jewish-react-wzbl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A flier calling for the release of Rumeysa Ozturk, a Tufts University graduate student, and Mahmoud Khalil, a recent graduate of Columbia University.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11nat-jewish-react-wzbl/11nat-jewish-react-wzbl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A flier calling for the release of Rumeysa Ozturk, a Tufts University graduate student, and Mahmoud Khalil, a recent graduate of Columbia University.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11nat-jewish-react-wzbl/11nat-jewish-react-wzbl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A flier calling for the release of Rumeysa Ozturk, a Tufts University graduate student, and Mahmoud Khalil, a recent graduate of Columbia University.",
+                "copyright": "Sophie Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "weather",
+        "subsection": "",
+        "title": "How Snow Becomes Deadly",
+        "abstract": "This season, more than 20 people died in avalanches in the U.S. Can mountains be safer?",
+        "url": "https://www.nytimes.com/interactive/2025/04/11/weather/avalanche-science.html",
+        "uri": "nyt://interactive/5e3edb14-a80b-574f-9a20-7d89c444c8a2",
+        "byline": "By Judson Jones and Lily Boyce",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-11T14:55:49-04:00",
+        "created_date": "2025-04-11T14:39:00-04:00",
+        "published_date": "2025-04-11T14:39:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Avalanches",
+            "Snow and Snowstorms",
+            "Disasters and Emergencies"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/2025-04-02-weather-avalanches-index/2025-04-02-weather-avalanches-index-superJumbo-v3.jpg",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/2025-04-02-weather-avalanches-index/2025-04-02-weather-avalanches-index-threeByTwoSmallAt2X-v5.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/2025-04-02-weather-avalanches-index/2025-04-02-weather-avalanches-index-thumbLarge-v3.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Greg Norman Is Ready for His Exit Interview",
+        "abstract": "The founding LIV Golf commissioner talked with The Times soon after stepping down as chief executive of the Saudi-backed tour that fractured the sport.",
+        "url": "https://www.nytimes.com/2025/04/12/us/masters-norman-liv-pga-golf.html",
+        "uri": "nyt://article/f48d75f4-5629-58ce-863a-7e26f3118f7a",
+        "byline": "By Alan Blinder",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T05:00:09-04:00",
+        "created_date": "2025-04-12T05:00:09-04:00",
+        "published_date": "2025-04-12T05:00:09-04:00",
+        "material_type_facet": "",
+        "kicker": "Q. and A.",
+        "des_facet": [
+            "Masters Golf Tournament",
+            "Golf",
+            "Content Type: Personal Profile",
+            "United States Politics and Government",
+            "Mergers, Acquisitions and Divestitures",
+            "Sovereign Wealth Funds",
+            "Human Rights and Human Rights Violations"
+        ],
+        "org_facet": [
+            "LIV Golf",
+            "PGA Tour Inc",
+            "Professional Golfers Assn",
+            "Public Investment Fund (Saudi Arabia)"
+        ],
+        "per_facet": [
+            "Norman, Greg",
+            "Khashoggi, Jamal",
+            "Mohammed bin Salman (1985- )",
+            "Monahan, Jay W (1970- )",
+            "Rumayyan, Yasir al-",
+            "Trump, Donald J",
+            "McIlroy, Rory"
+        ],
+        "geo_facet": [
+            "Saudi Arabia",
+            "Riyadh (Saudi Arabia)",
+            "United States",
+            "Florida"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00nat-masters-qa-norman-ckpg/00nat-masters-qa-norman-ckpg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1463,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Scott McIntyre for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00nat-masters-qa-norman-ckpg/00nat-masters-qa-norman-ckpg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Scott McIntyre for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00nat-masters-qa-norman-ckpg/00nat-masters-qa-norman-ckpg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Scott McIntyre for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Free Trade’s Bounty Went to the Rich. Trump’s Sloppy Tariffs Won’t Fix That.",
+        "abstract": "The president extols tariffs as a miracle cure, but using them indiscriminately will only make the economic pain worse.",
+        "url": "https://www.nytimes.com/2025/04/12/opinion/trump-tariffs-free-trade-economy.html",
+        "uri": "nyt://article/3ef63f7c-f9a7-5a1e-b008-1ee1eaf02ac0",
+        "byline": "By The Editorial Board",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T07:00:17-04:00",
+        "created_date": "2025-04-12T07:00:17-04:00",
+        "published_date": "2025-04-12T07:00:17-04:00",
+        "material_type_facet": "",
+        "kicker": "The Editorial Board",
+        "des_facet": [
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "Customs (Tariff)",
+            "Factories and Manufacturing",
+            "Protectionism (Trade)",
+            "Presidents and Presidency (US)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/opinion/13tariff-editorial-image/13tariff-editorial-image-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "illustration",
+                "caption": "",
+                "copyright": "Illustration by Rebecca Chew/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/opinion/13tariff-editorial-image/13tariff-editorial-image-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "illustration",
+                "caption": "",
+                "copyright": "Illustration by Rebecca Chew/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/opinion/13tariff-editorial-image/13tariff-editorial-image-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "illustration",
+                "caption": "",
+                "copyright": "Illustration by Rebecca Chew/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "A Lot About Trump Doesn’t Add Up",
+        "abstract": "A very petty man in a very powerful job.",
+        "url": "https://www.nytimes.com/2025/04/12/opinion/trump-presidency-multitasking.html",
+        "uri": "nyt://article/cec27599-8915-564e-9b52-61413915048c",
+        "byline": "By Maureen Dowd",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T07:00:24-04:00",
+        "created_date": "2025-04-12T07:00:24-04:00",
+        "published_date": "2025-04-12T07:00:24-04:00",
+        "material_type_facet": "",
+        "kicker": "Maureen Dowd",
+        "des_facet": [
+            "Customs (Tariff)",
+            "United States Politics and Government",
+            "Executive Orders and Memorandums"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Axelrod, David"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12dowd-mpbh/12dowd-mpbh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12dowd-mpbh/12dowd-mpbh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12dowd-mpbh/12dowd-mpbh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Brain Trust",
+        "abstract": "Fan gatherings present opportunities to geek out with fellow enthusiasts. Can we cultivate some of that energy in everyday life?",
+        "url": "https://www.nytimes.com/2025/04/12/briefing/crossword-tournament.html",
+        "uri": "nyt://article/5b1b50dd-8843-5016-95be-bebfa39003a5",
+        "byline": "By Melissa Kirsch",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T06:38:56-04:00",
+        "created_date": "2025-04-12T06:38:56-04:00",
+        "published_date": "2025-04-12T06:38:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "internal-storyline-no",
+            "Crossword Puzzles",
+            "American Crossword Puzzle Tournament",
+            "Games"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12-morning-nl-updated/12-morning-nl-updated-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "María Jesús Contreras"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12-morning-nl-updated/12-morning-nl-updated-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "María Jesús Contreras"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12-morning-nl-updated/12-morning-nl-updated-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "María Jesús Contreras"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "",
+        "title": "Alice Tan Ridley, Subway Singer on ‘America’s Got Talent,’ Dies at 72",
+        "abstract": "The mother of the actress Gabourey Sidibe, she spent decades singing full time as a busker in the New York City subways.",
+        "url": "https://www.nytimes.com/2025/04/11/arts/alice-tan-ridley-dead.html",
+        "uri": "nyt://article/7c25d95f-4c7c-59df-8474-d9d2771799f0",
+        "byline": "By Sopan Deb",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T22:25:53-04:00",
+        "created_date": "2025-04-11T13:58:36-04:00",
+        "published_date": "2025-04-11T13:58:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Subways",
+            "Deaths (Obituaries)",
+            "Actors and Actresses",
+            "Music",
+            "Television",
+            "Street Performers",
+            "America's Got Talent (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Ridley, Alice Tan (1952- )",
+            "Sidibe, Gabourey"
+        ],
+        "geo_facet": [
+            "New York City",
+            "Georgia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/04xp-ridley-obit-bgzk/04xp-ridley-obit-bgzk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alice Tan Ridley practicing for her first music video in 2016.",
+                "copyright": "George Etheredge/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/04xp-ridley-obit-bgzk/04xp-ridley-obit-bgzk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alice Tan Ridley practicing for her first music video in 2016.",
+                "copyright": "George Etheredge/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/04xp-ridley-obit-bgzk/04xp-ridley-obit-bgzk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alice Tan Ridley practicing for her first music video in 2016.",
+                "copyright": "George Etheredge/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
