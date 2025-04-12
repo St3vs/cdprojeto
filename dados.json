@@ -38597,5 +38597,143 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Directive Calls to Turn Border Land Into ‘Military Installation’",
+        "abstract": "The plan would put a strip along the southern border under Pentagon control, allowing the military to detain migrants for trespassing on a military base until Border Patrol agents could arrest them.",
+        "url": "https://www.nytimes.com/2025/04/11/us/politics/trump-military-border.html",
+        "uri": "nyt://article/8eb1ff42-a909-5697-bfc8-8f7c9e7c1f75",
+        "byline": "By Maggie Haberman, Eric Schmitt and Hamed Aleaziz",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T22:51:45-04:00",
+        "created_date": "2025-04-11T22:24:36-04:00",
+        "published_date": "2025-04-11T22:24:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Immigration Detention",
+            "Illegal Immigration",
+            "United States Defense and Military Forces",
+            "Military Bases and Installations",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [
+            "Defense Department",
+            "National Guard",
+            "Border Patrol (US)",
+            "Customs and Border Protection (US)"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "California",
+            "New Mexico",
+            "Arizona"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11dc-military-border-jhmp/11dc-military-border-jhmp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking to reporters aboard Air Force One on Friday. ",
+                "copyright": "Tom Brenner for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11dc-military-border-jhmp/11dc-military-border-jhmp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking to reporters aboard Air Force One on Friday. ",
+                "copyright": "Tom Brenner for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11dc-military-border-jhmp/11dc-military-border-jhmp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking to reporters aboard Air Force One on Friday. ",
+                "copyright": "Tom Brenner for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Judge Says One DOGE Member Can Access Sensitive Treasury Dept. Data",
+        "abstract": "Nineteen state attorneys general had sued to block Elon Musk’s government efficiency team from accessing Treasury systems that include Americans’ bank account and Social Security information.",
+        "url": "https://www.nytimes.com/2025/04/11/nyregion/doge-treasury-lawsuit.html",
+        "uri": "nyt://article/e4a9d3f3-900d-5a01-a4ed-af84c63ab9c5",
+        "byline": "By Hurubie Meko",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T21:17:08-04:00",
+        "created_date": "2025-04-11T21:17:08-04:00",
+        "published_date": "2025-04-11T21:17:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Decisions and Verdicts",
+            "United States Politics and Government",
+            "Suits and Litigation (Civil)",
+            "Courts and the Judiciary",
+            "Classified Information and State Secrets",
+            "Attorneys General",
+            "Federal Courts (US)"
+        ],
+        "org_facet": [
+            "Government Efficiency Department (US)",
+            "Treasury Department"
+        ],
+        "per_facet": [
+            "James, Letitia",
+            "Musk, Elon",
+            "Trump, Donald J",
+            "Vargas, Jeannette A"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11met-doge-treasury-qvtl/11met-doge-treasury-qvtl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk’s Department of Government Efficiency, or DOGE, team has been seeking access to the Treasury Department’s systems and data.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11met-doge-treasury-qvtl/11met-doge-treasury-qvtl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk’s Department of Government Efficiency, or DOGE, team has been seeking access to the Treasury Department’s systems and data.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11met-doge-treasury-qvtl/11met-doge-treasury-qvtl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk’s Department of Government Efficiency, or DOGE, team has been seeking access to the Treasury Department’s systems and data.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
