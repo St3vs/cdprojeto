@@ -40754,5 +40754,62 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "dealbook",
+        "title": "How a Deal to Shape Golf’s Future Went Cold",
+        "abstract": "Despite interventions by President Trump, talks to combine the PGA Tour and LIV Golf have come to a standstill.",
+        "url": "https://www.nytimes.com/2025/04/12/business/dealbook/liv-pga-deal.html",
+        "uri": "nyt://article/85bac9cf-1179-55b6-b185-07ec26dcd35d",
+        "byline": "By Lauren Hirsch",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T08:00:04-04:00",
+        "created_date": "2025-04-12T08:00:04-04:00",
+        "published_date": "2025-04-12T08:00:04-04:00",
+        "material_type_facet": "",
+        "kicker": "DealBook Newsletter",
+        "des_facet": [
+            "Golf"
+        ],
+        "org_facet": [
+            "LIV Golf",
+            "PGA Tour Inc"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/business/12DB-golf/12DB-golf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jon Rahm of Spain plays his shot from the eighth tee during the second round of the Masters Tournament at Augusta National Golf Club on Friday.",
+                "copyright": "Michael Reaves/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/business/12DB-golf/12DB-golf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jon Rahm of Spain plays his shot from the eighth tee during the second round of the Masters Tournament at Augusta National Golf Club on Friday.",
+                "copyright": "Michael Reaves/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/business/12DB-golf/12DB-golf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jon Rahm of Spain plays his shot from the eighth tee during the second round of the Masters Tournament at Augusta National Golf Club on Friday.",
+                "copyright": "Michael Reaves/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
