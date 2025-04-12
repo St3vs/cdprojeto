@@ -41526,5 +41526,61 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Judge’s Ruling Expands Medical Exceptions in Idaho Abortion Ban",
+        "abstract": "In situations where a mother faces risk of death, the decision allows for abortions even when death isn’t imminent.",
+        "url": "https://www.nytimes.com/2025/04/12/us/idaho-abortion-medical-ban-exceptions-ruling.html",
+        "uri": "nyt://article/97a435aa-8d84-5a69-a1d0-bf506b35c609",
+        "byline": "By Isabelle Taft and Pam Belluck",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T17:38:21-04:00",
+        "created_date": "2025-04-12T17:38:21-04:00",
+        "published_date": "2025-04-12T17:38:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Abortion"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Idaho"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/nat-idaho-abortion-klwp/nat-idaho-abortion-klwp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1304,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Demonstrators at a rally for abortion rights in front of the Idaho Statehouse in 2022. A state judge’s ruling on Friday handed a partial victory to reproductive rights advocates. ",
+                "copyright": "Sarah A. Miller/Idaho Statesman, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/nat-idaho-abortion-klwp/nat-idaho-abortion-klwp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Demonstrators at a rally for abortion rights in front of the Idaho Statehouse in 2022. A state judge’s ruling on Friday handed a partial victory to reproductive rights advocates. ",
+                "copyright": "Sarah A. Miller/Idaho Statesman, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/nat-idaho-abortion-klwp/nat-idaho-abortion-klwp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Demonstrators at a rally for abortion rights in front of the Idaho Statehouse in 2022. A state judge’s ruling on Friday handed a partial victory to reproductive rights advocates. ",
+                "copyright": "Sarah A. Miller/Idaho Statesman, via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
