@@ -40934,5 +40934,146 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "How the Crypto Industry’s Political Spending Is Paying Off",
+        "abstract": "Federal lawmakers who benefited from crypto largess in the 2024 election are speedily advancing the industry’s agenda.",
+        "url": "https://www.nytimes.com/2025/04/12/technology/crypto-congress-financing-lobbying.html",
+        "uri": "nyt://article/7f1a8047-fa47-5671-a569-e84fcd2de7dd",
+        "byline": "By David Yaffe-Bellany",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T05:01:24-04:00",
+        "created_date": "2025-04-12T05:01:24-04:00",
+        "published_date": "2025-04-12T05:01:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Law and Legislation",
+            "Virtual Currency",
+            "Regulation and Deregulation of Industry",
+            "Political Action Committees",
+            "Banking and Financial Institutions",
+            "Computers and the Internet",
+            "Start-ups"
+        ],
+        "org_facet": [
+            "Senate Committee on Banking",
+            "FairShake Inc"
+        ],
+        "per_facet": [
+            "Gallego, Ruben (1979- )",
+            "Moreno, Bernie (1967- )",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/business/00crypto-congress/00crypto-congress-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1688,
+                "width": 1998,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Timo Lenzen"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/business/00crypto-congress/00crypto-congress-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Timo Lenzen"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/business/00crypto-congress/00crypto-congress-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Timo Lenzen"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "African Breakaway State Offers U.S. a Chance to Stick It to China",
+        "abstract": "After years of building relationships with congressional Republicans and conservative think tanks, officials in Somaliland believe President Trump will grant their ultimate wish: statehood.",
+        "url": "https://www.nytimes.com/2025/04/12/world/africa/somaliland-trump-military-base.html",
+        "uri": "nyt://article/0bbee331-6b10-55d5-bee5-e85f4f6bb665",
+        "byline": "By Abdi Latif Dahir and Joao Silva",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T10:02:08-04:00",
+        "created_date": "2025-04-12T05:01:03-04:00",
+        "published_date": "2025-04-12T05:01:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "International Relations",
+            "Politics and Government",
+            "Ports",
+            "vis-photo"
+        ],
+        "org_facet": [
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Abdullahi, Abdirahman Mohamed (1956- )",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Somaliland",
+            "Berbera (Somaliland)",
+            "Hargeisa (Somaliland)",
+            "Somalia",
+            "Ethiopia",
+            "Africa",
+            "China",
+            "Taiwan",
+            "Gulf of Aden"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/00somaliland-trump-promo/00somaliland-1-wcjk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Berbera Port in Somaliland, last month.",
+                "copyright": "Joao Silva/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/00somaliland-trump-promo/00somaliland-1-wcjk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Berbera Port in Somaliland, last month.",
+                "copyright": "Joao Silva/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/00somaliland-trump-promo/00somaliland-trump-promo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Berbera Port in Somaliland, last month.",
+                "copyright": "Joao Silva/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
