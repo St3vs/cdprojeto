@@ -44787,5 +44787,249 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Democrats Widely Blast Trump’s Tariffs, but Not Necessarily Tariffs",
+        "abstract": "While Democrats have widely criticized President Trump’s whipsawing trade strategy as chaotic, they’ve displayed little consensus on where the party stands on tariffs overall.",
+        "url": "https://www.nytimes.com/2025/04/13/us/politics/democrats-trump-tariffs-policy.html",
+        "uri": "nyt://article/6d70ca15-1c33-5f74-b0c0-38943c649265",
+        "byline": "By Maya C. Miller",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T12:45:59-04:00",
+        "created_date": "2025-04-13T12:45:59-04:00",
+        "published_date": "2025-04-13T12:45:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "United States Economy",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Democratic Party"
+        ],
+        "per_facet": [
+            "Warren, Elizabeth",
+            "Whitmer, Gretchen",
+            "Trump, Donald J",
+            "Torres, Ritchie (1988- )",
+            "Deluzio, Christopher R (1983- )",
+            "Booker, Cory A",
+            "Golden, Jared"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13trump-news-democrats-tariffs-ptgq/13trump-news-democrats-tariffs-ptgq-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Last week, Gov. Gretchen Whitmer of Michigan broke with some other Democrats by saying that she agreed with President Trump that “we do need to make more stuff in America.”",
+                "copyright": "Maansi Srivastava for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13trump-news-democrats-tariffs-ptgq/13trump-news-democrats-tariffs-ptgq-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Last week, Gov. Gretchen Whitmer of Michigan broke with some other Democrats by saying that she agreed with President Trump that “we do need to make more stuff in America.”",
+                "copyright": "Maansi Srivastava for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13trump-news-democrats-tariffs-ptgq/13trump-news-democrats-tariffs-ptgq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Last week, Gov. Gretchen Whitmer of Michigan broke with some other Democrats by saying that she agreed with President Trump that “we do need to make more stuff in America.”",
+                "copyright": "Maansi Srivastava for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "How Should You Invest for College During Market Swings?",
+        "abstract": "Parents who put money into 529 plans may find it tricky to find the right investment strategies while the stock market is in turmoil.",
+        "url": "https://www.nytimes.com/2025/04/13/business/529-investments-stock-market.html",
+        "uri": "nyt://article/c99687db-75ac-5f3e-a1a2-65209737043d",
+        "byline": "By Tara Siegel Bernard",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T14:48:27-04:00",
+        "created_date": "2025-04-13T05:01:48-04:00",
+        "published_date": "2025-04-13T05:01:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Personal Finances",
+            "Stocks and Bonds",
+            "529 Savings Plans",
+            "Colleges and Universities",
+            "Savings"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/business/00529/00529-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2006,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Naomi Elliott"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/business/00529/00529-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Naomi Elliott"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/business/00529/00529-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Naomi Elliott"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Explosion in Austin Damages 24 Houses and Injures 6 People",
+        "abstract": "The cause of the enormous explosion at a house on Sunday, which could be heard miles away, was not immediately known. Officials described it as an “isolated incident.”",
+        "url": "https://www.nytimes.com/2025/04/13/us/austin-house-explosion.html",
+        "uri": "nyt://article/e03f6d87-6f0c-516a-8c16-0b9bd5b2b475",
+        "byline": "By Johnny Diaz",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T17:56:40-04:00",
+        "created_date": "2025-04-13T17:19:01-04:00",
+        "published_date": "2025-04-13T17:19:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Explosions (Accidental)",
+            "Fires and Firefighters"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Austin (Tex)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13xp-explosion/13xp-explosion-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The cause of the explosion was under investigation. The authorities said there were no signs of criminal activity in connection with the explosion.",
+                "copyright": "KVUE"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13xp-explosion/13xp-explosion-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The cause of the explosion was under investigation. The authorities said there were no signs of criminal activity in connection with the explosion.",
+                "copyright": "KVUE"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13xp-explosion/13xp-explosion-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The cause of the explosion was under investigation. The authorities said there were no signs of criminal activity in connection with the explosion.",
+                "copyright": "KVUE"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "What to Know About Ecuador’s Presidential Election",
+        "abstract": "Voters are in a standoff over which candidate can better address persistent violence linked to drug trafficking.",
+        "url": "https://www.nytimes.com/2025/04/13/world/americas/ecuador-presidential-election-what-to-know.html",
+        "uri": "nyt://article/ca3312e0-4238-544d-97df-213dae98f3b3",
+        "byline": "By Genevieve Glatsky",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T05:01:55-04:00",
+        "created_date": "2025-04-13T05:01:55-04:00",
+        "published_date": "2025-04-13T05:01:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections",
+            "Politics and Government",
+            "Drug Abuse and Traffic",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Gonzalez, Luisa",
+            "Noboa, Daniel",
+            "Correa, Rafael"
+        ],
+        "geo_facet": [
+            "Ecuador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ecuador-election-explainer-02-cbtg/13int-ecuador-election-explainer-02-cbtg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of President Daniel Noboa with cutouts of him in a suit and a presidential sash in Quito, the Ecuadorean capital, in February.",
+                "copyright": "Johanna Alarcon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ecuador-election-explainer-02-cbtg/13int-ecuador-election-explainer-02-cbtg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of President Daniel Noboa with cutouts of him in a suit and a presidential sash in Quito, the Ecuadorean capital, in February.",
+                "copyright": "Johanna Alarcon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ecuador-election-explainer-02-cbtg/13int-ecuador-election-explainer-02-cbtg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of President Daniel Noboa with cutouts of him in a suit and a presidential sash in Quito, the Ecuadorean capital, in February.",
+                "copyright": "Johanna Alarcon for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
