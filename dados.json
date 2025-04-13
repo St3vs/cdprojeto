@@ -41582,5 +41582,324 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "Trump Adds Tariff Exemptions for Smartphones, Computers and Other Electronics",
+        "abstract": "A long list of electronic products got a reprieve for now from at least some of the levies on China, which had been expected to take a toll on tech giants like Apple.",
+        "url": "https://www.nytimes.com/2025/04/12/technology/trump-electronics-tariffs.html",
+        "uri": "nyt://article/7868fac6-3d86-550d-9260-93608ed82029",
+        "byline": "By Tripp Mickle and Ana Swanson",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T21:50:13-04:00",
+        "created_date": "2025-04-12T10:27:59-04:00",
+        "published_date": "2025-04-12T10:27:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Computers and the Internet",
+            "International Trade and World Market",
+            "Smartphones",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Customs and Border Protection (US)",
+            "Apple Inc",
+            "Dell Inc"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12trump-news-tariffs-exemptions2-fzwh/12trump-news-tariffs-exemptions2-fzwh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The threat of higher iPhone prices caused some Americans to rush to Apple stores to buy new phones.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12trump-news-tariffs-exemptions2-fzwh/12trump-news-tariffs-exemptions2-fzwh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The threat of higher iPhone prices caused some Americans to rush to Apple stores to buy new phones.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12trump-news-tariffs-exemptions2-fzwh/12trump-news-tariffs-exemptions2-fzwh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The threat of higher iPhone prices caused some Americans to rush to Apple stores to buy new phones.",
+                "copyright": "Karsten Moran for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Harvard Professors Sue Trump Administration Over Threat to Cut Funding",
+        "abstract": "The administration is reviewing about $9 billion in federal funding that the university receives.",
+        "url": "https://www.nytimes.com/2025/04/12/us/politics/harvard-professors-trump-lawsuit-funding.html",
+        "uri": "nyt://article/90e94697-36e3-53d7-a77a-7ed96dece1fb",
+        "byline": "By Edgar Sandoval",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T18:19:10-04:00",
+        "created_date": "2025-04-12T15:44:01-04:00",
+        "published_date": "2025-04-12T15:44:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Education"
+        ],
+        "org_facet": [
+            "Harvard University"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12trump-news-harvard1-jtbv/12trump-news-harvard1-jtbv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In a recent letter to Harvard, the Trump administration said the school had “fundamentally failed to protect American students and faculty from antisemitic violence.”",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12trump-news-harvard1-jtbv/12trump-news-harvard1-jtbv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In a recent letter to Harvard, the Trump administration said the school had “fundamentally failed to protect American students and faculty from antisemitic violence.”",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12trump-news-harvard1-jtbv/12trump-news-harvard1-jtbv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In a recent letter to Harvard, the Trump administration said the school had “fundamentally failed to protect American students and faculty from antisemitic violence.”",
+                "copyright": "Sophie Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Endorsement by Mayor Adams Appears to Lift Sales of Kash Patel’s Book",
+        "abstract": "The F.B.I. director saw sales of his book about the government’s “deep state” rise by nearly 800 percent after Mayor Eric Adams lavished praise on it.",
+        "url": "https://www.nytimes.com/2025/04/12/nyregion/adams-book-kash-patel.html",
+        "uri": "nyt://article/1ad50420-45b9-5399-a473-626d551c2beb",
+        "byline": "By Dana Rubinstein and Jonah E. Bromwich",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T09:42:06-04:00",
+        "created_date": "2025-04-12T03:00:15-04:00",
+        "published_date": "2025-04-12T03:00:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Books and Literature",
+            "Book Trade and Publishing",
+            "Eric Adams Federal Corruption Case (24 CR 556)",
+            "United States Politics and Government",
+            "Government Gangsters: The Deep State, the Truth, and the Battle For Our Democracy (Book)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Adams, Eric L",
+            "Patel, Kashyap"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/nyregion/12met-adams-bookr-top/12met-adams-bookr-top-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "After his federal corruption case was dropped, Mayor Eric Adams said he was going to “encourage every New Yorker to read” a book written by the F.B.I. director.",
+                "copyright": "New York City Mayor's Office"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/nyregion/12met-adams-bookr-top/12met-adams-bookr-top-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "After his federal corruption case was dropped, Mayor Eric Adams said he was going to “encourage every New Yorker to read” a book written by the F.B.I. director.",
+                "copyright": "New York City Mayor's Office"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/nyregion/12met-adams-bookr-top/12met-adams-bookr-top-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "After his federal corruption case was dropped, Mayor Eric Adams said he was going to “encourage every New Yorker to read” a book written by the F.B.I. director.",
+                "copyright": "New York City Mayor's Office"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Trump Is on a Path to Failure",
+        "abstract": "The fact that Trump survived bad trajectories before doesn’t mean that this one is destined to reverse.",
+        "url": "https://www.nytimes.com/2025/04/12/opinion/trump-tariffs-catastrophe.html",
+        "uri": "nyt://article/b588cdd6-587a-523a-806f-a1823878b893",
+        "byline": "By Ross Douthat",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T19:33:47-04:00",
+        "created_date": "2025-04-12T07:00:06-04:00",
+        "published_date": "2025-04-12T07:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "Ross Douthat",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States Economy",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Government Efficiency Department (US)",
+            "Supreme Court (US)",
+            "North Atlantic Treaty Organization"
+        ],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Musk, Elon",
+            "Trump, Donald J",
+            "Vance, J D"
+        ],
+        "geo_facet": [
+            "Greenland",
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12douthat1-kvgl/12douthat1-kvgl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Damon Winter/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12douthat1-kvgl/12douthat1-kvgl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Damon Winter/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12douthat1-kvgl/12douthat1-kvgl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Damon Winter/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "At Least One Dead After Private Plane Crashes in Upstate New York",
+        "abstract": "The plane, a Mitsubishi MU-2B carrying two passengers, went down Saturday in the town of Copake close to the Massachusetts border, according to the authorities.",
+        "url": "https://www.nytimes.com/2025/04/12/nyregion/ny-copake-fatal-plane-crash.html",
+        "uri": "nyt://article/ecae9c27-93ea-51df-ade1-34db39601f19",
+        "byline": "By Alyce McFadden",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T18:52:19-04:00",
+        "created_date": "2025-04-12T18:52:19-04:00",
+        "published_date": "2025-04-12T18:52:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Aviation Accidents, Safety and Disasters",
+            "Airlines and Airplanes",
+            "Deaths (Fatalities)",
+            "Private Aircraft",
+            "Accidents and Safety"
+        ],
+        "org_facet": [
+            "Federal Aviation Administration"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Columbia County (NY)",
+            "Copake (NY)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12met-plane-crash/12met-plane-crash-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 894,
+                "width": 1412,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "It was not immediately clear Saturday afternoon what had caused the plane to crash, the Columbia County Sheriff’s Office said.",
+                "copyright": "WRGB"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12met-plane-crash/12met-plane-crash-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "It was not immediately clear Saturday afternoon what had caused the plane to crash, the Columbia County Sheriff’s Office said.",
+                "copyright": "WRGB"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12met-plane-crash/12met-plane-crash-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "It was not immediately clear Saturday afternoon what had caused the plane to crash, the Columbia County Sheriff’s Office said.",
+                "copyright": "WRGB"
+            }
+        ],
+        "short_url": ""
     }
 ]
