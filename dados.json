@@ -44598,5 +44598,194 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Aides Signal New Tariffs on Chips, Calling Exclusions Temporary",
+        "abstract": "On Friday, the administration carved out an exception for a variety of electronics from the steep taxes now applied to Chinese imports.",
+        "url": "https://www.nytimes.com/2025/04/13/us/politics/trump-tariffs-china-chips-technology.html",
+        "uri": "nyt://article/41e99ad3-4f82-5bed-b47f-a6b1e4d300f5",
+        "byline": "By Tony Romm",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T15:22:56-04:00",
+        "created_date": "2025-04-13T11:41:22-04:00",
+        "published_date": "2025-04-13T11:41:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "Customs (Tariff)",
+            "United States International Relations",
+            "Smartphones",
+            "Computer Chips"
+        ],
+        "org_facet": [
+            "Apple Inc"
+        ],
+        "per_facet": [
+            "Lutnick, Howard W",
+            "Greer, Jamieson L",
+            "Hassett, Kevin A",
+            "Navarro, Peter",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13dc-trade-gqkf/13dc-trade-gqkf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Foxconn plant in Shenzhen, China, is a major part of Apple’s supply chain responsible for much of the iPhone’s assembly.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13dc-trade-gqkf/13dc-trade-gqkf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Foxconn plant in Shenzhen, China, is a major part of Apple’s supply chain responsible for much of the iPhone’s assembly.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13dc-trade-gqkf/13dc-trade-gqkf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Foxconn plant in Shenzhen, China, is a major part of Apple’s supply chain responsible for much of the iPhone’s assembly.",
+                "copyright": "Qilai Shen for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Be Not Afraid",
+        "abstract": "America has always known fear. But today’s fear is different. It has been cultivated.",
+        "url": "https://www.nytimes.com/2025/04/13/opinion/mcchrystal-fear-america.html",
+        "uri": "nyt://article/3edf4953-c6a4-5c82-a5a7-70544cae5bab",
+        "byline": "By Stanley McChrystal",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T15:55:21-04:00",
+        "created_date": "2025-04-13T06:00:08-04:00",
+        "published_date": "2025-04-13T06:00:08-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "United States Defense and Military Forces",
+            "Fear (Emotion)",
+            "Anger (Emotion)",
+            "Cancel Culture",
+            "Cyberharassment"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/opinion/13mcchrystal-img-print/13mcchrystal-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Irene Suosalo"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/opinion/13mcchrystal-img-print/13mcchrystal-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Irene Suosalo"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/opinion/13mcchrystal-img-print/13mcchrystal-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Irene Suosalo"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "",
+        "title": "Nicky Katt, Character Actor on TV and in Film, Dies at 54",
+        "abstract": "He began his career as a child actor and later played tough guys and henchmen. He was best known for “Boston Public” and “Dazed and Confused.”",
+        "url": "https://www.nytimes.com/2025/04/13/arts/nicky-katt-dead.html",
+        "uri": "nyt://article/dc2624e5-e599-584a-836f-11fd0ee219c2",
+        "byline": "By Alex Traub and Ali Watkins",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T15:38:14-04:00",
+        "created_date": "2025-04-13T15:37:40-04:00",
+        "published_date": "2025-04-13T15:37:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Dazed and Confused (Movie)",
+            "Television",
+            "Actors and Actresses",
+            "Boston Public (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Katt, Nicky"
+        ],
+        "geo_facet": [
+            "Hollywood (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13xp-katt/13xp-katt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1370,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nicky Katt in the movie “Boiler Room.” Steven Soderbergh said of him: “He’s absolutely fearless. No idea is too outrageous. He’ll try anything.”",
+                "copyright": "David Lee/New Line/Kobal/Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13xp-katt/13xp-katt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nicky Katt in the movie “Boiler Room.” Steven Soderbergh said of him: “He’s absolutely fearless. No idea is too outrageous. He’ll try anything.”",
+                "copyright": "David Lee/New Line/Kobal/Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13xp-katt/13xp-katt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nicky Katt in the movie “Boiler Room.” Steven Soderbergh said of him: “He’s absolutely fearless. No idea is too outrageous. He’ll try anything.”",
+                "copyright": "David Lee/New Line/Kobal/Shutterstock"
+            }
+        ],
+        "short_url": ""
     }
 ]
