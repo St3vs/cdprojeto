@@ -43668,5 +43668,195 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "As Ukraine’s Politics Heat Back Up, a Former President Sees an Opening",
+        "abstract": "Petro O. Poroshenko, who led the country before Volodymyr Zelensky, said that peace talks could be smoothed if opposition figures were included in the government.",
+        "url": "https://www.nytimes.com/2025/04/13/world/europe/ukraine-petro-poroshenko-zelensky-politics.html",
+        "uri": "nyt://article/21e2fc9a-611c-5590-9d43-0455b2144f12",
+        "byline": "By Andrew E. Kramer",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T05:01:42-04:00",
+        "created_date": "2025-04-13T05:01:42-04:00",
+        "published_date": "2025-04-13T05:01:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Politics and Government",
+            "Peace Process"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Poroshenko, Petro Olekseyevich",
+            "Zelensky, Volodymyr",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ukraine-poroshenko-01-qftb/13int-ukraine-poroshenko-01-qftb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1367,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Petro O. Poroshenko, Ukraine’s former president, this past week in his office in Kyiv, Ukraine’s capital.",
+                "copyright": "Finbarr O’Reilly for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ukraine-poroshenko-01-qftb/13int-ukraine-poroshenko-01-qftb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Petro O. Poroshenko, Ukraine’s former president, this past week in his office in Kyiv, Ukraine’s capital.",
+                "copyright": "Finbarr O’Reilly for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ukraine-poroshenko-01-qftb/13int-ukraine-poroshenko-01-qftb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Petro O. Poroshenko, Ukraine’s former president, this past week in his office in Kyiv, Ukraine’s capital.",
+                "copyright": "Finbarr O’Reilly for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Medic Missing After Gaza Attack Is in Israeli Custody, Aid Groups Say",
+        "abstract": "Asaad al-Nasasra has not been heard from since the March 23 ambush by Israeli forces, which left 15 aid workers dead and drew international condemnation.",
+        "url": "https://www.nytimes.com/2025/04/13/world/middleeast/israel-gaza-aid-worker-captured.html",
+        "uri": "nyt://article/abc244fa-a819-5442-a98a-926463e4ff8c",
+        "byline": "By Vivian Yee",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T08:44:47-04:00",
+        "created_date": "2025-04-13T08:38:13-04:00",
+        "published_date": "2025-04-13T08:38:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Ambulances",
+            "Emergency Medical Treatment"
+        ],
+        "org_facet": [
+            "International Committee of the Red Cross"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-gaza-paramedic-ctqz/13int-gaza-paramedic-ctqz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a cellphone video taken by a paramedic and released by the Palestinian Red Crescent showed the moments before he and other rescue workers were killed by Israelis in Gaza on March 23.",
+                "copyright": "Palestinian Red Crescent Society, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-gaza-paramedic-ctqz/13int-gaza-paramedic-ctqz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a cellphone video taken by a paramedic and released by the Palestinian Red Crescent showed the moments before he and other rescue workers were killed by Israelis in Gaza on March 23.",
+                "copyright": "Palestinian Red Crescent Society, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-gaza-paramedic-ctqz/13int-gaza-paramedic-ctqz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a cellphone video taken by a paramedic and released by the Palestinian Red Crescent showed the moments before he and other rescue workers were killed by Israelis in Gaza on March 23.",
+                "copyright": "Palestinian Red Crescent Society, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "",
+        "title": "Brad Holland, 81, Dies; His Subversive Art Reinvented Illustration",
+        "abstract": "His stark and stunning work for Playboy, The New York Times and Manhattan’s underground papers heralded a new era of conceptual illustration.",
+        "url": "https://www.nytimes.com/2025/04/13/arts/brad-holland-dead.html",
+        "uri": "nyt://article/5b6fdba8-197e-5cf1-afc5-cc7894cd7424",
+        "byline": "By Penelope Green",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T08:29:45-04:00",
+        "created_date": "2025-04-13T08:29:45-04:00",
+        "published_date": "2025-04-13T08:29:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Art",
+            "Newspapers",
+            "Magazines"
+        ],
+        "org_facet": [
+            "Playboy Magazine",
+            "New York Times",
+            "Time (Magazine)"
+        ],
+        "per_facet": [
+            "Holland, Brad",
+            "Suares, Jean-Claude (1942-2013)",
+            "Paul, Art (1925-2018)"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11Holland--02-fwgj/11Holland--02-fwgj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1780,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Brad Holland drew the 1971 illustration “Mouths to Feed” to accompany a New York Times opinion piece about welfare. It was rejected, but it later ran in The Times with an essay written by a heroin addict.",
+                "copyright": "Brad Holland/Artists Rights Society (ARS), New York"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11Holland--02-fwgj/11Holland--02-fwgj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Brad Holland drew the 1971 illustration “Mouths to Feed” to accompany a New York Times opinion piece about welfare. It was rejected, but it later ran in The Times with an essay written by a heroin addict.",
+                "copyright": "Brad Holland/Artists Rights Society (ARS), New York"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11Holland--02-fwgj/11Holland--02-fwgj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Brad Holland drew the 1971 illustration “Mouths to Feed” to accompany a New York Times opinion piece about welfare. It was rejected, but it later ran in The Times with an essay written by a heroin addict.",
+                "copyright": "Brad Holland/Artists Rights Society (ARS), New York"
+            }
+        ],
+        "short_url": ""
     }
 ]
