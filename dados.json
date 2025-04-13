@@ -44041,5 +44041,127 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "White House Releases Results of Trump’s Annual Physical Exam",
+        "abstract": "The report is the first public accounting of the president’s health since January, when he became the oldest man ever sworn into his office. His previous medical disclosures have drawn scrutiny.",
+        "url": "https://www.nytimes.com/2025/04/13/us/politics/trump-physical-exam-results.html",
+        "uri": "nyt://article/f5d9e771-7d9d-5d66-b531-7096f7cedff9",
+        "byline": "By Minho Kim and Tim Balk",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T12:28:21-04:00",
+        "created_date": "2025-04-13T12:28:21-04:00",
+        "published_date": "2025-04-13T12:28:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Reed, Walter, National Military Medical Center"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Conley, Sean Patrick",
+            "Jackson, Ronny L"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13trump-news-health-report-qbcw/13trump-news-health-report-qbcw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1338,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump underwent cognitive and cardiology tests during a visit to Walter Reed National Military Medical Center on Friday.",
+                "copyright": "Tom Brenner for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13trump-news-health-report-qbcw/13trump-news-health-report-qbcw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump underwent cognitive and cardiology tests during a visit to Walter Reed National Military Medical Center on Friday.",
+                "copyright": "Tom Brenner for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13trump-news-health-report-qbcw/13trump-news-health-report-qbcw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump underwent cognitive and cardiology tests during a visit to Walter Reed National Military Medical Center on Friday.",
+                "copyright": "Tom Brenner for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "obituaries",
+        "subsection": "",
+        "title": "Jean Marsh, Actress Who Co-Created ‘Upstairs, Downstairs,’ Dies at 90",
+        "abstract": "She not only helped develop the hit 1970s show, but also acted in it, and had a decades-long career in film, TV and theater.",
+        "url": "https://www.nytimes.com/2025/04/13/obituaries/jean-marsh-dead.html",
+        "uri": "nyt://article/5c1527eb-453b-5bf5-be68-9bdee4fc0fa2",
+        "byline": "By Anita Gates",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T12:57:37-04:00",
+        "created_date": "2025-04-13T12:37:57-04:00",
+        "published_date": "2025-04-13T12:37:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Actors and Actresses",
+            "Television",
+            "Movies",
+            "Upstairs, Downstairs (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Marsh, Jean"
+        ],
+        "geo_facet": [
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13marsh-2/13marsh-2-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1555,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jean Marsh as the maid Rose Buck in “Upstairs, Downstairs” in 1974 with Gordon Jackson as the butler Angus Hudson. Ms. Marsh was both an Emmy-winning star of the show and a co-creator.",
+                "copyright": "Press Association, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13marsh-2/13marsh-2-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jean Marsh as the maid Rose Buck in “Upstairs, Downstairs” in 1974 with Gordon Jackson as the butler Angus Hudson. Ms. Marsh was both an Emmy-winning star of the show and a co-creator.",
+                "copyright": "Press Association, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13marsh-2/13marsh-2-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jean Marsh as the maid Rose Buck in “Upstairs, Downstairs” in 1974 with Gordon Jackson as the butler Angus Hudson. Ms. Marsh was both an Emmy-winning star of the show and a co-creator.",
+                "copyright": "Press Association, via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
