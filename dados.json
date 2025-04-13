@@ -45031,5 +45031,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "style",
+        "subsection": "",
+        "title": "Rolling With Their Babies",
+        "abstract": "For fathers in search of friendship, a growing group has emerged: the Brooklyn Stroll Club.",
+        "url": "https://www.nytimes.com/2025/04/12/style/brooklyn-stroll-club-fathers-new-york.html",
+        "uri": "nyt://article/76a67300-b2b1-5663-85bb-7957832ddf44",
+        "byline": "By Alexis Benveniste and Tony Cenicola",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T16:46:38-04:00",
+        "created_date": "2025-04-12T05:00:27-04:00",
+        "published_date": "2025-04-12T05:00:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "vis-photo",
+            "Parenting",
+            "Men and Boys",
+            "Babies and Infants",
+            "Organizations, Societies and Clubs",
+            "Friendship"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Brooklyn (NYC)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12STROLL-CLUB-01-qzbf/12STROLL-CLUB-01-qzbf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1367,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tony Cenicola/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12STROLL-CLUB-01-qzbf/12STROLL-CLUB-01-qzbf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tony Cenicola/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12STROLL-CLUB-01-qzbf/12STROLL-CLUB-01-qzbf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tony Cenicola/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
