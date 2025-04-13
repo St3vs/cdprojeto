@@ -43497,5 +43497,176 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "magazine",
+        "subsection": "",
+        "title": "5 Takeaways From New Research About A.D.H.D.",
+        "abstract": "Scientists who study the condition are wrestling with some fundamental questions about the way we define and treat it.",
+        "url": "https://www.nytimes.com/2025/04/13/magazine/adhd-children-research-takeaways.html",
+        "uri": "nyt://article/e28aaf10-4b58-5dfb-a0ea-db97e0fb49c5",
+        "byline": "By Paul Tough",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T07:44:45-04:00",
+        "created_date": "2025-04-13T07:44:45-04:00",
+        "published_date": "2025-04-13T07:44:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Children and Childhood",
+            "Attention Deficit Hyperactivity Disorder",
+            "Research"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/magazine/20mag-adhd-04/20mag-adhd-04-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1616,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustrations by Todd St. John"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/magazine/20mag-adhd-04/20mag-adhd-04-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustrations by Todd St. John"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/magazine/20mag-adhd-04/20mag-adhd-04-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustrations by Todd St. John"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Understanding A.D.H.D.",
+        "abstract": "What’s behind the surge in cases in the U.S.?",
+        "url": "https://www.nytimes.com/2025/04/13/briefing/adhd-cases-us.html",
+        "uri": "nyt://article/d8728fd0-d928-5428-8f37-6b83acb9618e",
+        "byline": "By Adam B. Kushner",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T07:17:51-04:00",
+        "created_date": "2025-04-13T07:17:51-04:00",
+        "published_date": "2025-04-13T07:17:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "internal-storyline-no",
+            "Attention Deficit Hyperactivity Disorder"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/magazine/13themorning-nl-adhd1/20mag-adhd-04-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1616,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustrations by Todd St. John"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/magazine/13themorning-nl-adhd1/20mag-adhd-04-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustrations by Todd St. John"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/magazine/13themorning-nl-adhd1/20mag-adhd-04-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustrations by Todd St. John"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel Strikes Hospital in Gaza’s North and Captures Key Part of South",
+        "abstract": "No one was killed but the attack hit the Ahli Arab Hospital, a mainstay of Gaza’s decimated health care system. Separately, Israel said its troops had expanded their occupation of southern Gaza.",
+        "url": "https://www.nytimes.com/2025/04/13/world/middleeast/gaza-israel-hospital.html",
+        "uri": "nyt://article/8a79807f-d601-5053-92d6-dbbeed233050",
+        "byline": "By Patrick Kingsley",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T07:49:43-04:00",
+        "created_date": "2025-04-13T07:38:57-04:00",
+        "published_date": "2025-04-13T07:38:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Katz, Israel (1955- )"
+        ],
+        "geo_facet": [
+            "Gaza Strip",
+            "Khan Younis (Gaza Strip)",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-gaza-hospital-01-vjpf/13int-gaza-hospital-01-vjpf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Assessing the damage on Sunday after the strike at the Ahli Arab Hospital in Zeitoun, northern Gaza.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-gaza-hospital-01-vjpf/13int-gaza-hospital-01-vjpf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Assessing the damage on Sunday after the strike at the Ahli Arab Hospital in Zeitoun, northern Gaza.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-gaza-hospital-01-vjpf/13int-gaza-hospital-01-vjpf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Assessing the damage on Sunday after the strike at the Ahli Arab Hospital in Zeitoun, northern Gaza.",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
