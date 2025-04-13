@@ -42235,5 +42235,1132 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "A Devastating Trade Spat With China Shows Few Signs of Abating",
+        "abstract": "The Trump administration is in a standoff with the Chinese government as trade tensions escalate, leaving U.S. businesses in the cross hairs",
+        "url": "https://www.nytimes.com/2025/04/13/us/politics/trump-tariffs-trade-war-china.html",
+        "uri": "nyt://article/042ee38c-f6ec-5d85-bd6e-0c4d026e8432",
+        "byline": "By Ana Swanson and Ben Casselman",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T05:01:44-04:00",
+        "created_date": "2025-04-13T05:01:44-04:00",
+        "published_date": "2025-04-13T05:01:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "United States International Relations",
+            "Customs (Tariff)",
+            "Protectionism (Trade)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11dc-tariffs-fpch/11dc-tariffs-fpch-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1370,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump abruptly paused his “reciprocal” tariffs on most countries last week but has rapidly ratcheted up the rate on Chinese products.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11dc-tariffs-fpch/11dc-tariffs-fpch-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump abruptly paused his “reciprocal” tariffs on most countries last week but has rapidly ratcheted up the rate on Chinese products.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11dc-tariffs-fpch/11dc-tariffs-fpch-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump abruptly paused his “reciprocal” tariffs on most countries last week but has rapidly ratcheted up the rate on Chinese products.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Trump Has Added Risk to the Surest Bet in Global Finance",
+        "abstract": "Shocked by Trump’s trade war, foreign investors are selling U.S. government bonds, long the world’s safe haven.",
+        "url": "https://www.nytimes.com/2025/04/13/business/trump-risk-us-bonds.html",
+        "uri": "nyt://article/7746f788-1b87-5889-b327-aac4918fb4ea",
+        "byline": "By Peter S. Goodman",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T05:04:39-04:00",
+        "created_date": "2025-04-13T05:04:39-04:00",
+        "published_date": "2025-04-13T05:04:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Government Bonds",
+            "International Trade and World Market",
+            "Foreign Investments",
+            "United States Economy",
+            "Currency",
+            "Customs (Tariff)",
+            "Consumer Behavior",
+            "Economic Conditions and Trends"
+        ],
+        "org_facet": [
+            "Treasury Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13BIZ-TRUST-US-01-vbjg/13BIZ-TRUST-US-01-vbjg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1638,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Investors buy U.S. Treasury bonds on the assumption that, come what may, the federal government will endure.",
+                "copyright": "Jason Andrew for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13BIZ-TRUST-US-01-vbjg/13BIZ-TRUST-US-01-vbjg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Investors buy U.S. Treasury bonds on the assumption that, come what may, the federal government will endure.",
+                "copyright": "Jason Andrew for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13BIZ-TRUST-US-01-vbjg/13BIZ-TRUST-US-01-vbjg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Investors buy U.S. Treasury bonds on the assumption that, come what may, the federal government will endure.",
+                "copyright": "Jason Andrew for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "your-money",
+        "subsection": "",
+        "title": "The Treasury Secretary Is Wrong About How Most Retirees See the Stock Market",
+        "abstract": "***",
+        "url": "https://www.nytimes.com/2025/04/13/your-money/retirement-bessent-stock-market.html",
+        "uri": "nyt://article/af0957ad-6bfd-59f3-95e3-c56e8ce79fa5",
+        "byline": "By Ron Lieber",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T05:01:01-04:00",
+        "created_date": "2025-04-13T05:01:01-04:00",
+        "published_date": "2025-04-13T05:01:01-04:00",
+        "material_type_facet": "",
+        "kicker": "Your money",
+        "des_facet": [
+            "Personal Finances",
+            "Retirement",
+            "Stocks and Bonds"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Bessent, Scott"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/business/00retirement-responses/00retirement-responses-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Robert Neubecker"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/business/00retirement-responses/00retirement-responses-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Robert Neubecker"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/business/00retirement-responses/00retirement-responses-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Robert Neubecker"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "DOGE Is Far Short of Its Goal, and Still Overstating Its Progress",
+        "abstract": "Elon Musk now says his group will produce only 15 percent of the savings it promised. But even that estimate is inflated with errors and guesswork.",
+        "url": "https://www.nytimes.com/2025/04/13/us/politics/doge-contracts-savings.html",
+        "uri": "nyt://article/67bc2585-2a1a-5056-9690-974a2ce9254b",
+        "byline": "By David A. Fahrenthold and Jeremy Singer-Vine",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T05:01:11-04:00",
+        "created_date": "2025-04-13T05:01:11-04:00",
+        "published_date": "2025-04-13T05:01:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Government Contracts and Procurement",
+            "Federal Budget (US)"
+        ],
+        "org_facet": [
+            "Government Efficiency Department (US)"
+        ],
+        "per_facet": [
+            "Musk, Elon"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/dc-doge-contracts-thkv/dc-doge-contracts-thkv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk’s Department of Government Efficiency has produced an accounting of impressive-sounding budget cuts using inflated and speculative figures, even claiming credit for canceling a contract that did not exist.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/dc-doge-contracts-thkv/dc-doge-contracts-thkv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk’s Department of Government Efficiency has produced an accounting of impressive-sounding budget cuts using inflated and speculative figures, even claiming credit for canceling a contract that did not exist.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/dc-doge-contracts-thkv/dc-doge-contracts-thkv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk’s Department of Government Efficiency has produced an accounting of impressive-sounding budget cuts using inflated and speculative figures, even claiming credit for canceling a contract that did not exist.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "upshot",
+        "subsection": "",
+        "title": "Why Elon Musk Hasn’t Come Close to Finding $1 Trillion in Cuts",
+        "abstract": "He seems to be realizing something that budget nerds have long known.",
+        "url": "https://www.nytimes.com/interactive/2025/04/13/upshot/musk-doge-1-trillion-goal.html",
+        "uri": "nyt://interactive/c5c6040c-9039-56a6-aabe-c4a467554758",
+        "byline": "By Alicia Parlapiano, Margot Sanger-Katz and Josh Katz",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-13T05:01:59-04:00",
+        "created_date": "2025-04-13T05:01:59-04:00",
+        "published_date": "2025-04-13T05:01:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Federal Budget (US)",
+            "United States Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Musk, Elon",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-11-musk-cuts-index/2025-04-11-musk-cuts-index-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-11-musk-cuts-index/2025-04-11-musk-cuts-index-threeByTwoSmallAt2X-v3.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-11-musk-cuts-index/2025-04-11-musk-cuts-index-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "U.S. Prepares to Challenge Meta’s Social Media Dominance",
+        "abstract": "On Monday, Meta will face off against the federal government in a landmark antitrust trial over claims that it illegally squashed competition by buying Instagram and WhatsApp.",
+        "url": "https://www.nytimes.com/2025/04/13/technology/meta-ftc-trial-whatsapp-instagram.html",
+        "uri": "nyt://article/ac5b6378-0e87-58ee-9839-8c1faa478ffe",
+        "byline": "By Cecilia Kang",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T05:00:22-04:00",
+        "created_date": "2025-04-13T05:00:22-04:00",
+        "published_date": "2025-04-13T05:00:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Social Media",
+            "Computers and the Internet",
+            "Mergers, Acquisitions and Divestitures",
+            "Antitrust Laws and Competition Issues",
+            "Regulation and Deregulation of Industry"
+        ],
+        "org_facet": [
+            "Facebook Inc",
+            "Federal Trade Commission",
+            "Meta Platforms Inc",
+            "WhatsApp Inc",
+            "Instagram Inc"
+        ],
+        "per_facet": [
+            "Khan, Lina",
+            "Boasberg, James E",
+            "Ferguson, Andrew N"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/18/multimedia/HFO-META-WALKUP-bwhf/HFO-META-WALKUP-bwhf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The outcome of the trial could drastically reshape the way consumers share information online.",
+                "copyright": "Jason Henry for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/18/multimedia/HFO-META-WALKUP-bwhf/HFO-META-WALKUP-bwhf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The outcome of the trial could drastically reshape the way consumers share information online.",
+                "copyright": "Jason Henry for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/18/multimedia/HFO-META-WALKUP-bwhf/HFO-META-WALKUP-bwhf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The outcome of the trial could drastically reshape the way consumers share information online.",
+                "copyright": "Jason Henry for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "What to Know About Trump’s Antitrust Efforts Against Tech Giants",
+        "abstract": "The Trump administration will take Meta to court this week, continuing an aggressive effort to rein in the power of the biggest tech companies. Here’s what to know.",
+        "url": "https://www.nytimes.com/2025/04/13/technology/trump-tech-antitrust-cases.html",
+        "uri": "nyt://article/9b3bd50e-e686-5351-9d3f-262dacf58c5f",
+        "byline": "By David McCabe",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T05:01:33-04:00",
+        "created_date": "2025-04-13T05:01:33-04:00",
+        "published_date": "2025-04-13T05:01:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Computers and the Internet",
+            "Mergers, Acquisitions and Divestitures",
+            "Decisions and Verdicts",
+            "Antitrust Laws and Competition Issues",
+            "Regulation and Deregulation of Industry",
+            "Social Media"
+        ],
+        "org_facet": [
+            "Amazon.com Inc",
+            "Apple Inc",
+            "Facebook Inc",
+            "Google Inc",
+            "Meta Platforms Inc"
+        ],
+        "per_facet": [
+            "Ferguson, Andrew N",
+            "Trump, Donald J",
+            "Slater, Gail"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00biz-trump-antitrust-1-pjvq/00biz-trump-antitrust-1-pjvq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Last year, the Justice Department and the F.T.C., above, reached an agreement to divide up responsibility for investigating whether biggest players in artificial intelligence were violating antitrust laws. ",
+                "copyright": "Stefani Reynolds for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00biz-trump-antitrust-1-pjvq/00biz-trump-antitrust-1-pjvq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Last year, the Justice Department and the F.T.C., above, reached an agreement to divide up responsibility for investigating whether biggest players in artificial intelligence were violating antitrust laws. ",
+                "copyright": "Stefani Reynolds for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00biz-trump-antitrust-1-pjvq/00biz-trump-antitrust-1-pjvq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Last year, the Justice Department and the F.T.C., above, reached an agreement to divide up responsibility for investigating whether biggest players in artificial intelligence were violating antitrust laws. ",
+                "copyright": "Stefani Reynolds for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "upshot",
+        "subsection": "",
+        "title": "Can You Stop an Outbreak of a Contagious Disease?",
+        "abstract": "An interactive explanation of outbreaks, vaccines and herd immunity.",
+        "url": "https://www.nytimes.com/interactive/2025/04/12/upshot/measles-herd-immunity-explainer.html",
+        "uri": "nyt://interactive/30cff849-6438-55e9-9e9b-f09f8d93cc15",
+        "byline": "By Aatish Bhatia and Francesca Paris",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-12T23:57:12-04:00",
+        "created_date": "2025-04-12T17:18:00-04:00",
+        "published_date": "2025-04-12T17:18:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Measles",
+            "Vaccination and Immunization",
+            "Disease Rates",
+            "Epidemics",
+            "Medicine and Health"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-03-12-measles-herd-immunity-sim-index/2025-03-12-measles-herd-immunity-sim-index-superJumbo-v8.jpg",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-03-12-measles-herd-immunity-sim-index/2025-03-12-measles-herd-immunity-sim-index-threeByTwoSmallAt2X-v12.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-03-12-measles-herd-immunity-sim-index/2025-03-12-measles-herd-immunity-sim-index-thumbLarge-v8.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "The Many Ways Kennedy Is Already Undermining Vaccines",
+        "abstract": "The health secretary has chipped away at the idea that immunizing children against measles and other diseases is a public health good.",
+        "url": "https://www.nytimes.com/2025/04/13/health/kennedy-vaccines-confidence-access.html",
+        "uri": "nyt://article/2db5b95e-5ae0-5c2c-9660-115b332a45ab",
+        "byline": "By Apoorva Mandavilli",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T05:45:10-04:00",
+        "created_date": "2025-04-13T05:00:25-04:00",
+        "published_date": "2025-04-13T05:00:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "your-feed-science",
+            "Vaccination and Immunization",
+            "Rumors and Misinformation",
+            "Measles",
+            "Influenza",
+            "Children and Childhood",
+            "Medicine and Health",
+            "Autism"
+        ],
+        "org_facet": [
+            "Advisory Committee on Immunization Practices",
+            "Centers for Disease Control and Prevention",
+            "Health and Human Services Department"
+        ],
+        "per_facet": [
+            "Kennedy, Robert F Jr"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09vaccines-access-01-vqtl/09vaccines-access-01-vqtl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Under the leadership of secretary Robert F. Kennedy Jr., Health and Human Services has cut billions of dollars needed to modernize state programs for childhood immunization.",
+                "copyright": "Niki Chan Wylie for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09vaccines-access-01-vqtl/09vaccines-access-01-vqtl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Under the leadership of secretary Robert F. Kennedy Jr., Health and Human Services has cut billions of dollars needed to modernize state programs for childhood immunization.",
+                "copyright": "Niki Chan Wylie for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09vaccines-access-01-vqtl/09vaccines-access-01-vqtl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Under the leadership of secretary Robert F. Kennedy Jr., Health and Human Services has cut billions of dollars needed to modernize state programs for childhood immunization.",
+                "copyright": "Niki Chan Wylie for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "How an Arkansas City Became an Epicenter of the Biking World",
+        "abstract": "Buoyed by the interests of the family behind Walmart, Bentonville has become an unexpected hub for cycling.",
+        "url": "https://www.nytimes.com/2025/04/13/us/how-an-arkansas-city-became-an-epicenter-of-the-biking-world.html",
+        "uri": "nyt://article/74c41d7c-321d-56ff-bb32-3d57ac8b815e",
+        "byline": "By Emily Cochrane and Rugile Kaladyte",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T05:00:07-04:00",
+        "created_date": "2025-04-13T05:00:07-04:00",
+        "published_date": "2025-04-13T05:00:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "vis-photo",
+            "Bicycles and Bicycling",
+            "Travel and Vacations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Arkansas"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2024/11/19/us/atc-ar-bentonville/atc-ar-bentonville-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 343,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/11/19/us/atc-ar-bentonville/atc-ar-bentonville-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 399,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/11/19/us/atc-ar-bentonville/atc-ar-bentonville-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "A CautionaryTale of 408 Tentacles",
+        "abstract": "One pet octopus suddenly became more than four dozen. They went viral. Then it all went south.",
+        "url": "https://www.nytimes.com/2025/04/13/science/a-cautionarytale-of-408-tentacles.html",
+        "uri": "nyt://article/3e41e760-8ec1-57b7-8250-6f14689b2044",
+        "byline": "By Emily Anthes",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T05:00:47-04:00",
+        "created_date": "2025-04-13T05:00:47-04:00",
+        "published_date": "2025-04-13T05:00:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "your-feed-science",
+            "Pets",
+            "Social Media",
+            "Octopus"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Edmond (Okla)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/autossell/SC00-octopus-image/octopus-01vid-0-00-00-00--superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1920,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/autossell/SC00-octopus-image/octopus-01vid-0-00-00-00--threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 350,
+                "width": 524,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/autossell/SC00-octopus-image/octopus-01vid-0-00-00-00--thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "The Last Flight of Helicopter N216MH",
+        "abstract": "The aircraft had flown tourists in New York City thousands of times before crashing Thursday with a Spanish family aboard. Passengers who had flown earlier that day are processing the shock.",
+        "url": "https://www.nytimes.com/2025/04/13/nyregion/nyc-hudson-river-helicopter-crash-escobar.html",
+        "uri": "nyt://article/2b66ef02-54d2-5db8-8a72-e216f455c168",
+        "byline": "By Michael Wilson, Andy Newman, Maia Coleman and Olivia Bensimon",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T03:00:20-04:00",
+        "created_date": "2025-04-13T03:00:20-04:00",
+        "published_date": "2025-04-13T03:00:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Helicopters",
+            "Aviation Accidents, Safety and Disasters",
+            "Pilots",
+            "Deaths (Fatalities)",
+            "Air Traffic Control"
+        ],
+        "org_facet": [
+            "New York Helicopter"
+        ],
+        "per_facet": [
+            "Camprubi Montal, Merce (d 2025)"
+        ],
+        "geo_facet": [
+            "Manhattan (NYC)",
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13met-chopper-ticktock-jgpk/13met-chopper-ticktock-jgpk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "After the crash in the Hudson River, the hulk of the Bell 206 LongRanger was pulled from the cold water.",
+                "copyright": "Adam Gray for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13met-chopper-ticktock-jgpk/13met-chopper-ticktock-jgpk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "After the crash in the Hudson River, the hulk of the Bell 206 LongRanger was pulled from the cold water.",
+                "copyright": "Adam Gray for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13met-chopper-ticktock-jgpk/13met-chopper-ticktock-jgpk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "After the crash in the Hudson River, the hulk of the Bell 206 LongRanger was pulled from the cold water.",
+                "copyright": "Adam Gray for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "magazine",
+        "subsection": "",
+        "title": "Have We Been Thinking About A.D.H.D. All Wrong?",
+        "abstract": "Even as prescriptions rise to a record high, some experts have begun to question our assumptions about the condition — and how to treat it.",
+        "url": "https://www.nytimes.com/2025/04/13/magazine/adhd-medication-treatment-research.html",
+        "uri": "nyt://article/c8f931cc-c28d-57a3-bae6-63b7460579cf",
+        "byline": "By Paul Tough",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T05:00:55-04:00",
+        "created_date": "2025-04-13T05:00:55-04:00",
+        "published_date": "2025-04-13T05:00:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Attention Deficit Hyperactivity Disorder",
+            "Psychiatry and Psychiatrists",
+            "Research",
+            "Brain",
+            "Ritalin (Drug)",
+            "Teenagers and Adolescence",
+            "Adderall (Drug)",
+            "Parenting",
+            "Learning Disabilities"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/magazine/20mag-adhd/20mag-adhd-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1673,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustrations by Todd St. John"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/magazine/20mag-adhd/20mag-adhd-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustrations by Todd St. John"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/magazine/20mag-adhd/20mag-adhd-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustrations by Todd St. John"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "A Chapter Closes: Hong Kong’s Democratic Party to Disband",
+        "abstract": "The party, once the city’s largest opposition force, long championed a moderate approach. It ended up squeezed between a discontented populace and a repressive Beijing.",
+        "url": "https://www.nytimes.com/2025/04/13/world/asia/hong-kong-democratic-party-disbanding.html",
+        "uri": "nyt://article/8690804a-59c3-559d-8049-f631ae496832",
+        "byline": "By Tiffany May",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T05:27:55-04:00",
+        "created_date": "2025-04-13T05:27:55-04:00",
+        "published_date": "2025-04-13T05:27:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Demonstrations, Protests and Riots"
+        ],
+        "org_facet": [
+            "Democratic Party",
+            "Democratic Party (Hong Kong)",
+            "Johns Hopkins University"
+        ],
+        "per_facet": [
+            "Hui, Ted (1982- )",
+            "Kwong, Roy (1983- )",
+            "Lee, Martin C M"
+        ],
+        "geo_facet": [
+            "Hong Kong",
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-hongkong-democrats-zbfg/13int-hongkong-democrats-zbfg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lo Kin-hei, the chairman of Hong Kong’s Democratic Party, at a news conference on Sunday.",
+                "copyright": "Tyrone Siu/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-hongkong-democrats-zbfg/13int-hongkong-democrats-zbfg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lo Kin-hei, the chairman of Hong Kong’s Democratic Party, at a news conference on Sunday.",
+                "copyright": "Tyrone Siu/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-hongkong-democrats-zbfg/13int-hongkong-democrats-zbfg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lo Kin-hei, the chairman of Hong Kong’s Democratic Party, at a news conference on Sunday.",
+                "copyright": "Tyrone Siu/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "music",
+        "title": "Sean Combs Incarcerated: Bed Checks, Monotony and Jailhouse Lasagna",
+        "abstract": "The music mogul also known as Puff Daddy and Diddy is now inmate 37452-054 at the Brooklyn detention center where he awaits his trial, which begins next month.",
+        "url": "https://www.nytimes.com/2025/04/13/arts/music/sean-diddy-combs-jail.html",
+        "uri": "nyt://article/31d0f9be-e2d8-55e7-9193-2a42b09acf4f",
+        "byline": "By Julia Jacobs",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T05:00:34-04:00",
+        "created_date": "2025-04-13T05:00:34-04:00",
+        "published_date": "2025-04-13T05:00:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Prisons and Prisoners",
+            "Rap and Hip-Hop"
+        ],
+        "org_facet": [
+            "Metropolitan Detention Center (Brooklyn, NY)"
+        ],
+        "per_facet": [
+            "Combs, Sean"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13cul-combs-jail-kwvm/13cul-combs-jail-kwvm-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1687,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jeenah Moon/Reuters; Paras Griffin/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13cul-combs-jail-kwvm/13cul-combs-jail-kwvm-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jeenah Moon/Reuters; Paras Griffin/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13cul-combs-jail-kwvm/13cul-combs-jail-kwvm-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jeenah Moon/Reuters; Paras Griffin/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "style",
+        "subsection": "",
+        "title": "Where in the World Is Rosie O’Donnell?",
+        "abstract": "She’s moved to Ireland. She’s befriended a Menendez brother, and she’s making documentaries. What’s next?",
+        "url": "https://www.nytimes.com/2025/04/12/style/rosie-odonnell-ireland-trump.html",
+        "uri": "nyt://article/77ab358e-6278-5270-a735-b5c8612ea5e2",
+        "byline": "By Jacob Bernstein",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T10:56:42-04:00",
+        "created_date": "2025-04-12T05:00:47-04:00",
+        "published_date": "2025-04-12T05:00:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Documentary Films and Programs",
+            "United States Politics and Government",
+            "Service Dogs and Other Animals",
+            "Content Type: Personal Profile"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "O'Donnell, Rosie",
+            "Cohen, Michael D (1966- )",
+            "Menendez, Lyle",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Ireland"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/12ST-ROSIE-ODONNELL-13978-cover/12ST-ROSIE-ODONNELL-13978-cover-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1920,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/12ST-ROSIE-ODONNELL-13978-cover/12ST-ROSIE-ODONNELL-13978-cover-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/12ST-ROSIE-ODONNELL-13978-cover/12ST-ROSIE-ODONNELL-13978-cover-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russian Missile Strikes in Sumy Kill at Least 21, Ukrainian Officials Say",
+        "abstract": "The strikes were the latest in a string of attacks on urban centers that have caused heavy civilian casualties even as the Trump administration pushes for a cease-fire.",
+        "url": "https://www.nytimes.com/2025/04/13/world/europe/sumy-ukraine-russia-strikes.html",
+        "uri": "nyt://article/5c134202-d2f2-54e8-83b9-554841ed2be9",
+        "byline": "By Constant Méheut",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T05:53:22-04:00",
+        "created_date": "2025-04-13T05:23:45-04:00",
+        "published_date": "2025-04-13T05:23:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Civilian Casualties",
+            "Deaths (Fatalities)",
+            "United States Politics and Government",
+            "Politics and Government",
+            "Missiles and Missile Defense Systems"
+        ],
+        "org_facet": [
+            "United Nations"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Zelensky, Volodymyr",
+            "Putin, Vladimir V"
+        ],
+        "geo_facet": [
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ukraine-strike-kfmg/13int-ukraine-strike-kfmg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1221,
+                "width": 1832,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released on Sunday by the Sumy region’s prosecutor’s office showed law enforcement and rescue workers on the scene of a missile attack.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ukraine-strike-kfmg/13int-ukraine-strike-kfmg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released on Sunday by the Sumy region’s prosecutor’s office showed law enforcement and rescue workers on the scene of a missile attack.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ukraine-strike-kfmg/13int-ukraine-strike-kfmg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released on Sunday by the Sumy region’s prosecutor’s office showed law enforcement and rescue workers on the scene of a missile attack.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Kathryn Garcia Was Nearly Elected Mayor in 2021. Who Gets Her Votes Now?",
+        "abstract": "Ms. Garcia finished second in the 2021 Democratic mayoral primary in New York City. Her supporters could be an important factor in this year’s race.",
+        "url": "https://www.nytimes.com/2025/04/13/nyregion/kathryn-garcia-voters-cuomo-mayor.html",
+        "uri": "nyt://article/27322181-0c7d-52c3-a1f0-e4f600dbbc03",
+        "byline": "By Emma G. Fitzsimmons",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T03:00:06-04:00",
+        "created_date": "2025-04-13T03:00:06-04:00",
+        "published_date": "2025-04-13T03:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections, Mayors",
+            "Primaries and Caucuses",
+            "Politics and Government",
+            "Voting and Voters"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Garcia, Kathryn",
+            "Cuomo, Andrew M"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/nyregion/20met-garcia-voters-01-chmw/00met-garcia-voters-01-chmw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kathryn Garcia won over voters, especially in Manhattan, in the 2021 mayoral primary by making her government know-how a focal point of her campaign.",
+                "copyright": "Elizabeth D. Herman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/nyregion/20met-garcia-voters-01-chmw/00met-garcia-voters-01-chmw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kathryn Garcia won over voters, especially in Manhattan, in the 2021 mayoral primary by making her government know-how a focal point of her campaign.",
+                "copyright": "Elizabeth D. Herman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/nyregion/20met-garcia-voters-01-chmw/00met-garcia-voters-01-chmw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kathryn Garcia won over voters, especially in Manhattan, in the 2021 mayoral primary by making her government know-how a focal point of her campaign.",
+                "copyright": "Elizabeth D. Herman for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
