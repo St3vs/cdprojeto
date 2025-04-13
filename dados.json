@@ -41967,5 +41967,210 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump and Some of His Cabinet Members Attend U.F.C. Fight in Miami",
+        "abstract": "The spectacle at the mixed martial arts event was emblematic of an emboldened president who increasingly encourages displays of force to carry out his agenda.",
+        "url": "https://www.nytimes.com/2025/04/13/us/politics/trump-ufc-fight-reyes.html",
+        "uri": "nyt://article/0a49cf04-730a-51dc-9237-f5865b33cce1",
+        "byline": "By Maggie Haberman",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T01:02:47-04:00",
+        "created_date": "2025-04-13T00:28:27-04:00",
+        "published_date": "2025-04-13T00:28:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Presidential Election of 2024"
+        ],
+        "org_facet": [
+            "Ultimate Fighting Championship"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Gabbard, Tulsi (1981- )",
+            "Kennedy, Robert F Jr",
+            "Musk, Elon",
+            "Patel, Kashyap",
+            "Rogan, Joe",
+            "Rubio, Marco",
+            "Hines, Cheryl"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13trump-news-ufc-fight-hwlk/13trump-news-ufc-fight-hwlk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Donald Trump waving to the crowd after entering a Miami arena for an Ultimate Fighting Championship event on Saturday.",
+                "copyright": "Tom Brenner for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13trump-news-ufc-fight-hwlk/13trump-news-ufc-fight-hwlk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Donald Trump waving to the crowd after entering a Miami arena for an Ultimate Fighting Championship event on Saturday.",
+                "copyright": "Tom Brenner for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13trump-news-ufc-fight-hwlk/13trump-news-ufc-fight-hwlk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Donald Trump waving to the crowd after entering a Miami arena for an Ultimate Fighting Championship event on Saturday.",
+                "copyright": "Tom Brenner for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "‘You Try to Build Anything, and You’re Stepping Into Quicksand’",
+        "abstract": "Speed is a progressive virtue.",
+        "url": "https://www.nytimes.com/2025/04/13/opinion/doge-abundance-government-bulding.html",
+        "uri": "nyt://article/9fc2fec5-d5e3-571c-980c-0d0bdf923d97",
+        "byline": "By Ezra Klein",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T01:00:12-04:00",
+        "created_date": "2025-04-13T01:00:12-04:00",
+        "published_date": "2025-04-13T01:00:12-04:00",
+        "material_type_facet": "",
+        "kicker": "Ezra Klein",
+        "des_facet": [
+            "United States Politics and Government",
+            "Presidential Election of 2024",
+            "American Jobs Plan (2021)",
+            "American Rescue Plan (2021)",
+            "Infrastructure (Public Works)",
+            "Infrastructure Investment and Jobs Act (2021)",
+            "Regulation and Deregulation of Industry",
+            "United States Economy"
+        ],
+        "org_facet": [
+            "Government Efficiency Department (US)",
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Sullivan, Jacob J (1976- )",
+            "Musk, Elon",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/14kleinPrint-fvmw/13kleinPrint-fvmw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The broadband program take shape. ",
+                "copyright": "Sarah Silbiger for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/14kleinPrint-fvmw/13kleinPrint-fvmw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The broadband program take shape. ",
+                "copyright": "Sarah Silbiger for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/14kleinPrint-fvmw/13kleinPrint-fvmw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The broadband program take shape. ",
+                "copyright": "Sarah Silbiger for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "America Is Learning the Wrong Lesson from Elon Musk’s Success",
+        "abstract": "Intimidation doesn’t elevate performance; it undermines people.",
+        "url": "https://www.nytimes.com/2025/04/13/opinion/elon-musk-leadership-business-education.html",
+        "uri": "nyt://article/e6172a0f-857c-5951-971b-5751eb8b8d93",
+        "byline": "By Adam Grant",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T01:00:05-04:00",
+        "created_date": "2025-04-13T01:00:05-04:00",
+        "published_date": "2025-04-13T01:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "Psychology and Psychologists",
+            "United States Politics and Government",
+            "Productivity",
+            "Empathy",
+            "Entrepreneurship",
+            "Customs, Etiquette and Manners",
+            "Layoffs and Job Reductions",
+            "Labor and Jobs",
+            "Executives and Management (Theory)",
+            "Government Employees"
+        ],
+        "org_facet": [
+            "Apple Inc",
+            "Government Efficiency Department (US)",
+            "Tesla Motors Inc",
+            "X (Formerly Twitter)"
+        ],
+        "per_facet": [
+            "Jobs, Steven P",
+            "Musk, Elon"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/opinion/11grant-image/11grant-image-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Christian Philip Scott"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/opinion/11grant-image/11grant-image-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Christian Philip Scott"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/opinion/11grant-image/11grant-image-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Christian Philip Scott"
+            }
+        ],
+        "short_url": ""
     }
 ]
