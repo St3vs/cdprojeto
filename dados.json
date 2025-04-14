@@ -48224,5 +48224,130 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Harvard Says It Will Not Comply With Trump Administration’s Demands",
+        "abstract": "Federal officials said Harvard must enact “merit-based reform” in hiring and admissions, among other things. Harvard called the demands unlawful.",
+        "url": "https://www.nytimes.com/2025/04/14/us/harvard-trump-reject-demands.html",
+        "uri": "nyt://article/0887c3d2-2a0f-5118-a5bb-40499adf1c36",
+        "byline": "By Vimal Patel",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T14:23:41-04:00",
+        "created_date": "2025-04-14T14:14:49-04:00",
+        "published_date": "2025-04-14T14:14:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Colleges and Universities",
+            "Hiring and Promotion",
+            "Regulation and Deregulation of Industry",
+            "Foreign Students (in US)"
+        ],
+        "org_facet": [
+            "Harvard University"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/14nat-harvard-letter-sldf/15nat-university-weath-jflv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration demanded that Harvard report foreign students who commit campus conduct violations to the government.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/14nat-harvard-letter-sldf/15nat-university-weath-jflv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration demanded that Harvard report foreign students who commit campus conduct violations to the government.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/14nat-harvard-letter-sldf/15nat-university-weath-jflv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration demanded that Harvard report foreign students who commit campus conduct violations to the government.",
+                "copyright": "Sophie Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Cuomo Announces New Housing Plan, With a Hint of ChatGPT",
+        "abstract": "Former Gov. Andrew Cuomo’s 29-page housing plan included a garbled section with incomplete sentences and a link to a citation retrieved by ChatGPT.",
+        "url": "https://www.nytimes.com/2025/04/14/nyregion/cuomo-chatgpt-housing-ai.html",
+        "uri": "nyt://article/759dbf3f-8bcd-55ba-b4e9-e7e79464a3a7",
+        "byline": "By Dana Rubinstein",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T13:30:20-04:00",
+        "created_date": "2025-04-14T13:30:20-04:00",
+        "published_date": "2025-04-14T13:30:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Artificial Intelligence",
+            "ChatGPT",
+            "Elections, Mayors",
+            "Affordable Housing",
+            "Rent Control and Stabilization",
+            "Public and Subsidized Housing"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Cuomo, Andrew M",
+            "Francis, Paul"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14met-cuomo-chatgpt-clkt/14met-cuomo-chatgpt-clkt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Andrew Cuomo, the former governor of New York now running for mayor of New York City, released a housing plan that initially included several incoherent passages.",
+                "copyright": "Adam Gray for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14met-cuomo-chatgpt-clkt/14met-cuomo-chatgpt-clkt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Andrew Cuomo, the former governor of New York now running for mayor of New York City, released a housing plan that initially included several incoherent passages.",
+                "copyright": "Adam Gray for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14met-cuomo-chatgpt-clkt/14met-cuomo-chatgpt-clkt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Andrew Cuomo, the former governor of New York now running for mayor of New York City, released a housing plan that initially included several incoherent passages.",
+                "copyright": "Adam Gray for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
