@@ -45949,5 +45949,79 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "Blue Origin Flight Will Take 6 Women, Including Gayle King and Katy Perry, to Space",
+        "abstract": "The women were set to travel on Blue Origin’s New Shepard rocket, as part of the first all-female space crew in more than 60 years.",
+        "url": "https://www.nytimes.com/2025/04/14/science/blue-origin-katy-perry-gayle-king.html",
+        "uri": "nyt://article/6e25d0c3-7e76-545b-95c6-5bb016b9d90b",
+        "byline": "By Amanda Holpuch",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T03:53:59-04:00",
+        "created_date": "2025-04-14T03:53:59-04:00",
+        "published_date": "2025-04-14T03:53:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Private Spaceflight",
+            "Space and Astronomy",
+            "Women and Girls",
+            "Rocket Science and Propulsion",
+            "High Net Worth Individuals"
+        ],
+        "org_facet": [
+            "Amazon.com Inc",
+            "Blue Origin",
+            "CBS Corporation",
+            "National Aeronautics and Space Administration"
+        ],
+        "per_facet": [
+            "Bezos, Jeffrey P",
+            "Perry, Katy",
+            "Tereshkova, Valentina",
+            "King, Gayle",
+            "Sanchez, Lauren (1969- )",
+            "Aisha Bowe",
+            "Kerianne Flynn",
+            "Amanda Nguyen"
+        ],
+        "geo_facet": [
+            "Texas"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14xp-blueorigin-jgvh/14xp-blueorigin-jgvh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Blue Origin’s New Shepard flies above the Kármán line, the internationally recognized boundary of space, in February. ",
+                "copyright": "Justin Hamel/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14xp-blueorigin-jgvh/14xp-blueorigin-jgvh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Blue Origin’s New Shepard flies above the Kármán line, the internationally recognized boundary of space, in February. ",
+                "copyright": "Justin Hamel/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14xp-blueorigin-jgvh/14xp-blueorigin-jgvh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Blue Origin’s New Shepard flies above the Kármán line, the internationally recognized boundary of space, in February. ",
+                "copyright": "Justin Hamel/EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
     }
 ]
