@@ -47238,5 +47238,293 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Inside Trump’s Pressure Campaign on Universities",
+        "abstract": "The opaque process, part of a strategy by conservatives to realign the liberal tilt of elite universities, has upended higher education.",
+        "url": "https://www.nytimes.com/2025/04/14/us/politics/trump-pressure-universities.html",
+        "uri": "nyt://article/8fcbf74f-fb7a-563a-83d9-d7f382a20432",
+        "byline": "By Michael C. Bender, Alan Blinder and Jonathan Swan",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T10:52:47-04:00",
+        "created_date": "2025-04-14T10:50:13-04:00",
+        "published_date": "2025-04-14T10:50:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Colleges and Universities",
+            "Presidential Election of 2024",
+            "Anti-Semitism",
+            "Conservatism (US Politics)",
+            "United States Politics and Government",
+            "Pro-Palestinian Campus Protests (2023- )",
+            "Civil Rights and Liberties",
+            "Federal Aid (US)",
+            "Discrimination",
+            "Freedom of Speech and Expression",
+            "Government Contracts and Procurement",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Education Department (US)",
+            "Columbia University",
+            "Harvard University",
+            "Brown University",
+            "Cornell University",
+            "Dartmouth College",
+            "Equal Employment Opportunity Commission",
+            "General Services Administration",
+            "Ivy League",
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "McMahon, Linda E",
+            "Bondi, Pamela J",
+            "Armstrong, Katrina A"
+        ],
+        "geo_facet": [
+            "Gaza Strip"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/dc-trump-education-promo-pzhj/dc-trump-education-promo-pzhj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/dc-trump-education-promo-pzhj/dc-trump-education-promo-pzhj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/dc-trump-education-promo-pzhj/dc-trump-education-promo-pzhj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Sophie Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "U.S. Argues Meta Built a Social Media Monopoly",
+        "abstract": "The tech giant went to court on Monday in an antitrust trial focused on its acquisitions of Instagram and WhatsApp. The case could reshape its business.",
+        "url": "https://www.nytimes.com/2025/04/14/technology/meta-antitrust-trial-ftc.html",
+        "uri": "nyt://article/351e7082-0c69-5501-8c0d-f06be8b9b157",
+        "byline": "By Cecilia Kang, Mike Isaac and David McCabe",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T10:51:57-04:00",
+        "created_date": "2025-04-14T10:05:02-04:00",
+        "published_date": "2025-04-14T10:05:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Social Media",
+            "Mergers, Acquisitions and Divestitures",
+            "Computers and the Internet",
+            "Antitrust Laws and Competition Issues",
+            "United States Politics and Government",
+            "Mobile Applications",
+            "Regulation and Deregulation of Industry"
+        ],
+        "org_facet": [
+            "Facebook Inc",
+            "Federal Trade Commission",
+            "Instagram Inc",
+            "WhatsApp Inc"
+        ],
+        "per_facet": [
+            "Boasberg, James E",
+            "Trump, Donald J",
+            "Zuckerberg, Mark E"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/HFOFTC-META-chkp/HFOFTC-META-chkp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Federal Trade Commission opened its first antitrust trial under the Trump administration by arguing that Meta’s purchases of Instagram and WhatsApp deprived consumers of other social networking options.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/HFOFTC-META-chkp/HFOFTC-META-chkp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Federal Trade Commission opened its first antitrust trial under the Trump administration by arguing that Meta’s purchases of Instagram and WhatsApp deprived consumers of other social networking options.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/HFOFTC-META-chkp/HFOFTC-META-chkp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Federal Trade Commission opened its first antitrust trial under the Trump administration by arguing that Meta’s purchases of Instagram and WhatsApp deprived consumers of other social networking options.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "What if Mark Zuckerberg Had Not Bought Instagram and WhatsApp?",
+        "abstract": "Meta’s antitrust trial, in which the government contends the company killed competition by buying young rivals, hinges on unknowable alternate versions of Silicon Valley history.",
+        "url": "https://www.nytimes.com/2025/04/14/technology/mark-zuckerberg-facebook-instagram-whatsapp.html",
+        "uri": "nyt://article/d0753a89-c101-583d-af55-a7a7ea83f41d",
+        "byline": "By Mike Isaac",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T10:34:27-04:00",
+        "created_date": "2025-04-14T10:34:27-04:00",
+        "published_date": "2025-04-14T10:34:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Mobile Applications",
+            "Computers and the Internet",
+            "Social Media",
+            "Instant Messaging",
+            "Text Messaging",
+            "Mergers, Acquisitions and Divestitures",
+            "Antitrust Laws and Competition Issues"
+        ],
+        "org_facet": [
+            "Facebook Inc",
+            "Federal Trade Commission",
+            "Instagram Inc",
+            "Meta Platforms Inc",
+            "WhatsApp Inc"
+        ],
+        "per_facet": [
+            "Systrom, Kevin",
+            "Zuckerberg, Mark E"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/business/00meta-deals/00meta-deals-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Vincent Kilbride"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/business/00meta-deals/00meta-deals-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Vincent Kilbride"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/business/00meta-deals/00meta-deals-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Vincent Kilbride"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trump Describes Russia’s Deadly Strike on Ukrainian City as ‘Horrible’",
+        "abstract": "At least 34 people were killed in the attack on Sumy, which came as Ukraine’s leader urged President Trump to come witness the realities of war firsthand.",
+        "url": "https://www.nytimes.com/2025/04/14/world/europe/trump-ukraine-sumy-russia-attack.html",
+        "uri": "nyt://article/efa38a28-c603-5d89-95c3-55d2fba6fa1d",
+        "byline": "By Constant Méheut",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T10:46:52-04:00",
+        "created_date": "2025-04-14T08:37:28-04:00",
+        "published_date": "2025-04-14T08:37:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "United States Politics and Government",
+            "United States International Relations",
+            "Civilian Casualties"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kellogg, Joseph Keith Jr (1944- )",
+            "Putin, Vladimir V",
+            "Rubio, Marco",
+            "Trump, Donald J",
+            "Witkoff, Steven",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Sumy (Ukraine)",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14int-trump-ukraine-01-lkmj/14int-trump-ukraine-01-lkmj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A rescue worker in Sumy, northeast Ukraine, on Sunday, after a Russian missile strike.",
+                "copyright": "Roman Pilipey/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14int-trump-ukraine-01-lkmj/14int-trump-ukraine-01-lkmj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A rescue worker in Sumy, northeast Ukraine, on Sunday, after a Russian missile strike.",
+                "copyright": "Roman Pilipey/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14int-trump-ukraine-01-lkmj/14int-trump-ukraine-01-lkmj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A rescue worker in Sumy, northeast Ukraine, on Sunday, after a Russian missile strike.",
+                "copyright": "Roman Pilipey/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
