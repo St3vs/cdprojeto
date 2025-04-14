@@ -45227,5 +45227,159 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Stocks Notch Gains After More Tariff Whiplash",
+        "abstract": "After exempting Chinese imports of smartphones, chips and other electronics, President Trump said on Sunday the carve outs were only temporary.",
+        "url": "https://www.nytimes.com/2025/04/13/business/stock-market-trump-tariffs.html",
+        "uri": "nyt://article/79864966-fe03-5f53-a510-d3d9103c6fce",
+        "byline": "By Joe Rennison",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T21:53:00-04:00",
+        "created_date": "2025-04-13T21:50:58-04:00",
+        "published_date": "2025-04-13T21:50:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Standard & Poor's 500-Stock Index",
+            "Stocks and Bonds",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "United States Economy"
+        ],
+        "org_facet": [
+            "Standard & Poor's Corp"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": null,
+        "short_url": ""
+    },
+    {
+        "section": "obituaries",
+        "subsection": "",
+        "title": "Mario Vargas Llosa, Nobel-Winning Peruvian Novelist, Dies at 89",
+        "abstract": "Mr. Vargas Llosa, who ran for Peru’s presidency in 1990 and won the Nobel Prize in Literature in 2010, transformed episodes from his personal life into books that reverberated far beyond the borders of his native country.",
+        "url": "https://www.nytimes.com/2025/04/13/obituaries/mario-vargas-llosa-dead.html",
+        "uri": "nyt://article/be7ea1d4-ab81-5b51-860a-ad0e22dad39b",
+        "byline": "By Simon Romero",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T22:50:29-04:00",
+        "created_date": "2025-04-13T21:25:24-04:00",
+        "published_date": "2025-04-13T21:25:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Books and Literature",
+            "Writing and Writers",
+            "The Time of the Hero (Book)",
+            "Conversation in the Cathedral (Book)",
+            "Nobel Prizes"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Vargas Llosa, Mario"
+        ],
+        "geo_facet": [
+            "Peru"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2023/05/01/multimedia/00vargasllosa-01-pwjz/00vargasllosa-01-pwjz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1447,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mario Vargas Llosa during his unsuccessful campaign for president. He charted his own path as a conservative, often divisive political thinker.",
+                "copyright": "Jaime Razuri/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2023/05/01/multimedia/00vargasllosa-01-pwjz/00vargasllosa-01-pwjz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mario Vargas Llosa during his unsuccessful campaign for president. He charted his own path as a conservative, often divisive political thinker.",
+                "copyright": "Jaime Razuri/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2023/05/01/multimedia/00vargasllosa-01-pwjz/00vargasllosa-01-pwjz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mario Vargas Llosa during his unsuccessful campaign for president. He charted his own path as a conservative, often divisive political thinker.",
+                "copyright": "Jaime Razuri/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "magazine",
+        "subsection": "",
+        "title": "The Elder Statesman of Latin American Literature — and a Writer of Our Moment",
+        "abstract": "Mario Vargas Llosa isn’t a household name among American readers. But at 81, he remains a literary and political colossus across the Spanish-speaking world, and his novels have never felt more relevant.",
+        "url": "https://www.nytimes.com/2018/02/20/magazine/the-elder-statesman-of-latin-american-literature-and-a-writer-of-our-moment.html",
+        "uri": "nyt://article/f9a4906b-74fd-5744-a631-02f158ae2244",
+        "byline": "By Marcela Valdes",
+        "item_type": "Article",
+        "updated_date": "2022-07-14T15:56:42-04:00",
+        "created_date": "2018-02-20T05:00:07-05:00",
+        "published_date": "2018-02-20T05:00:07-05:00",
+        "material_type_facet": "",
+        "kicker": "Feature",
+        "des_facet": [
+            "Writing and Writers"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Vargas Llosa, Mario",
+            "Preysler, Isabel",
+            "Fujimori, Alberto K"
+        ],
+        "geo_facet": [
+            "Peru"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2018/02/25/magazine/25mag-llosa1/25mag-llosa1-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1639,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Christopher Anderson/Magnum, for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2018/02/25/magazine/25mag-llosa1/25mag-llosa1-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Christopher Anderson/Magnum, for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2018/02/25/magazine/25mag-llosa1/25mag-llosa1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Christopher Anderson/Magnum, for The New York Times"
+            }
+        ],
+        "short_url": "https://nyti.ms/2BEkkkX"
     }
 ]
