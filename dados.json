@@ -49022,5 +49022,251 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "As Trump Makes His Case, He Turns to the Oval Office Set Piece",
+        "abstract": "Once again, the president used the gilded room as a place to flex his executive muscle while recasting the narrative around a consequential policy.",
+        "url": "https://www.nytimes.com/2025/04/14/us/politics/trump-deportations-oval-office.html",
+        "uri": "nyt://article/7732994b-a721-5b4f-80f7-d50ab14cf913",
+        "byline": "By Shawn McCreesh",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T18:20:05-04:00",
+        "created_date": "2025-04-14T18:20:05-04:00",
+        "published_date": "2025-04-14T18:20:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Deportation",
+            "Presidents and Presidency (US)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Bukele, Nayib",
+            "Trump, Donald J",
+            "Bondi, Pamela J",
+            "Rubio, Marco"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14DC-OVAL-SCENE-TOP-tclg/14DC-OVAL-SCENE-TOP-tclg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1367,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump with President Nayib Bukele of El Salvador in the Oval Office on Monday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14DC-OVAL-SCENE-TOP-tclg/14DC-OVAL-SCENE-TOP-tclg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump with President Nayib Bukele of El Salvador in the Oval Office on Monday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14DC-OVAL-SCENE-TOP-tclg/14DC-OVAL-SCENE-TOP-tclg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump with President Nayib Bukele of El Salvador in the Oval Office on Monday.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "media",
+        "title": "White House to Ask Congress to Claw Back Funding From NPR and PBS",
+        "abstract": "The Trump administration plans to ask Congress to rescind $1.1 billion in federal funding for the Corporation for Public Broadcasting, which provides some funding for public media in the United States.",
+        "url": "https://www.nytimes.com/2025/04/14/business/media/trump-npr-pbs-funding.html",
+        "uri": "nyt://article/e04bee30-6baf-50e0-8414-6a1c3eb3d599",
+        "byline": "By Benjamin Mullin, Tony Romm and Jonathan Swan",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T18:57:12-04:00",
+        "created_date": "2025-04-14T18:33:21-04:00",
+        "published_date": "2025-04-14T18:33:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Executive Orders and Memorandums",
+            "Budgets and Budgeting",
+            "United States Politics and Government",
+            "Television",
+            "Radio",
+            "Public Broadcasting",
+            "News and News Media",
+            "Rural Areas"
+        ],
+        "org_facet": [
+            "National Public Radio",
+            "Corp for Public Broadcasting",
+            "Public Broadcasting Service"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/00Biz-NPR-mgqc/00Biz-NPR-mgqc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The NPR headquarters in Washington.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/00Biz-NPR-mgqc/00Biz-NPR-mgqc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The NPR headquarters in Washington.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/00Biz-NPR-mgqc/00Biz-NPR-mgqc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The NPR headquarters in Washington.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "China’s Halt of Critical Minerals Poses Risk for U.S. Military Programs",
+        "abstract": "The Pentagon and defense contractors are heavily reliant on magnets and rare earth minerals mined or processed in China, which has suspended exports of the materials in an escalating trade war.",
+        "url": "https://www.nytimes.com/2025/04/14/us/politics/china-critical-minerals-risk-military-programs.html",
+        "uri": "nyt://article/d3b37e8c-0346-5a07-9756-bedaf17040a2",
+        "byline": "By Helene Cooper",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T18:45:45-04:00",
+        "created_date": "2025-04-14T18:45:45-04:00",
+        "published_date": "2025-04-14T18:45:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States Defense and Military Forces",
+            "Rare Earths",
+            "Metals and Minerals",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "Defense Department",
+            "Lockheed Martin Corporation",
+            "Northrop Grumman Corporation"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14dc-military-topart-twcb/14dc-military-topart-twcb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rare earth minerals are present in almost every form of American defense technology. They can form very powerful magnets, for use in fighter jets, warships, missiles, tanks and lasers.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14dc-military-topart-twcb/14dc-military-topart-twcb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rare earth minerals are present in almost every form of American defense technology. They can form very powerful magnets, for use in fighter jets, warships, missiles, tanks and lasers.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14dc-military-topart-twcb/14dc-military-topart-twcb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rare earth minerals are present in almost every form of American defense technology. They can form very powerful magnets, for use in fighter jets, warships, missiles, tanks and lasers.",
+                "copyright": "Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "El Salvador Won’t Return Wrongly Deported Man",
+        "abstract": "Also, Harvard said it would not comply with Trump’s demands.",
+        "url": "https://www.nytimes.com/2025/04/14/briefing/el-salvador-deportations-harvard-university-trump.html",
+        "uri": "nyt://article/596ab9fb-848a-53ac-860a-f04ae572cc23",
+        "byline": "By Matthew Cullen",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T18:06:19-04:00",
+        "created_date": "2025-04-14T18:06:19-04:00",
+        "published_date": "2025-04-14T18:06:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14evening-trump-copy/15ambriefing-asia-trump-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump greeted President Nayib Bukele of El Salvador.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14evening-trump-copy/15ambriefing-asia-trump-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump greeted President Nayib Bukele of El Salvador.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14evening-trump-copy/14trump-1200-bhqg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump greeted President Nayib Bukele of El Salvador.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
