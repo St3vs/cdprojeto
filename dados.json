@@ -48654,5 +48654,373 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Read the Trump Administration’s Letter to Harvard",
+        "abstract": "A letter sent to Harvard on Friday by the Trump administration demanded that the university make a series of policy changes in order to continue to receive federal funding.",
+        "url": "https://www.nytimes.com/interactive/2025/04/14/us/trump-harvard-demands.html",
+        "uri": "nyt://interactive/c8cc0e03-99d2-5cbc-96ef-ca4bf6034608",
+        "byline": "",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-14T17:16:06-04:00",
+        "created_date": "2025-04-14T17:16:06-04:00",
+        "published_date": "2025-04-14T17:16:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Colleges and Universities"
+        ],
+        "org_facet": [
+            "Harvard University"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/doc-01572f5d-6a5e-48aa-a641-e-promo/doc-01572f5d-6a5e-48aa-a641-e-promo-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1583,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/doc-01572f5d-6a5e-48aa-a641-e-promo/doc-01572f5d-6a5e-48aa-a641-e-promo-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/doc-01572f5d-6a5e-48aa-a641-e-promo/doc-01572f5d-6a5e-48aa-a641-e-promo-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Read Harvard’s Response to the Trump Administration",
+        "abstract": "Harvard University’s lawyers responded on Monday to the Trump Administration’s letter demanding a series of policy changes, saying the demands were unlawful and that Harvard would not comply.",
+        "url": "https://www.nytimes.com/interactive/2025/04/14/us/harvard-letter.html",
+        "uri": "nyt://interactive/9c326c26-74e4-5602-a6b4-e80b30667ed7",
+        "byline": "",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-14T17:20:04-04:00",
+        "created_date": "2025-04-14T17:16:05-04:00",
+        "published_date": "2025-04-14T17:16:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Colleges and Universities"
+        ],
+        "org_facet": [
+            "Harvard University"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/doc-56858638-9a00-4485-b8be-8-promo/doc-56858638-9a00-4485-b8be-8-promo-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1583,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/doc-56858638-9a00-4485-b8be-8-promo/doc-56858638-9a00-4485-b8be-8-promo-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/doc-56858638-9a00-4485-b8be-8-promo/doc-56858638-9a00-4485-b8be-8-promo-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Columbia Activist Arrested by ICE at His Appointment for Citizenship",
+        "abstract": "Mohsen Mahdawi, a legal permanent resident, has lived in the United States for 10 years and was arrested in Vermont. He has not been charged with a crime.",
+        "url": "https://www.nytimes.com/2025/04/14/nyregion/columbia-student-palestinian-arrested-ice.html",
+        "uri": "nyt://article/05fd1b86-6467-55f9-a659-ab8c820b467e",
+        "byline": "By Sharon Otterman and Ana Ley",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T18:00:32-04:00",
+        "created_date": "2025-04-14T17:35:47-04:00",
+        "published_date": "2025-04-14T17:35:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Pro-Palestinian Campus Protests (2023- )",
+            "Israel-Gaza War (2023- )",
+            "Foreign Students (in US)",
+            "Deportation",
+            "Freedom of Speech and Expression",
+            "Palestinians"
+        ],
+        "org_facet": [
+            "Columbia University"
+        ],
+        "per_facet": [
+            "Balint, Becca",
+            "Khalil, Mahmoud (Activist)",
+            "Sanders, Bernard",
+            "Welch, Peter"
+        ],
+        "geo_facet": [
+            "Colchester (Vt)",
+            "Gaza Strip",
+            "West Bank"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/MET-COLUMBIA-PALESTINIAN-01-pwbf/MET-COLUMBIA-PALESTINIAN-01-pwbf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mohsen Mahdawi, a Palestinian studying philosophy at Columbia University, addressed a pro-Palestinian demonstration in 2023. ",
+                "copyright": "Bing Guan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/MET-COLUMBIA-PALESTINIAN-01-pwbf/MET-COLUMBIA-PALESTINIAN-01-pwbf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mohsen Mahdawi, a Palestinian studying philosophy at Columbia University, addressed a pro-Palestinian demonstration in 2023. ",
+                "copyright": "Bing Guan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/MET-COLUMBIA-PALESTINIAN-01-pwbf/MET-COLUMBIA-PALESTINIAN-01-pwbf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mohsen Mahdawi, a Palestinian studying philosophy at Columbia University, addressed a pro-Palestinian demonstration in 2023. ",
+                "copyright": "Bing Guan for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Greene Bought Market Dip Before Trump Paused Tariffs, Profiting From the Rally",
+        "abstract": "The Georgia congresswoman purchased at least tens of thousands of dollars in stock the day before and the day of President Trump’s pause of a sweeping set of tariffs that sent the market soaring.",
+        "url": "https://www.nytimes.com/2025/04/14/us/politics/marjorie-taylor-greene-bought-stock-trump-tariffs-pause.html",
+        "uri": "nyt://article/15a4450b-fb2d-5902-9f83-869c90bec3ec",
+        "byline": "By Annie Karni",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T17:02:33-04:00",
+        "created_date": "2025-04-14T15:34:58-04:00",
+        "published_date": "2025-04-14T15:34:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Stocks and Bonds",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Securities and Exchange Commission"
+        ],
+        "per_facet": [
+            "Greene, Marjorie Taylor (1974- )",
+            "Ocasio-Cortez, Alexandria",
+            "Gallego, Ruben (1979- )",
+            "Schiff, Adam B"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14trump-news-mtg-trades1-wpmz/14trump-news-mtg-trades1-wpmz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Marjorie Taylor Greene, Republican of Georgia, speaking to reporters after a congressional hearing at the Capitol last month.",
+                "copyright": "Anna Rose Layden for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14trump-news-mtg-trades1-wpmz/14trump-news-mtg-trades1-wpmz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Marjorie Taylor Greene, Republican of Georgia, speaking to reporters after a congressional hearing at the Capitol last month.",
+                "copyright": "Anna Rose Layden for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14trump-news-mtg-trades1-wpmz/14trump-news-mtg-trades1-wpmz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Marjorie Taylor Greene, Republican of Georgia, speaking to reporters after a congressional hearing at the Capitol last month.",
+                "copyright": "Anna Rose Layden for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "North Dakota Lawmakers Pass Bill Restricting Library Books Deemed Obscene",
+        "abstract": "The bill, which applies to public and school libraries, is part of a national push by Republicans to crack down on content they consider inappropriate for children.",
+        "url": "https://www.nytimes.com/2025/04/14/us/north-dakota-books-obscene.html",
+        "uri": "nyt://article/cfc456e6-f3fe-5db3-9034-e446d83a0bad",
+        "byline": "By Mitch Smith",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T17:24:22-04:00",
+        "created_date": "2025-04-14T17:24:22-04:00",
+        "published_date": "2025-04-14T17:24:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Libraries and Librarians",
+            "Law and Legislation",
+            "State Legislatures",
+            "Books and Literature"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "North Dakota"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/multimedia/00nat-north-dakota-library-2-zbkc/00nat-north-dakota-library-2-zbkc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The North Dakota State Capitol in Bismarck.",
+                "copyright": "Tim Gruber for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/multimedia/00nat-north-dakota-library-2-zbkc/00nat-north-dakota-library-2-zbkc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The North Dakota State Capitol in Bismarck.",
+                "copyright": "Tim Gruber for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/multimedia/00nat-north-dakota-library-2-zbkc/00nat-north-dakota-library-2-zbkc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The North Dakota State Capitol in Bismarck.",
+                "copyright": "Tim Gruber for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "5 Migrants Feared Dead After Boat Capsizes Off Florida Coast",
+        "abstract": "Four people were rescued on Sunday, two days after the boat capsized off the state’s Atlantic coast, the authorities said.",
+        "url": "https://www.nytimes.com/2025/04/14/us/florida-boat-capsize-coast-guard.html",
+        "uri": "nyt://article/37615949-fa23-521b-9717-bb858203b54c",
+        "byline": "By Remy Tumin",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T17:49:34-04:00",
+        "created_date": "2025-04-14T16:52:57-04:00",
+        "published_date": "2025-04-14T16:52:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Maritime Accidents and Safety"
+        ],
+        "org_facet": [
+            "United States Coast Guard",
+            "Customs and Border Protection (US)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Florida",
+            "Martin County (Fla)",
+            "Miami (Fla)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14x-coast/14x-coast-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 800,
+                "width": 1200,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A fisherman in another boat reported the capsized vessel on Sunday after spotting it about 30 miles off St. Lucie Inlet.",
+                "copyright": "U.S. Coast Guard"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14x-coast/14x-coast-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A fisherman in another boat reported the capsized vessel on Sunday after spotting it about 30 miles off St. Lucie Inlet.",
+                "copyright": "U.S. Coast Guard"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14x-coast/14x-coast-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A fisherman in another boat reported the capsized vessel on Sunday after spotting it about 30 miles off St. Lucie Inlet.",
+                "copyright": "U.S. Coast Guard"
+            }
+        ],
+        "short_url": ""
     }
 ]
