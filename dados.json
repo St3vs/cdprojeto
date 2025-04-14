@@ -48041,5 +48041,188 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "L.A. County Expects $2 Billion in Fire Costs, Adding to Budget Woes",
+        "abstract": "County leaders said that layoffs of public workers were so far unlikely, but that the region’s financial challenges multiplied after the wildfires in January.",
+        "url": "https://www.nytimes.com/2025/04/14/us/budget-crisis-los-angeles-county.html",
+        "uri": "nyt://article/8367d492-8a73-5315-a71c-1e0a284d1fd1",
+        "byline": "By Shawn Hubler",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T13:42:38-04:00",
+        "created_date": "2025-04-14T13:09:47-04:00",
+        "published_date": "2025-04-14T13:09:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Southern California Wildfires (Jan 2025)",
+            "Budgets and Budgeting",
+            "Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Los Angeles County (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14nat-la-budget-ljpw/14nat-la-budget-ljpw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Neighborhoods in Altadena, Calif., in Los Angeles County were devastated by the Eaton fire in January. ",
+                "copyright": "Mark Abramson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14nat-la-budget-ljpw/14nat-la-budget-ljpw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Neighborhoods in Altadena, Calif., in Los Angeles County were devastated by the Eaton fire in January. ",
+                "copyright": "Mark Abramson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14nat-la-budget-ljpw/14nat-la-budget-ljpw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Neighborhoods in Altadena, Calif., in Los Angeles County were devastated by the Eaton fire in January. ",
+                "copyright": "Mark Abramson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "dining",
+        "subsection": "",
+        "title": "The Colorful Cult of Le Creuset",
+        "abstract": "The weighty cookware, which just turned 100, has inspired generations of home chefs and fans who feverishly hunt for their favorite shapes and shades.",
+        "url": "https://www.nytimes.com/2025/04/14/dining/le-creuset.html",
+        "uri": "nyt://article/56b3cb2c-2002-5a43-9eb0-7d4e59647c09",
+        "byline": "By Julia Moskin",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T13:58:59-04:00",
+        "created_date": "2025-04-14T12:33:50-04:00",
+        "published_date": "2025-04-14T12:33:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Cookware",
+            "Collectors and Collections"
+        ],
+        "org_facet": [
+            "Le Creuset"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16FD-creuset1-jwcm/14FD-creuset1-jwcm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The prize pieces of April Hershberger’s rainbow-hued cookware collection are her matched Le Creuset Dutch ovens (in the front row).",
+                "copyright": "Kristian Thacker for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16FD-creuset1-jwcm/14FD-creuset1-jwcm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The prize pieces of April Hershberger’s rainbow-hued cookware collection are her matched Le Creuset Dutch ovens (in the front row).",
+                "copyright": "Kristian Thacker for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16FD-creuset1-jwcm/14FD-creuset1-jwcm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The prize pieces of April Hershberger’s rainbow-hued cookware collection are her matched Le Creuset Dutch ovens (in the front row).",
+                "copyright": "Kristian Thacker for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Orban Escalates Culture War in Hungary by Mandating Two Genders Only",
+        "abstract": "The governing Fidesz party passed a constitutional amendment stating that all Hungarians are either male or female, and another protecting the “moral development” of children.",
+        "url": "https://www.nytimes.com/2025/04/14/world/europe/hungary-two-genders-constitution.html",
+        "uri": "nyt://article/1832ca83-925a-5e2f-b052-421b302bd09e",
+        "byline": "By Andrew Higgins",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T13:22:34-04:00",
+        "created_date": "2025-04-14T13:22:34-04:00",
+        "published_date": "2025-04-14T13:22:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Legislatures and Parliaments",
+            "Law and Legislation",
+            "Constitutions",
+            "Gender",
+            "Homosexuality and Bisexuality",
+            "Children and Childhood",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Fidesz Party",
+            "European Union"
+        ],
+        "per_facet": [
+            "Orban, Viktor",
+            "Magyar, Peter"
+        ],
+        "geo_facet": [
+            "Hungary"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14int-hungary-constitution-01-gmvh/14int-hungary-constitution-01-gmvh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1336,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Demonstrators protesting the banning of the annual Pride march in Budapest last month.",
+                "copyright": "Bernadett Szabo/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14int-hungary-constitution-01-gmvh/14int-hungary-constitution-01-gmvh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Demonstrators protesting the banning of the annual Pride march in Budapest last month.",
+                "copyright": "Bernadett Szabo/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14int-hungary-constitution-01-gmvh/14int-hungary-constitution-01-gmvh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Demonstrators protesting the banning of the annual Pride march in Budapest last month.",
+                "copyright": "Bernadett Szabo/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
