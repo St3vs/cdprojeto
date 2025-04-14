@@ -45825,5 +45825,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Israeli Dominance Will Make Mideast Deal-Making All the Harder",
+        "abstract": "Israel, more powerful than ever, has few incentives to make deals with its neighbors.",
+        "url": "https://www.nytimes.com/2025/04/14/opinion/israel-palestinians-syria-lebanon.html",
+        "uri": "nyt://article/acd47c4d-d879-5209-885e-7aedd70663b0",
+        "byline": "By Aaron David Miller and Steven Simon",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T01:00:07-04:00",
+        "created_date": "2025-04-14T01:00:07-04:00",
+        "published_date": "2025-04-14T01:00:07-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "United States Politics and Government",
+            "Peace Process",
+            "Palestinians",
+            "Arabs"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Netanyahu, Benjamin",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12miller-wpmz/12miller-wpmz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jack Guez/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12miller-wpmz/12miller-wpmz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jack Guez/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12miller-wpmz/12miller-wpmz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jack Guez/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
