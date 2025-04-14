@@ -45381,5 +45381,449 @@
             }
         ],
         "short_url": "https://nyti.ms/2BEkkkX"
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Trump’s Tariffs Leave No Safe Harbor for American Importers",
+        "abstract": "For companies that have shifted factory production from China to other countries, the latest tariffs have undermined their strategy while sowing paralysis.",
+        "url": "https://www.nytimes.com/2025/04/14/business/trumps-tariffs-us-imports.html",
+        "uri": "nyt://article/376455a8-d0f8-5d41-852b-6f682599ed68",
+        "byline": "By Peter S. Goodman",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T00:08:44-04:00",
+        "created_date": "2025-04-14T00:01:10-04:00",
+        "published_date": "2025-04-14T00:01:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Factories and Manufacturing"
+        ],
+        "org_facet": [
+            "Flexport Inc",
+            "Velong Enterprises"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Jacob Rothman"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00Biz-SafeHarbor-07-fbvp/00Biz-SafeHarbor-07-fbvp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A worker assembled and packaged grill accessories at a Velong Enterprises factory in Cambodia on Wednesday. ",
+                "copyright": "Roman Knertser for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00Biz-SafeHarbor-07-fbvp/00Biz-SafeHarbor-07-fbvp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A worker assembled and packaged grill accessories at a Velong Enterprises factory in Cambodia on Wednesday. ",
+                "copyright": "Roman Knertser for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00Biz-SafeHarbor-07-fbvp/00Biz-SafeHarbor-07-fbvp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A worker assembled and packaged grill accessories at a Velong Enterprises factory in Cambodia on Wednesday. ",
+                "copyright": "Roman Knertser for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Ecuador’s President Wins Re-Election in Nation Rocked by Drug Violence",
+        "abstract": "In a divisive election season, Daniel Noboa pledged to bring law and order. His opponent immediately contested the results.",
+        "url": "https://www.nytimes.com/2025/04/13/world/americas/ecuador-election.html",
+        "uri": "nyt://article/c701cf3f-d05a-5162-b955-9e77e6f6dfba",
+        "byline": "By Genevieve Glatsky",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T23:00:58-04:00",
+        "created_date": "2025-04-13T23:00:58-04:00",
+        "published_date": "2025-04-13T23:00:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Drug Abuse and Traffic",
+            "Crime and Criminals"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Noboa, Daniel",
+            "Gonzalez, Luisa",
+            "Trump, Donald J",
+            "Correa, Rafael"
+        ],
+        "geo_facet": [
+            "Ecuador",
+            "Quito (Ecuador)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13ecuador-election-phtc/13ecuador-election-phtc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of President Daniel Noboa during an election campaign event in Quito, Ecuador, in February.",
+                "copyright": "Johanna Alarcón for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13ecuador-election-phtc/13ecuador-election-phtc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of President Daniel Noboa during an election campaign event in Quito, Ecuador, in February.",
+                "copyright": "Johanna Alarcón for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13ecuador-election-phtc/13ecuador-election-phtc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of President Daniel Noboa during an election campaign event in Quito, Ecuador, in February.",
+                "copyright": "Johanna Alarcón for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "‘The Last of Us’ Season 2, Episode 1: Meanwhile, Back at the Ranch",
+        "abstract": "It seems this season will be driven by one simple idea: that when Joel saved Ellie at the end of Season 1 and then lied to her, he made a mess.",
+        "url": "https://www.nytimes.com/2025/04/13/arts/television/the-last-of-us-season-2-premiere-recap.html",
+        "uri": "nyt://article/8409dd0d-eb45-5106-a890-c2641f4b4d45",
+        "byline": "By Noel Murray",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T23:13:23-04:00",
+        "created_date": "2025-04-13T23:13:23-04:00",
+        "published_date": "2025-04-13T23:13:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Television",
+            "The Last of Us (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13lastofus-recap-lfbk/13lastofus-recap-lfbk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1280,
+                "width": 1920,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Bella Ramsey, left, and Isabela Merced in “The Last of Us.”",
+                "copyright": "Liane Hentscher/HBO"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13lastofus-recap-lfbk/13lastofus-recap-lfbk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Bella Ramsey, left, and Isabela Merced in “The Last of Us.”",
+                "copyright": "Liane Hentscher/HBO"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13lastofus-recap-lfbk/13lastofus-recap-lfbk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Bella Ramsey, left, and Isabela Merced in “The Last of Us.”",
+                "copyright": "Liane Hentscher/HBO"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "energy-environment",
+        "title": "Rewiring Britain for an Era of Clean Energy",
+        "abstract": "National Grid, which owns the high-voltage electricity grid in England and Wales, is rebuilding it in a government-backed drive to attract investment and tackle climate change.",
+        "url": "https://www.nytimes.com/2025/04/14/business/energy-environment/britain-clean-energy-national-grid.html",
+        "uri": "nyt://article/f13bcd10-aecf-5ee7-afd7-4315fa3a7c85",
+        "byline": "By Stanley Reed",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T00:01:08-04:00",
+        "created_date": "2025-04-14T00:01:08-04:00",
+        "published_date": "2025-04-14T00:01:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Electric Light and Power",
+            "Alternative and Renewable Energy",
+            "Politics and Government",
+            "Wind Power",
+            "Solar Energy",
+            "Infrastructure (Public Works)"
+        ],
+        "org_facet": [
+            "Labour Party (Great Britain)",
+            "National Grid Plc"
+        ],
+        "per_facet": [
+            "Pettigrew, John (1968- )"
+        ],
+        "geo_facet": [
+            "England",
+            "Wales",
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06biz-britaingrid-01-flhk/06biz-britaingrid-01-flhk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The underground London Power Tunnels project overseen by the National Grid in New Cross, London.",
+                "copyright": "Sam Bush for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06biz-britaingrid-01-flhk/06biz-britaingrid-01-flhk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The underground London Power Tunnels project overseen by the National Grid in New Cross, London.",
+                "copyright": "Sam Bush for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06biz-britaingrid-01-flhk/06biz-britaingrid-01-flhk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The underground London Power Tunnels project overseen by the National Grid in New Cross, London.",
+                "copyright": "Sam Bush for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "British Laws Are Not Fit for Social Media Age, Says Report on U.K. Riots",
+        "abstract": "Outdated legislation prevented the police from rapidly correcting misinformation after a stabbing attack on a Taylor Swift-themed dance class last summer, lawmakers said.",
+        "url": "https://www.nytimes.com/2025/04/13/world/europe/uk-riots-social-media-contempt.html",
+        "uri": "nyt://article/cb899911-a438-5781-aa6b-e280ff4c8726",
+        "byline": "By Lizzie Dearden",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T22:21:52-04:00",
+        "created_date": "2025-04-13T19:01:06-04:00",
+        "published_date": "2025-04-13T19:01:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Social Media",
+            "Demonstrations, Protests and Riots",
+            "Law and Legislation",
+            "Rumors and Misinformation",
+            "Criminal Justice"
+        ],
+        "org_facet": [
+            "Crown Prosecution Service",
+            "X (Formerly Twitter)"
+        ],
+        "per_facet": [
+            "Rudakubana, Axel"
+        ],
+        "geo_facet": [
+            "England",
+            "Great Britain",
+            "Southport (England)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-uk-riots-02-fjcv/13int-uk-riots-02-fjcv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Riot police holding back protesters after disorder broke out last July in Southport, England. Violent disorder, fueled by the far right, affected several towns and cities for days after a teenager stabbed multiple children at a dance class.",
+                "copyright": "Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-uk-riots-02-fjcv/13int-uk-riots-02-fjcv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Riot police holding back protesters after disorder broke out last July in Southport, England. Violent disorder, fueled by the far right, affected several towns and cities for days after a teenager stabbed multiple children at a dance class.",
+                "copyright": "Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-uk-riots-02-fjcv/13int-uk-riots-02-fjcv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Riot police holding back protesters after disorder broke out last July in Southport, England. Violent disorder, fueled by the far right, affected several towns and cities for days after a teenager stabbed multiple children at a dance class.",
+                "copyright": "Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "N.Y.C. Helicopter Company Shuts Operations After Deadly Crash, F.A.A. Says",
+        "abstract": "All six people on board the craft, operated by New York Helicopter Tours, died when it crashed into the Hudson River on Thursday.",
+        "url": "https://www.nytimes.com/2025/04/13/nyregion/ny-helicopter-tours-shut-down.html",
+        "uri": "nyt://article/0ee574be-06f5-5224-8ef5-7e72815f139a",
+        "byline": "By Yan Zhuang",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T23:37:56-04:00",
+        "created_date": "2025-04-13T23:37:56-04:00",
+        "published_date": "2025-04-13T23:37:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Aviation Accidents, Safety and Disasters",
+            "Helicopters",
+            "Deaths (Fatalities)"
+        ],
+        "org_facet": [
+            "Federal Aviation Administration",
+            "National Transportation Safety Board",
+            "New York Helicopter"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Hudson River",
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/13xp-helicopter/13xp-helicopter-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Emergency crews recovered the helicopter that crashed into the Hudson River on Thursday.",
+                "copyright": "Adam Gray for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/13xp-helicopter/13xp-helicopter-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Emergency crews recovered the helicopter that crashed into the Hudson River on Thursday.",
+                "copyright": "Adam Gray for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/13xp-helicopter/11nytoday-thwg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Emergency crews recovered the helicopter that crashed into the Hudson River on Thursday.",
+                "copyright": "Adam Gray for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "The Musicians Who Knew a Malian Rock Star Pay Tribute to His Legacy",
+        "abstract": "Amadou Bagayoko and his wife, the singer Mariam Doumbia, rose from icons in Mali to international success over the last two decades. After Mr. Bagayoko’s death, those who knew him chose a few of their favorite songs.",
+        "url": "https://www.nytimes.com/2025/04/14/world/africa/amadou-mariam-bagayoko-songs.html",
+        "uri": "nyt://article/3d79c586-220a-5177-b23e-941940f42601",
+        "byline": "By Elian Peltier",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T00:00:04-04:00",
+        "created_date": "2025-04-14T00:00:04-04:00",
+        "published_date": "2025-04-14T00:00:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Music"
+        ],
+        "org_facet": [
+            "Amadou & Mariam (Music Group)"
+        ],
+        "per_facet": [
+            "Bagayoko, Amadou",
+            "Doumbia, Mariam"
+        ],
+        "geo_facet": [
+            "Mali",
+            "West Africa"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-mali-musician-fcjp/13int-mali-musician-fcjp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Amadou Bagayoko and Mariam Doumbia in New York City in 2009, the year they performed in honor of President Barack Obama winning the Nobel Peace Prize.",
+                "copyright": "Tony Cenicola/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-mali-musician-fcjp/13int-mali-musician-fcjp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Amadou Bagayoko and Mariam Doumbia in New York City in 2009, the year they performed in honor of President Barack Obama winning the Nobel Peace Prize.",
+                "copyright": "Tony Cenicola/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-mali-musician-fcjp/13int-mali-musician-fcjp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Amadou Bagayoko and Mariam Doumbia in New York City in 2009, the year they performed in honor of President Barack Obama winning the Nobel Peace Prize.",
+                "copyright": "Tony Cenicola/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
