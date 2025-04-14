@@ -48349,5 +48349,125 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Attack on Shapiro Raises New Fears About Threats to U.S. Politicians",
+        "abstract": "While political violence has not surged overall, a series of high-profile attempts on American leaders have shaken a public already worried about the country’s toxic political environment.",
+        "url": "https://www.nytimes.com/2025/04/14/us/politics/josh-shapiro-pa-governor-fire-threats.html",
+        "uri": "nyt://article/3827feb6-103d-5796-80bd-6d9bd7e07079",
+        "byline": "By Nick Corasaniti",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T15:36:54-04:00",
+        "created_date": "2025-04-14T15:36:54-04:00",
+        "published_date": "2025-04-14T15:36:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Terrorism",
+            "Assaults",
+            "United States Politics and Government",
+            "Right-Wing Extremism and Alt-Right"
+        ],
+        "org_facet": [
+            "Democratic Party",
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Shapiro, Josh (1973- )",
+            "Trump, Donald J",
+            "Vance, J D"
+        ],
+        "geo_facet": [
+            "Pennsylvania"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14pol-political-violence-topart-wzjk/14pol-political-violence-topart-wzjk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The authorities say a man arrested in the arson fire at the Pennsylvania governor’s mansion admitted “harboring hatred” for Gov. Josh Shapiro.",
+                "copyright": "Kyle Grantham for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14pol-political-violence-topart-wzjk/14pol-political-violence-topart-wzjk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The authorities say a man arrested in the arson fire at the Pennsylvania governor’s mansion admitted “harboring hatred” for Gov. Josh Shapiro.",
+                "copyright": "Kyle Grantham for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14pol-political-violence-topart-wzjk/14pol-political-violence-topart-wzjk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The authorities say a man arrested in the arson fire at the Pennsylvania governor’s mansion admitted “harboring hatred” for Gov. Josh Shapiro.",
+                "copyright": "Kyle Grantham for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Map: 5.2-Magnitude Earthquake Strikes Southern California",
+        "abstract": "View the location of the quake’s epicenter and shake area.",
+        "url": "https://www.nytimes.com/interactive/2025/04/14/us/southern-california-earthquake.html",
+        "uri": "nyt://interactive/02c76497-379f-5c25-9d27-2c9757831727",
+        "byline": "By William B. Davis, Madison Dong, Judson Jones, John Keefe, Joey K. Lee, Bea Malsky and Jesus Jiménez",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-14T16:07:56-04:00",
+        "created_date": "2025-04-14T13:25:20-04:00",
+        "published_date": "2025-04-14T13:25:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Earthquakes"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/world/14wea-quake-tracker-southern-california-nytezzej-index/14wea-quake-tracker-southern-california-nytezzej-index-superJumbo-v51.jpg",
+                "format": "Super Jumbo",
+                "height": 1332,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/world/14wea-quake-tracker-southern-california-nytezzej-index/14wea-quake-tracker-southern-california-nytezzej-index-threeByTwoSmallAt2X-v55.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/world/14wea-quake-tracker-southern-california-nytezzej-index/14wea-quake-tracker-southern-california-nytezzej-index-thumbLarge-v51.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
