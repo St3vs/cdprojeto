@@ -46083,5 +46083,777 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "podcasts",
+        "subsection": "the-headlines",
+        "title": "China Cuts Off Critical Exports, and Meta Goes on Trial",
+        "abstract": "Plus, everybody wants a bunker.",
+        "url": "https://www.nytimes.com/2025/04/14/podcasts/the-headlines/rare-earth-minerals-china-trade.html",
+        "uri": "nyt://article/4fff662c-8691-50f4-bf3d-56f7c3d58ab7",
+        "byline": "By Tracy Mumford, Will Jarvis, Ian Stewart, Jessica Metzger, David McCabe and Coralie Kraft",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T06:00:06-04:00",
+        "created_date": "2025-04-14T06:00:06-04:00",
+        "published_date": "2025-04-14T06:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "El Salvador",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13Biz-China-RareEarths-headlines/13Biz-China-RareEarths-qgbt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A worker at a Chinese rare earth metals processing facility.",
+                "copyright": "Ryan Pyle for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13Biz-China-RareEarths-headlines/13Biz-China-RareEarths-qgbt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A worker at a Chinese rare earth metals processing facility.",
+                "copyright": "Ryan Pyle for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13Biz-China-RareEarths-headlines/13Biz-China-RareEarths-headlines-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A worker at a Chinese rare earth metals processing facility.",
+                "copyright": "Ryan Pyle for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "This Company’s Surveillance Tech Makes Immigrants ‘Easy Pickings’ for Trump",
+        "abstract": "Geo Group, a private prison firm that makes digital tools to track immigrants, becomes one of the Trump administration’s big business winners as its tech is increasingly used in deportations.",
+        "url": "https://www.nytimes.com/2025/04/14/technology/trump-immigration-tech-geo-group.html",
+        "uri": "nyt://article/4ed1a3b6-6254-548d-9e8b-bb2dec60b831",
+        "byline": "By Paul Mozur, Adam Satariano and Aaron Krolik",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T05:45:59-04:00",
+        "created_date": "2025-04-14T05:00:24-04:00",
+        "published_date": "2025-04-14T05:00:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Deportation",
+            "Immigration Detention",
+            "Surveillance of Citizens by Government",
+            "Mobile Applications",
+            "Illegal Immigration",
+            "Immigration and Emigration",
+            "Computers and the Internet",
+            "Facial Recognition Software",
+            "Prisons and Prisoners",
+            "Government Contracts and Procurement",
+            "Wearable Computing"
+        ],
+        "org_facet": [
+            "GEO Group Inc",
+            "Homeland Security Department",
+            "Immigration and Customs Enforcement (US)"
+        ],
+        "per_facet": [
+            "George Zoley"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/business/00immig-surveil/00immig-surveil-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1508,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo Illustration by Javier Palma; Photographs by Doug Mills/The New York Times; Quinn Glabicki/Reuters; Frederic J. Brown/AFP; Alamy"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/business/00immig-surveil/00immig-surveil-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo Illustration by Javier Palma; Photographs by Doug Mills/The New York Times; Quinn Glabicki/Reuters; Frederic J. Brown/AFP; Alamy"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/business/00immig-surveil/00immig-surveil-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo Illustration by Javier Palma; Photographs by Doug Mills/The New York Times; Quinn Glabicki/Reuters; Frederic J. Brown/AFP; Alamy"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "The Former C.I.A. Officer Capitalizing on Europe’s Military Spending Boom",
+        "abstract": "Eric Slesinger made a career shift from the spy agency to venture capital, championing military start-ups as Europe beefed up its defenses amid an uncertain relationship with the United States.",
+        "url": "https://www.nytimes.com/2025/04/14/technology/cia-officer-europe-military-spending.html",
+        "uri": "nyt://article/99594fe5-326a-5b45-a17f-45efcfa2b77c",
+        "byline": "By Adam Satariano",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T05:01:39-04:00",
+        "created_date": "2025-04-14T05:01:39-04:00",
+        "published_date": "2025-04-14T05:01:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Espionage and Intelligence Services",
+            "United States Politics and Government",
+            "Defense and Military Forces",
+            "Start-ups",
+            "Politics and Government",
+            "Computers and the Internet",
+            "Drones (Pilotless Planes)",
+            "International Relations",
+            "Venture Capital",
+            "Entrepreneurship",
+            "Innovation",
+            "Content Type: Personal Profile"
+        ],
+        "org_facet": [
+            "Central Intelligence Agency",
+            "European Union",
+            "North Atlantic Treaty Organization",
+            "201 Ventures"
+        ],
+        "per_facet": [
+            "Eric Slesinger"
+        ],
+        "geo_facet": [
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00biz-CIA-VC-03-klfq/00biz-CIA-VC-03-klfq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1536,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eric Slesinger, the venture capitalist at 201 Ventures, which invests in European defense start-ups.",
+                "copyright": "Christopher Gregory-Rivera for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00biz-CIA-VC-03-klfq/00biz-CIA-VC-03-klfq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eric Slesinger, the venture capitalist at 201 Ventures, which invests in European defense start-ups.",
+                "copyright": "Christopher Gregory-Rivera for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00biz-CIA-VC-03-klfq/00biz-CIA-VC-03-klfq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eric Slesinger, the venture capitalist at 201 Ventures, which invests in European defense start-ups.",
+                "copyright": "Christopher Gregory-Rivera for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "Mark Zuckerberg, Serial Witness, Will Take the Hot Seat Again",
+        "abstract": "Meta’s chief has grown accustomed to tough questioning in courts and hearings, but an antitrust trial starting Monday could be more grueling, experts said.",
+        "url": "https://www.nytimes.com/2025/04/14/technology/zuckerberg-testifies-meta-trial-ftc.html",
+        "uri": "nyt://article/d3fa610d-3fbd-5229-9376-d830da407ba1",
+        "byline": "By Cecilia Kang and Mike Isaac",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T05:01:46-04:00",
+        "created_date": "2025-04-14T05:01:46-04:00",
+        "published_date": "2025-04-14T05:01:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Computers and the Internet",
+            "Social Media",
+            "Politics and Government",
+            "Suits and Litigation (Civil)",
+            "Antitrust Laws and Competition Issues",
+            "Witnesses"
+        ],
+        "org_facet": [
+            "Facebook Inc",
+            "Meta Platforms Inc"
+        ],
+        "per_facet": [
+            "Zuckerberg, Mark E"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/business/ZUCKERBERG-GRID1/ZUCKERBERG-GRID1-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1799,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Zuckerberg is set to appear as the marquee witness in the Federal Trade Commission’s antitrust lawsuit against Meta.",
+                "copyright": "Tom Brenner for The New York Times; Pete Marovich for The New York Times; Eric Thayer for The New York Times; Lawrence Jackson for The New York Times; Anna Rose Layden for The New York Times; Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/business/ZUCKERBERG-GRID1/ZUCKERBERG-GRID1-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Zuckerberg is set to appear as the marquee witness in the Federal Trade Commission’s antitrust lawsuit against Meta.",
+                "copyright": "Tom Brenner for The New York Times; Pete Marovich for The New York Times; Eric Thayer for The New York Times; Lawrence Jackson for The New York Times; Anna Rose Layden for The New York Times; Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/business/ZUCKERBERG-GRID1/ZUCKERBERG-GRID1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Zuckerberg is set to appear as the marquee witness in the Federal Trade Commission’s antitrust lawsuit against Meta.",
+                "copyright": "Tom Brenner for The New York Times; Pete Marovich for The New York Times; Eric Thayer for The New York Times; Lawrence Jackson for The New York Times; Anna Rose Layden for The New York Times; Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "How to Evade Taxes in Ancient Rome? A 1,900-Year-Old Papyrus Offers a Guide.",
+        "abstract": "A manuscript discovered in the Judean desert contains trial notes on an intricate tax-evasion scheme that involved forgery, fiscal fraud and the false sale of slaves.",
+        "url": "https://www.nytimes.com/2025/04/14/science/archaeology-papyrus-tax-fraud-trial.html",
+        "uri": "nyt://article/f761f909-70a1-5fb0-8e5f-92304cf232a1",
+        "byline": "By Franz Lidz",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T05:02:13-04:00",
+        "created_date": "2025-04-14T05:02:13-04:00",
+        "published_date": "2025-04-14T05:02:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Archaeology and Anthropology",
+            "Tax Evasion",
+            "Roman Civilization",
+            "Taxation",
+            "Manuscripts",
+            "Slavery (Historical)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15sci-taxfraud-cpqj-czgw/15sci-taxfraud-cpqj-czgw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1775,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Initially misclassified, the ragged 133-line scroll lay unnoticed in the archives of the Israel Antiquities Authority until 2014.",
+                "copyright": "Shai Halevi/Israel Antiquities Authority"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15sci-taxfraud-cpqj-czgw/15sci-taxfraud-cpqj-czgw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Initially misclassified, the ragged 133-line scroll lay unnoticed in the archives of the Israel Antiquities Authority until 2014.",
+                "copyright": "Shai Halevi/Israel Antiquities Authority"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15sci-taxfraud-cpqj-czgw/15sci-taxfraud-cpqj-czgw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Initially misclassified, the ragged 133-line scroll lay unnoticed in the archives of the Israel Antiquities Authority until 2014.",
+                "copyright": "Shai Halevi/Israel Antiquities Authority"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "books",
+        "subsection": "review",
+        "title": "Farewell to the Last Writer of the Latin American Boom",
+        "abstract": "The Peruvian author Mario Vargas Llosa was the world’s savviest and most accomplished political novelist.",
+        "url": "https://www.nytimes.com/2025/04/13/books/review/mario-vargas-llosa-appraisal.html",
+        "uri": "nyt://article/0b799eb3-e3fa-5926-aa24-f453d5b04d08",
+        "byline": "By Dwight Garner",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T22:13:02-04:00",
+        "created_date": "2025-04-13T22:13:02-04:00",
+        "published_date": "2025-04-13T22:13:02-04:00",
+        "material_type_facet": "",
+        "kicker": "An Appraisal",
+        "des_facet": [
+            "Writing and Writers",
+            "Books and Literature",
+            "Content Type: Personal Profile",
+            "Nobel Prizes"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Vargas Llosa, Mario"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2024/08/02/books/review/00vargas-llosa-appraisal/00vargas-llosa-appraisal-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1414,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mario Vargas Llosa in 2003.",
+                "copyright": "François Goudier/Gamma-Rapho, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/08/02/books/review/00vargas-llosa-appraisal/00vargas-llosa-appraisal-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mario Vargas Llosa in 2003.",
+                "copyright": "François Goudier/Gamma-Rapho, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/08/02/books/review/00vargas-llosa-appraisal/00vargas-llosa-appraisal-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mario Vargas Llosa in 2003.",
+                "copyright": "François Goudier/Gamma-Rapho, via Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "A Small City That Lost Big in the Dominican Nightclub Tragedy",
+        "abstract": "Haina, a city just outside the Dominican capital, lost 25 people in the Jet Set disaster, including community leaders and cultural icons.",
+        "url": "https://www.nytimes.com/2025/04/14/world/americas/haina-dominican-republic-nightclub.html",
+        "uri": "nyt://article/3f9c7f60-9580-5786-b9a0-e16f40c6e2e0",
+        "byline": "By Frances Robles",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T05:03:11-04:00",
+        "created_date": "2025-04-14T05:03:11-04:00",
+        "published_date": "2025-04-14T05:03:11-04:00",
+        "material_type_facet": "",
+        "kicker": "Dominican Republic Dispatch",
+        "des_facet": [
+            "Bars and Nightclubs"
+        ],
+        "org_facet": [
+            "Jet Set (Santo Domingo, Dominican Republic, Nightclub)"
+        ],
+        "per_facet": [
+            "Abinader, Luis (1967- )",
+            "Perez, Rubby (1956-2025)"
+        ],
+        "geo_facet": [
+            "Dominican Republic",
+            "Santo Domingo (Dominican Republic)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14int-dominicanrepublic-dispatch-01-ckmj/14int-dominicanrepublic-dispatch-01-ckmj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mourners attending a Mass in honor of the people who died after a roof collapse at the Jet Set nightclub, in Haina, Dominican Republic, on Sunday.",
+                "copyright": "Ricardo Arduengo/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14int-dominicanrepublic-dispatch-01-ckmj/14int-dominicanrepublic-dispatch-01-ckmj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mourners attending a Mass in honor of the people who died after a roof collapse at the Jet Set nightclub, in Haina, Dominican Republic, on Sunday.",
+                "copyright": "Ricardo Arduengo/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14int-dominicanrepublic-dispatch-01-ckmj/14int-dominicanrepublic-dispatch-01-ckmj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mourners attending a Mass in honor of the people who died after a roof collapse at the Jet Set nightclub, in Haina, Dominican Republic, on Sunday.",
+                "copyright": "Ricardo Arduengo/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "In Ukraine, Porn Is Illegal. So Why Are Its Creators Paying Taxes?",
+        "abstract": "Ukraine makes tax revenue off the creators of pornographic content, but also threatens them with prosecution. A draft law aims to fix what many say is an unfair contradiction.",
+        "url": "https://www.nytimes.com/2025/04/14/world/europe/ukraine-pornography-onlyfans.html",
+        "uri": "nyt://article/80fcd117-5c72-5eb3-beaa-380d9f92163b",
+        "byline": "By Cassandra Vinograd and Oleksandr Chubko",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T05:20:45-04:00",
+        "created_date": "2025-04-14T05:20:45-04:00",
+        "published_date": "2025-04-14T05:20:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Pornography",
+            "Law and Legislation",
+            "Politics and Government",
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [
+            "OnlyFans"
+        ],
+        "per_facet": [
+            "Tymoshenko, Yulia V"
+        ],
+        "geo_facet": [
+            "Ukraine",
+            "Russia",
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/multimedia/00int-ukraine-pronography-01-kmcj/00int-ukraine-pronography-01-kmcj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Creators of erotic content say that their work should be decriminalized given that they are being asked to contribute to the tax rolls.",
+                "copyright": "Oksana Parafeniuk for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/multimedia/00int-ukraine-pronography-01-kmcj/00int-ukraine-pronography-01-kmcj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Creators of erotic content say that their work should be decriminalized given that they are being asked to contribute to the tax rolls.",
+                "copyright": "Oksana Parafeniuk for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/multimedia/00int-ukraine-pronography-01-kmcj/00int-ukraine-pronography-01-kmcj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Creators of erotic content say that their work should be decriminalized given that they are being asked to contribute to the tax rolls.",
+                "copyright": "Oksana Parafeniuk for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Ancient Syrian Town Seeks Interfaith Peace After Long War",
+        "abstract": "Syria’s civil war drove a wedge between the residents of the small town of Maaloula, where two-thirds are Christian and one-third Muslim. Can they live together peacefully again?",
+        "url": "https://www.nytimes.com/2025/04/14/world/middleeast/maaloula-syria-christian-muslim-relations.html",
+        "uri": "nyt://article/9dd19fd4-7713-553c-b101-961bc0f4b314",
+        "byline": "By Ben Hubbard, Hwaida Saad and David Guttenfelder",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T05:01:36-04:00",
+        "created_date": "2025-04-14T05:01:36-04:00",
+        "published_date": "2025-04-14T05:01:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Christians and Christianity",
+            "Monasteries and Monks",
+            "Minorities",
+            "Churches (Buildings)",
+            "Muslims and Islam"
+        ],
+        "org_facet": [
+            "Al Nusra Front",
+            "Al Qaeda"
+        ],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )",
+            "Assad, Bashar al-"
+        ],
+        "geo_facet": [
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/00int-syria-maaloula-dispatch-88488-cover/00int-syria-maaloula-dispatch-88488-cover-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1920,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/00int-syria-maaloula-dispatch-88488-cover/00int-syria-maaloula-dispatch-88488-cover-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/00int-syria-maaloula-dispatch-88488-cover/00int-syria-maaloula-dispatch-88488-cover-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "James Carville: How to Turn Trump’s Economic Chaos Against Him",
+        "abstract": "Tie the president to the people’s pain, and make the message local.",
+        "url": "https://www.nytimes.com/2025/04/14/opinion/trump-tariffs-economy-carville.html",
+        "uri": "nyt://article/d2125676-6c45-57ae-b743-63521ac669fa",
+        "byline": "By James Carville",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T05:02:25-04:00",
+        "created_date": "2025-04-14T05:02:25-04:00",
+        "published_date": "2025-04-14T05:02:25-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "United States Economy",
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Democratic Party"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14carville1-jqkf/14carville1-jqkf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Gioncarlo Valentine for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14carville1-jqkf/14carville1-jqkf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Gioncarlo Valentine for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14carville1-jqkf/14carville1-jqkf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Gioncarlo Valentine for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "politics",
+        "title": "Matt Gaetz Fell From Grace. But Not Too Far, Apparently.",
+        "abstract": "As he strives to stay relevant, Matt Gaetz, the former Florida congressman, is showing how, in Trump World, political resurrection remains a possibility, no matter how low you go.",
+        "url": "https://www.nytimes.com/2025/04/14/opinion/politics/trump-gaetz-andrew-tate.html",
+        "uri": "nyt://article/80d80c9c-4f71-54d8-8604-390953563714",
+        "byline": "By Michelle Cottle",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T05:01:48-04:00",
+        "created_date": "2025-04-14T05:01:48-04:00",
+        "published_date": "2025-04-14T05:01:48-04:00",
+        "material_type_facet": "",
+        "kicker": "Michelle Cottle",
+        "des_facet": [
+            "United States Politics and Government",
+            "Presidential Election of 2024",
+            "Ethics and Official Misconduct",
+            "Politics and Government",
+            "Attorneys General"
+        ],
+        "org_facet": [
+            "House of Representatives",
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Gaetz, Matt",
+            "Paxton, Ken",
+            "Tate, Andrew (1986- )",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14cottle-ktgm/14cottle-ktgm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mark Peterson/Redux, for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14cottle-ktgm/14cottle-ktgm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mark Peterson/Redux, for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14cottle-ktgm/14cottle-ktgm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mark Peterson/Redux, for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Florida’s Hurricane-Battered Gulf Coast Beckons Spring Breakers: ‘We Are Open’",
+        "abstract": "Some cities discourage spring breakers, but towns along the Gulf Coast, where every dollar is crucial after Hurricanes Helene and Milton, were eager for an influx.",
+        "url": "https://www.nytimes.com/2025/04/14/us/politics/floridas-hurricane-battered-gulf-coast-beckons-spring-breakers-we-are-open.html",
+        "uri": "nyt://article/c864c26f-13fc-5675-b526-bf231b0099fc",
+        "byline": "By Emily Cochrane",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T05:00:32-04:00",
+        "created_date": "2025-04-14T05:00:32-04:00",
+        "published_date": "2025-04-14T05:00:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Spring (Season)",
+            "Beaches",
+            "Hurricanes and Tropical Storms",
+            "United States Economy"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Florida",
+            "Gulf of Mexico"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14nat-florida-springbreak-01-wkvq/14nat-florida-springbreak-01-wkvq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1638,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In the Tampa-St. Petersburg region of Florida, few can remember a hurricane season as jarring as last year’s, when Hurricanes Helene and Milton delivered a one-two punch just weeks apart.",
+                "copyright": "Zack Wittman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14nat-florida-springbreak-01-wkvq/14nat-florida-springbreak-01-wkvq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In the Tampa-St. Petersburg region of Florida, few can remember a hurricane season as jarring as last year’s, when Hurricanes Helene and Milton delivered a one-two punch just weeks apart.",
+                "copyright": "Zack Wittman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14nat-florida-springbreak-01-wkvq/14nat-florida-springbreak-01-wkvq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In the Tampa-St. Petersburg region of Florida, few can remember a hurricane season as jarring as last year’s, when Hurricanes Helene and Milton delivered a one-two punch just weeks apart.",
+                "copyright": "Zack Wittman for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
