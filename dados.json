@@ -47035,5 +47035,75 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Mike Rogers Runs for Senate in Michigan After a Close 2024 Loss",
+        "abstract": "The Republican former congressman, who was narrowly beaten by Elissa Slotkin in a marquee Senate matchup in 2024, hopes to fill the seat being vacated by Senator Gary Peters.",
+        "url": "https://www.nytimes.com/2025/04/14/us/politics/mike-rogers-senate-michigan.html",
+        "uri": "nyt://article/47e07ed9-66d4-5295-9b85-da46fdc67cc2",
+        "byline": "By Taylor Robinson",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T07:00:05-04:00",
+        "created_date": "2025-04-14T07:00:05-04:00",
+        "published_date": "2025-04-14T07:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Midterm Elections (2026)",
+            "Elections, Senate"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Rogers, Michael J (1963- )",
+            "Slotkin, Elissa",
+            "Buttigieg, Pete (1982- )",
+            "Dixon, Tudor",
+            "El-Sayed, Abdul",
+            "Huizenga, William P",
+            "McDonald Rivet, Kristen",
+            "McMorrow, Mallory",
+            "Peters, Gary",
+            "Trump, Donald J",
+            "Whitmer, Gretchen"
+        ],
+        "geo_facet": [
+            "Michigan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14pol-rogers-michigan-toaprt-zqpb/14pol-rogers-michigan-toaprt-zqpb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mike Rogers was a Republican representative from Michigan for 14 years before becoming a talk-radio host and moving to Florida.",
+                "copyright": "Brittany Greeson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14pol-rogers-michigan-toaprt-zqpb/14pol-rogers-michigan-toaprt-zqpb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mike Rogers was a Republican representative from Michigan for 14 years before becoming a talk-radio host and moving to Florida.",
+                "copyright": "Brittany Greeson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14pol-rogers-michigan-toaprt-zqpb/14pol-rogers-michigan-toaprt-zqpb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mike Rogers was a Republican representative from Michigan for 14 years before becoming a talk-radio host and moving to Florida.",
+                "copyright": "Brittany Greeson for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
