@@ -46023,5 +46023,65 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "What We Know About the Arson Attack on the Governor’s House in Pennsylvania",
+        "abstract": "Gov. Josh Shapiro was forced to evacuate with his family. The authorities have charged a man with attempted murder, arson and terrorism.",
+        "url": "https://www.nytimes.com/2025/04/14/us/governor-josh-shapiro-arson-attack-cody-balmer.html",
+        "uri": "nyt://article/ed4e54f4-2bf6-50cd-869d-eb0e02848050",
+        "byline": "By Yan Zhuang",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T04:37:17-04:00",
+        "created_date": "2025-04-14T04:37:17-04:00",
+        "published_date": "2025-04-14T04:37:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Arson",
+            "Fires and Firefighters"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Shapiro, Josh (1973- )"
+        ],
+        "geo_facet": [
+            "Pennsylvania",
+            "Harrisburg (Pa)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14xp-shapiro-wwk-zqpc/14xp-shapiro-wwk-zqpc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The burned-out windows of the Pennsylvania governor’s mansion in Harrisburg, Pa., on Sunday.",
+                "copyright": "Kyle Grantham for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14xp-shapiro-wwk-zqpc/14xp-shapiro-wwk-zqpc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The burned-out windows of the Pennsylvania governor’s mansion in Harrisburg, Pa., on Sunday.",
+                "copyright": "Kyle Grantham for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14xp-shapiro-wwk-zqpc/14xp-shapiro-wwk-zqpc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The burned-out windows of the Pennsylvania governor’s mansion in Harrisburg, Pa., on Sunday.",
+                "copyright": "Kyle Grantham for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
