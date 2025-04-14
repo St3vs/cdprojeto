@@ -48469,5 +48469,190 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "What to Know About the Mistaken Deportation of a Maryland Man to El Salvador",
+        "abstract": "President Trump’s aides abruptly said the man, Kilmar Armando Abrego Garcia, had been lawfully sent to a prison in El Salvador, contradicting what officials themselves have said in court filings.",
+        "url": "https://www.nytimes.com/2025/04/14/us/politics/abrego-garcia-trump-deportations-el-salvador.html",
+        "uri": "nyt://article/c33f7208-cef8-5402-aa51-9c7d8375f58e",
+        "byline": "By Alan Feuer",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T15:27:22-04:00",
+        "created_date": "2025-04-14T15:27:22-04:00",
+        "published_date": "2025-04-14T15:27:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Decisions and Verdicts",
+            "Deportation"
+        ],
+        "org_facet": [
+            "Chicago Bulls",
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Sauer, D John (1974- )",
+            "Miller, Stephen (1985- )",
+            "Abrego Garcia, Kilmar Armando"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14DC-IMMIG-cjlz/14DC-IMMIG-cjlz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1367,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Stephen Miller’s sudden turnabout on whether Kilmar Armando Abrego Garcia had been wrongfully deported appeared to go against the findings of the Supreme Court.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14DC-IMMIG-cjlz/14DC-IMMIG-cjlz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Stephen Miller’s sudden turnabout on whether Kilmar Armando Abrego Garcia had been wrongfully deported appeared to go against the findings of the Supreme Court.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14DC-IMMIG-cjlz/14DC-IMMIG-cjlz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Stephen Miller’s sudden turnabout on whether Kilmar Armando Abrego Garcia had been wrongfully deported appeared to go against the findings of the Supreme Court.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "They Followed the Rules. Now Thousands of Migrants Are Told, ‘Leave.’",
+        "abstract": "The Biden administration allowed 900,000 people to use an app to schedule appointments to cross the border. Emails over the last few days told them to leave or face deportation.",
+        "url": "https://www.nytimes.com/2025/04/14/us/migrants-trump.html",
+        "uri": "nyt://article/e0476044-cb82-5aa0-8d75-05434118d626",
+        "byline": "By Miriam Jordan, Jazmine Ulloa and Hamed Aleaziz",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T16:13:13-04:00",
+        "created_date": "2025-04-14T14:31:25-04:00",
+        "published_date": "2025-04-14T14:31:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "United States Politics and Government",
+            "Illegal Immigration",
+            "Asylum, Right of",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [
+            "Customs and Border Protection (US)",
+            "Homeland Security Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/NAT-IMMIG-CBPONE-1-zwfh/NAT-IMMIG-CBPONE-1-zwfh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Migrants rushed to book asylum appointments on the CBP One app in Matamoros, Mexico, in 2023.",
+                "copyright": "Meridith Kohut for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/NAT-IMMIG-CBPONE-1-zwfh/NAT-IMMIG-CBPONE-1-zwfh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Migrants rushed to book asylum appointments on the CBP One app in Matamoros, Mexico, in 2023.",
+                "copyright": "Meridith Kohut for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/NAT-IMMIG-CBPONE-1-zwfh/NAT-IMMIG-CBPONE-1-zwfh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Migrants rushed to book asylum appointments on the CBP One app in Matamoros, Mexico, in 2023.",
+                "copyright": "Meridith Kohut for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "The Dollar Keeps Falling as Its ‘Safe Haven’ Status Is Questioned",
+        "abstract": "President Trump’s tariff blitz has rattled investors and shaken their faith in one of the most reliable and ubiquitous assets in the world economy.",
+        "url": "https://www.nytimes.com/2025/04/14/business/us-dollar-trump-tariffs.html",
+        "uri": "nyt://article/a733f380-9f12-5a56-93f7-1040e785adac",
+        "byline": "By Colby Smith",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T16:55:55-04:00",
+        "created_date": "2025-04-14T15:57:31-04:00",
+        "published_date": "2025-04-14T15:57:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "Currency",
+            "Customs (Tariff)",
+            "United States Economy",
+            "US Dollar (Currency)",
+            "Interest Rates"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14biz-dollar-01-cqhv/14biz-dollar-01-cqhv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An employee holding U.S. $100 bills at a money changer in Jakarta, Indonesia on April 9.",
+                "copyright": "Willy Kurniawan/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14biz-dollar-01-cqhv/14biz-dollar-01-cqhv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An employee holding U.S. $100 bills at a money changer in Jakarta, Indonesia on April 9.",
+                "copyright": "Willy Kurniawan/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14biz-dollar-01-cqhv/14biz-dollar-01-cqhv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An employee holding U.S. $100 bills at a money changer in Jakarta, Indonesia on April 9.",
+                "copyright": "Willy Kurniawan/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
