@@ -46855,5 +46855,185 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "How a Private Health Crisis Has Loomed Over 2 Very Public Trials",
+        "abstract": "Nadine Menendez’s breast cancer diagnosis has held a powerful grip on the government’s bribery case against her and her husband, Robert Menendez, New Jersey’s disgraced former senator.",
+        "url": "https://www.nytimes.com/2025/04/14/nyregion/nadine-menendez-breast-cancer-bribery-trial.html",
+        "uri": "nyt://article/2a2c8f87-0d52-5630-8920-398e151730c2",
+        "byline": "By Tracey Tully and Olivia Bensimon",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T03:00:15-04:00",
+        "created_date": "2025-04-14T03:00:15-04:00",
+        "published_date": "2025-04-14T03:00:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Bribery and Kickbacks",
+            "Breast Cancer"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Menendez, Nadine",
+            "Menendez, Robert"
+        ],
+        "geo_facet": [
+            "New Jersey",
+            "Financial District (Manhattan, NY)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00met-nadine-cancer-01-pfcq/00met-nadine-cancer-01-pfcq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nadine Menendez’s illness delayed her trial on bribery charges.",
+                "copyright": "Jefferson Siegel for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00met-nadine-cancer-01-pfcq/00met-nadine-cancer-01-pfcq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nadine Menendez’s illness delayed her trial on bribery charges.",
+                "copyright": "Jefferson Siegel for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00met-nadine-cancer-01-pfcq/00met-nadine-cancer-01-pfcq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nadine Menendez’s illness delayed her trial on bribery charges.",
+                "copyright": "Jefferson Siegel for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "The U.S.-China Trade War",
+        "abstract": "Is a trade war with China worth it? We look at the arguments on both sides.",
+        "url": "https://www.nytimes.com/2025/04/14/briefing/the-us-china-trade-war-donald-trump.html",
+        "uri": "nyt://article/5f9bd198-c873-595f-bbcf-bbf912e7f6ae",
+        "byline": "By German Lopez",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T06:55:51-04:00",
+        "created_date": "2025-04-14T06:55:51-04:00",
+        "published_date": "2025-04-14T06:55:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "internal-storyline-no",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14themorning-trump-1-qtbf/14themorning-trump-1-qtbf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14themorning-trump-1-qtbf/14themorning-trump-1-qtbf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14themorning-trump-1-qtbf/14themorning-trump-1-qtbf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Florida’s Hurricane-Battered Gulf Coast Beckons Spring Breakers: ‘We Are Open’",
+        "abstract": "Some cities discourage spring breakers, but towns along the Gulf Coast, where every dollar is crucial after Hurricanes Helene and Milton, were eager for an influx.",
+        "url": "https://www.nytimes.com/2025/04/14/us/politics/florida-hurricanes-spring-break.html",
+        "uri": "nyt://article/c864c26f-13fc-5675-b526-bf231b0099fc",
+        "byline": "By Emily Cochrane",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T06:33:36-04:00",
+        "created_date": "2025-04-14T05:00:33-04:00",
+        "published_date": "2025-04-14T05:00:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Spring (Season)",
+            "Beaches",
+            "Hurricanes and Tropical Storms",
+            "United States Economy"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Florida",
+            "Gulf of Mexico"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14nat-florida-springbreak-01-wkvq/14nat-florida-springbreak-01-wkvq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1638,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In the Tampa-St. Petersburg region of Florida, few can remember a hurricane season as jarring as last year’s, when Hurricanes Helene and Milton delivered a one-two punch just weeks apart.",
+                "copyright": "Zack Wittman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14nat-florida-springbreak-01-wkvq/14nat-florida-springbreak-01-wkvq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In the Tampa-St. Petersburg region of Florida, few can remember a hurricane season as jarring as last year’s, when Hurricanes Helene and Milton delivered a one-two punch just weeks apart.",
+                "copyright": "Zack Wittman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14nat-florida-springbreak-01-wkvq/14nat-florida-springbreak-01-wkvq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In the Tampa-St. Petersburg region of Florida, few can remember a hurricane season as jarring as last year’s, when Hurricanes Helene and Milton delivered a one-two punch just weeks apart.",
+                "copyright": "Zack Wittman for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
