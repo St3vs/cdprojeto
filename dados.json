@@ -47526,5 +47526,520 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Republicans Ponder the Unthinkable: Taxing the Rich",
+        "abstract": "The idea of raising taxes on rich Americans has caught the Republican Party between its populist ambitions and low-tax instincts.",
+        "url": "https://www.nytimes.com/2025/04/14/business/tax-hike-republicans-trump.html",
+        "uri": "nyt://article/d1d1a880-48fd-5fb4-9562-f4658ac345eb",
+        "byline": "By Andrew Duehren",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T11:47:15-04:00",
+        "created_date": "2025-04-14T11:42:39-04:00",
+        "published_date": "2025-04-14T11:42:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Taxation",
+            "High Net Worth Individuals",
+            "Income Tax",
+            "Politics and Government",
+            "Small Business",
+            "Debates (Political)",
+            "Law and Legislation",
+            "Poverty",
+            "States (US)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00DC-TRUMPTAX-kcjt/00DC-TRUMPTAX-kcjt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Activists gather for a “Rally to Say No to Tax Breaks for Billionaires and Corporations” on Capitol Hill on Thursday.",
+                "copyright": "Alex Wong/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00DC-TRUMPTAX-kcjt/00DC-TRUMPTAX-kcjt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Activists gather for a “Rally to Say No to Tax Breaks for Billionaires and Corporations” on Capitol Hill on Thursday.",
+                "copyright": "Alex Wong/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00DC-TRUMPTAX-kcjt/00DC-TRUMPTAX-kcjt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Activists gather for a “Rally to Say No to Tax Breaks for Billionaires and Corporations” on Capitol Hill on Thursday.",
+                "copyright": "Alex Wong/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "Trump Signals Semiconductor Tariffs Are Coming ‘Very Soon’",
+        "abstract": "The president has suggested that he will move forward with a national security investigation this week that is likely to result in tariffs on chips.",
+        "url": "https://www.nytimes.com/2025/04/14/business/economy/trump-semiconductor-tariffs-china.html",
+        "uri": "nyt://article/e8b498f2-0fe6-56ff-9ecf-80d3cbd9a154",
+        "byline": "By Ana Swanson",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T11:56:09-04:00",
+        "created_date": "2025-04-14T11:21:13-04:00",
+        "published_date": "2025-04-14T11:21:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "Computer Chips",
+            "Factories and Manufacturing",
+            "United States International Relations",
+            "Federal Aid (US)"
+        ],
+        "org_facet": [
+            "Apple Inc",
+            "NVIDIA Corporation",
+            "Taiwan Semiconductor Manufacturing Company Ltd"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14dc-tariffs-zkwt/14dc-tariffs-zkwt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A semiconductor wafer. President Trump has argued that tariffs on chips will force companies to relocate their factories to the United States.",
+                "copyright": "Lam Yik Fei for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14dc-tariffs-zkwt/14dc-tariffs-zkwt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A semiconductor wafer. President Trump has argued that tariffs on chips will force companies to relocate their factories to the United States.",
+                "copyright": "Lam Yik Fei for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14dc-tariffs-zkwt/14dc-tariffs-zkwt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A semiconductor wafer. President Trump has argued that tariffs on chips will force companies to relocate their factories to the United States.",
+                "copyright": "Lam Yik Fei for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "",
+        "title": "One Giant Stunt for Womankind",
+        "abstract": "Blue Origin’s all-female flight proves that women are now free to enjoy capitalism’s most extravagant spoils alongside rich men.",
+        "url": "https://www.nytimes.com/2025/04/14/arts/blue-origin-lauren-sanchez-katy-perry.html",
+        "uri": "nyt://article/7fc28feb-cb73-5da2-81c2-71a0f533f3a6",
+        "byline": "By Amanda Hess",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T11:45:04-04:00",
+        "created_date": "2025-04-14T11:18:34-04:00",
+        "published_date": "2025-04-14T11:18:34-04:00",
+        "material_type_facet": "",
+        "kicker": "Critic’s Notebook",
+        "des_facet": [
+            "Space and Astronomy",
+            "Private Spaceflight",
+            "Women and Girls",
+            "Travel and Vacations",
+            "Gender"
+        ],
+        "org_facet": [
+            "Blue Origin"
+        ],
+        "per_facet": [
+            "Kerianne Flynn",
+            "Nguyen, Amanda",
+            "Perry, Katy",
+            "King, Gayle",
+            "Sanchez, Lauren (1969- )"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/arts/14cul-spaceflight-notebook-static/14cul-spaceflight-notebook-static-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 960,
+                "width": 1440,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "AP; The New York Times; Getty Images; BFA via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/arts/14cul-spaceflight-notebook-static/14cul-spaceflight-notebook-static-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "AP; The New York Times; Getty Images; BFA via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/arts/14cul-spaceflight-notebook-static/14cul-spaceflight-notebook-static-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "AP; The New York Times; Getty Images; BFA via Shutterstock"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "style",
+        "subsection": "",
+        "title": "The Podcaster Asking You to Side With History’s Villains",
+        "abstract": "Darryl Cooper is no scholar. But legions of fans — many on the right — can’t seem to resist what he presents as hidden truths.",
+        "url": "https://www.nytimes.com/2025/04/13/style/darryl-cooper-martyr-made-podcast.html",
+        "uri": "nyt://article/d8055726-cd28-504d-8206-3df621512001",
+        "byline": "By Joseph Bernstein",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T08:45:27-04:00",
+        "created_date": "2025-04-13T05:00:53-04:00",
+        "published_date": "2025-04-13T05:00:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Podcasts",
+            "Right-Wing Extremism and Alt-Right",
+            "Content Type: Personal Profile",
+            "United States Politics and Government",
+            "Holocaust and the Nazi Era",
+            "World War II (1939-45)",
+            "Israel-Gaza War (2023- )",
+            "Martyr Made (Radio Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Cooper, Darryl (Podcast Host)",
+            "Carlson, Tucker",
+            "Rogan, Joe"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/fashion/DARRYL-COOPER/DARRYL-COOPER-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1567,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Laura Lannes"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/fashion/DARRYL-COOPER/DARRYL-COOPER-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Laura Lannes"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/fashion/DARRYL-COOPER/DARRYL-COOPER-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Laura Lannes"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Teachers Worry About Students Using A.I. But They Love It for Themselves.",
+        "abstract": "Educators are increasingly using generative A.I. in their own work, even as they express profound hesitation about the ethics of student use.",
+        "url": "https://www.nytimes.com/2025/04/14/us/schools-ai-teachers-writing.html",
+        "uri": "nyt://article/0bd2f10f-5481-5384-9b7c-d5e6b693b843",
+        "byline": "By Dana Goldstein",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T05:01:04-04:00",
+        "created_date": "2025-04-14T05:01:04-04:00",
+        "published_date": "2025-04-14T05:01:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Artificial Intelligence",
+            "Education (K-12)",
+            "Teachers and School Employees",
+            "Tutors and Tutoring",
+            "ChatGPT",
+            "Reading and Writing Skills (Education)"
+        ],
+        "org_facet": [
+            "Google Inc",
+            "Texas Education Agency",
+            "OpenAI Labs"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00nat-ai-schools-01-vmpq/00nat-ai-schools-01-vmpq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A ChatGPT workshop for teachers in Walla Walla, Wash.",
+                "copyright": "Ricardo Nagaoka for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00nat-ai-schools-01-vmpq/00nat-ai-schools-01-vmpq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A ChatGPT workshop for teachers in Walla Walla, Wash.",
+                "copyright": "Ricardo Nagaoka for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00nat-ai-schools-01-vmpq/00nat-ai-schools-01-vmpq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A ChatGPT workshop for teachers in Walla Walla, Wash.",
+                "copyright": "Ricardo Nagaoka for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Cuomo Wins Backing of 2 Major Unions That Once Pushed Him to Resign",
+        "abstract": "Former Gov. Andrew M. Cuomo’s bid for New York City mayor was endorsed by two of the city’s largest unions, Local 32BJ and the Hotel and Gaming Trades Council.",
+        "url": "https://www.nytimes.com/2025/04/14/nyregion/cuomo-endorsed-unions-32bj-hotels.html",
+        "uri": "nyt://article/67a54d68-bde2-5ea4-9fa2-e9f6f0d2e509",
+        "byline": "By Nicholas Fandos",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T12:13:16-04:00",
+        "created_date": "2025-04-14T11:25:25-04:00",
+        "published_date": "2025-04-14T11:25:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Endorsements",
+            "Elections, Mayors",
+            "Organized Labor",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Local 32BJ",
+            "Hotel and Gaming Trades Council"
+        ],
+        "per_facet": [
+            "Cuomo, Andrew M"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14met-cuomo-labor-hkpt/14met-cuomo-labor-hkpt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The unions that announced their endorsements of former Gov. Andrew M. Cuomo on Monday are known for their political influence.",
+                "copyright": "Adam Gray for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14met-cuomo-labor-hkpt/14met-cuomo-labor-hkpt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The unions that announced their endorsements of former Gov. Andrew M. Cuomo on Monday are known for their political influence.",
+                "copyright": "Adam Gray for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14met-cuomo-labor-hkpt/14met-cuomo-labor-hkpt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The unions that announced their endorsements of former Gov. Andrew M. Cuomo on Monday are known for their political influence.",
+                "copyright": "Adam Gray for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "How New Rules and High Costs Hobbled the Return of N.Y.C. Outdoor Dining",
+        "abstract": "Only a small portion of the city’s restaurants have applied for permits to set up dining structures under new regulations. Owners say the process is complex and expensive.",
+        "url": "https://www.nytimes.com/2025/04/14/nyregion/nyc-restaurants-outdoor-seating.html",
+        "uri": "nyt://article/6d6027ee-3b13-573b-b479-ff526cc25229",
+        "byline": "By Olivia Bensimon",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T10:42:44-04:00",
+        "created_date": "2025-04-14T03:00:15-04:00",
+        "published_date": "2025-04-14T03:00:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Restaurants",
+            "Coronavirus (2019-nCoV)",
+            "Law and Legislation",
+            "Sidewalks",
+            "Regulation and Deregulation of Industry"
+        ],
+        "org_facet": [
+            "City Council (NYC)",
+            "Transportation Department (NYC)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/12met-outdoor-dining-01-kzjl/12met-outdoor-dining-01-kzjl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Outdoor dining in New York City is now allowed only from April through late November. Many restaurant owners say they can’t afford to dismantle and store their structures in the winter.",
+                "copyright": "Heather Khalifa for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/12met-outdoor-dining-01-kzjl/12met-outdoor-dining-01-kzjl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Outdoor dining in New York City is now allowed only from April through late November. Many restaurant owners say they can’t afford to dismantle and store their structures in the winter.",
+                "copyright": "Heather Khalifa for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/12met-outdoor-dining-01-kzjl/12met-outdoor-dining-01-kzjl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Outdoor dining in New York City is now allowed only from April through late November. Many restaurant owners say they can’t afford to dismantle and store their structures in the winter.",
+                "copyright": "Heather Khalifa for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Little Plastic Bricks Fetch Thousands of Dollars in the Lego Black Market",
+        "abstract": "Some Lego sets have skyrocketed in value but behind the eye-popping price tags is a dark side: an underground market that fuels brazen thefts.",
+        "url": "https://www.nytimes.com/2025/04/14/business/lego-minifigures-black-market.html",
+        "uri": "nyt://article/6863ef44-fda4-5c16-8e2e-e63ff9215b63",
+        "byline": "By Aimee Ortiz",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T11:07:24-04:00",
+        "created_date": "2025-04-14T11:07:24-04:00",
+        "published_date": "2025-04-14T11:07:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Robberies and Thefts",
+            "Black Markets",
+            "Prices (Fares, Fees and Rates)",
+            "Toys",
+            "Collectors and Collections",
+            "Shopping and Retail",
+            "Shoplifting and Employee Theft (Retail)"
+        ],
+        "org_facet": [
+            "Lego Group"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Alameda County (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00xp-lego-wfbv/00xp-lego-wfbv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lego minifigures of the K-pop band BTS in 2023. Lego sets have become hot commodities and the target of thieves.",
+                "copyright": "Lee Jin-Man/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00xp-lego-wfbv/00xp-lego-wfbv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lego minifigures of the K-pop band BTS in 2023. Lego sets have become hot commodities and the target of thieves.",
+                "copyright": "Lee Jin-Man/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00xp-lego-wfbv/00xp-lego-wfbv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lego minifigures of the K-pop band BTS in 2023. Lego sets have become hot commodities and the target of thieves.",
+                "copyright": "Lee Jin-Man/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
