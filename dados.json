@@ -49524,5 +49524,292 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Court Temporarily Blocks Trump’s Shuttering of Migrant Entry Program",
+        "abstract": "The Biden-era program has allowed hundreds of thousands of migrants from Cuba, Nicaragua, Venezuela and Haiti to enter the United States and work legally.",
+        "url": "https://www.nytimes.com/2025/04/14/us/politics/trump-administration-parole-migrant.html",
+        "uri": "nyt://article/647f9209-f848-5ee8-b487-517021a78ba5",
+        "byline": "By Hamed Aleaziz",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T21:54:53-04:00",
+        "created_date": "2025-04-14T21:14:30-04:00",
+        "published_date": "2025-04-14T21:14:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Immigration and Emigration",
+            "Foreign Workers"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Cuba",
+            "Haiti",
+            "Nicaragua",
+            "Venezuela"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00dc-immig-zcwf/00dc-immig-zcwf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration moved in late March to shut down the migrant program, which offered temporary legal status in the United States.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00dc-immig-zcwf/00dc-immig-zcwf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration moved in late March to shut down the migrant program, which offered temporary legal status in the United States.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00dc-immig-zcwf/00dc-immig-zcwf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration moved in late March to shut down the migrant program, which offered temporary legal status in the United States.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Harvard’s Strength and How Far We’ve Fallen So Quickly",
+        "abstract": "The thrill over its response to the Trump administration is a measure of how low, and how fast, our expectations have fallen.",
+        "url": "https://www.nytimes.com/live/2025/04/07/opinion/thepoint/harvard-trump-administration-statement",
+        "uri": "nyt://article/bd6c0677-4e92-520f-9e8a-17294b663673",
+        "byline": "By M. Gessen",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T22:50:01-04:00",
+        "created_date": "2025-04-14T21:05:33-04:00",
+        "published_date": "2025-04-14T21:05:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Colleges and Universities"
+        ],
+        "org_facet": [
+            "Harvard University"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": null,
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "The Vibe Shifts Against the Right",
+        "abstract": "People who once found right-wing ideas scintillating are having second thoughts as they watch Trump put those ideas into practice.",
+        "url": "https://www.nytimes.com/2025/04/14/opinion/dissident-right-trump.html",
+        "uri": "nyt://article/14416373-037e-5233-bf2c-b4c32ec83b53",
+        "byline": "By Michelle Goldberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T21:26:16-04:00",
+        "created_date": "2025-04-14T21:26:16-04:00",
+        "published_date": "2025-04-14T21:26:16-04:00",
+        "material_type_facet": "",
+        "kicker": "Michelle Goldberg",
+        "des_facet": [
+            "United States Politics and Government",
+            "Conservatism (US Politics)",
+            "Right-Wing Extremism and Alt-Right",
+            "Presidential Election of 2024",
+            "Fringe Groups and Movements",
+            "Computers and the Internet",
+            "Authoritarianism (Theory and Philosophy)",
+            "International Trade and World Market",
+            "Democracy (Theory and Philosophy)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Yarvin, Curtis",
+            "Gonzalez, Pedro L",
+            "Alex Kaschuta",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14goldberg-jzmw/14goldberg-jzmw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Lawrence Bryant/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14goldberg-jzmw/14goldberg-jzmw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Lawrence Bryant/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14goldberg-jzmw/14goldberg-jzmw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Lawrence Bryant/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Missing Rotor Is Recovered From Site of Helicopter Crash in Hudson River",
+        "abstract": "The aircraft was on a sightseeing flight when it suddenly broke apart in midair, its rotor blades falling separately toward the water.",
+        "url": "https://www.nytimes.com/2025/04/14/nyregion/nyc-helicopter-crash-rotor-hudson.html",
+        "uri": "nyt://article/b4c291ed-37bb-59b7-9190-1b22722972d4",
+        "byline": "By Patrick McGeehan",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T22:30:55-04:00",
+        "created_date": "2025-04-14T22:30:55-04:00",
+        "published_date": "2025-04-14T22:30:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Aviation Accidents, Safety and Disasters",
+            "Helicopters"
+        ],
+        "org_facet": [
+            "National Transportation Safety Board",
+            "New York Helicopter"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Hudson River",
+            "Jersey City (NJ)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/14/nyregion/14met-chopper-rotor/14met-chopper-rotor-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1280,
+                "width": 960,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Several pieces of the crashed helicopter, including the main rotor, were pulled from the Hudson River on Monday.",
+                "copyright": "National Transport Safety Board"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/14/nyregion/14met-chopper-rotor/14met-chopper-rotor-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Several pieces of the crashed helicopter, including the main rotor, were pulled from the Hudson River on Monday.",
+                "copyright": "National Transport Safety Board"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/14/nyregion/14met-chopper-rotor/14met-chopper-rotor-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Several pieces of the crashed helicopter, including the main rotor, were pulled from the Hudson River on Monday.",
+                "copyright": "National Transport Safety Board"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Suspect Arrested in Attacks on New Mexico G.O.P. Office and a Tesla Dealer",
+        "abstract": "Jamison Wagner, 40, of Albuquerque, faces up to 40 years in prison if convicted, the authorities said.",
+        "url": "https://www.nytimes.com/2025/04/14/us/tesla-arson-arrest-new-mexico.html",
+        "uri": "nyt://article/e77cf0f5-8444-5866-83d3-88617e968e12",
+        "byline": "By Neil Vigdor",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T20:40:13-04:00",
+        "created_date": "2025-04-14T20:40:13-04:00",
+        "published_date": "2025-04-14T20:40:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Vandalism",
+            "Arson",
+            "Fires and Firefighters",
+            "Demonstrations, Protests and Riots",
+            "Bombs and Explosives"
+        ],
+        "org_facet": [
+            "Justice Department",
+            "Tesla Motors Inc"
+        ],
+        "per_facet": [
+            "Musk, Elon",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Albuquerque (NM)",
+            "New Mexico"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14xp-firebomb/14xp-firebomb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 533,
+                "width": 801,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Tesla showroom near Albuquerque was targeted in an arson attack in February, court documents said. Two vehicles were affected, one of which was significantly damaged.",
+                "copyright": "U.S. Department of Justice"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14xp-firebomb/14xp-firebomb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 399,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Tesla showroom near Albuquerque was targeted in an arson attack in February, court documents said. Two vehicles were affected, one of which was significantly damaged.",
+                "copyright": "U.S. Department of Justice"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14xp-firebomb/14xp-firebomb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Tesla showroom near Albuquerque was targeted in an arson attack in February, court documents said. Two vehicles were affected, one of which was significantly damaged.",
+                "copyright": "U.S. Department of Justice"
+            }
+        ],
+        "short_url": ""
     }
 ]
