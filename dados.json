@@ -51931,5 +51931,322 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "The U.S. Wants to Break Up Google and Meta. That Could Be Hard.",
+        "abstract": "For the first time since the late 1990s Microsoft case, federal trials are weighing antitrust breakups, a tactic that harks back to Standard Oil.",
+        "url": "https://www.nytimes.com/2025/04/15/technology/antitrust-structure-deals-challenge.html",
+        "uri": "nyt://article/85d877c1-7376-5a9b-9ea6-2c88678df94f",
+        "byline": "By Steve Lohr",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T15:07:29-04:00",
+        "created_date": "2025-04-15T12:54:23-04:00",
+        "published_date": "2025-04-15T12:54:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Computers and the Internet",
+            "Antitrust Laws and Competition Issues",
+            "Decisions and Verdicts",
+            "Search Engines",
+            "Social Media",
+            "Mergers, Acquisitions and Divestitures",
+            "Prices (Fares, Fees and Rates)"
+        ],
+        "org_facet": [
+            "Federal Trade Commission",
+            "Meta Platforms Inc",
+            "Google Inc"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/business/00antitrust-structure/00antitrust-structure-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1508,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ricardo Tomás"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/business/00antitrust-structure/00antitrust-structure-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ricardo Tomás"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/business/00antitrust-structure/00antitrust-structure-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ricardo Tomás"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "This Therapist Helped Clients Feel Better. It Was A.I.",
+        "abstract": "In the first clinical trial of its kind, an A.I. chatbot eased mental health symptoms among participants. The technology may someday help solve the provider shortage.",
+        "url": "https://www.nytimes.com/2025/04/15/health/ai-therapist-mental-health.html",
+        "uri": "nyt://article/6581b35a-ccfe-52ee-8a9b-505bdadd0d27",
+        "byline": "By Teddy Rosenbluth",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T14:36:14-04:00",
+        "created_date": "2025-04-15T14:36:14-04:00",
+        "published_date": "2025-04-15T14:36:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "your-feed-science",
+            "Artificial Intelligence",
+            "Depression (Mental)",
+            "Anxiety and Stress",
+            "Psychiatry and Psychiatrists",
+            "Clinical Trials",
+            "Medicine and Health"
+        ],
+        "org_facet": [
+            "Dartmouth College",
+            "Dartmouth-Hitchcock Medical Center"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00hs-ai-therapy-gbhj/00hs-ai-therapy-gbhj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1152,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A computer screenshot from a conversation with Therabot, a generative A.I. therapist developed by Dartmouth researchers.",
+                "copyright": "Dartmouth College"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00hs-ai-therapy-gbhj/00hs-ai-therapy-gbhj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A computer screenshot from a conversation with Therabot, a generative A.I. therapist developed by Dartmouth researchers.",
+                "copyright": "Dartmouth College"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00hs-ai-therapy-gbhj/00hs-ai-therapy-gbhj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A computer screenshot from a conversation with Therabot, a generative A.I. therapist developed by Dartmouth researchers.",
+                "copyright": "Dartmouth College"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Inside Trump’s Plan to Halt Hundreds of Regulations",
+        "abstract": "The White House will soon move to rapidly repeal or freeze rules that affect health, food, workplace safety, transportation and more.",
+        "url": "https://www.nytimes.com/2025/04/15/us/politics/trump-doge-regulations.html",
+        "uri": "nyt://article/7e3a9481-5265-5a01-a121-bc0c5ed101c7",
+        "byline": "By Coral Davenport",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T09:06:51-04:00",
+        "created_date": "2025-04-15T05:01:15-04:00",
+        "published_date": "2025-04-15T05:01:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Regulation and Deregulation of Industry",
+            "United States Politics and Government",
+            "Chevron v Natural Resources Defense Council (Supreme Court Decision)",
+            "United States Economy",
+            "Decisions and Verdicts",
+            "Executive Orders and Memorandums",
+            "Greenhouse Gas Emissions"
+        ],
+        "org_facet": [
+            "Environmental Protection Agency",
+            "Office of Management and Budget (US)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Vought, Russell T",
+            "Musk, Elon"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00dc-regulation-promo-wlqt/00dc-regulation-promo-wlqt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Kendrick Brinson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00dc-regulation-promo-wlqt/00dc-regulation-promo-wlqt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Kendrick Brinson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00dc-regulation-promo-wlqt/00dc-regulation-promo-wlqt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Kendrick Brinson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Build Homes on Federal Land",
+        "abstract": "Public land is a promising place to build what Western cities need most and mostly don’t allow: homes and apartments for low-wage workers.",
+        "url": "https://www.nytimes.com/2025/04/15/opinion/housing-crisis-federal-land.html",
+        "uri": "nyt://article/5db2d4e1-1b77-588b-af87-2db467f35995",
+        "byline": "By Binyamin Appelbaum",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T11:42:01-04:00",
+        "created_date": "2025-04-15T05:00:38-04:00",
+        "published_date": "2025-04-15T05:00:38-04:00",
+        "material_type_facet": "",
+        "kicker": "Binyamin Appelbaum",
+        "des_facet": [
+            "Real Estate and Housing (Residential)",
+            "Federal Lands",
+            "Land Use Policies",
+            "Affordable Housing"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "St George (Utah)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/opinion/00Appelbaum_promo/00Appelbaum_promo-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 1155,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Picture Palace/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/opinion/00Appelbaum_promo/00Appelbaum_promo-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Picture Palace/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/opinion/00Appelbaum_promo/00Appelbaum_promo-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Picture Palace/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "After an Earthquake, These Elephants Knew Exactly Who to Follow: Mom",
+        "abstract": "A video from the San Diego Zoo Safari Park taken during an earthquake put complex elephant herd dynamics on display.",
+        "url": "https://www.nytimes.com/2025/04/15/us/elephants-san-diego-zoo-earthquake.html",
+        "uri": "nyt://article/15f2c44b-d936-516a-a04a-d8f5ec18cec6",
+        "byline": "By Jonathan Wolfe",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T14:55:14-04:00",
+        "created_date": "2025-04-15T11:00:14-04:00",
+        "published_date": "2025-04-15T11:00:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Earthquakes",
+            "Animal Behavior",
+            "Video Recordings, Downloads and Streaming",
+            "Zoos",
+            "Elephants"
+        ],
+        "org_facet": [
+            "San Diego Zoo"
+        ],
+        "per_facet": [
+            "Poole, Joyce (1956- )"
+        ],
+        "geo_facet": [
+            "San Diego (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15xp-elephants-bgtz/15xp-elephants-bgtz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 963,
+                "width": 1444,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An image taken from video released by the San Diego Zoo Wildlife Alliance showing a herd of elephants forming a circle to shield the two calves, Zuli and Mkhaya, during an earthquake on Monday.",
+                "copyright": "San Diego Zoo Wildlife Alliance, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15xp-elephants-bgtz/15xp-elephants-bgtz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An image taken from video released by the San Diego Zoo Wildlife Alliance showing a herd of elephants forming a circle to shield the two calves, Zuli and Mkhaya, during an earthquake on Monday.",
+                "copyright": "San Diego Zoo Wildlife Alliance, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15xp-elephants-bgtz/15xp-elephants-bgtz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An image taken from video released by the San Diego Zoo Wildlife Alliance showing a herd of elephants forming a circle to shield the two calves, Zuli and Mkhaya, during an earthquake on Monday.",
+                "copyright": "San Diego Zoo Wildlife Alliance, via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
