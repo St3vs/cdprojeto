@@ -50238,5 +50238,649 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "What Are Rare Earth Metals?",
+        "abstract": "China’s new restrictions on exports of the metals could have an impact on the production of everything from LED lights to fighter jets.",
+        "url": "https://www.nytimes.com/2025/04/15/technology/rare-earth-metals-china-exports.html",
+        "uri": "nyt://article/b97fdc78-003a-53c8-a536-6a8b27dd5f06",
+        "byline": "By Eli Tan",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T00:04:24-04:00",
+        "created_date": "2025-04-15T00:00:06-04:00",
+        "published_date": "2025-04-15T00:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Rare Earths",
+            "Metals and Minerals",
+            "International Trade and World Market",
+            "Computer Chips",
+            "Magnets and Magnetism",
+            "Wind Power",
+            "Computers and the Internet"
+        ],
+        "org_facet": [
+            "NVIDIA Corporation"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14earthmetals-explainer-fkbc/14earthmetals-explainer-fkbc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1382,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A smelting workshop in China’s Inner Mongolia in 2010. The vast majority of the world’s supply of rare earths is mined in China.",
+                "copyright": "David Gray/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14earthmetals-explainer-fkbc/14earthmetals-explainer-fkbc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A smelting workshop in China’s Inner Mongolia in 2010. The vast majority of the world’s supply of rare earths is mined in China.",
+                "copyright": "David Gray/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14earthmetals-explainer-fkbc/14earthmetals-explainer-fkbc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A smelting workshop in China’s Inner Mongolia in 2010. The vast majority of the world’s supply of rare earths is mined in China.",
+                "copyright": "David Gray/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "podcasts",
+        "subsection": "the-headlines",
+        "title": "Harvard vs. Trump, and Your (Shrinking) Chance of Being Audited",
+        "abstract": "Plus, black market Lego.",
+        "url": "https://www.nytimes.com/2025/04/15/podcasts/the-headlines/harvard-trump-irs-auditing-lego.html",
+        "uri": "nyt://article/5c6d7968-81f0-588e-8019-6b450ad900dc",
+        "byline": "By Tracy Mumford, Will Jarvis, Ian Stewart and Jessica Metzger",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T06:11:47-04:00",
+        "created_date": "2025-04-15T06:00:07-04:00",
+        "published_date": "2025-04-15T06:00:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Tax Evasion",
+            "Illegal Immigration",
+            "Kidneys"
+        ],
+        "org_facet": [
+            "Internal Revenue Service"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "El Salvador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15-education-headlines-ptcq/15-education-headlines-ptcq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Federal officials said they would freeze the money after Harvard said it would not submit to requests to overhaul hiring and to report international students who broke rules.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15-education-headlines-ptcq/15-education-headlines-ptcq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Federal officials said they would freeze the money after Harvard said it would not submit to requests to overhaul hiring and to report international students who broke rules.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15-education-headlines-ptcq/15-education-headlines-ptcq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Federal officials said they would freeze the money after Harvard said it would not submit to requests to overhaul hiring and to report international students who broke rules.",
+                "copyright": "Sophie Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Harvard’s Decision to Resist Trump Is ‘of Momentous Significance’",
+        "abstract": "But a fight with the nation’s oldest, richest and most elite university is a battle that President Trump and his powerful aide, Stephen Miller, want to have.",
+        "url": "https://www.nytimes.com/2025/04/14/us/politics/harvard-trump.html",
+        "uri": "nyt://article/a681b4e9-2617-5279-804a-8cc73bdca1a6",
+        "byline": "By Elisabeth Bumiller",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T05:51:39-04:00",
+        "created_date": "2025-04-14T20:58:37-04:00",
+        "published_date": "2025-04-14T20:58:37-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States Politics and Government",
+            "Colleges and Universities",
+            "Federal Aid (US)"
+        ],
+        "org_facet": [
+            "Columbia University",
+            "Harvard University",
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Burck, William A",
+            "Garber, Alan M",
+            "Hur, Robert Kyoung",
+            "Miller, Stephen (1985- )",
+            "Pinker, Steven",
+            "Stefanik, Elise",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/14/multimedia/14dc-education-vmjq/14dc-education-vmjq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard’s response was a significant shift in tone for the nation’s most influential university.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/14/multimedia/14dc-education-vmjq/14dc-education-vmjq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard’s response was a significant shift in tone for the nation’s most influential university.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/14/multimedia/14dc-education-vmjq/14dc-education-vmjq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard’s response was a significant shift in tone for the nation’s most influential university.",
+                "copyright": "Sophie Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "‘Alien Enemies’ or Innocent Men? Inside Trump’s Rushed Effort to Deport 238 Migrants",
+        "abstract": "The Trump administration sent them to a prison in El Salvador under a wartime act, calling them members of a Venezuelan gang. But a New York Times investigation found little evidence of criminal backgrounds or links to the gang.",
+        "url": "https://www.nytimes.com/2025/04/15/world/americas/trump-migrants-deportations.html",
+        "uri": "nyt://article/a2e334e0-36cf-56f9-b740-72867d6780a4",
+        "byline": "By Julie Turkewitz, Jazmine Ulloa, Isayen Herrera, Hamed Aleaziz and Zolan Kanno-Youngs",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T05:01:00-04:00",
+        "created_date": "2025-04-15T05:01:00-04:00",
+        "published_date": "2025-04-15T05:01:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "United States Politics and Government",
+            "Deportation",
+            "United States International Relations"
+        ],
+        "org_facet": [
+            "Homeland Security Department"
+        ],
+        "per_facet": [
+            "Bukele, Nayib",
+            "Trump, Donald J",
+            "Maduro, Nicolas"
+        ],
+        "geo_facet": [
+            "El Salvador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00int-venezuela-elsalvador-detainees-top-alt/00int-venezuela-elsalvador-detainees-hqlp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nathali Sánchez, the wife of Arturo Suárez, a migrant sent to prison in El Salvador, with her daughter in Santiago, Chile.",
+                "copyright": "Cristobal Olivares for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00int-venezuela-elsalvador-detainees-top-alt/00int-venezuela-elsalvador-detainees-hqlp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nathali Sánchez, the wife of Arturo Suárez, a migrant sent to prison in El Salvador, with her daughter in Santiago, Chile.",
+                "copyright": "Cristobal Olivares for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00int-venezuela-elsalvador-detainees-top-alt/00int-venezuela-elsalvador-detainees-hqlp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nathali Sánchez, the wife of Arturo Suárez, a migrant sent to prison in El Salvador, with her daughter in Santiago, Chile.",
+                "copyright": "Cristobal Olivares for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "magazine",
+        "subsection": "",
+        "title": "The Techno-Utopians Who Want to Colonize the Sea",
+        "abstract": "Libertarians have long looked at ocean living as the next frontier. Some wealthy men are testing the waters.",
+        "url": "https://www.nytimes.com/2025/04/15/magazine/seasteading-libertarian-ocean-living.html",
+        "uri": "nyt://article/fd968f1f-aefa-5e1b-897d-0677cecdfc3c",
+        "byline": "By Mark Yarm",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T05:01:23-04:00",
+        "created_date": "2025-04-15T05:01:23-04:00",
+        "published_date": "2025-04-15T05:01:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Sustainable Living",
+            "Oceans and Seas",
+            "Real Estate and Housing (Residential)",
+            "Longevity",
+            "Bitcoin (Currency)",
+            "Libertarianism (US Politics)"
+        ],
+        "org_facet": [
+            "Seasteading Institute"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/magazine/20mag-seasteading-03/20mag-seasteading-03-superJumbo-v5.jpg",
+                "format": "Super Jumbo",
+                "height": 1232,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rüdiger Koch in his undersea chamber off the coast of Panama.",
+                "copyright": "Alec Soth/Magnum, for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/magazine/20mag-seasteading-03/20mag-seasteading-03-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rüdiger Koch in his undersea chamber off the coast of Panama.",
+                "copyright": "Alec Soth/Magnum, for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/magazine/20mag-seasteading-03/20mag-seasteading-03-thumbLarge-v5.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rüdiger Koch in his undersea chamber off the coast of Panama.",
+                "copyright": "Alec Soth/Magnum, for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "A Scientist Is Paid to Study Maple Syrup. He’s Also Paid to Promote It.",
+        "abstract": "Funded by the maple industry, a researcher has exaggerated his findings to suggest that syrup could help prevent serious diseases.",
+        "url": "https://www.nytimes.com/2025/04/15/health/maple-syrup-health-claims.html",
+        "uri": "nyt://article/9dbedc42-46f9-5b67-b9c7-2284c8f6ff87",
+        "byline": "By Will Evans, Ellen Gabler and Anjali Tsui",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T05:00:31-04:00",
+        "created_date": "2025-04-15T05:00:31-04:00",
+        "published_date": "2025-04-15T05:00:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Maple Syrup and Sugar",
+            "Diet and Nutrition",
+            "Research",
+            "Ethics and Official Misconduct",
+            "Conflicts of Interest",
+            "Rumors and Misinformation"
+        ],
+        "org_facet": [
+            "Quebec Maple Syrup Producers",
+            "Agriculture Department",
+            "University of Rhode Island"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Quebec Province (Canada)",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/20/science/earth/pancakes/pancakes-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1620,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/20/science/earth/pancakes/pancakes-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/20/science/earth/pancakes/pancakes-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Harvey Weinstein, Facing New Charge, Returns to Court in New York",
+        "abstract": "The disgraced Hollywood producer will face a new trial for sex crimes in New York after a previous conviction was reversed last year.",
+        "url": "https://www.nytimes.com/2025/04/15/nyregion/harvey-weinstein-trial-new-york.html",
+        "uri": "nyt://article/dcafcf75-7745-59cf-a15d-ff685dd0eefe",
+        "byline": "By Hurubie Meko",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T03:00:05-04:00",
+        "created_date": "2025-04-15T03:00:05-04:00",
+        "published_date": "2025-04-15T03:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Decisions and Verdicts",
+            "Sex Crimes",
+            "Sexual Harassment",
+            "#MeToo Movement",
+            "Witnesses"
+        ],
+        "org_facet": [
+            "Rikers Island Prison Complex"
+        ],
+        "per_facet": [
+            "Haley, Miriam",
+            "Mann, Jessica (Actor)",
+            "Weinstein, Harvey",
+            "Vance, Cyrus R Jr",
+            "Bragg, Alvin"
+        ],
+        "geo_facet": [
+            "Manhattan (NYC)",
+            "New York City",
+            "California"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15met-weinstein-again-clpj/15met-weinstein-again-clpj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In his new trial, Harvey Weinstein faces an additional charge of sexually assaulting an unidentified woman in a Manhattan hotel in 2006.",
+                "copyright": "Jefferson Siegel for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15met-weinstein-again-clpj/15met-weinstein-again-clpj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In his new trial, Harvey Weinstein faces an additional charge of sexually assaulting an unidentified woman in a Manhattan hotel in 2006.",
+                "copyright": "Jefferson Siegel for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15met-weinstein-again-clpj/15met-weinstein-again-clpj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In his new trial, Harvey Weinstein faces an additional charge of sexually assaulting an unidentified woman in a Manhattan hotel in 2006.",
+                "copyright": "Jefferson Siegel for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "For Idyllic Village, Van Gogh’s Roots Pose a Knotty Problem",
+        "abstract": "It was recently determined that the artist painted his last work, “Tree Roots,” in Auvers-sur-Oise. The roots still exist, and that has ignited a nasty fight over their preservation.",
+        "url": "https://www.nytimes.com/2025/04/15/world/europe/van-gogh-tree-roots-france-auvers-sur-oise.html",
+        "uri": "nyt://article/e0ca7991-0263-53e0-85f1-1aed51fdd46b",
+        "byline": "By Ephrat Livni",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T06:03:57-04:00",
+        "created_date": "2025-04-15T05:01:59-04:00",
+        "published_date": "2025-04-15T05:01:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Art"
+        ],
+        "org_facet": [
+            "Van Gogh Museum"
+        ],
+        "per_facet": [
+            "van Gogh, Vincent"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-VanGogh-TreeRoots-01-tbzg/15int-VanGogh-TreeRoots-01-tbzg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1637,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Auvers-sur-Oise, long famous as an artist’s paradise, is embroiled in a dispute over “Tree Roots,” lately determined to be the final work of Vincent Van Gogh.",
+                "copyright": "Elliott Verdier for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-VanGogh-TreeRoots-01-tbzg/15int-VanGogh-TreeRoots-01-tbzg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Auvers-sur-Oise, long famous as an artist’s paradise, is embroiled in a dispute over “Tree Roots,” lately determined to be the final work of Vincent Van Gogh.",
+                "copyright": "Elliott Verdier for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-VanGogh-TreeRoots-01-tbzg/15int-VanGogh-TreeRoots-01-tbzg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Auvers-sur-Oise, long famous as an artist’s paradise, is embroiled in a dispute over “Tree Roots,” lately determined to be the final work of Vincent Van Gogh.",
+                "copyright": "Elliott Verdier for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "In Canada’s Fight With Trump, She’s Playing Good Cop",
+        "abstract": "Danielle Smith, the premier of the oil-rich province of Alberta, takes pride in her MAGA ties. As her country faces existential threats from President Trump, she thinks her party and her province stand to gain.",
+        "url": "https://www.nytimes.com/2025/04/14/world/canada/canada-danielle-smith-trump.html",
+        "uri": "nyt://article/3ced651e-e04c-5f0c-bb8f-829e7becd729",
+        "byline": "By Matina Stevis-Gridneff and Amber Bracken",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T22:46:53-04:00",
+        "created_date": "2025-04-14T05:00:42-04:00",
+        "published_date": "2025-04-14T05:00:42-04:00",
+        "material_type_facet": "",
+        "kicker": "profile",
+        "des_facet": [
+            "International Trade and World Market",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Conservative Party (Canada)"
+        ],
+        "per_facet": [
+            "Smith, Danielle (1971- )",
+            "Trump, Donald J",
+            "Poilievre, Pierre"
+        ],
+        "geo_facet": [
+            "Canada",
+            "United States",
+            "Alberta (Canada)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/xxint-canada-profile-smith-PROMO/xxint-canada-profile-smith-gzpb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alberta Premier Danielle Smith at a provincial government office building in Calgary, Alberta, in February.",
+                "copyright": "Amber Bracken for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/xxint-canada-profile-smith-PROMO/xxint-canada-profile-smith-gzpb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alberta Premier Danielle Smith at a provincial government office building in Calgary, Alberta, in February.",
+                "copyright": "Amber Bracken for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/xxint-canada-profile-smith-PROMO/xxint-canada-profile-smith-gzpb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alberta Premier Danielle Smith at a provincial government office building in Calgary, Alberta, in February.",
+                "copyright": "Amber Bracken for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A Crisis at a British Steel Mill Has Cast a Shadow Over U.K.-China Relations",
+        "abstract": "Britain was edging closer to China, but a dispute at a Chinese-owned steel company in the U.K. may prompt a rethink.",
+        "url": "https://www.nytimes.com/2025/04/15/world/europe/uk-china-steel-scunthorpe.html",
+        "uri": "nyt://article/2de9dd0e-7700-5c09-a378-186748966fde",
+        "byline": "By Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T05:54:15-04:00",
+        "created_date": "2025-04-15T00:01:05-04:00",
+        "published_date": "2025-04-15T00:01:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Steel and Iron",
+            "International Relations",
+            "Protectionism (Trade)",
+            "Economic Conditions and Trends"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Xi Jinping",
+            "Starmer, Keir"
+        ],
+        "geo_facet": [
+            "China",
+            "Great Britain",
+            "Hong Kong"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-uk-steel-china-pqvj/15int-uk-steel-china-pqvj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1382,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A view of the blast furnaces in Scunthorpe, Lincolnshire, on Monday. They are the last working blast furnaces in Britain, producing crude steel which is vital for major construction projects.",
+                "copyright": "Dominic Lipinski/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-uk-steel-china-pqvj/15int-uk-steel-china-pqvj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A view of the blast furnaces in Scunthorpe, Lincolnshire, on Monday. They are the last working blast furnaces in Britain, producing crude steel which is vital for major construction projects.",
+                "copyright": "Dominic Lipinski/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-uk-steel-china-pqvj/15int-uk-steel-china-pqvj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A view of the blast furnaces in Scunthorpe, Lincolnshire, on Monday. They are the last working blast furnaces in Britain, producing crude steel which is vital for major construction projects.",
+                "copyright": "Dominic Lipinski/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
