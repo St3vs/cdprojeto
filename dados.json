@@ -51296,5 +51296,326 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "In Showdowns With the Courts, Trump Is Increasingly Combative",
+        "abstract": "Scholars say that the Trump administration is now flirting with lawless defiance of court orders, a path with an uncertain end.",
+        "url": "https://www.nytimes.com/2025/04/15/us/politics/trump-defy-courts.html",
+        "uri": "nyt://article/adffea9b-991e-57ef-9ad0-97c5cfcd509c",
+        "byline": "By Adam Liptak",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T12:45:44-04:00",
+        "created_date": "2025-04-15T12:06:37-04:00",
+        "published_date": "2025-04-15T12:06:37-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States Politics and Government",
+            "Decisions and Verdicts",
+            "Courts and the Judiciary",
+            "Federal Courts (US)",
+            "Presidential Power (US)",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [
+            "Associated Press",
+            "Justice Department",
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Bukele, Nayib",
+            "Trump, Donald J",
+            "Xinis, Paula"
+        ],
+        "geo_facet": [
+            "El Salvador",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15dc-courts-01-phtb/15dc-courts-01-phtb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration has responded contentiously to orders from the Supreme Court and lower courts alike.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15dc-courts-01-phtb/15dc-courts-01-phtb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration has responded contentiously to orders from the Supreme Court and lower courts alike.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15dc-courts-01-phtb/15dc-courts-01-phtb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration has responded contentiously to orders from the Supreme Court and lower courts alike.",
+                "copyright": "Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "JD Vance Sees ‘Good Chance’ of Trade Deal With Britain",
+        "abstract": "The vice president did not offer details, but his comments may offer British leaders some comfort after the Trump administration imposed tariffs.",
+        "url": "https://www.nytimes.com/2025/04/15/us/politics/trump-tariffs-uk-jd-vance-trade-deal.html",
+        "uri": "nyt://article/cdfa1f4a-bd16-5cd7-a92f-3292a5de9ff6",
+        "byline": "By Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T08:00:52-04:00",
+        "created_date": "2025-04-15T06:45:22-04:00",
+        "published_date": "2025-04-15T06:45:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Great Britain Withdrawal from EU (Brexit)",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Vance, J D"
+        ],
+        "geo_facet": [
+            "Great Britain",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15trump-news-uk-vance-2-zvwt/15trump-news-uk-vance-2-zvwt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1457,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vice President JD Vance, right, speaks during a meeting in the Oval Office with President Trump and Prime Minister Keir Starmer of Britain in February.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15trump-news-uk-vance-2-zvwt/15trump-news-uk-vance-2-zvwt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vice President JD Vance, right, speaks during a meeting in the Oval Office with President Trump and Prime Minister Keir Starmer of Britain in February.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15trump-news-uk-vance-2-zvwt/15trump-news-uk-vance-2-zvwt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vice President JD Vance, right, speaks during a meeting in the Oval Office with President Trump and Prime Minister Keir Starmer of Britain in February.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "‘We Don’t Have a Day or Night of Calm’",
+        "abstract": "People in the Ukrainian city struck on Palm Sunday have little hope of a cease-fire.",
+        "url": "https://www.nytimes.com/2025/04/15/world/europe/ukraine-sumy-palm-sunday-russia-war.html",
+        "uri": "nyt://article/128d7bfe-4ca7-5b46-a314-0aca1d98b973",
+        "byline": "By Andrew E. Kramer, Maria Varenikova and Tyler Hicks",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T12:52:41-04:00",
+        "created_date": "2025-04-15T12:05:11-04:00",
+        "published_date": "2025-04-15T12:05:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Strikes"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Zelensky, Volodymyr",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Sumy (Ukraine)",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-ukraine-sumy-02-wgkm-promo/15int-ukraine-sumy-02-wgkm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-ukraine-sumy-02-wgkm-promo/15int-ukraine-sumy-02-wgkm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-ukraine-sumy-02-wgkm-promo/15int-ukraine-sumy-02-wgkm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tyler Hicks/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Santa Lives in Rovaniemi, Finland. Some of His Neighbors Are Not Thrilled.",
+        "abstract": "A tourist season that stretches from October to March has been anything but jolly for some residents of the “Official Hometown of Santa Claus.”",
+        "url": "https://www.nytimes.com/2025/04/15/world/asia/santa-finland-rovaniemi.html",
+        "uri": "nyt://article/9d1c514c-d00f-54c2-83fd-a01f8b302145",
+        "byline": "By Jeffrey Gettleman and Jim Huylebroek",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T12:17:04-04:00",
+        "created_date": "2025-04-15T11:00:18-04:00",
+        "published_date": "2025-04-15T11:00:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Travel and Vacations",
+            "Reindeer",
+            "Christmas",
+            "Aurora Borealis",
+            "Advertising and Marketing",
+            "Real Estate and Housing (Residential)",
+            "Hotels and Travel Lodgings",
+            "Santa Claus"
+        ],
+        "org_facet": [
+            "Airbnb"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Rovaniemi (Finland)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00finland-santa-01-wkvt-promo/00finland-santa-01-wkvt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jim Huylebroek for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00finland-santa-01-wkvt-promo/00finland-santa-01-wkvt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jim Huylebroek for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00finland-santa-01-wkvt-promo/00finland-santa-01-wkvt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jim Huylebroek for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Senators Investigate Private Equity Role in Soaring Fire-Truck Costs",
+        "abstract": "Fire departments say prices for new engines have soared and orders are backlogged for years. Two senators are investigating whether investors who have disrupted the industry are the reason.",
+        "url": "https://www.nytimes.com/2025/04/15/us/private-equity-fire-trucks-congress-investigation.html",
+        "uri": "nyt://article/5bd7a9ff-f2b7-570c-90c1-b549dffdac46",
+        "byline": "By Mike Baker",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T12:53:30-04:00",
+        "created_date": "2025-04-15T12:17:21-04:00",
+        "published_date": "2025-04-15T12:17:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Fires and Firefighters",
+            "Private Equity",
+            "Southern California Wildfires (Jan 2025)",
+            "Government Contracts and Procurement"
+        ],
+        "org_facet": [
+            "International Assn of Fire Fighters",
+            "Rev Group"
+        ],
+        "per_facet": [
+            "Warren, Elizabeth",
+            "Banks, Jim (1979- )"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15nat-firetrucks-investigation-1-tklp/15nat-firetrucks-investigation-1-tklp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1266,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Los Angeles Fire Department maintenance yard, packed with vehicles that are out of service.",
+                "copyright": "Fred Greaves/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15nat-firetrucks-investigation-1-tklp/15nat-firetrucks-investigation-1-tklp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Los Angeles Fire Department maintenance yard, packed with vehicles that are out of service.",
+                "copyright": "Fred Greaves/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15nat-firetrucks-investigation-1-tklp/15nat-firetrucks-investigation-1-tklp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Los Angeles Fire Department maintenance yard, packed with vehicles that are out of service.",
+                "copyright": "Fred Greaves/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
