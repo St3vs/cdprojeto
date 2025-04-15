@@ -51065,5 +51065,96 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Stocks Edge Higher as Investors Assess Tariff Scenarios",
+        "abstract": "The Trump administration’s chaotic tariff rollout continues to spur volatility in the markets.",
+        "url": "https://www.nytimes.com/2025/04/15/business/stocks-bonds-dollar-markets-tariffs.html",
+        "uri": "nyt://article/f6cfff49-44aa-5094-9a41-4bc633493969",
+        "byline": "By Danielle Kaye",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T09:43:19-04:00",
+        "created_date": "2025-04-15T09:43:19-04:00",
+        "published_date": "2025-04-15T09:43:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "Stocks and Bonds",
+            "Standard & Poor's 500-Stock Index",
+            "International Trade and World Market",
+            "Drugs (Pharmaceuticals)",
+            "Airlines and Airplanes",
+            "Banking and Financial Institutions"
+        ],
+        "org_facet": [
+            "Bank of America Corporation",
+            "Boeing Company",
+            "Citigroup Inc"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": null,
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Sandstorm Turns Iraq’s Skies Orange and Sends Thousands to Hospitals",
+        "abstract": "Climate experts say such storms are becoming more frequent and severe in the country. This was its worst of the year so far.",
+        "url": "https://www.nytimes.com/2025/04/15/world/middleeast/iraq-sandstorm.html",
+        "uri": "nyt://article/389ba3f2-b176-5cf5-a742-71392dcf838c",
+        "byline": "By Alissa J. Rubin and Falih Hassan",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T09:47:49-04:00",
+        "created_date": "2025-04-15T09:26:49-04:00",
+        "published_date": "2025-04-15T09:26:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Dust and Sand Storms",
+            "Respiratory Diseases",
+            "Global Warming"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Iraq"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-iraq-sandstorm-02-qmkw/15int-iraq-sandstorm-02-qmkw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Qassem Al-Kaabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-iraq-sandstorm-02-qmkw/15int-iraq-sandstorm-02-qmkw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Qassem Al-Kaabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-iraq-sandstorm-02-qmkw/15int-iraq-sandstorm-02-qmkw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Qassem Al-Kaabi/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
