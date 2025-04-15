@@ -51232,5 +51232,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "personaltech",
+        "title": "Why a Tariff-Inflated $2,000 iPhone Is Nothing to Fear",
+        "abstract": "Even if gadget prices surge, we have plenty of cheaper options, like buying last year’s phone model instead of the latest and greatest.",
+        "url": "https://www.nytimes.com/2025/04/15/technology/personaltech/trump-tariffs-iphone-cost.html",
+        "uri": "nyt://article/6be1e6e2-33df-503e-a319-caf971f2efa6",
+        "byline": "By Brian X. Chen",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T11:47:36-04:00",
+        "created_date": "2025-04-15T11:14:39-04:00",
+        "published_date": "2025-04-15T11:14:39-04:00",
+        "material_type_facet": "",
+        "kicker": "Tech Fix",
+        "des_facet": [
+            "Computers and the Internet",
+            "Prices (Fares, Fees and Rates)",
+            "Smartphones",
+            "iPhone",
+            "Customs (Tariff)",
+            "Consumer Behavior",
+            "Content Type: Service"
+        ],
+        "org_facet": [
+            "Apple Inc"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/business/00techfix/00techfix-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1434,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Sisi Yu"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/business/00techfix/00techfix-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Sisi Yu"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/business/00techfix/00techfix-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Sisi Yu"
+            }
+        ],
+        "short_url": ""
     }
 ]
