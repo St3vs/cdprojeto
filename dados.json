@@ -50069,5 +50069,108 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "El Salvador’s Leader Says He Won’t Return Wrongly Deported Maryland Man",
+        "abstract": "An Oval Office meeting between President Trump and President Nayib Bukele of El Salvador was a blunt example of Mr. Trump’s defiance of the federal courts.",
+        "url": "https://www.nytimes.com/2025/04/14/us/politics/trump-bukele-prison-deported-migrants.html",
+        "uri": "nyt://article/38a6aa7f-b848-512e-8bbd-fc735becc53c",
+        "byline": "By Zolan Kanno-Youngs",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T22:34:42-04:00",
+        "created_date": "2025-04-14T05:02:10-04:00",
+        "published_date": "2025-04-14T05:02:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Presidential Power (US)",
+            "United States International Relations",
+            "Deportation",
+            "Organized Crime"
+        ],
+        "org_facet": [
+            "Justice Department",
+            "Mara Salvatrucha (MS-13)",
+            "Tren de Aragua (Gang)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Bukele, Nayib",
+            "Abrego Garcia, Kilmar Armando",
+            "Rubio, Marco"
+        ],
+        "geo_facet": [
+            "El Salvador"
+        ],
+        "multimedia": null,
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Vance Drops Ohio State’s Championship Trophy During White House Celebration",
+        "abstract": "The vice president, a former senator from Ohio who graduated from Ohio State, joked about the mishap on social media.",
+        "url": "https://www.nytimes.com/2025/04/14/us/politics/jd-vance-ohio-state-football-trophy.html",
+        "uri": "nyt://article/d833d489-31ea-525b-857f-859471f26542",
+        "byline": "By Alexandra E. Petri",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T00:29:16-04:00",
+        "created_date": "2025-04-14T20:43:52-04:00",
+        "published_date": "2025-04-14T20:43:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "College Football Playoff National Championship"
+        ],
+        "org_facet": [
+            "Ohio State University",
+            "Real Madrid (Soccer Team)"
+        ],
+        "per_facet": [
+            "Vance, J D",
+            "Verstappen, Max (1997- )",
+            "Norris, Lando (1999- )",
+            "Sharapova, Maria"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14trump-news-vance-trophypromo/14trump-news-vance-trophy-mqzj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14trump-news-vance-trophypromo/14trump-news-vance-trophy-mqzj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14trump-news-vance-trophypromo/14trump-news-vance-trophypromo-thumbLarge-v3.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
