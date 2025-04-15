@@ -52248,5 +52248,406 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Threatens Harvard’s Tax Status in Billion-Dollar Pressure Campaign",
+        "abstract": "Harvard has rejected an effort by the White House to exert more control over its programs and policies.",
+        "url": "https://www.nytimes.com/2025/04/15/us/politics/trump-harvard-tax-status.html",
+        "uri": "nyt://article/63074167-ab23-56e8-b1af-e3e3e91b4c40",
+        "byline": "By Maggie Haberman",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T13:29:04-04:00",
+        "created_date": "2025-04-15T11:32:09-04:00",
+        "published_date": "2025-04-15T11:32:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Harvard University",
+            "Columbia University"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15dc-trump-education-zbtv/15dc-trump-education-zbtv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A dispute between Harvard University and President Trump has put billions of dollars in grants at stake.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15dc-trump-education-zbtv/15dc-trump-education-zbtv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A dispute between Harvard University and President Trump has put billions of dollars in grants at stake.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15dc-trump-education-zbtv/15dc-trump-education-zbtv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A dispute between Harvard University and President Trump has put billions of dollars in grants at stake.",
+                "copyright": "Sophie Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "How Trump Might Unwittingly Cut Emissions From Online Shopping",
+        "abstract": "Fast fashion retailers rely heavily on shipping by air. The president’s tariffs could change that.",
+        "url": "https://www.nytimes.com/2025/04/15/climate/trump-tariffs-online-shopping.html",
+        "uri": "nyt://article/4bd8267a-ed50-59a1-a112-076cf00b2acc",
+        "byline": "By Claire Brown",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T15:02:45-04:00",
+        "created_date": "2025-04-15T15:02:45-04:00",
+        "published_date": "2025-04-15T15:02:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "E-Commerce",
+            "Fashion and Apparel",
+            "Shopping and Retail",
+            "International Trade and World Market",
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Customs (Tariff)",
+            "Freight (Cargo)",
+            "Prices (Fares, Fees and Rates)",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Shein (Fashion Label)",
+            "Temu (Website)",
+            "Amazon.com Inc",
+            "Walmart Stores Inc"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Biden, Joseph R Jr"
+        ],
+        "geo_facet": [
+            "China",
+            "Hong Kong",
+            "United States",
+            "Antarctic Regions",
+            "Ushuaia (Argentina)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/02/14/multimedia/15cli-newsletter-fast-fashion/14china-trade-06-jzfq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Shein packages ready to be shipped from a factory in Guangzhou, China, in February.",
+                "copyright": "Gilles Sabrié for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/14/multimedia/15cli-newsletter-fast-fashion/15cli-newsletter-fast-fashion-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Shein packages ready to be shipped from a factory in Guangzhou, China, in February.",
+                "copyright": "Gilles Sabrié for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/14/multimedia/15cli-newsletter-fast-fashion/15cli-newsletter-fast-fashion-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Shein packages ready to be shipped from a factory in Guangzhou, China, in February.",
+                "copyright": "Gilles Sabrié for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "As the Border Wars Recede, a Park on the Rio Grande Reopens to the Public",
+        "abstract": "Shelby Park in Eagle Pass, Texas, was a backdrop for immigration fights during the Biden administration, but as the battle has moved inland some of the state’s troops have decamped.",
+        "url": "https://www.nytimes.com/2025/04/15/us/eagle-pass-texas-shelby-park-immigration.html",
+        "uri": "nyt://article/c9696f26-d9c3-530b-9e5a-28cfd894a40a",
+        "byline": "By Edgar Sandoval",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T15:55:49-04:00",
+        "created_date": "2025-04-15T15:28:12-04:00",
+        "published_date": "2025-04-15T15:28:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Immigration and Emigration",
+            "Illegal Immigration"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Abbott, Gregory W (1957- )",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Eagle Pass (Tex)",
+            "Texas"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15nat-shelby-border-top-2-zwmk/15nat-shelby-border-top-2-zwmk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gov. Greg Abbott of Texas directed National Guard troops to take over Shelby Park in Eagle Pass, Texas, in 2024. It reopened to the public this week.",
+                "copyright": "Danielle Villasana for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15nat-shelby-border-top-2-zwmk/15nat-shelby-border-top-2-zwmk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gov. Greg Abbott of Texas directed National Guard troops to take over Shelby Park in Eagle Pass, Texas, in 2024. It reopened to the public this week.",
+                "copyright": "Danielle Villasana for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15nat-shelby-border-top-2-zwmk/15nat-shelby-border-top-2-zwmk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gov. Greg Abbott of Texas directed National Guard troops to take over Shelby Park in Eagle Pass, Texas, in 2024. It reopened to the public this week.",
+                "copyright": "Danielle Villasana for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Autopsies of Gaza Medics Killed by Israeli Troops Show Some Were Shot in the Head",
+        "abstract": "The New York Times obtained autopsy reports for 14 of the 15 people killed in a March 23 attack on an ambulance and fire truck.",
+        "url": "https://www.nytimes.com/2025/04/15/world/middleeast/gaza-medics-autopsies-israel.html",
+        "uri": "nyt://article/8c7b3301-59c7-5ba2-aa32-88ca64e6c520",
+        "byline": "By Vivian Yee, Bilal Shbair and Christoph Koettl",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T15:25:59-04:00",
+        "created_date": "2025-04-15T15:01:05-04:00",
+        "published_date": "2025-04-15T15:01:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Fatalities)",
+            "Autopsies",
+            "Israel-Gaza War (2023- )",
+            "Fires and Firefighters",
+            "Ambulances",
+            "Forensic Science",
+            "Civilian Casualties",
+            "Defense and Military Forces",
+            "International Relations"
+        ],
+        "org_facet": [
+            "Hamas",
+            "Palestinian Islamic Jihad",
+            "United Nations",
+            "International Federation of Red Cross and Red Crescent Societies"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-gaza-autopsies-kzlq/15int-gaza-autopsies-kzlq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Palestine Red Crescent and other emergency services carrying the bodies of fellow rescuers killed by Israeli forces in March.",
+                "copyright": "Eyad Baba/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-gaza-autopsies-kzlq/15int-gaza-autopsies-kzlq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Palestine Red Crescent and other emergency services carrying the bodies of fellow rescuers killed by Israeli forces in March.",
+                "copyright": "Eyad Baba/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-gaza-autopsies-kzlq/15int-gaza-autopsies-kzlq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Palestine Red Crescent and other emergency services carrying the bodies of fellow rescuers killed by Israeli forces in March.",
+                "copyright": "Eyad Baba/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Adams Is Letting ICE Into Rikers. The City Council Is Suing to Stop Him.",
+        "abstract": "A lawsuit argues that an executive order that City Hall issued last week is “part of a corrupt quid pro quo bargain” between Mayor Eric Adams of New York and President Trump.",
+        "url": "https://www.nytimes.com/2025/04/15/nyregion/rikers-ice-new-york-city-council-lawsuit-adams.html",
+        "uri": "nyt://article/b1b392d8-d62c-57ba-a921-d6a9933ab743",
+        "byline": "By Luis Ferré-Sadurní",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T15:26:41-04:00",
+        "created_date": "2025-04-15T15:05:01-04:00",
+        "published_date": "2025-04-15T15:05:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Executive Orders and Memorandums",
+            "Mayors",
+            "City Councils",
+            "Immigration Detention",
+            "Eric Adams Federal Corruption Case (24 CR 556)",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [
+            "City Council (NYC)",
+            "Democratic Party",
+            "Immigration and Customs Enforcement (US)",
+            "Rikers Island Prison Complex"
+        ],
+        "per_facet": [
+            "Adams, Eric L",
+            "Homan, Thomas D",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/met-council-sue-wjfh/met-council-sue-wjfh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eric Adams, mayor of New York City, is allowing federal immigration agents to re-establish a presence at Rikers Island after being banned from the jail complex in 2014.",
+                "copyright": "Caitlin Ochs for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/met-council-sue-wjfh/met-council-sue-wjfh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eric Adams, mayor of New York City, is allowing federal immigration agents to re-establish a presence at Rikers Island after being banned from the jail complex in 2014.",
+                "copyright": "Caitlin Ochs for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/met-council-sue-wjfh/met-council-sue-wjfh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eric Adams, mayor of New York City, is allowing federal immigration agents to re-establish a presence at Rikers Island after being banned from the jail complex in 2014.",
+                "copyright": "Caitlin Ochs for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "media",
+        "title": "Palin Libel Retrial Against The New York Times Begins",
+        "abstract": "In opening statements, lawyers for Sarah Palin and The Times each presented arguments on whether the editorial board had published a statement knowing it was false.",
+        "url": "https://www.nytimes.com/2025/04/15/business/media/sarah-palin-new-york-times-trial.html",
+        "uri": "nyt://article/2ffcad7f-8e7e-5ba6-86ba-9d00afba1d90",
+        "byline": "By Katie Robertson",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T15:43:09-04:00",
+        "created_date": "2025-04-15T15:23:53-04:00",
+        "published_date": "2025-04-15T15:23:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Libel and Slander",
+            "Newspapers",
+            "Mass Shootings"
+        ],
+        "org_facet": [
+            "New York Times"
+        ],
+        "per_facet": [
+            "Palin, Sarah",
+            "Rakoff, Jed S",
+            "Bennet, James"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15BIZ-PALIN-1-vhmt/15BIZ-PALIN-1-vhmt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sarah Palin, the former Alaska governor and onetime Republican vice-presidential nominee, filed a lawsuit against The New York Times in 2017.",
+                "copyright": "Andres Kudacki for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15BIZ-PALIN-1-vhmt/15BIZ-PALIN-1-vhmt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sarah Palin, the former Alaska governor and onetime Republican vice-presidential nominee, filed a lawsuit against The New York Times in 2017.",
+                "copyright": "Andres Kudacki for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15BIZ-PALIN-1-vhmt/15BIZ-PALIN-1-vhmt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sarah Palin, the former Alaska governor and onetime Republican vice-presidential nominee, filed a lawsuit against The New York Times in 2017.",
+                "copyright": "Andres Kudacki for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
