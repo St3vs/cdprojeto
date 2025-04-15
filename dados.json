@@ -50172,5 +50172,71 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Tom Friedman Thinks We’re Getting China Dangerously Wrong",
+        "abstract": "The Times Opinion columnist discusses what he thinks Trump — and American policymakers — misunderstand about China in the escalating trade war.",
+        "url": "https://www.nytimes.com/2025/04/15/opinion/ezra-klein-podcast-thomas-friedman.html",
+        "uri": "nyt://article/3590efa1-2011-5135-8060-b2f2db786180",
+        "byline": "By Ezra Klein",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T05:04:08-04:00",
+        "created_date": "2025-04-15T05:04:08-04:00",
+        "published_date": "2025-04-15T05:04:08-04:00",
+        "material_type_facet": "",
+        "kicker": "The Ezra Klein Show",
+        "des_facet": [
+            "audio-neutral-informative",
+            "United States Politics and Government",
+            "United States International Relations",
+            "International Trade and World Market",
+            "Politics and Government",
+            "Supply Chain"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Friedman, Thomas L",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "United States",
+            "China",
+            "Washington (DC)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/opinion/15eks-friedman/15eks-friedman-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/opinion/15eks-friedman/15eks-friedman-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/opinion/15eks-friedman/15eks-friedman-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
