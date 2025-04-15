@@ -51617,5 +51617,319 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "More Than 20,000 I.R.S. Employees Offer to Resign",
+        "abstract": "The I.R.S. had about 100,000 employees before President Trump took office. Between resignations and layoffs, the I.R.S. is on track to lose about a third of its staff this year.",
+        "url": "https://www.nytimes.com/2025/04/15/us/politics/irs-resignations-trump.html",
+        "uri": "nyt://article/bac94f80-d5dd-5bb1-8455-6b4ee445a085",
+        "byline": "By Andrew Duehren and Eileen Sullivan",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T13:25:09-04:00",
+        "created_date": "2025-04-15T13:25:09-04:00",
+        "published_date": "2025-04-15T13:25:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Government Employees",
+            "Layoffs and Job Reductions",
+            "Taxation"
+        ],
+        "org_facet": [
+            "Internal Revenue Service",
+            "Treasury Department"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/04/multimedia/15trump-news-irs-resignations1/04trump-news-irs-hbkz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Internal Revenue Service in Washington.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/04/multimedia/15trump-news-irs-resignations1/04trump-news-irs-hbkz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Internal Revenue Service in Washington.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/04/multimedia/15trump-news-irs-resignations1/04trump-news-irs-hbkz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Internal Revenue Service in Washington.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Columbia Vows to Reject Any Trump Deal That Erodes Its Independence",
+        "abstract": "A message from the university’s acting president said that talks with the Trump administration were continuing as the White House is seeking to place the school under judicial oversight.",
+        "url": "https://www.nytimes.com/2025/04/15/nyregion/columbia-trump-president-response.html",
+        "uri": "nyt://article/d4b9c376-aac1-591a-910b-e136d3572d2b",
+        "byline": "By Troy Closson",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T14:03:46-04:00",
+        "created_date": "2025-04-15T13:47:57-04:00",
+        "published_date": "2025-04-15T13:47:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Colleges and Universities",
+            "Foreign Students (in US)",
+            "Government Contracts and Procurement",
+            "Federal Aid (US)"
+        ],
+        "org_facet": [
+            "Columbia University",
+            "Harvard University"
+        ],
+        "per_facet": [
+            "Armstrong, Katrina A",
+            "Shipman, Claire",
+            "Garber, Alan M"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/28/multimedia/15met-columbia-shipman-top/28met-columbia-fpmb-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Claire Shipman, Columbia’s acting president, issued a statement late Monday, hours after the president of Harvard offered a defiant response to demands from the Trump administration.",
+                "copyright": "Amanda Andrade-Rhoades for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/28/multimedia/15met-columbia-shipman-top/28met-columbia-fpmb-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Claire Shipman, Columbia’s acting president, issued a statement late Monday, hours after the president of Harvard offered a defiant response to demands from the Trump administration.",
+                "copyright": "Amanda Andrade-Rhoades for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/28/multimedia/15met-columbia-shipman-top/28met-columbia-fpmb-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Claire Shipman, Columbia’s acting president, issued a statement late Monday, hours after the president of Harvard offered a defiant response to demands from the Trump administration.",
+                "copyright": "Amanda Andrade-Rhoades for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "The U.S. Wants to Break Up Google and Meta. That Could Be Hard.",
+        "abstract": "For the first time since the late 1990s Microsoft case, federal trials are weighing antitrust breakups, a tactic that harks back to Standard Oil.",
+        "url": "https://www.nytimes.com/2025/04/15/business/antitrust-structure-deals-challenge.html",
+        "uri": "nyt://article/85d877c1-7376-5a9b-9ea6-2c88678df94f",
+        "byline": "By Steve Lohr",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T13:40:11-04:00",
+        "created_date": "2025-04-15T12:54:23-04:00",
+        "published_date": "2025-04-15T12:54:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Computers and the Internet",
+            "Antitrust Laws and Competition Issues",
+            "Decisions and Verdicts",
+            "Search Engines",
+            "Social Media",
+            "Mergers, Acquisitions and Divestitures",
+            "Prices (Fares, Fees and Rates)"
+        ],
+        "org_facet": [
+            "Federal Trade Commission",
+            "Meta Platforms Inc",
+            "Google Inc"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/business/00antitrust-structure/00antitrust-structure-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1508,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ricardo Tomás"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/business/00antitrust-structure/00antitrust-structure-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ricardo Tomás"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/business/00antitrust-structure/00antitrust-structure-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ricardo Tomás"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "At Trial, Zuckerberg Dodges Questions on Why He Bought Instagram and WhatsApp",
+        "abstract": "The Meta chief executive, testifying in a landmark antitrust trial, denied he was trying to snuff out competitors.",
+        "url": "https://www.nytimes.com/2025/04/15/technology/meta-antitrust-trial-mark-zuckerberg.html",
+        "uri": "nyt://article/2a697ec6-6450-5707-ae09-5cca49dacf3c",
+        "byline": "By Cecilia Kang, Mike Isaac and David McCabe",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T13:42:06-04:00",
+        "created_date": "2025-04-15T13:17:47-04:00",
+        "published_date": "2025-04-15T13:17:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Mergers, Acquisitions and Divestitures",
+            "Social Media",
+            "Antitrust Laws and Competition Issues",
+            "Mobile Applications",
+            "Instant Messaging",
+            "Computers and the Internet"
+        ],
+        "org_facet": [
+            "Federal Trade Commission",
+            "Instagram Inc",
+            "Meta Platforms Inc",
+            "WhatsApp Inc",
+            "Facebook Inc"
+        ],
+        "per_facet": [
+            "Zuckerberg, Mark E"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15META-ZUCKERBERG-1-jhqm/15META-ZUCKERBERG-1-jhqm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Zuckerberg, the chief executive of Meta, left, arrives for court in Washington on Tuesday.",
+                "copyright": "Tom Brenner for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15META-ZUCKERBERG-1-jhqm/15META-ZUCKERBERG-1-jhqm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Zuckerberg, the chief executive of Meta, left, arrives for court in Washington on Tuesday.",
+                "copyright": "Tom Brenner for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15META-ZUCKERBERG-1-jhqm/15META-ZUCKERBERG-1-jhqm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Zuckerberg, the chief executive of Meta, left, arrives for court in Washington on Tuesday.",
+                "copyright": "Tom Brenner for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Some Online Scam Victims Can Now Seek Tax Relief on Firmer Ground",
+        "abstract": "The Internal Revenue Service issued a memo last month that said victims of certain impersonation and investment schemes might be eligible for a tax break.",
+        "url": "https://www.nytimes.com/2025/04/15/business/scam-tax-deduction-irs.html",
+        "uri": "nyt://article/90287bac-2569-5027-b406-0c6f2b4a74a4",
+        "byline": "By Tara Siegel Bernard",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T13:13:00-04:00",
+        "created_date": "2025-04-15T13:13:00-04:00",
+        "published_date": "2025-04-15T13:13:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Personal Finances",
+            "Frauds and Swindling",
+            "Income Tax",
+            "Federal Taxes (US)"
+        ],
+        "org_facet": [
+            "Internal Revenue Service"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15Biz-Scam-Tax-Help-mfjw/15Biz-Scam-Tax-Help-mfjw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Internal Revenue Service office building in Washington, D.C.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15Biz-Scam-Tax-Help-mfjw/15Biz-Scam-Tax-Help-mfjw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Internal Revenue Service office building in Washington, D.C.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15Biz-Scam-Tax-Help-mfjw/15Biz-Scam-Tax-Help-mfjw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Internal Revenue Service office building in Washington, D.C.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
