@@ -50882,5 +50882,125 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Changing the Rules",
+        "abstract": "We cover a White House plan to slash regulations.",
+        "url": "https://www.nytimes.com/2025/04/15/briefing/trump-deregulation.html",
+        "uri": "nyt://article/53cd3a65-6052-5907-86bb-a79c868775dc",
+        "byline": "By Coral Davenport",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T06:56:26-04:00",
+        "created_date": "2025-04-15T06:56:26-04:00",
+        "published_date": "2025-04-15T06:56:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "internal-storyline-no",
+            "Regulation and Deregulation of Industry"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15themorning-nl-LEAD/15themorning-nl-LEAD-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1890,
+                "width": 1885,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15themorning-nl-LEAD/15themorning-nl-LEAD-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15themorning-nl-LEAD/15themorning-nl-LEAD-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "Late Night Weighs In on Trump’s Perfect Physical",
+        "abstract": "“The doctor said Trump’s BMI is 28,” Jimmy Kimmel said. “Right, and so is his next wife, by the way.”",
+        "url": "https://www.nytimes.com/2025/04/15/arts/television/late-night-trump-physical.html",
+        "uri": "nyt://article/5462f868-fa28-5b68-8170-23df23666184",
+        "byline": "By Trish Bendix",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T03:04:36-04:00",
+        "created_date": "2025-04-15T03:04:36-04:00",
+        "published_date": "2025-04-15T03:04:36-04:00",
+        "material_type_facet": "",
+        "kicker": "Best of Late Night",
+        "des_facet": [
+            "Television",
+            "The Daily Show with Trevor Noah (TV Program)",
+            "Jimmy Kimmel Live (TV Program)",
+            "Late Show with Stephen Colbert (TV Program)",
+            "Real Time With Bill Maher (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Stewart, Jon",
+            "Kimmel, Jimmy",
+            "Colbert, Stephen",
+            "Maher, Bill"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/arts/15latenight/15latenight-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1016,
+                "width": 1811,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jimmy Kimmel said he couldn’t believe the president weighed 224 pounds: “Maybe they just weighed Trump’s head.”",
+                "copyright": "ABC"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/arts/15latenight/15latenight-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jimmy Kimmel said he couldn’t believe the president weighed 224 pounds: “Maybe they just weighed Trump’s head.”",
+                "copyright": "ABC"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/arts/15latenight/15latenight-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jimmy Kimmel said he couldn’t believe the president weighed 224 pounds: “Maybe they just weighed Trump’s head.”",
+                "copyright": "ABC"
+            }
+        ],
+        "short_url": ""
     }
 ]
