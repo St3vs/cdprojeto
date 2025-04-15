@@ -52649,5 +52649,271 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "This Isn’t the First Time Trump Has Mistakenly Deported Someone",
+        "abstract": "President Trump says he is powerless to retrieve a man who was deported because of an administrative error. But he has done so before.",
+        "url": "https://www.nytimes.com/2025/04/15/us/politics/trump-deportation-maryland-man.html",
+        "uri": "nyt://article/14f866fd-bb66-5327-aa98-30820fb692d6",
+        "byline": "By Hamed Aleaziz",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T17:08:35-04:00",
+        "created_date": "2025-04-15T16:23:42-04:00",
+        "published_date": "2025-04-15T16:23:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Deportation"
+        ],
+        "org_facet": [
+            "Immigration and Customs Enforcement (US)",
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Bukele, Nayib",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Iraq",
+            "El Salvador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15DC-DEPORTATIONS-bpqm/15DC-DEPORTATIONS-bpqm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump’s first administration mistakenly deported a man to Iraq in 2018, and then got him back. ",
+                "copyright": "Gabriella Demczuk for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15DC-DEPORTATIONS-bpqm/15DC-DEPORTATIONS-bpqm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump’s first administration mistakenly deported a man to Iraq in 2018, and then got him back. ",
+                "copyright": "Gabriella Demczuk for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15DC-DEPORTATIONS-bpqm/15DC-DEPORTATIONS-bpqm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump’s first administration mistakenly deported a man to Iraq in 2018, and then got him back. ",
+                "copyright": "Gabriella Demczuk for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "U.S. Cites Mideast Peace Process to Justify Move to Deport Student",
+        "abstract": "Mohsen Mahdawi, who led Columbia protests, engaged in activities that could threaten attempts to end the war in Gaza, a memo from Secretary of State Marco Rubio said.",
+        "url": "https://www.nytimes.com/2025/04/15/nyregion/rubio-mahdawi-deportation-letter.html",
+        "uri": "nyt://article/c41c0f77-8f53-5a4c-82e9-b4bdd1d72860",
+        "byline": "By Hamed Aleaziz and Jonah E. Bromwich",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T16:56:06-04:00",
+        "created_date": "2025-04-15T16:13:49-04:00",
+        "published_date": "2025-04-15T16:13:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Pro-Palestinian Campus Protests (2023- )",
+            "Deportation",
+            "Foreign Students (in US)"
+        ],
+        "org_facet": [
+            "Columbia University",
+            "Homeland Security Department"
+        ],
+        "per_facet": [
+            "Khalil, Mahmoud (Activist)",
+            "Rubio, Marco",
+            "Mohsen Mahdawi"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15met-mahdawi-letter-fbgk/15met-mahdawi-letter-fbgk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mohsen Mahdawi’s lawyer said he had stepped back from campus activism at Columbia last year. ",
+                "copyright": "Bing Guan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15met-mahdawi-letter-fbgk/15met-mahdawi-letter-fbgk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mohsen Mahdawi’s lawyer said he had stepped back from campus activism at Columbia last year. ",
+                "copyright": "Bing Guan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15met-mahdawi-letter-fbgk/15met-mahdawi-letter-fbgk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mohsen Mahdawi’s lawyer said he had stepped back from campus activism at Columbia last year. ",
+                "copyright": "Bing Guan for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Richard L. Armitage, 79, Dies; State Department Official in a Turbulent Era",
+        "abstract": "While serving as Colin Powell’s deputy during the Iraq war, he found himself at the center of a scandal when he leaked a C.I.A. operative’s name.",
+        "url": "https://www.nytimes.com/2025/04/15/us/politics/richard-l-armitage-dead.html",
+        "uri": "nyt://article/3c785643-2810-5fc3-93f4-d31281ac05aa",
+        "byline": "By Trip Gabriel",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T16:32:12-04:00",
+        "created_date": "2025-04-15T16:12:55-04:00",
+        "published_date": "2025-04-15T16:12:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "United States Politics and Government",
+            "United States International Relations",
+            "Classified Information and State Secrets",
+            "Espionage and Intelligence Services"
+        ],
+        "org_facet": [
+            "Defense Department",
+            "Central Intelligence Agency"
+        ],
+        "per_facet": [
+            "Armitage, Richard L",
+            "Bush, George W",
+            "Powell, Colin L",
+            "Plame, Valerie",
+            "Wilson, Joseph C 4TH"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15Armitage1-ckjg/15Armitage1-ckjg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1528,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Richard L. Armitage, left, in Kabul, Afghanistan, in 2004. He was the No. 2 official at the State Department from 2001 to 2005.",
+                "copyright": "Ahmad Masood/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15Armitage1-ckjg/15Armitage1-ckjg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Richard L. Armitage, left, in Kabul, Afghanistan, in 2004. He was the No. 2 official at the State Department from 2001 to 2005.",
+                "copyright": "Ahmad Masood/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15Armitage1-ckjg/15Armitage1-ckjg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Richard L. Armitage, left, in Kabul, Afghanistan, in 2004. He was the No. 2 official at the State Department from 2001 to 2005.",
+                "copyright": "Ahmad Masood/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "How to Solve the Iran Problem",
+        "abstract": "An olive branch is easier to accept when it is offered from the tip of a sword.",
+        "url": "https://www.nytimes.com/2025/04/15/opinion/iran-trump-nuclear-deal.html",
+        "uri": "nyt://article/c607d789-f6ca-544b-ab9b-6cfa8cd52e85",
+        "byline": "By Bret Stephens",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T16:29:29-04:00",
+        "created_date": "2025-04-15T16:14:29-04:00",
+        "published_date": "2025-04-15T16:14:29-04:00",
+        "material_type_facet": "",
+        "kicker": "Bret Stephens",
+        "des_facet": [
+            "Embargoes and Sanctions",
+            "Terrorism",
+            "International Relations",
+            "United States International Relations",
+            "Nuclear Weapons",
+            "Arms Control and Limitation and Disarmament"
+        ],
+        "org_facet": [
+            "Hamas",
+            "Hezbollah"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Witkoff, Steven"
+        ],
+        "geo_facet": [
+            "United States",
+            "Iran"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/opinion/15stephens/15stephens-superJumbo-v3.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Majid Saeedi/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/opinion/15stephens/15stephens-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Majid Saeedi/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/opinion/15stephens/15stephens-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Majid Saeedi/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
