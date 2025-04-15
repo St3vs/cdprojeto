@@ -51156,5 +51156,81 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "Trump’s Tariff Threat for Imported Medicines Poses Political Risks",
+        "abstract": "Levies on Americans’ daily prescriptions and other medicines could raise costs, spur rationing and lead to shortages of critical drugs.",
+        "url": "https://www.nytimes.com/2025/04/15/health/trump-tariffs-drug-imports-china-india-ireland.html",
+        "uri": "nyt://article/cde4e037-1793-5209-b93a-868b6ac13efc",
+        "byline": "By Rebecca Robbins",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T10:53:53-04:00",
+        "created_date": "2025-04-15T10:33:12-04:00",
+        "published_date": "2025-04-15T10:33:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Shortages",
+            "United States Politics and Government",
+            "Prices (Fares, Fees and Rates)",
+            "Customs (Tariff)",
+            "Drugs (Pharmaceuticals)",
+            "Factories and Manufacturing",
+            "Generic Brands and Products",
+            "United States Economy",
+            "Corporate Taxes"
+        ],
+        "org_facet": [
+            "Commerce Department",
+            "Eli Lilly and Company",
+            "European Union",
+            "World Trade Organization"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Subramanyam, Suhas"
+        ],
+        "geo_facet": [
+            "China",
+            "Europe",
+            "India",
+            "Ireland"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/science/XXPHARMA-TARIFFS/XXPHARMA-TARIFFS-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Most medications consumed in the United States are produced at least partly overseas. China and India do most of the production of cheaper generic drugs, while expensive patented medications are more often made in Europe or the United States.",
+                "copyright": "Sergei Gapon/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/science/XXPHARMA-TARIFFS/XXPHARMA-TARIFFS-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Most medications consumed in the United States are produced at least partly overseas. China and India do most of the production of cheaper generic drugs, while expensive patented medications are more often made in Europe or the United States.",
+                "copyright": "Sergei Gapon/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/science/XXPHARMA-TARIFFS/XXPHARMA-TARIFFS-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Most medications consumed in the United States are produced at least partly overseas. China and India do most of the production of cheaper generic drugs, while expensive patented medications are more often made in Europe or the United States.",
+                "copyright": "Sergei Gapon/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
