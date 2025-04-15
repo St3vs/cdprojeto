@@ -52977,5 +52977,188 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "I Have Never Been More Afraid for My Country’s Future",
+        "abstract": "Trump’s worldview is stuck in the 1970s, and his whole administration is a cruel farce.",
+        "url": "https://www.nytimes.com/2025/04/15/opinion/trump-administration-china.html",
+        "uri": "nyt://article/96cd6eea-5e76-596a-bd93-5ca897723022",
+        "byline": "By Thomas L. Friedman",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T18:44:53-04:00",
+        "created_date": "2025-04-15T18:16:31-04:00",
+        "published_date": "2025-04-15T18:16:31-04:00",
+        "material_type_facet": "",
+        "kicker": "Thomas L. Friedman",
+        "des_facet": [
+            "United States Politics and Government",
+            "Mines and Mining",
+            "International Trade and World Market",
+            "United States Economy",
+            "Coal",
+            "Alternative and Renewable Energy",
+            "United States International Relations",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [
+            "European Union"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Bessent, Scott"
+        ],
+        "geo_facet": [
+            "China",
+            "Canada",
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/opinion/15friedman/15friedman-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1638,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Robert Gumpert/Redux"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/opinion/15friedman/15friedman-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Robert Gumpert/Redux"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/opinion/15friedman/15friedman-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Robert Gumpert/Redux"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Trump Turned Up the Pressure on Harvard",
+        "abstract": "Also, the I.R.S. is downsizing. Here’s the latest at the end of Tuesday.",
+        "url": "https://www.nytimes.com/2025/04/15/briefing/trump-harvard-tax-status-irs-resignations.html",
+        "uri": "nyt://article/bd0ef55b-4b5d-58c7-a895-e0fefdb07314",
+        "byline": "By Matthew Cullen",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T17:26:50-04:00",
+        "created_date": "2025-04-15T17:26:50-04:00",
+        "published_date": "2025-04-15T17:26:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15evening-har/15evening-har-superJumbo-v3.jpg",
+                "format": "Super Jumbo",
+                "height": 1479,
+                "width": 1479,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard University is 140 years older than the U.S.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15evening-har/15evening-har-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard University is 140 years older than the U.S.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15evening-har/15evening-har-thumbLarge-v3.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard University is 140 years older than the U.S.",
+                "copyright": "Sophie Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "Autism Rate Continues to Rise Among Children, C.D.C. Reports",
+        "abstract": "While the agency stressed that increased screening was most likely behind much of the increase, the health secretary, Robert F. Kennedy Jr., called it an “epidemic.”",
+        "url": "https://www.nytimes.com/2025/04/15/health/autism-children-cdc.html",
+        "uri": "nyt://article/02ed6136-ce6a-51da-9994-4be4c6b17180",
+        "byline": "By Azeen Ghorayshi",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T18:13:50-04:00",
+        "created_date": "2025-04-15T18:13:42-04:00",
+        "published_date": "2025-04-15T18:13:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Children and Childhood",
+            "Autism",
+            "Rumors and Misinformation"
+        ],
+        "org_facet": [
+            "Centers for Disease Control and Prevention",
+            "Health and Human Services Department"
+        ],
+        "per_facet": [
+            "Kennedy, Robert F Jr"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00autism-cdc-lqjg/00autism-cdc-lqjg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The rate was an increase from the 1 in 36 children with autism in 2020, and nearly five times as high as the prevalence in 2000, when the agency first began collecting data on autism in children.",
+                "copyright": "David Dee Delgado for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00autism-cdc-lqjg/00autism-cdc-lqjg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The rate was an increase from the 1 in 36 children with autism in 2020, and nearly five times as high as the prevalence in 2000, when the agency first began collecting data on autism in children.",
+                "copyright": "David Dee Delgado for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00autism-cdc-lqjg/00autism-cdc-lqjg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The rate was an increase from the 1 in 36 children with autism in 2020, and nearly five times as high as the prevalence in 2000, when the agency first began collecting data on autism in children.",
+                "copyright": "David Dee Delgado for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
