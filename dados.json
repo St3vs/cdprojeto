@@ -56902,5 +56902,500 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Trump Administration Directs Judges to Deny Asylum Without Hearings",
+        "abstract": "A directive from the Justice Department, which says the move is intended to reduce a backlog in immigration court, would result in rapid deportation orders in many cases.",
+        "url": "https://www.nytimes.com/2025/04/16/us/immigration-asylum-judges-policy.html",
+        "uri": "nyt://article/8d05bb31-cd03-50cc-a7df-c26bb89e20a6",
+        "byline": "By Miriam Jordan",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T15:26:43-04:00",
+        "created_date": "2025-04-16T15:26:43-04:00",
+        "published_date": "2025-04-16T15:26:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Asylum, Right of",
+            "Courts and the Judiciary",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [
+            "Executive Office for Immigration Review"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16nat-immig-asylum-2-hkgf/16nat-immig-asylum-2-hkgf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Immigration courts have been swamped with asylum claims in recent years, leading to long delays in resolving them. Immigrants lined up to enter a federal building in Manhattan in 2023.",
+                "copyright": "Victor J. Blue for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16nat-immig-asylum-2-hkgf/16nat-immig-asylum-2-hkgf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Immigration courts have been swamped with asylum claims in recent years, leading to long delays in resolving them. Immigrants lined up to enter a federal building in Manhattan in 2023.",
+                "copyright": "Victor J. Blue for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16nat-immig-asylum-2-hkgf/16nat-immig-asylum-2-hkgf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Immigration courts have been swamped with asylum claims in recent years, leading to long delays in resolving them. Immigrants lined up to enter a federal building in Manhattan in 2023.",
+                "copyright": "Victor J. Blue for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Kennedy Calls Autism ‘Preventable,’ Drawing Ire From Researchers",
+        "abstract": "The health secretary said he would prioritize studies into environmental causes while harshly discounting other factors scientists say are likely contributing to rising rates of the condition.",
+        "url": "https://www.nytimes.com/2025/04/16/us/politics/rfk-jr-autism.html",
+        "uri": "nyt://article/17ec2e24-8bda-5788-a3f3-27902f86e17d",
+        "byline": "By Karoun Demirjian, Dani Blum and Azeen Ghorayshi",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T15:55:19-04:00",
+        "created_date": "2025-04-16T15:45:05-04:00",
+        "published_date": "2025-04-16T15:45:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Autism",
+            "Research"
+        ],
+        "org_facet": [
+            "Health and Human Services Department",
+            "Centers for Disease Control and Prevention"
+        ],
+        "per_facet": [
+            "Kennedy, Robert F Jr"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16dc-rfk-jtzb/16dc-rfk-jtzb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Robert F. Kennedy Jr., the secretary of the Department of Health and Human Services, in Washington on Wednesday. ",
+                "copyright": "Pete Kiehart for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16dc-rfk-jtzb/16dc-rfk-jtzb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Robert F. Kennedy Jr., the secretary of the Department of Health and Human Services, in Washington on Wednesday. ",
+                "copyright": "Pete Kiehart for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16dc-rfk-jtzb/16dc-rfk-jtzb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Robert F. Kennedy Jr., the secretary of the Department of Health and Human Services, in Washington on Wednesday. ",
+                "copyright": "Pete Kiehart for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "Washington Takes Aim at DeepSeek and Its American Chip Supplier, Nvidia",
+        "abstract": "China’s success in artificial intelligence has the Trump administration and lawmakers weighing rules and investigations to slow Beijing’s progress in the industry.",
+        "url": "https://www.nytimes.com/2025/04/16/technology/nvidia-deepseek-china-ai-trump.html",
+        "uri": "nyt://article/a5ab2459-9ecd-51c9-b9ca-81f176dcfc91",
+        "byline": "By Tripp Mickle, Ana Swanson, Meaghan Tobin and Cade Metz",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T14:58:07-04:00",
+        "created_date": "2025-04-16T13:44:21-04:00",
+        "published_date": "2025-04-16T13:44:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Artificial Intelligence",
+            "Regulation and Deregulation of Industry",
+            "Computer Chips",
+            "Computers and the Internet"
+        ],
+        "org_facet": [
+            "DeepSeek Artificial Intelligence Co Ltd",
+            "Communist Party of China",
+            "NVIDIA Corporation",
+            "OpenAI Labs"
+        ],
+        "per_facet": [
+            "Lutnick, Howard W"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/business/00biz-deepseek-washington/00biz-deepseek-washington-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jeremy Leung"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/business/00biz-deepseek-washington/00biz-deepseek-washington-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jeremy Leung"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/business/00biz-deepseek-washington/00biz-deepseek-washington-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jeremy Leung"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "Nvidia Says U.S. Will Restrict Sales of More of Its A.I. Chips to China",
+        "abstract": "The restrictions are the first major limits the Trump administration has put on semiconductor sales outside the United States, toughening rules created by the Biden administration.",
+        "url": "https://www.nytimes.com/2025/04/15/technology/nvidia-h20-chip-china-restrictions.html",
+        "uri": "nyt://article/3211f7ea-caee-58dd-96e0-aed9af168c7a",
+        "byline": "By Tripp Mickle",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T21:37:25-04:00",
+        "created_date": "2025-04-15T19:53:37-04:00",
+        "published_date": "2025-04-15T19:53:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Artificial Intelligence",
+            "Regulation and Deregulation of Industry",
+            "Computer Chips"
+        ],
+        "org_facet": [
+            "Commerce Department",
+            "NVIDIA Corporation"
+        ],
+        "per_facet": [
+            "Huang, Jen-Hsun"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/biz-15nvidia-mpcv/biz-15nvidia-mpcv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "China has been a key but shrinking market for Nvidia. ",
+                "copyright": "Mike Kai Chen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/biz-15nvidia-mpcv/biz-15nvidia-mpcv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "China has been a key but shrinking market for Nvidia. ",
+                "copyright": "Mike Kai Chen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/biz-15nvidia-mpcv/biz-15nvidia-mpcv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "China has been a key but shrinking market for Nvidia. ",
+                "copyright": "Mike Kai Chen for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "The Mine Is American. The Minerals Are China’s.",
+        "abstract": "A Brazilian rare earths mine backed by American investors illustrates China’s grip over the strategic minerals that underpin the modern economy.",
+        "url": "https://www.nytimes.com/2025/04/16/world/americas/brazil-mine-rare-earths-china.html",
+        "uri": "nyt://article/95da6453-147d-554f-aff0-d57213b23199",
+        "byline": "By Jack Nicas",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T14:45:21-04:00",
+        "created_date": "2025-04-16T14:45:21-04:00",
+        "published_date": "2025-04-16T14:45:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Rare Earths",
+            "Mines and Mining",
+            "Metals and Minerals"
+        ],
+        "org_facet": [
+            "Neo Performance Materials Inc"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Brazil",
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/world/16brazil-china-metals/16brazil-china-metals-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photograph provided by the company shows the facilities of Serra Verde, a rare earths mine in Minaçu, Brazil, that is under contract to sell nearly all its product to China. ",
+                "copyright": "Serra Verde"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/world/16brazil-china-metals/16brazil-china-metals-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photograph provided by the company shows the facilities of Serra Verde, a rare earths mine in Minaçu, Brazil, that is under contract to sell nearly all its product to China. ",
+                "copyright": "Serra Verde"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/world/16brazil-china-metals/16brazil-china-metals-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photograph provided by the company shows the facilities of Serra Verde, a rare earths mine in Minaçu, Brazil, that is under contract to sell nearly all its product to China. ",
+                "copyright": "Serra Verde"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Sanders and Ocasio-Cortez Electrify Democrats Who Want to Fight Trump",
+        "abstract": "Bernie Sanders and his chosen heir, Alexandria Ocasio-Cortez, have drawn enormous crowds on their “Fighting Oligarchy” tour, energizing a beaten-down Democratic Party.",
+        "url": "https://www.nytimes.com/2025/04/16/us/politics/bernie-sanders-aoc-trump-democrats.html",
+        "uri": "nyt://article/55c5b2e2-72d6-554b-a72a-aa789e2d1d2b",
+        "byline": "By Kellen Browning",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T14:26:50-04:00",
+        "created_date": "2025-04-16T14:13:49-04:00",
+        "published_date": "2025-04-16T14:13:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Liberalism (US Politics)",
+            "Polls and Public Opinion",
+            "Presidential Election of 2028"
+        ],
+        "org_facet": [
+            "Democratic Party"
+        ],
+        "per_facet": [
+            "Sanders, Bernard",
+            "Ocasio-Cortez, Alexandria",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Sacramento (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16pol-sanders-dems-topart-fkmp/16pol-sanders-dems-topart-fkmp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Bernie Sanders of Vermont and Representative Alexandria Ocasio-Cortez of New York have held rallies across the West in recent weeks, pushing a message that President Trump and his billionaire allies like Elon Musk must be stopped.",
+                "copyright": "Andri Tambunan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16pol-sanders-dems-topart-fkmp/16pol-sanders-dems-topart-fkmp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Bernie Sanders of Vermont and Representative Alexandria Ocasio-Cortez of New York have held rallies across the West in recent weeks, pushing a message that President Trump and his billionaire allies like Elon Musk must be stopped.",
+                "copyright": "Andri Tambunan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16pol-sanders-dems-topart-fkmp/16pol-sanders-dems-topart-fkmp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Bernie Sanders of Vermont and Representative Alexandria Ocasio-Cortez of New York have held rallies across the West in recent weeks, pushing a message that President Trump and his billionaire allies like Elon Musk must be stopped.",
+                "copyright": "Andri Tambunan for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "‘Massive Blackout’ Leaves All of Puerto Rico Without Power",
+        "abstract": "It was not immediately clear why every generating plant on the island went offline Wednesday. Puerto Rico has a history of problems with its electricity supply.",
+        "url": "https://www.nytimes.com/2025/04/16/us/puerto-rico-power-blackout-electricity.html",
+        "uri": "nyt://article/9aa672e4-0aa9-5c5a-977f-85c368767629",
+        "byline": "By Patricia Mazzei",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T15:25:29-04:00",
+        "created_date": "2025-04-16T14:57:09-04:00",
+        "published_date": "2025-04-16T14:57:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Power Failures and Blackouts"
+        ],
+        "org_facet": [
+            "Genera PR LLC",
+            "LUMA Energy"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Puerto Rico"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16nat-pr-blackout-kpwz/16nat-pr-blackout-kpwz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A blackout in San Juan on New Year’s Eve. Puerto Rico was left in the dark on Wednesday afternoon after all of its power-generating plants suddenly went offline, officials said.",
+                "copyright": "Jesse Ilan Kornbluth for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16nat-pr-blackout-kpwz/16nat-pr-blackout-kpwz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A blackout in San Juan on New Year’s Eve. Puerto Rico was left in the dark on Wednesday afternoon after all of its power-generating plants suddenly went offline, officials said.",
+                "copyright": "Jesse Ilan Kornbluth for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16nat-pr-blackout-kpwz/16nat-pr-blackout-kpwz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A blackout in San Juan on New Year’s Eve. Puerto Rico was left in the dark on Wednesday afternoon after all of its power-generating plants suddenly went offline, officials said.",
+                "copyright": "Jesse Ilan Kornbluth for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russia Arrests Former Governor of Ukraine-Occupied Region",
+        "abstract": "Aleksei B. Smirnov, together with his deputy and other accomplices, was accused of embezzling money earmarked for building defenses that failed to prevent a Ukrainian attack in Kursk.",
+        "url": "https://www.nytimes.com/2025/04/16/world/europe/russia-kursk-arrest-former-governor.html",
+        "uri": "nyt://article/148ad795-3b5e-5dd5-8a26-37278947e2e2",
+        "byline": "By Ivan Nechepurenko",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T15:29:20-04:00",
+        "created_date": "2025-04-16T15:03:35-04:00",
+        "published_date": "2025-04-16T15:03:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Politics and Government",
+            "Corruption (Institutional)",
+            "Embezzlement"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Smirnov, Aleksei B (1973- )"
+        ],
+        "geo_facet": [
+            "Kursk (Russia)",
+            "Russia",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-russia-kursk-gtmj/16int-russia-kursk-gtmj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 851,
+                "width": 1280,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "This photo released by the Russian government showed Aleksei B. Smirnov in Kursk in 2024.",
+                "copyright": "Government Of Kursk Region"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-russia-kursk-gtmj/16int-russia-kursk-gtmj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "This photo released by the Russian government showed Aleksei B. Smirnov in Kursk in 2024.",
+                "copyright": "Government Of Kursk Region"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-russia-kursk-gtmj/16int-russia-kursk-gtmj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "This photo released by the Russian government showed Aleksei B. Smirnov in Kursk in 2024.",
+                "copyright": "Government Of Kursk Region"
+            }
+        ],
+        "short_url": ""
     }
 ]
