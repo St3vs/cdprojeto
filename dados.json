@@ -53963,5 +53963,126 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "Even Without Add-Ons, Trump’s 10% Tariffs Will Have a Sting",
+        "abstract": "The blanket tariffs, once considered extreme, still threaten to harm world trade and make everything more expensive for businesses and consumers.",
+        "url": "https://www.nytimes.com/2025/04/16/business/economy/trump-tariffs-global-economy.html",
+        "uri": "nyt://article/b18d52b0-71b6-5227-a07e-2dba37e02586",
+        "byline": "By Patricia Cohen",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T00:00:05-04:00",
+        "created_date": "2025-04-16T00:00:05-04:00",
+        "published_date": "2025-04-16T00:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "United States Economy",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/BIZ-UNIVERSAL-TARIFFS-cover-art-ghbt/BIZ-UNIVERSAL-TARIFFS-cover-art-ghbt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/BIZ-UNIVERSAL-TARIFFS-cover-art-ghbt/BIZ-UNIVERSAL-TARIFFS-cover-art-ghbt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/BIZ-UNIVERSAL-TARIFFS-cover-art-ghbt/BIZ-UNIVERSAL-TARIFFS-cover-art-ghbt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "2 U.S. Soldiers Killed in Vehicle Accident Near Mexico Border",
+        "abstract": "Another soldier was seriously wounded, the military said. The cause of the accident is under investigation.",
+        "url": "https://www.nytimes.com/2025/04/15/us/soldiers-dead-crash-mexico-border.html",
+        "uri": "nyt://article/83fa37f9-0e1d-5346-be0e-60681a48cff1",
+        "byline": "By Yan Zhuang and Eric Schmidt",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T23:42:50-04:00",
+        "created_date": "2025-04-15T23:42:50-04:00",
+        "published_date": "2025-04-15T23:42:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Traffic Accidents and Safety",
+            "Deaths (Fatalities)",
+            "Defense and Military Forces",
+            "Illegal Immigration"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "New Mexico",
+            "El Paso (Tex)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/15/multimedia/15xp-border-bjzl/15xp-border-bjzl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The U.S.-Mexico border in Santa Teresa, N.M., in January.",
+                "copyright": "Paul Ratje for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/15/multimedia/15xp-border-bjzl/15xp-border-bjzl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The U.S.-Mexico border in Santa Teresa, N.M., in January.",
+                "copyright": "Paul Ratje for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/15/multimedia/15xp-border-bjzl/15xp-border-bjzl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The U.S.-Mexico border in Santa Teresa, N.M., in January.",
+                "copyright": "Paul Ratje for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
