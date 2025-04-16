@@ -55498,5 +55498,197 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "California Is Preparing to Take Trump to Court to Stop His Tariffs",
+        "abstract": "State officials argue in a lawsuit that the U.S. Constitution expressly gives the authority to impose tariffs to Congress.",
+        "url": "https://www.nytimes.com/2025/04/16/us/california-trump-tariffs-lawsuit-newsom-bonta.html",
+        "uri": "nyt://article/5a4b6821-dd06-5aef-9100-af6f869d5ab6",
+        "byline": "By Shawn Hubler",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T08:14:19-04:00",
+        "created_date": "2025-04-16T07:06:14-04:00",
+        "published_date": "2025-04-16T07:06:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Federal-State Relations (US)",
+            "Suits and Litigation (Civil)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Bonta, Rob (1972- )",
+            "Newsom, Gavin",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "California"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16nat-tariffs-suit-zgtb/16nat-tariffs-suit-zgtb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "California’s governor, Gavin Newsom, above, and its attorney general, Rob Bonta, plan to sue President Trump on Wednesday.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16nat-tariffs-suit-zgtb/16nat-tariffs-suit-zgtb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "California’s governor, Gavin Newsom, above, and its attorney general, Rob Bonta, plan to sue President Trump on Wednesday.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16nat-tariffs-suit-zgtb/16nat-tariffs-suit-zgtb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "California’s governor, Gavin Newsom, above, and its attorney general, Rob Bonta, plan to sue President Trump on Wednesday.",
+                "copyright": "Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "El Salvador’s Hard-Line Leader Is Linchpin in Trump’s Deportation Plans",
+        "abstract": "Experts say President Nayib Bukele has the power but not the interest to return a man deported from Maryland to El Salvador in error.",
+        "url": "https://www.nytimes.com/2025/04/16/world/americas/el-salvador-bukele-abrego-garcia.html",
+        "uri": "nyt://article/66666afd-8210-58db-b802-f199779a7680",
+        "byline": "By Annie Correal",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T08:25:17-04:00",
+        "created_date": "2025-04-16T07:15:40-04:00",
+        "published_date": "2025-04-16T07:15:40-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "Prisons and Prisoners",
+            "Politics and Government",
+            "Deportation"
+        ],
+        "org_facet": [
+            "Supreme Court (US)",
+            "Mara Salvatrucha (MS-13)"
+        ],
+        "per_facet": [
+            "Bukele, Nayib",
+            "Abrego Garcia, Kilmar Armando",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "El Salvador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-bukele-powers-zlvt/15int-bukele-powers-zlvt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "During a meeting with President Trump at the White House on Monday, President Nayib Bukele of El Salvador said he would not return a Maryland man who had been deported. ",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-bukele-powers-zlvt/15int-bukele-powers-zlvt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "During a meeting with President Trump at the White House on Monday, President Nayib Bukele of El Salvador said he would not return a Maryland man who had been deported. ",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-bukele-powers-zlvt/15int-bukele-powers-zlvt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "During a meeting with President Trump at the White House on Monday, President Nayib Bukele of El Salvador said he would not return a Maryland man who had been deported. ",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel Threatens Further Escalation in Gaza War",
+        "abstract": "The United Nations warned that the humanitarian situation in Gaza was likely at its worst since the conflict began and that the population was again on the brink of famine.",
+        "url": "https://www.nytimes.com/2025/04/16/world/middleeast/israel-threatens-gaza-escalation.html",
+        "uri": "nyt://article/37ea6dc7-c900-5988-99aa-ebe4705e1706",
+        "byline": "By Lara Jakes",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T07:26:45-04:00",
+        "created_date": "2025-04-16T07:26:45-04:00",
+        "published_date": "2025-04-16T07:26:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Humanitarian Aid",
+            "Defense and Military Forces",
+            "Kidnapping and Hostages"
+        ],
+        "org_facet": [
+            "Hamas",
+            "United Nations"
+        ],
+        "per_facet": [
+            "Katz, Israel (1955- )"
+        ],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-israel-gaza-01-fmlp/16int-israel-gaza-01-fmlp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inspecting the site of a strike in Jabaliya in northern Gaza on Wednesday.",
+                "copyright": "Mahmoud Issa/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-israel-gaza-01-fmlp/16int-israel-gaza-01-fmlp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inspecting the site of a strike in Jabaliya in northern Gaza on Wednesday.",
+                "copyright": "Mahmoud Issa/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-israel-gaza-01-fmlp/16int-israel-gaza-01-fmlp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inspecting the site of a strike in Jabaliya in northern Gaza on Wednesday.",
+                "copyright": "Mahmoud Issa/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
