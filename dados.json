@@ -57397,5 +57397,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "It’s Time to Protect America From America’s President",
+        "abstract": "Trump’s authoritarian actions are vandalizing the American project.",
+        "url": "https://www.nytimes.com/2025/04/16/opinion/trump-harvard-abrego-garcia.html",
+        "uri": "nyt://article/be6e756d-e868-5ba1-b557-4aa6a175fdf8",
+        "byline": "By Nicholas Kristof",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T17:05:11-04:00",
+        "created_date": "2025-04-16T17:00:06-04:00",
+        "published_date": "2025-04-16T17:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "Nicholas Kristof",
+        "des_facet": [
+            "Deportation"
+        ],
+        "org_facet": [
+            "Harvard University",
+            "Homeland Security Department",
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Abrego Garcia, Kilmar Armando",
+            "Bukele, Nayib"
+        ],
+        "geo_facet": [
+            "El Salvador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/16kristof-color/16bouie-zpbj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by The New York Times; source photograph via U.S. District Court for the District of Maryland and Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/16kristof-color/16bouie-zpbj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by The New York Times; source photograph via U.S. District Court for the District of Maryland and Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/16kristof-color/16bouie-zpbj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by The New York Times; source photograph via U.S. District Court for the District of Maryland and Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
