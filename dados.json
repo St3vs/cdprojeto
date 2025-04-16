@@ -54262,5 +54262,132 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Making America’s Teeth Rot Again",
+        "abstract": "Quick, everyone! Talk about fluoride, not measles!",
+        "url": "https://www.nytimes.com/2025/04/16/opinion/fluoride-rfk-health-teeth.html",
+        "uri": "nyt://article/24f68c50-b900-57a8-8167-5a9951638187",
+        "byline": "By Zeynep Tufekci",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T05:03:36-04:00",
+        "created_date": "2025-04-16T05:03:36-04:00",
+        "published_date": "2025-04-16T05:03:36-04:00",
+        "material_type_facet": "",
+        "kicker": "Zeynep Tufekci",
+        "des_facet": [
+            "Fluorides",
+            "States (US)",
+            "Measles",
+            "Vaccination and Immunization",
+            "Teeth and Dentistry",
+            "Water",
+            "Law and Legislation",
+            "Diet and Nutrition",
+            "Epidemics",
+            "Rumors and Misinformation",
+            "Medicine and Health"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kennedy, Robert F Jr"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/opinion/16tufekci/16tufekci-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1536,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Fee-Gloria Grönemeyer/Connected Archives"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/opinion/16tufekci/16tufekci-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Fee-Gloria Grönemeyer/Connected Archives"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/opinion/16tufekci/16tufekci-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Fee-Gloria Grönemeyer/Connected Archives"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "If You’re Boycotting Columbia, Your Priorities Are All Wrong",
+        "abstract": "Where were these voices when the university was under assault from the Trump administration?",
+        "url": "https://www.nytimes.com/2025/04/16/opinion/columbia-university-boycott-trump.html",
+        "uri": "nyt://article/b324e1ab-cb7c-5632-bbe6-7a9c533e0533",
+        "byline": "By Matthew Connelly",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T05:03:42-04:00",
+        "created_date": "2025-04-16T05:03:42-04:00",
+        "published_date": "2025-04-16T05:03:42-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "Colleges and Universities",
+            "Boycotts",
+            "Pro-Palestinian Campus Protests (2023- )",
+            "Foreign Students (in US)"
+        ],
+        "org_facet": [
+            "Columbia College"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16connelly-pwjf/16connelly-pwjf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1331,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ben Salesse for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16connelly-pwjf/16connelly-pwjf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ben Salesse for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16connelly-pwjf/16connelly-pwjf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ben Salesse for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
