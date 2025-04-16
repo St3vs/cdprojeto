@@ -53160,5 +53160,371 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Grassley Draws Jeers From Constituents at Raucous Town Hall",
+        "abstract": "The Iowa Republican was pressed on President Trump’s policies, including the case of a Salvadoran immigrant who his administration has admitted it mistakenly sent to a prison in El Salvador.",
+        "url": "https://www.nytimes.com/2025/04/15/us/politics/chuck-grassley-town-hall-iowa.html",
+        "uri": "nyt://article/a7c6a991-c810-5be0-bf58-167a0c40ff3f",
+        "byline": "By Michael Gold",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T19:34:20-04:00",
+        "created_date": "2025-04-15T19:30:58-04:00",
+        "published_date": "2025-04-15T19:30:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Voting and Voters",
+            "Layoffs and Job Reductions",
+            "United States Economy"
+        ],
+        "org_facet": [
+            "Senate",
+            "Government Efficiency Department (US)"
+        ],
+        "per_facet": [
+            "Grassley, Charles E",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/us/politics/chuck-grassley-screengrab/chuck-grassley-screengrab-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1620,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/us/politics/chuck-grassley-screengrab/chuck-grassley-screengrab-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/us/politics/chuck-grassley-screengrab/chuck-grassley-screengrab-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Gives Conflicting Signals and Mixed Messages on Iran Nuclear Talks",
+        "abstract": "The Trump administration started with an simple goal: Make Iran dismantle its nuclear and missile programs. Then its top negotiator started softening his tone, and had to retreat.",
+        "url": "https://www.nytimes.com/2025/04/15/us/politics/trump-iran-nuclear-negotations.html",
+        "uri": "nyt://article/0185dcf6-2663-5c1a-9562-8badc4ef9a49",
+        "byline": "By David E. Sanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T20:20:10-04:00",
+        "created_date": "2025-04-15T20:06:15-04:00",
+        "published_date": "2025-04-15T20:06:15-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "Nuclear Weapons"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Witkoff, Steven",
+            "Vance, J D"
+        ],
+        "geo_facet": [
+            "Iran"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/15/multimedia/15dc-iran-nukes-zcqh/15dc-iran-nukes-zcqh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A news kiosk in Tehran, where headlines mentioned a round of talks in Oman last Saturday.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/15/multimedia/15dc-iran-nukes-zcqh/15dc-iran-nukes-zcqh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A news kiosk in Tehran, where headlines mentioned a round of talks in Oman last Saturday.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/15/multimedia/15dc-iran-nukes-zcqh/15dc-iran-nukes-zcqh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A news kiosk in Tehran, where headlines mentioned a round of talks in Oman last Saturday.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "movies",
+        "subsection": "",
+        "title": "Wife of Gene Hackman Asked About Flulike Symptoms Before Their Deaths",
+        "abstract": "Videos, photographs and police reports released by the Santa Fe County Sheriff’s Office in New Mexico offered a look into the days before Betsy Arakawa and Mr. Hackman died.",
+        "url": "https://www.nytimes.com/2025/04/15/movies/gene-hackman-betsy-arakawa-deaths.html",
+        "uri": "nyt://article/fdb7fa12-14d3-50f5-822b-15ca15b1881f",
+        "byline": "By Julia Jacobs and Nicholas Bogel-Burroughs",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T19:25:06-04:00",
+        "created_date": "2025-04-15T19:25:06-04:00",
+        "published_date": "2025-04-15T19:25:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Fatalities)",
+            "Hantavirus"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Arakawa, Betsy (1959-2025)",
+            "Hackman, Gene"
+        ],
+        "geo_facet": [
+            "Santa Fe (NM)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15cul-hackman-bodycam-hbfw/15cul-hackman-bodycam-hbfw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1362,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Betsy Arakawa’s body was found in a bathroom in the home she shared with her husband, Gene Hackman, near Santa Fe, N.M.",
+                "copyright": "Santa Fe County Sheriff’s Office"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15cul-hackman-bodycam-hbfw/15cul-hackman-bodycam-hbfw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Betsy Arakawa’s body was found in a bathroom in the home she shared with her husband, Gene Hackman, near Santa Fe, N.M.",
+                "copyright": "Santa Fe County Sheriff’s Office"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15cul-hackman-bodycam-hbfw/15cul-hackman-bodycam-hbfw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Betsy Arakawa’s body was found in a bathroom in the home she shared with her husband, Gene Hackman, near Santa Fe, N.M.",
+                "copyright": "Santa Fe County Sheriff’s Office"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "Wink Martindale, Popular and Durable Game Show Host, Dies at 91",
+        "abstract": "He was involved in more than 20 game shows, most memorably as the host of “Gambit” and “Tic-Tac-Dough” in the 1970s and ’80s.",
+        "url": "https://www.nytimes.com/2025/04/15/arts/television/wink-martindale-dead.html",
+        "uri": "nyt://article/3f695622-7973-596d-9db9-7d3fa96e86d3",
+        "byline": "By Maya Salam",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T20:53:03-04:00",
+        "created_date": "2025-04-15T20:28:15-04:00",
+        "published_date": "2025-04-15T20:28:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Television",
+            "Game Shows",
+            "Deaths (Obituaries)",
+            "Gambit (TV Program)",
+            "Tic-Tac-Dough (TV Program)"
+        ],
+        "org_facet": [
+            "University of Memphis"
+        ],
+        "per_facet": [
+            "Martindale, Wink"
+        ],
+        "geo_facet": [
+            "Rancho Mirage (Calif)",
+            "Los Angeles (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2017/05/31/arts/00xp-martindale_web1/00xp-martindale_web1-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1922,
+                "width": 1588,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Wink Martindale during a taping of the game show “Debt” in 1997.",
+                "copyright": "Nick Ut/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2017/05/31/arts/00xp-martindale_web1/00xp-martindale_web1-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Wink Martindale during a taping of the game show “Debt” in 1997.",
+                "copyright": "Nick Ut/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2017/05/31/arts/00xp-martindale_web1/00xp-martindale_web1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Wink Martindale during a taping of the game show “Debt” in 1997.",
+                "copyright": "Nick Ut/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "How a Nifty Government Tool Knows About Earthquakes Before You Feel Them",
+        "abstract": "Even a few seconds’ notice gives people time to prepare before the shaking.",
+        "url": "https://www.nytimes.com/2025/04/15/us/earthquake-alerts-california.html",
+        "uri": "nyt://article/8ca7a868-259e-5c87-b5d1-a67cab971992",
+        "byline": "By Amy Graff",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T18:35:36-04:00",
+        "created_date": "2025-04-15T18:14:32-04:00",
+        "published_date": "2025-04-15T18:14:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Earthquakes",
+            "Security and Warning Systems",
+            "Sensors",
+            "Cellular Telephones",
+            "Disasters and Emergencies"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Los Angeles (Calif)",
+            "California",
+            "San Diego (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/us/politics/15wea-quakealerts/15wea-quakealerts-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 947,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People in Southern California were warned about an earthquake on Monday — many of them before they felt the shaking.",
+                "copyright": "United States Geological Survey"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/us/politics/15wea-quakealerts/15wea-quakealerts-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People in Southern California were warned about an earthquake on Monday — many of them before they felt the shaking.",
+                "copyright": "United States Geological Survey"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/us/politics/15wea-quakealerts/15wea-quakealerts-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People in Southern California were warned about an earthquake on Monday — many of them before they felt the shaking.",
+                "copyright": "United States Geological Survey"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "4 Injured in Dallas School Shooting, Authorities Say",
+        "abstract": "Three students were wounded by gunfire and a fourth also was injured when gunfire erupted at Wilmer-Hutchins High School on Tuesday afternoon, officials said.",
+        "url": "https://www.nytimes.com/2025/04/15/us/dallas-school-shooting-wilmer-hutchins.html",
+        "uri": "nyt://article/ea408ad8-d145-5d77-b25a-1ed4bef2b8ed",
+        "byline": "By Neil Vigdor",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T20:08:29-04:00",
+        "created_date": "2025-04-15T20:08:29-04:00",
+        "published_date": "2025-04-15T20:08:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "School Shootings and Armed Attacks",
+            "Assaults"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Dallas (Tex)",
+            "Texas"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/15/multimedia/15xp-schoolshooting-gqtf/15xp-schoolshooting-gqtf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Four people were injured when someone opened fire inside Wilmer-Hutchins High School, about 10 miles southeast of downtown Dallas, on Tuesday afternoon, the authorities said.",
+                "copyright": "Julio Cortez/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/15/multimedia/15xp-schoolshooting-gqtf/15xp-schoolshooting-gqtf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Four people were injured when someone opened fire inside Wilmer-Hutchins High School, about 10 miles southeast of downtown Dallas, on Tuesday afternoon, the authorities said.",
+                "copyright": "Julio Cortez/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/15/multimedia/15xp-schoolshooting-gqtf/15xp-schoolshooting-gqtf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Four people were injured when someone opened fire inside Wilmer-Hutchins High School, about 10 miles southeast of downtown Dallas, on Tuesday afternoon, the authorities said.",
+                "copyright": "Julio Cortez/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
