@@ -56593,5 +56593,252 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "Fed Chair Lays Out Game Plan in Case of High Inflation and Slower Growth",
+        "abstract": "Jerome H. Powell warned that Trump’s tariffs could lead to a “challenging scenario” for the central bank.",
+        "url": "https://www.nytimes.com/2025/04/16/business/economy/jerome-powell-federal-reserve-inflation-interest-rates.html",
+        "uri": "nyt://article/6a8b895e-dfe6-5bf6-a963-73f59daefd6d",
+        "byline": "By Colby Smith",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T13:54:34-04:00",
+        "created_date": "2025-04-16T13:30:32-04:00",
+        "published_date": "2025-04-16T13:30:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Interest Rates",
+            "Inflation (Economics)",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Federal Reserve System"
+        ],
+        "per_facet": [
+            "Waller, Christopher (1959- )"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16dc-powell-vfzl/16dc-powell-vfzl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jerome H. Powell, the Federal Reserve chair.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16dc-powell-vfzl/16dc-powell-vfzl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jerome H. Powell, the Federal Reserve chair.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16dc-powell-vfzl/16dc-powell-vfzl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jerome H. Powell, the Federal Reserve chair.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "2 Guards Charged With Murder in Beating Death of Prisoner in New York",
+        "abstract": "Ten officers were charged in connection with the vicious beating of Messiah Nantwi, 22, at the Mid-State Correctional Facility, which left him bloodied and unrecognizable.",
+        "url": "https://www.nytimes.com/2025/04/16/nyregion/messiah-nantwi-beating-death-charges.html",
+        "uri": "nyt://article/717afef0-7832-55c8-adae-0c8f0ae92f02",
+        "byline": "By Jan Ransom",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T13:42:38-04:00",
+        "created_date": "2025-04-16T13:35:48-04:00",
+        "published_date": "2025-04-16T13:35:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Prison Guards and Corrections Officers",
+            "Assaults",
+            "Suicides and Suicide Attempts",
+            "Prisons and Prisoners",
+            "Special Prosecutors (Independent Counsel)",
+            "Deaths (Fatalities)",
+            "Strikes"
+        ],
+        "org_facet": [
+            "Marcy Correctional Facility",
+            "Mid-State Correctional Facility",
+            "National Guard",
+            "New York Times"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "New York State",
+            "Oneida (NY)",
+            "Onondaga County (NY)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/02/us/16met-prison-death1/16met-prison-death1-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 783,
+                "width": 1175,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Mid-State Correctional Facility in Marcy, N.Y., near Utica. Messiah Nantwi’s beating came amid a deepening crisis in the state’s prison system.",
+                "copyright": "Nathaniel Brooks for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/02/us/16met-prison-death1/16met-prison-death1-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Mid-State Correctional Facility in Marcy, N.Y., near Utica. Messiah Nantwi’s beating came amid a deepening crisis in the state’s prison system.",
+                "copyright": "Nathaniel Brooks for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/02/us/16met-prison-death1/02ny-prison-death-1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Mid-State Correctional Facility in Marcy, N.Y., near Utica. Messiah Nantwi’s beating came amid a deepening crisis in the state’s prison system.",
+                "copyright": "Nathaniel Brooks for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "OpenAI Unveils Technology That Can ‘Reason’ With Images",
+        "abstract": "The company also introduced a new tool that helps computer programmers use chatbots when writing code.",
+        "url": "https://www.nytimes.com/2025/04/16/technology/openai-reasoning-models-o3-o4-mini.html",
+        "uri": "nyt://article/3ff66f02-9cbb-5222-b106-9f4e3e1cbc3a",
+        "byline": "By Cade Metz",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T13:46:28-04:00",
+        "created_date": "2025-04-16T13:46:28-04:00",
+        "published_date": "2025-04-16T13:46:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Artificial Intelligence",
+            "Computers and the Internet",
+            "ChatGPT",
+            "Innovation"
+        ],
+        "org_facet": [
+            "OpenAI Labs"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16biz-openai-sub-ptzl/16biz-openai-sub-ptzl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Unlike early versions of its ChatGPT chatbot, these reasoning systems spend a significant amount of time “thinking” about a question before answering, rather than providing an instant response.",
+                "copyright": "Kelsey McClellan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16biz-openai-sub-ptzl/16biz-openai-sub-ptzl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Unlike early versions of its ChatGPT chatbot, these reasoning systems spend a significant amount of time “thinking” about a question before answering, rather than providing an instant response.",
+                "copyright": "Kelsey McClellan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16biz-openai-sub-ptzl/16biz-openai-sub-ptzl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Unlike early versions of its ChatGPT chatbot, these reasoning systems spend a significant amount of time “thinking” about a question before answering, rather than providing an instant response.",
+                "copyright": "Kelsey McClellan for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Palliative Care Doctor Is Charged With Serial Murder of 15 Patients in Germany",
+        "abstract": "The Berlin doctor, who was not named because of privacy laws, is also accused of setting fire to some of the patients’ homes to hide evidence.",
+        "url": "https://www.nytimes.com/2025/04/16/world/europe/germany-doctor-patients-murder.html",
+        "uri": "nyt://article/81dc5702-5790-52f1-aef9-1008b7f9686d",
+        "byline": "By Christopher F. Schuetze",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T12:01:33-04:00",
+        "created_date": "2025-04-16T11:58:49-04:00",
+        "published_date": "2025-04-16T11:58:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Serial Murders",
+            "Murders, Attempted Murders and Homicides",
+            "Doctors",
+            "Ethics and Official Misconduct"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Germany"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/world/16int-germany-murder-doctor/16int-germany-murder-doctor-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1414,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Moabit Prison in Berlin, where the palliative care doctor is being held.",
+                "copyright": "Jens Kalaene/Picture Alliance, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/world/16int-germany-murder-doctor/16int-germany-murder-doctor-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Moabit Prison in Berlin, where the palliative care doctor is being held.",
+                "copyright": "Jens Kalaene/Picture Alliance, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/world/16int-germany-murder-doctor/16int-germany-murder-doctor-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Moabit Prison in Berlin, where the palliative care doctor is being held.",
+                "copyright": "Jens Kalaene/Picture Alliance, via Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
