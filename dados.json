@@ -57461,5 +57461,127 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Ontario Premier Orders Review of Major Toronto Waterfront Lease",
+        "abstract": "Doug Ford said he had asked his government to look into the contract that granted a 95-year lease to a European wellness company following a New York Times investigation into the deal.",
+        "url": "https://www.nytimes.com/2025/04/16/world/canada/toronto-spa-therme-lease.html",
+        "uri": "nyt://article/cb4712a6-f496-5323-b885-40a29eb4560e",
+        "byline": "By Matina Stevis-Gridneff",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T17:55:34-04:00",
+        "created_date": "2025-04-16T16:48:31-04:00",
+        "published_date": "2025-04-16T16:48:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Government Contracts and Procurement",
+            "Spas"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Ford, Doug Jr (1964- )"
+        ],
+        "geo_facet": [
+            "Toronto (Ontario)",
+            "Ontario (Canada)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-canada-spa-zmwq/16int-canada-spa-zmwq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "West Island, just off the coast of Toronto, has been cleared of trees for development by a European spa company.",
+                "copyright": "Ian Willms for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-canada-spa-zmwq/16int-canada-spa-zmwq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "West Island, just off the coast of Toronto, has been cleared of trees for development by a European spa company.",
+                "copyright": "Ian Willms for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-canada-spa-zmwq/16int-canada-spa-zmwq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "West Island, just off the coast of Toronto, has been cleared of trees for development by a European spa company.",
+                "copyright": "Ian Willms for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Adams’s Legal Debt Rises to $3 Million as Donors Fade Away",
+        "abstract": "The federal charges against Mayor Eric Adams were dropped. Now he owes millions in legal expenses and must navigate a complex relationship with President Trump.",
+        "url": "https://www.nytimes.com/2025/04/16/nyregion/adams-legal-defense-fund.html",
+        "uri": "nyt://article/08bddb89-3771-5dfc-99bf-b33369783df1",
+        "byline": "By Emma G. Fitzsimmons, Dana Rubinstein and Luis Ferré-Sadurní",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T17:33:23-04:00",
+        "created_date": "2025-04-16T17:33:23-04:00",
+        "published_date": "2025-04-16T17:33:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Eric Adams Federal Corruption Case (24 CR 556)",
+            "Mayors",
+            "Finances"
+        ],
+        "org_facet": [
+            "City Council (NYC)"
+        ],
+        "per_facet": [
+            "Adams, Eric L"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16met-adams-legal-tgpf/16met-adams-legal-tgpf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1465,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Donations to Mayor Eric Adams’s legal defense fund have dried up, forcing him to find another way to address his debt.",
+                "copyright": "Caitlin Ochs for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16met-adams-legal-tgpf/16met-adams-legal-tgpf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Donations to Mayor Eric Adams’s legal defense fund have dried up, forcing him to find another way to address his debt.",
+                "copyright": "Caitlin Ochs for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16met-adams-legal-tgpf/16met-adams-legal-tgpf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Donations to Mayor Eric Adams’s legal defense fund have dried up, forcing him to find another way to address his debt.",
+                "copyright": "Caitlin Ochs for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
