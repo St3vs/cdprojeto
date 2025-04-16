@@ -54158,5 +54158,109 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Stocks Tumble in Asia as Tech Investors Pull Back",
+        "abstract": "Nvidia, the American semiconductor giant, announced that it had been blocked by the Trump administration from selling chips to China without a license.",
+        "url": "https://www.nytimes.com/2025/04/16/business/stocks-trump-tariffs.html",
+        "uri": "nyt://article/d3a3d328-66a8-5c61-a016-5468dbc07861",
+        "byline": "By Danielle Kaye",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T01:23:49-04:00",
+        "created_date": "2025-04-16T01:23:49-04:00",
+        "published_date": "2025-04-16T01:23:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Computer Chips",
+            "Standard & Poor's 500-Stock Index",
+            "Stocks and Bonds"
+        ],
+        "org_facet": [
+            "NVIDIA Corporation",
+            "Taiwan Semiconductor Manufacturing Company Ltd"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": null,
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "‘Nothing Has Been Done’: Judge Rebukes U.S. Effort to Return Wrongly Deported Man",
+        "abstract": "The judge also said she planned to force Trump officials to reveal what they have done behind the scenes to seek the return of the man, Kilmar Armando Abrego Garcia.",
+        "url": "https://www.nytimes.com/2025/04/15/us/trump-abrego-garcia-deported-hearing.html",
+        "uri": "nyt://article/59d50f9f-b300-5478-be7f-f2e5deb31f0e",
+        "byline": "By Alan Feuer",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T23:48:36-04:00",
+        "created_date": "2025-04-15T17:54:41-04:00",
+        "published_date": "2025-04-15T17:54:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Deportation",
+            "Illegal Immigration"
+        ],
+        "org_facet": [
+            "Justice Department",
+            "Mara Salvatrucha (MS-13)",
+            "Home Depot Inc",
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Miller, Stephen (1985- )",
+            "Trump, Donald J",
+            "Xinis, Paula"
+        ],
+        "geo_facet": [
+            "El Salvador",
+            "Maryland",
+            "United States",
+            "Venezuela"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15DC-IMMIG-new-wmtz/15DC-IMMIG-new-wmtz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Vasquez Sura, the wife of the man mistakenly deported to El Salvador, Kilmar Armando Abrego Garcia, speaking outside the courthouse in Greenbelt, Md., on Tuesday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15DC-IMMIG-new-wmtz/15DC-IMMIG-new-wmtz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Vasquez Sura, the wife of the man mistakenly deported to El Salvador, Kilmar Armando Abrego Garcia, speaking outside the courthouse in Greenbelt, Md., on Tuesday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15DC-IMMIG-new-wmtz/15DC-IMMIG-new-wmtz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Vasquez Sura, the wife of the man mistakenly deported to El Salvador, Kilmar Armando Abrego Garcia, speaking outside the courthouse in Greenbelt, Md., on Tuesday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
