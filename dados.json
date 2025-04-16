@@ -56840,5 +56840,67 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Stefanik, a Trump Ally, Might Run Against Gov. Hochul Next Year",
+        "abstract": "Representative Elise Stefanik, a six-term congresswoman, has talked with Republicans about a 2026 bid for governor of New York.",
+        "url": "https://www.nytimes.com/2025/04/16/nyregion/elise-stefanik-governor-ny.html",
+        "uri": "nyt://article/2d7e9395-cf0a-5d4b-83d6-4d11a3f39ac8",
+        "byline": "By Nicholas Fandos and Benjamin Oreskes",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T14:16:34-04:00",
+        "created_date": "2025-04-16T14:16:34-04:00",
+        "published_date": "2025-04-16T14:16:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections, Governors",
+            "Conservatism (US Politics)",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Stefanik, Elise"
+        ],
+        "geo_facet": [
+            "New York State"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16met-stefanik-whqf/16met-stefanik-whqf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Elise Stefanik’s interest in the governor’s race could cloud the prospects of her Republican House colleague, Mike Lawler, who has also expressed interest in running.",
+                "copyright": "Graham Dickie/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16met-stefanik-whqf/16met-stefanik-whqf-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Elise Stefanik’s interest in the governor’s race could cloud the prospects of her Republican House colleague, Mike Lawler, who has also expressed interest in running.",
+                "copyright": "Graham Dickie/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16met-stefanik-whqf/16met-stefanik-whqf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Elise Stefanik’s interest in the governor’s race could cloud the prospects of her Republican House colleague, Mike Lawler, who has also expressed interest in running.",
+                "copyright": "Graham Dickie/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
