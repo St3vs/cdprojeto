@@ -61455,5 +61455,262 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Official Asked I.R.S. About Audit of ‘High-Profile Friend of the President’",
+        "abstract": "A Treasury Department official wrote to the I.R.S. that Mike Lindell, the pillow entrepreneur, was “concerned he may have been inappropriately targeted.”",
+        "url": "https://www.nytimes.com/2025/04/17/us/politics/trump-irs-audit-lindell.html",
+        "uri": "nyt://article/5c40ad3f-287e-56fd-b9f1-85cb5f297d28",
+        "byline": "By Andrew Duehren",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T15:49:00-04:00",
+        "created_date": "2025-04-17T15:23:27-04:00",
+        "published_date": "2025-04-17T15:23:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Immigration and Customs Enforcement (US)",
+            "Internal Revenue Service"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17trump-news-econ-qckw/17trump-news-econ-qckw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mike Lindell in February at the Conservative Political Action Conference.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17trump-news-econ-qckw/17trump-news-econ-qckw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mike Lindell in February at the Conservative Political Action Conference.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17trump-news-econ-qckw/17trump-news-econ-qckw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mike Lindell in February at the Conservative Political Action Conference.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Meloni Meets With Trump, With Tariffs on the Agenda",
+        "abstract": "Giorgia Meloni has come to the White House representing Italy, but in many ways on behalf of the rest of Europe.",
+        "url": "https://www.nytimes.com/2025/04/17/us/politics/meloni-trump-tariffs.html",
+        "uri": "nyt://article/358c6751-6bc9-5780-92d6-70d7bffc32de",
+        "byline": "By David E. Sanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T14:44:22-04:00",
+        "created_date": "2025-04-17T12:47:26-04:00",
+        "published_date": "2025-04-17T12:47:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "United States International Relations",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "European Union",
+            "European Commission"
+        ],
+        "per_facet": [
+            "Meloni, Giorgia (1977- )",
+            "Trump, Donald J",
+            "von der Leyen, Ursula"
+        ],
+        "geo_facet": [
+            "United States",
+            "Italy"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-prexy-top-bqmj/17dc-prexy-top-bqmj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump greeting Prime Minister Giorgia Meloni of Italy outside the West Wing of the White House on Thursday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-prexy-top-bqmj/17dc-prexy-top-bqmj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump greeting Prime Minister Giorgia Meloni of Italy outside the West Wing of the White House on Thursday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-prexy-top-bqmj/17dc-prexy-top-bqmj-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump greeting Prime Minister Giorgia Meloni of Italy outside the West Wing of the White House on Thursday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "After Harvard, Liberal Donors and Groups Fear New Scrutiny From Trump",
+        "abstract": "Some worried liberal donors and the nonprofit groups they support are getting “legal teams on speed dial, crisis plans dusted off, reserves lined up.”",
+        "url": "https://www.nytimes.com/2025/04/17/us/politics/harvard-trump-irs-liberals.html",
+        "uri": "nyt://article/9657d965-8441-509f-96d6-b2fcd559d6dd",
+        "byline": "By Theodore Schleifer and Lisa Friedman",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T15:31:01-04:00",
+        "created_date": "2025-04-17T15:31:01-04:00",
+        "published_date": "2025-04-17T15:31:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Nonprofit Organizations",
+            "Philanthropy",
+            "Campaign Finance",
+            "Internal Revenue Service Political Profiling",
+            "Tax Credits, Deductions and Exemptions",
+            "United States Politics and Government",
+            "Taxation",
+            "Diversity Initiatives"
+        ],
+        "org_facet": [
+            "Internal Revenue Service",
+            "Center for Biological Diversity",
+            "Sierra Club"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17pol-liberal-donors-topart-kbht/17pol-liberal-donors-topart-kbht-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration has indicated that it might try to pull Harvard University’s tax-exempt status, in response to the school’s defiance of a list of demands.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17pol-liberal-donors-topart-kbht/17pol-liberal-donors-topart-kbht-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration has indicated that it might try to pull Harvard University’s tax-exempt status, in response to the school’s defiance of a list of demands.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17pol-liberal-donors-topart-kbht/17pol-liberal-donors-topart-kbht-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Trump administration has indicated that it might try to pull Harvard University’s tax-exempt status, in response to the school’s defiance of a list of demands.",
+                "copyright": "Sophie Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "U.S. Is Withdrawing Hundreds of Troops From Syria",
+        "abstract": "The end of the Assad era has reduced some threats, but the Islamic State has shown renewed strength in the country.",
+        "url": "https://www.nytimes.com/2025/04/17/us/politics/us-withdrawing-troops-syria.html",
+        "uri": "nyt://article/342c0632-0870-5ab3-aa4c-fdaeae0a3b67",
+        "byline": "By Eric Schmitt",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T15:56:40-04:00",
+        "created_date": "2025-04-17T15:31:41-04:00",
+        "published_date": "2025-04-17T15:31:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Terrorism",
+            "United States Defense and Military Forces",
+            "United States International Relations",
+            "Kurds",
+            "Fringe Groups and Movements",
+            "Detainees"
+        ],
+        "org_facet": [
+            "Islamic State in Iraq and Syria (ISIS)",
+            "Hayat Tahrir al-Sham"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17DC-MILITARY-hqkt/17DC-MILITARY-hqkt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A U.S. military convoy in northeastern Syria in January. The military is shuttering three of its eight small operating bases in the country’s northeast.",
+                "copyright": "Bernat Armangue/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17DC-MILITARY-hqkt/17DC-MILITARY-hqkt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A U.S. military convoy in northeastern Syria in January. The military is shuttering three of its eight small operating bases in the country’s northeast.",
+                "copyright": "Bernat Armangue/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17DC-MILITARY-hqkt/17DC-MILITARY-hqkt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A U.S. military convoy in northeastern Syria in January. The military is shuttering three of its eight small operating bases in the country’s northeast.",
+                "copyright": "Bernat Armangue/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
