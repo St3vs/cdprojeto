@@ -60927,5 +60927,337 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "At Trial, Sheryl Sandberg Says Meta Nurtured Instagram and Did Not Stifle It",
+        "abstract": "In her second day on the stand of a landmark antitrust trial over Meta’s power, Ms. Sandberg, the former chief operating officer, also said the company faced plenty of competition from TikTok.",
+        "url": "https://www.nytimes.com/2025/04/17/technology/meta-antitrust-trial-sheryl-sandberg.html",
+        "uri": "nyt://article/fa1e9b43-479d-5ab9-9679-f0a997e2afcc",
+        "byline": "By Mike Isaac and Cecilia Kang",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T12:44:39-04:00",
+        "created_date": "2025-04-17T12:44:39-04:00",
+        "published_date": "2025-04-17T12:44:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Social Media",
+            "Computers and the Internet",
+            "Mobile Applications",
+            "Antitrust Laws and Competition Issues",
+            "Instant Messaging",
+            "Mergers, Acquisitions and Divestitures",
+            "Start-ups"
+        ],
+        "org_facet": [
+            "Facebook Inc",
+            "Federal Trade Commission",
+            "Instagram Inc",
+            "Meta Platforms Inc",
+            "TikTok (ByteDance)",
+            "WhatsApp Inc"
+        ],
+        "per_facet": [
+            "Sandberg, Sheryl K",
+            "Zuckerberg, Mark E"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/business/META-FTC/META-FTC-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sheryl Sandberg, Meta’s former chief operating officer, testifying before the Senate in 2018.",
+                "copyright": "Jose Luis Magana/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/business/META-FTC/META-FTC-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sheryl Sandberg, Meta’s former chief operating officer, testifying before the Senate in 2018.",
+                "copyright": "Jose Luis Magana/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/business/META-FTC/META-FTC-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sheryl Sandberg, Meta’s former chief operating officer, testifying before the Senate in 2018.",
+                "copyright": "Jose Luis Magana/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Democrats Step Up Trump Resistance as Base Hungers for More of a Fight",
+        "abstract": "Out of power in Congress, Democrats who were slow to fight back against President Trump are increasingly finding ways to do so. But activists want much more.",
+        "url": "https://www.nytimes.com/2025/04/17/us/politics/democrats-trump-resistance.html",
+        "uri": "nyt://article/5a3c1231-aaf0-537f-be78-03b3a5d50230",
+        "byline": "By Annie Karni",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T13:54:11-04:00",
+        "created_date": "2025-04-17T13:54:11-04:00",
+        "published_date": "2025-04-17T13:54:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "Democratic Party",
+            "House of Representatives",
+            "Senate"
+        ],
+        "per_facet": [
+            "Raskin, Jamie (1962- )",
+            "Booker, Cory A",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17DC-DEMOCRATS-top-pktc/17DC-DEMOCRATS-top-pktc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A protest in support of Kilmar Armando Abrego Garcia this week. “People need to see leaders and organizers standing up and speaking with authority against what’s happening,” Representative Jamie Raskin, Democrat of Maryland, said of fighting back against the Trump administration.",
+                "copyright": "Pete Kiehart for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17DC-DEMOCRATS-top-pktc/17DC-DEMOCRATS-top-pktc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A protest in support of Kilmar Armando Abrego Garcia this week. “People need to see leaders and organizers standing up and speaking with authority against what’s happening,” Representative Jamie Raskin, Democrat of Maryland, said of fighting back against the Trump administration.",
+                "copyright": "Pete Kiehart for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17DC-DEMOCRATS-top-pktc/17DC-DEMOCRATS-top-pktc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A protest in support of Kilmar Armando Abrego Garcia this week. “People need to see leaders and organizers standing up and speaking with authority against what’s happening,” Representative Jamie Raskin, Democrat of Maryland, said of fighting back against the Trump administration.",
+                "copyright": "Pete Kiehart for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Europe and America, at Odds Over Ukraine, Try Talking to Each Other",
+        "abstract": "President Emmanuel Macron of France hosted a lunch with Secretary of State Marco Rubio and Steve Witkoff, President Trump’s envoy, as European delegations converged on Paris.",
+        "url": "https://www.nytimes.com/2025/04/17/world/europe/europe-france-ukraine-talks.html",
+        "uri": "nyt://article/7c3f4916-b51f-5b34-a67f-7749a6ed318e",
+        "byline": "By Roger Cohen",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T14:08:40-04:00",
+        "created_date": "2025-04-17T12:42:36-04:00",
+        "published_date": "2025-04-17T12:42:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Russian Invasion of Ukraine (2022)",
+            "United States Politics and Government",
+            "International Relations",
+            "Peace Process",
+            "Defense and Military Forces",
+            "Authoritarianism (Theory and Philosophy)",
+            "United States Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Araghchi, Abbas",
+            "Macron, Emmanuel (1977- )",
+            "Pistorius, Boris",
+            "Powell, Jonathan (1956- )",
+            "Rubio, Marco",
+            "Trump, Donald J",
+            "Witkoff, Steven",
+            "Yermak, Andriy",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Europe",
+            "France",
+            "Russia",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-us-diplo-ltpc/17int-us-diplo-ltpc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Emmanuel Macron of France, left, meeting with Steve Witkoff, a Trump administration envoy; Marco Rubio, the secretary of state; and Jean-Noël Barrot, France’s minister for foreign affairs, at the Élysée Palace in Paris on Thursday.",
+                "copyright": "Pool photo by Ludovic Marin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-us-diplo-ltpc/17int-us-diplo-ltpc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Emmanuel Macron of France, left, meeting with Steve Witkoff, a Trump administration envoy; Marco Rubio, the secretary of state; and Jean-Noël Barrot, France’s minister for foreign affairs, at the Élysée Palace in Paris on Thursday.",
+                "copyright": "Pool photo by Ludovic Marin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-us-diplo-ltpc/17int-us-diplo-ltpc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Emmanuel Macron of France, left, meeting with Steve Witkoff, a Trump administration envoy; Marco Rubio, the secretary of state; and Jean-Noël Barrot, France’s minister for foreign affairs, at the Élysée Palace in Paris on Thursday.",
+                "copyright": "Pool photo by Ludovic Marin"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Discord App Exposes Children to Abuse and Graphic Content, Lawsuit Says",
+        "abstract": "The messaging platform misled parents about its safety settings and turned a blind eye to explicit content, New Jersey prosecutors said.",
+        "url": "https://www.nytimes.com/2025/04/17/nyregion/discord-lawsuit-new-jersey.html",
+        "uri": "nyt://article/c3c2b003-165a-5c59-a359-02daa8a2ce1c",
+        "byline": "By Alyce McFadden",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T13:10:15-04:00",
+        "created_date": "2025-04-17T13:10:15-04:00",
+        "published_date": "2025-04-17T13:10:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Suits and Litigation (Civil)",
+            "Child Abuse and Neglect",
+            "Sex Crimes"
+        ],
+        "org_facet": [
+            "Discord Inc"
+        ],
+        "per_facet": [
+            "Platkin, Matthew",
+            "Citron, Jason"
+        ],
+        "geo_facet": [
+            "New Jersey",
+            "Essex County (NJ)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17met-discord-lawsuit-wqzp/17met-discord-lawsuit-wqzp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Discord’s popularity and lax safety controls have made its users easy targets for predators, according to the lawsuit.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17met-discord-lawsuit-wqzp/17met-discord-lawsuit-wqzp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Discord’s popularity and lax safety controls have made its users easy targets for predators, according to the lawsuit.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17met-discord-lawsuit-wqzp/17met-discord-lawsuit-wqzp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Discord’s popularity and lax safety controls have made its users easy targets for predators, according to the lawsuit.",
+                "copyright": "Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "",
+        "title": "Robert E. McGinnis, Whose Lusty Illustrations Defined an Era, Dies at 99",
+        "abstract": "In the 1960s and ’70s, his leggy femmes fatales beckoned from paperback covers and posters for movies like “Breakfast at Tiffany’s” and “Thunderball.”",
+        "url": "https://www.nytimes.com/2025/04/17/arts/robert-e-mcginnis-dead.html",
+        "uri": "nyt://article/26278950-4ce9-501f-a722-72184e073aa3",
+        "byline": "By Trip Gabriel",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T12:39:29-04:00",
+        "created_date": "2025-04-17T12:36:53-04:00",
+        "published_date": "2025-04-17T12:36:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Art",
+            "Advertising and Marketing",
+            "Posters",
+            "Book Trade and Publishing",
+            "Movies",
+            "Bond, James (Fictional Character)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "McGinnis, Robert E (1926-2025)"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16McGinnis--lhtp/16McGinnis--lhtp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1377,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "United Artists, via Fototeca Gilardi/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16McGinnis--lhtp/16McGinnis--lhtp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "United Artists, via Fototeca Gilardi/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16McGinnis--lhtp/16McGinnis--lhtp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "United Artists, via Fototeca Gilardi/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
