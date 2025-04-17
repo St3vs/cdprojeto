@@ -59866,5 +59866,188 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "European Central Bank Cuts Rates Amid Tariff Uncertainty",
+        "abstract": "Optimism has rapidly given ways to fears that the region is at risk of recession if business investment and consumer spending is suppressed by economic worries.",
+        "url": "https://www.nytimes.com/2025/04/17/business/european-central-bank-rates-tariffs-trump.html",
+        "uri": "nyt://article/d303d6cb-eae9-52fb-999a-341721c8250e",
+        "byline": "By Eshe Nelson",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T08:19:35-04:00",
+        "created_date": "2025-04-17T08:18:16-04:00",
+        "published_date": "2025-04-17T08:18:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "European Central Bank",
+            "Eurozone"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/BIZ-ECB-RATES-02-zflq/BIZ-ECB-RATES-02-zflq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The European Central Bank’s headquarters in Frankfurt. The bank lowered its key rate a quarter point to 2.25 percent.",
+                "copyright": "Jana Rodenbusch/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/BIZ-ECB-RATES-02-zflq/BIZ-ECB-RATES-02-zflq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The European Central Bank’s headquarters in Frankfurt. The bank lowered its key rate a quarter point to 2.25 percent.",
+                "copyright": "Jana Rodenbusch/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/BIZ-ECB-RATES-02-zflq/BIZ-ECB-RATES-02-zflq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The European Central Bank’s headquarters in Frankfurt. The bank lowered its key rate a quarter point to 2.25 percent.",
+                "copyright": "Jana Rodenbusch/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "What Is Tax-Exempt Status and Can the I.R.S. Revoke It From Harvard?",
+        "abstract": "The university, like many colleges and charities, is exempt from federal income and property taxes, saving it billions of dollars. President Trump has questioned whether it should enjoy that status.",
+        "url": "https://www.nytimes.com/2025/04/17/us/tax-exempt-status-irs-harvard.html",
+        "uri": "nyt://article/14e28be1-c385-5f3a-807c-2e88e5fccc00",
+        "byline": "By Matthew Mpoke Bigg and John Yoon",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T08:23:15-04:00",
+        "created_date": "2025-04-17T07:19:49-04:00",
+        "published_date": "2025-04-17T07:19:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Colleges and Universities",
+            "Tax Credits, Deductions and Exemptions",
+            "Nonprofit Organizations"
+        ],
+        "org_facet": [
+            "Harvard University",
+            "Internal Revenue Service"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17xp-taxexempt-vjwz/17xp-taxexempt-vjwz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has called for the I.R.S. to revoke Harvard’s tax-exempt status.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17xp-taxexempt-vjwz/17xp-taxexempt-vjwz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has called for the I.R.S. to revoke Harvard’s tax-exempt status.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17xp-taxexempt-vjwz/17xp-taxexempt-vjwz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has called for the I.R.S. to revoke Harvard’s tax-exempt status.",
+                "copyright": "Sophie Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel Strikes Area With Large Tent Camps for Displaced Gazans",
+        "abstract": "The attack on the Mawasi area killed at least several people, including children, according to Gaza’s emergency rescue service. Israel did not confirm the location of the attack.",
+        "url": "https://www.nytimes.com/2025/04/17/world/middleeast/israel-gaza-strike-mawasi.html",
+        "uri": "nyt://article/16055361-2254-5ac3-9b60-6208a481efbc",
+        "byline": "By Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T08:21:28-04:00",
+        "created_date": "2025-04-17T07:34:34-04:00",
+        "published_date": "2025-04-17T07:34:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Civilian Casualties",
+            "Defense and Military Forces",
+            "Palestinians",
+            "Refugees and Displaced Persons"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Khan Younis (Gaza Strip)",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-israel-gaza-phjc/17int-israel-gaza-phjc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inspecting damage at the site of an Israeli strike in an area of tent camps for displaced Palestinians in southern Gaza on Thursday.",
+                "copyright": "Hatem Khaled/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-israel-gaza-phjc/17int-israel-gaza-phjc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inspecting damage at the site of an Israeli strike in an area of tent camps for displaced Palestinians in southern Gaza on Thursday.",
+                "copyright": "Hatem Khaled/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-israel-gaza-phjc/17int-israel-gaza-phjc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inspecting damage at the site of an Israeli strike in an area of tent camps for displaced Palestinians in southern Gaza on Thursday.",
+                "copyright": "Hatem Khaled/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
