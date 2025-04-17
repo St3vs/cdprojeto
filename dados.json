@@ -60676,5 +60676,256 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "podcasts",
+        "subsection": "the-daily",
+        "title": "The Trial Mark Zuckerberg Couldn’t Prevent",
+        "abstract": "President Trump, the Meta chief executive and one of the most aggressive cases the government has ever brought against a big tech company.",
+        "url": "https://www.nytimes.com/2025/04/17/podcasts/the-daily/mark-zuckerberg-trial-meta-trump.html",
+        "uri": "nyt://article/93edfba5-c60a-5cc1-95b9-f3f6507b2399",
+        "byline": "By Rachel Abrams, Cecilia Kang, Nina Feldman, Carlos Prieto, Brendan Klinkenberg, Marc Georges, Michael Benoist, Pat McCusker, Diane Wong, Marion Lozano and Chris Wood",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T06:16:47-04:00",
+        "created_date": "2025-04-17T06:00:16-04:00",
+        "published_date": "2025-04-17T06:00:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Antitrust Laws and Competition Issues",
+            "Regulation and Deregulation of Industry"
+        ],
+        "org_facet": [
+            "Meta Platforms Inc"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Zuckerberg, Mark E"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17DAILY-zuckerberg-alt2-pkql/17DAILY-zuckerberg-alt2-pkql-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Zuckerberg leaving court on Wednesday. He is the central figure in Meta’s antitrust trial.",
+                "copyright": "Tom Brenner for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17DAILY-zuckerberg-alt2-pkql/17DAILY-zuckerberg-alt2-pkql-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Zuckerberg leaving court on Wednesday. He is the central figure in Meta’s antitrust trial.",
+                "copyright": "Tom Brenner for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17DAILY-zuckerberg-alt2-pkql/17DAILY-zuckerberg-alt2-pkql-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Zuckerberg leaving court on Wednesday. He is the central figure in Meta’s antitrust trial.",
+                "copyright": "Tom Brenner for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "Trump Lashes Out at Fed Chair for Not Cutting Rates",
+        "abstract": "Jerome Powell has said that the Federal Reserve can be patient as the effects of tariffs become more clear. President Trump, who is pushing for interest rate cuts, said, “Powell’s termination cannot come fast enough!”",
+        "url": "https://www.nytimes.com/2025/04/17/business/economy/trump-jerome-powell-fed.html",
+        "uri": "nyt://article/9deb247c-b2f1-537d-bc8c-d09690efd8b3",
+        "byline": "By Colby Smith",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T09:18:10-04:00",
+        "created_date": "2025-04-17T07:17:14-04:00",
+        "published_date": "2025-04-17T07:17:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Banking and Financial Institutions",
+            "Interest Rates"
+        ],
+        "org_facet": [
+            "Federal Reserve System",
+            "European Central Bank"
+        ],
+        "per_facet": [
+            "Powell, Jerome H",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-fed-trump-bqzt/17dc-fed-trump-bqzt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jerome H. Powell, chair of the Federal Reserve, said that the central bank’s independence was “very widely understood and supported in Washington and in Congress.” ",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-fed-trump-bqzt/17dc-fed-trump-bqzt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jerome H. Powell, chair of the Federal Reserve, said that the central bank’s independence was “very widely understood and supported in Washington and in Congress.” ",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-fed-trump-bqzt/17dc-fed-trump-bqzt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jerome H. Powell, chair of the Federal Reserve, said that the central bank’s independence was “very widely understood and supported in Washington and in Congress.” ",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Threatens to Block International Students Unless Harvard Shares Student Data",
+        "abstract": "The demand from the Department of Homeland Security is an escalation in President Trump’s fight against Harvard, the country’s oldest and richest university.",
+        "url": "https://www.nytimes.com/2025/04/17/us/politics/trump-harvard-international-students.html",
+        "uri": "nyt://article/94fcc3b3-470f-5153-8df1-2adee2558f77",
+        "byline": "By Hamed Aleaziz, Luke Broadwater and Stephanie Saul",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T13:00:18-04:00",
+        "created_date": "2025-04-17T12:35:56-04:00",
+        "published_date": "2025-04-17T12:35:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Foreign Students (in US)",
+            "Colleges and Universities",
+            "International Study and Teaching",
+            "Visas"
+        ],
+        "org_facet": [
+            "Homeland Security Department",
+            "Harvard University",
+            "Internal Revenue Service"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Noem, Kristi"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-education-lbfz/17dc-education-lbfz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard University has been in a standoff with the Trump administration over issues including its admissions and hiring policies.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-education-lbfz/17dc-education-lbfz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard University has been in a standoff with the Trump administration over issues including its admissions and hiring policies.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-education-lbfz/17dc-education-lbfz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard University has been in a standoff with the Trump administration over issues including its admissions and hiring policies.",
+                "copyright": "Sophie Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "The Child Care Crisis Is Motivating These New York City Voters",
+        "abstract": "Parents are fed up, and the candidates for mayor appear to be paying attention. Many have built campaigns on a promise to make New York more affordable, with child care as a centerpiece.",
+        "url": "https://www.nytimes.com/2025/04/17/nyregion/nyc-child-care-voters.html",
+        "uri": "nyt://article/4ae93d5a-fcdf-5b7c-b4be-cc5294e44cc8",
+        "byline": "By Eliza Shapiro",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T12:43:32-04:00",
+        "created_date": "2025-04-17T03:00:15-04:00",
+        "published_date": "2025-04-17T03:00:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Child Care",
+            "Education (Pre-School)",
+            "Elections, Mayors",
+            "Voting and Voters",
+            "Personal Finances",
+            "Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Adams, Eric L",
+            "Rebecca Bailin"
+        ],
+        "geo_facet": [
+            "New York City",
+            "Windsor Terrace (Brooklyn, NY)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/met-childcare-voter-zbmv/met-childcare-voter-zbmv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1640,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rebecca Bailin and Nathaniel Marro took a careful look at their finances when she got pregnant. They quickly realized they would not be able to stay in their beloved apartment in Windsor Terrace, which used to be an affordable neighborhood to raise a child.",
+                "copyright": "Elias Williams for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/met-childcare-voter-zbmv/met-childcare-voter-zbmv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rebecca Bailin and Nathaniel Marro took a careful look at their finances when she got pregnant. They quickly realized they would not be able to stay in their beloved apartment in Windsor Terrace, which used to be an affordable neighborhood to raise a child.",
+                "copyright": "Elias Williams for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/met-childcare-voter-zbmv/met-childcare-voter-zbmv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rebecca Bailin and Nathaniel Marro took a careful look at their finances when she got pregnant. They quickly realized they would not be able to stay in their beloved apartment in Windsor Terrace, which used to be an affordable neighborhood to raise a child.",
+                "copyright": "Elias Williams for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
