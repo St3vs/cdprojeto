@@ -59546,5 +59546,325 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "podcasts",
+        "subsection": "the-headlines",
+        "title": "New Pushback to Trump’s Deportations, and Climate Research Under Threat",
+        "abstract": "Plus, a capybara controversy in Argentina.",
+        "url": "https://www.nytimes.com/2025/04/17/podcasts/the-headlines/trump-deportations-climate-research-capybara.html",
+        "uri": "nyt://article/08d3de04-2370-5cab-abb5-33139d22d268",
+        "byline": "By Amelia Nierenberg, Will Jarvis, Ian Stewart, Jessica Metzger, Robert Jimison and Jack Nicas",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T06:00:14-04:00",
+        "created_date": "2025-04-17T06:00:14-04:00",
+        "published_date": "2025-04-17T06:00:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Deportation",
+            "Illegal Immigration",
+            "Global Warming"
+        ],
+        "org_facet": [
+            "Senate"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Argentina",
+            "California",
+            "El Salvador",
+            "Israel",
+            "Maryland"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17headlines-whzv/17headlines-whzv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Chris Van Hollen, Democrat of Maryland, traveled to El Salvador on Wednesday to press for the release of Kilmar Armando Abrego Garcia.",
+                "copyright": "Daniele Volpe for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17headlines-whzv/17headlines-whzv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Chris Van Hollen, Democrat of Maryland, traveled to El Salvador on Wednesday to press for the release of Kilmar Armando Abrego Garcia.",
+                "copyright": "Daniele Volpe for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17headlines-whzv/17headlines-whzv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Chris Van Hollen, Democrat of Maryland, traveled to El Salvador on Wednesday to press for the release of Kilmar Armando Abrego Garcia.",
+                "copyright": "Daniele Volpe for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Nvidia C.E.O. Meets With Chinese Trade Officials in Beijing",
+        "abstract": "The day before the visit by Jensen Huang, lawmakers in Washington said they were investigating whether the chipmaker’s sales in China violated U.S. rules.",
+        "url": "https://www.nytimes.com/2025/04/17/business/nvidia-china-tariffs-chips-jensen-huang.html",
+        "uri": "nyt://article/a554230e-7f9b-5f7a-be0e-346ddeeebce7",
+        "byline": "By Meaghan Tobin",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T06:47:43-04:00",
+        "created_date": "2025-04-17T06:47:43-04:00",
+        "published_date": "2025-04-17T06:47:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Artificial Intelligence",
+            "Computer Chips"
+        ],
+        "org_facet": [
+            "NVIDIA Corporation"
+        ],
+        "per_facet": [
+            "Huang, Jen-Hsun"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17Biz-China-Nvidia-lvgj/17Biz-China-Nvidia-lvgj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jensen Huang, chief executive of Nvidia, in San Jose, Calif., last month. This week, the House Select Committee on the Chinese Communist Party opened an investigation into Nvidia’s sale of chips across Asia.",
+                "copyright": "Mike Kai Chen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17Biz-China-Nvidia-lvgj/17Biz-China-Nvidia-lvgj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jensen Huang, chief executive of Nvidia, in San Jose, Calif., last month. This week, the House Select Committee on the Chinese Communist Party opened an investigation into Nvidia’s sale of chips across Asia.",
+                "copyright": "Mike Kai Chen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17Biz-China-Nvidia-lvgj/17Biz-China-Nvidia-lvgj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jensen Huang, chief executive of Nvidia, in San Jose, Calif., last month. This week, the House Select Committee on the Chinese Communist Party opened an investigation into Nvidia’s sale of chips across Asia.",
+                "copyright": "Mike Kai Chen for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "Daily Pill May Work as Well as Ozempic for Weight Loss and Blood Sugar",
+        "abstract": "Clinical results of a GLP-1 in pill form showed safety and efficacy data similar to blockbuster injectable drugs.",
+        "url": "https://www.nytimes.com/2025/04/17/health/pill-glp-1-eli-lilly.html",
+        "uri": "nyt://article/469fec61-058e-5813-b0fd-9a38378a0a5e",
+        "byline": "By Gina Kolata",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T06:45:04-04:00",
+        "created_date": "2025-04-17T06:45:04-04:00",
+        "published_date": "2025-04-17T06:45:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "GLP-1 RAs (Drug)",
+            "Diabetes",
+            "Weight",
+            "Drugs (Pharmaceuticals)",
+            "Clinical Trials",
+            "Ozempic (Drug)",
+            "Research",
+            "your-feed-science",
+            "your-feed-healthcare"
+        ],
+        "org_facet": [
+            "Eli Lilly and Company"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/science/17-HS-diabetes-pill/17-HS-diabetes-pill-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Insulin pen production at an Eli Lilly factory in France. The new drug — a pill that can be taken at any time of day, with or without food — is almost unheard-of in the world of peptide drugs.",
+                "copyright": "Frederick Florin/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/science/17-HS-diabetes-pill/17-HS-diabetes-pill-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Insulin pen production at an Eli Lilly factory in France. The new drug — a pill that can be taken at any time of day, with or without food — is almost unheard-of in the world of peptide drugs.",
+                "copyright": "Frederick Florin/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/science/17-HS-diabetes-pill/17-HS-diabetes-pill-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Insulin pen production at an Eli Lilly factory in France. The new drug — a pill that can be taken at any time of day, with or without food — is almost unheard-of in the world of peptide drugs.",
+                "copyright": "Frederick Florin/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Trump Targets K-12",
+        "abstract": "We explain why the president is taking on public schools, and how officials are responding.",
+        "url": "https://www.nytimes.com/2025/04/17/briefing/trump-targets-k-12.html",
+        "uri": "nyt://article/856ebdf5-2ad7-5beb-853e-0731e33cb515",
+        "byline": "By Dana Goldstein",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T07:01:24-04:00",
+        "created_date": "2025-04-17T06:57:52-04:00",
+        "published_date": "2025-04-17T06:57:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "internal-storyline-no",
+            "Education (K-12)",
+            "United States Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17themorning-nl-LEAD-vztq/17themorning-nl-LEAD-vztq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2047,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "At Carpenter Community Charter School in Studio City, Calif. ",
+                "copyright": "Philip Cheung for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17themorning-nl-LEAD-vztq/17themorning-nl-LEAD-vztq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "At Carpenter Community Charter School in Studio City, Calif. ",
+                "copyright": "Philip Cheung for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17themorning-nl-LEAD-vztq/17themorning-nl-LEAD-vztq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "At Carpenter Community Charter School in Studio City, Calif. ",
+                "copyright": "Philip Cheung for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "U.K. Court Ruling on Trans Women Is Part of Wider Debate on Sex and Gender",
+        "abstract": "President Trump and right-wing politicians in Europe have railed against trans rights. Britain’s top court has now added its voice to the discussion.",
+        "url": "https://www.nytimes.com/2025/04/17/world/europe/uk-trans-hungary-germany-us.html",
+        "uri": "nyt://article/4a1e9343-27ef-5a8d-92c5-10d16bfd1a6a",
+        "byline": "By Michael D. Shear",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T06:46:01-04:00",
+        "created_date": "2025-04-17T06:28:24-04:00",
+        "published_date": "2025-04-17T06:28:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Transgender",
+            "Discrimination",
+            "Gender",
+            "Women and Girls",
+            "Decisions and Verdicts",
+            "Law and Legislation",
+            "United States Politics and Government",
+            "Women's Rights"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Great Britain",
+            "Hungary",
+            "Germany"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-uk-trans-01-jzgb/17int-uk-trans-01-jzgb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1371,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Susan Smith and Marion Calder, the directors of For Women Scotland, which brought the legal case that Britain’s Supreme Court weighed in on, celebrating outside the court in London on Wednesday.",
+                "copyright": "Henry Nicholls/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-uk-trans-01-jzgb/17int-uk-trans-01-jzgb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Susan Smith and Marion Calder, the directors of For Women Scotland, which brought the legal case that Britain’s Supreme Court weighed in on, celebrating outside the court in London on Wednesday.",
+                "copyright": "Henry Nicholls/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-uk-trans-01-jzgb/17int-uk-trans-01-jzgb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Susan Smith and Marion Calder, the directors of For Women Scotland, which brought the legal case that Britain’s Supreme Court weighed in on, celebrating outside the court in London on Wednesday.",
+                "copyright": "Henry Nicholls/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
