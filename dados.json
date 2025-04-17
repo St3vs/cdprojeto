@@ -61259,5 +61259,201 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Supreme Court to Hear Arguments on Trump Plan to End Birthright Citizenship",
+        "abstract": "The Trump administration had asked the justices to lift a nationwide pause on the policy as lower court challenges continue.",
+        "url": "https://www.nytimes.com/2025/04/17/us/politics/supreme-court-birthright-citizenship.html",
+        "uri": "nyt://article/7bbe1e51-5b92-503a-8344-7a76f7acd1ec",
+        "byline": "By Abbie VanSickle",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T14:46:12-04:00",
+        "created_date": "2025-04-17T14:23:16-04:00",
+        "published_date": "2025-04-17T14:23:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Citizenship and Naturalization",
+            "Fourteenth Amendment (US Constitution)",
+            "United States Politics and Government",
+            "Presidential Power (US)",
+            "Executive Orders and Memorandums",
+            "Constitution (US)"
+        ],
+        "org_facet": [
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Sauer, D John (1974- )",
+            "Wong Kim Ark (b 1873)"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00dc-scotus-birthright-jmqc/00dc-scotus-birthright-jmqc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court affirmed the right to birthright citizenship in a landmark case in 1898.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00dc-scotus-birthright-jmqc/00dc-scotus-birthright-jmqc-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court affirmed the right to birthright citizenship in a landmark case in 1898.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00dc-scotus-birthright-jmqc/00dc-scotus-birthright-jmqc-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court affirmed the right to birthright citizenship in a landmark case in 1898.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "France’s Richest Man Counted Trump as a Friend. He Still Faces Tariffs.",
+        "abstract": "The trade war has hurt the Louis Vuitton Moët Hennessy luxury empire. Bernard Arnault, head of the company, said a failure to strike a deal with President Trump would be “the fault of Brussels.”",
+        "url": "https://www.nytimes.com/2025/04/17/business/trump-tariffs-lvmh-bernard-arnault.html",
+        "uri": "nyt://article/764ced4e-d978-5d41-b88e-0ce7c3e269c0",
+        "byline": "By Liz Alderman",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T14:31:11-04:00",
+        "created_date": "2025-04-17T14:19:25-04:00",
+        "published_date": "2025-04-17T14:19:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Luxury Goods and Services",
+            "High Net Worth Individuals",
+            "Customs (Tariff)",
+            "Factories and Manufacturing"
+        ],
+        "org_facet": [
+            "LVMH Moet Hennessy Louis Vuitton SA"
+        ],
+        "per_facet": [
+            "Arnault, Bernard",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/TARIFF-LVMH-05-mzcq/TARIFF-LVMH-05-mzcq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Bernard Arnault, head of LVMH, speaking about the luxury conglomerate’s financial results in Paris on Thursday. “Until the end of February, everything was going very well,” he told shareholders.",
+                "copyright": "Thibaud Moritz/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/TARIFF-LVMH-05-mzcq/TARIFF-LVMH-05-mzcq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Bernard Arnault, head of LVMH, speaking about the luxury conglomerate’s financial results in Paris on Thursday. “Until the end of February, everything was going very well,” he told shareholders.",
+                "copyright": "Thibaud Moritz/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/TARIFF-LVMH-05-mzcq/TARIFF-LVMH-05-mzcq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Bernard Arnault, head of LVMH, speaking about the luxury conglomerate’s financial results in Paris on Thursday. “Until the end of February, everything was going very well,” he told shareholders.",
+                "copyright": "Thibaud Moritz/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "Measles Outbreaks in Canada and Mexico Bring Grim Prognosis",
+        "abstract": "Surges in Mennonite communities near the U.S. border may complicate containment efforts, experts say.",
+        "url": "https://www.nytimes.com/2025/04/17/health/measles-texas-mexico-canada.html",
+        "uri": "nyt://article/0736c6c5-f649-54c4-920e-9feaa5a76b97",
+        "byline": "By Teddy Rosenbluth",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T14:44:57-04:00",
+        "created_date": "2025-04-17T14:44:57-04:00",
+        "published_date": "2025-04-17T14:44:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "your-feed-science",
+            "Measles",
+            "Disease Rates",
+            "Mennonite Churches",
+            "Epidemics",
+            "Medicine and Health",
+            "States (US)",
+            "Vaccination and Immunization",
+            "Viruses"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Canada",
+            "Chihuahua (Mexico)",
+            "Ontario (Canada)",
+            "Texas",
+            "Southwestern States (US)",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17hs-measles-canada-01-jpbv/17hs-measles-canada-01-jpbv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A measles testing site in Seminole, Texas, in February. The outbreak that began in Texas is showing no signs of slowing. Cases have appeared in Ontario, Canada, and Chihuahua, Mexico.",
+                "copyright": "Julio Cortez/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17hs-measles-canada-01-jpbv/17hs-measles-canada-01-jpbv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A measles testing site in Seminole, Texas, in February. The outbreak that began in Texas is showing no signs of slowing. Cases have appeared in Ontario, Canada, and Chihuahua, Mexico.",
+                "copyright": "Julio Cortez/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17hs-measles-canada-01-jpbv/17hs-measles-canada-01-jpbv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A measles testing site in Seminole, Texas, in February. The outbreak that began in Texas is showing no signs of slowing. Cases have appeared in Ontario, Canada, and Chihuahua, Mexico.",
+                "copyright": "Julio Cortez/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
