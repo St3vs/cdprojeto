@@ -60049,5 +60049,65 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "Trade War to Weaken Global Growth and Increase Inflation, I.M.F. Warns",
+        "abstract": "Kristalina Georgieva, the managing director of the International Monetary Fund, warned in a speech that protectionism erodes productivity.",
+        "url": "https://www.nytimes.com/2025/04/17/business/economy/imf-trump-tariffs-global-economy.html",
+        "uri": "nyt://article/45f75eb5-06af-57ab-b614-94e1f1f54576",
+        "byline": "By Alan Rappeport",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T10:00:06-04:00",
+        "created_date": "2025-04-17T10:00:06-04:00",
+        "published_date": "2025-04-17T10:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Inflation (Economics)"
+        ],
+        "org_facet": [
+            "International Monetary Fund"
+        ],
+        "per_facet": [
+            "Georgieva, Kristalina Ivanova"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-globalecon-lktb/17dc-globalecon-lktb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A growing chorus of top economic officials have sounded alarms this week about the potential harm that President Trump’s trade policies could cause.",
+                "copyright": "Maggie Shannon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-globalecon-lktb/17dc-globalecon-lktb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A growing chorus of top economic officials have sounded alarms this week about the potential harm that President Trump’s trade policies could cause.",
+                "copyright": "Maggie Shannon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-globalecon-lktb/17dc-globalecon-lktb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A growing chorus of top economic officials have sounded alarms this week about the potential harm that President Trump’s trade policies could cause.",
+                "copyright": "Maggie Shannon for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
