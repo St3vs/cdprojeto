@@ -60109,5 +60109,328 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "Google Is a Monopolist in Online Advertising Tech, Judge Says",
+        "abstract": "The ruling was the second time in a year that a federal court had found that Google had acted illegally to maintain its dominance.",
+        "url": "https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html",
+        "uri": "nyt://article/a3f68539-1a59-5ddf-8238-156e89825908",
+        "byline": "By David McCabe",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T11:01:59-04:00",
+        "created_date": "2025-04-17T10:44:11-04:00",
+        "published_date": "2025-04-17T10:44:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Computers and the Internet",
+            "Online Advertising",
+            "Social Media",
+            "Antitrust Laws and Competition Issues",
+            "Mergers, Acquisitions and Divestitures",
+            "Corporations"
+        ],
+        "org_facet": [
+            "Google Inc",
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Brinkema, Leonie M"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2024/12/06/multimedia/00google-antitrust-hfo-mwhc/00google-antitrust-hfo-mwhc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The federal courthouse in Alexandria, Va., where the Google antitrust trial has been held.",
+                "copyright": "Pete Marovich for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/12/06/multimedia/00google-antitrust-hfo-mwhc/00google-antitrust-hfo-mwhc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The federal courthouse in Alexandria, Va., where the Google antitrust trial has been held.",
+                "copyright": "Pete Marovich for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/12/06/multimedia/00google-antitrust-hfo-mwhc/00google-antitrust-hfo-mwhc-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The federal courthouse in Alexandria, Va., where the Google antitrust trial has been held.",
+                "copyright": "Pete Marovich for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "White House Eyes Overhaul of Federal Housing Aid to the Poor",
+        "abstract": "The Trump administration has considered sharply curtailing vouchers as part of its budget for the 2026 fiscal year.",
+        "url": "https://www.nytimes.com/2025/04/17/us/politics/housing-aid-hud-federal-budget.html",
+        "uri": "nyt://article/3d949fd2-e4d3-5d46-8e02-29fc2b6d64d7",
+        "byline": "By Tony Romm",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T11:05:15-04:00",
+        "created_date": "2025-04-17T10:22:57-04:00",
+        "published_date": "2025-04-17T10:22:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Federal Budget (US)",
+            "Federal Aid (US)",
+            "Affordable Housing",
+            "Public and Subsidized Housing",
+            "Section 8 (Housing)",
+            "Poverty",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Housing and Urban Development Department",
+            "Office of Management and Budget (US)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Vought, Russell T"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17DC-WH-BUDGET-bljt/17DC-WH-BUDGET-bljt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The expected cuts to rental assistance reflect President Trump’s broader desire to shrink the footprint of government and its reach into Americans’ lives.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17DC-WH-BUDGET-bljt/17DC-WH-BUDGET-bljt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The expected cuts to rental assistance reflect President Trump’s broader desire to shrink the footprint of government and its reach into Americans’ lives.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17DC-WH-BUDGET-bljt/17DC-WH-BUDGET-bljt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The expected cuts to rental assistance reflect President Trump’s broader desire to shrink the footprint of government and its reach into Americans’ lives.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Republican Lawmakers Face Fresh Backlash to Trump at Home",
+        "abstract": "Despite some attempts to create controlled environments aimed at thwarting disruptions by protesters, congressional Republicans who are holding town halls are catching continued heat from their constituents.",
+        "url": "https://www.nytimes.com/2025/04/17/us/politics/republican-lawmakers-trump-backlash.html",
+        "uri": "nyt://article/aa88625a-3052-54c9-a239-763a5b7ecdda",
+        "byline": "By Michael Gold and Maya C. Miller",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T05:05:52-04:00",
+        "created_date": "2025-04-17T05:05:52-04:00",
+        "published_date": "2025-04-17T05:05:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Abrego Garcia, Kilmar Armando",
+            "Grassley, Charles E",
+            "Greene, Marjorie Taylor (1974- )"
+        ],
+        "geo_facet": [
+            "Iowa",
+            "Georgia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-townhalls-cbkp/17dc-townhalls-cbkp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "At a town hall in southeastern Iowa on Tuesday. Senator Charles E. Grassley was bombarded with complaints about President Trump’s policies, including tariffs and immigration.",
+                "copyright": "Thalassa Raasch for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-townhalls-cbkp/17dc-townhalls-cbkp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "At a town hall in southeastern Iowa on Tuesday. Senator Charles E. Grassley was bombarded with complaints about President Trump’s policies, including tariffs and immigration.",
+                "copyright": "Thalassa Raasch for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-townhalls-cbkp/17dc-townhalls-cbkp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "At a town hall in southeastern Iowa on Tuesday. Senator Charles E. Grassley was bombarded with complaints about President Trump’s policies, including tariffs and immigration.",
+                "copyright": "Thalassa Raasch for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The Ukrainian Schoolmaster Teaching History to His Invaders",
+        "abstract": "Vitalii Dribnytsia engages with Russians online to correct Kremlin propaganda about Ukraine. Over time, he has come to realize his more important audience is Ukrainians themselves.",
+        "url": "https://www.nytimes.com/2025/04/17/world/europe/ukraine-history-russian-falsehoods.html",
+        "uri": "nyt://article/1f599baa-3d6b-5fc5-a3b0-966d4e698d6b",
+        "byline": "By Constant Méheut",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T05:00:18-04:00",
+        "created_date": "2025-04-17T05:00:18-04:00",
+        "published_date": "2025-04-17T05:00:18-04:00",
+        "material_type_facet": "",
+        "kicker": "The Global Profile",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "History (Academic Subject)",
+            "Education",
+            "Rumors and Misinformation",
+            "Content Type: Personal Profile",
+            "Propaganda",
+            "Video Recordings, Downloads and Streaming",
+            "Defense and Military Forces",
+            "Teachers and School Employees"
+        ],
+        "org_facet": [
+            "ChatRoulette"
+        ],
+        "per_facet": [
+            "Vitalii Dribnytsia"
+        ],
+        "geo_facet": [
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/ukraine-historian-profile-01-pmvq/ukraine-historian-profile-01-pmvq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vitalii Dribnytsia, a former history teacher, speaks with someone in Russia via Chatroulette, where he often challenges Russians on their understanding of history. ",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/ukraine-historian-profile-01-pmvq/ukraine-historian-profile-01-pmvq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vitalii Dribnytsia, a former history teacher, speaks with someone in Russia via Chatroulette, where he often challenges Russians on their understanding of history. ",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/ukraine-historian-profile-01-pmvq/ukraine-historian-profile-01-pmvq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vitalii Dribnytsia, a former history teacher, speaks with someone in Russia via Chatroulette, where he often challenges Russians on their understanding of history. ",
+                "copyright": "Brendan Hoffman for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "style",
+        "subsection": "",
+        "title": "Stoking Uncertainty, Fyre Fest Organizers Again Scrap Location",
+        "abstract": "The organizers of Fyre Festival 2, a sequel to the ill-fated music event in 2017, said the festival would not longer take place in Playa del Carmen.",
+        "url": "https://www.nytimes.com/2025/04/16/style/fyre-festival-2-location.html",
+        "uri": "nyt://article/c1572d91-104e-592f-bb7a-d7fd66447603",
+        "byline": "By Madison Malone Kircher",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T10:31:38-04:00",
+        "created_date": "2025-04-16T19:25:37-04:00",
+        "published_date": "2025-04-16T19:25:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Festivals",
+            "Music"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "McFarland, Billy (1991- )"
+        ],
+        "geo_facet": [
+            "Playa del Carmen (Mexico)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/ST-FYRE-FEST-01-pcjf/ST-FYRE-FEST-01-pcjf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Some of the remnants of the ill-fated Fyre Festival that took place in 2017. A sequel to the event was announced in February.",
+                "copyright": "Scott McIntyre for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/ST-FYRE-FEST-01-pcjf/ST-FYRE-FEST-01-pcjf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Some of the remnants of the ill-fated Fyre Festival that took place in 2017. A sequel to the event was announced in February.",
+                "copyright": "Scott McIntyre for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/ST-FYRE-FEST-01-pcjf/ST-FYRE-FEST-01-pcjf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Some of the remnants of the ill-fated Fyre Festival that took place in 2017. A sequel to the event was announced in February.",
+                "copyright": "Scott McIntyre for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
