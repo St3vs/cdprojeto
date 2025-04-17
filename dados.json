@@ -57762,5 +57762,638 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Mother of Woman Killed by Immigrant Speaks at White House Briefing",
+        "abstract": "The appearance by Patty Morin came as a federal judge threatened the Trump administration with a contempt-of-court investigation over its deportation flights to El Salvador.",
+        "url": "https://www.nytimes.com/2025/04/16/us/politics/immigrant-killing-deportations-leavitt-garcia.html",
+        "uri": "nyt://article/26315e83-d286-5463-8758-4591cab8f842",
+        "byline": "By David E. Sanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T20:42:12-04:00",
+        "created_date": "2025-04-16T20:36:13-04:00",
+        "published_date": "2025-04-16T20:36:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Deportation",
+            "Illegal Immigration",
+            "Domestic Violence"
+        ],
+        "org_facet": [
+            "Mara Salvatrucha (MS-13)"
+        ],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Leavitt, Karoline",
+            "Trump, Donald J",
+            "Van Hollen, Christopher Jr",
+            "Morin, Rachel"
+        ],
+        "geo_facet": [
+            "El Salvador",
+            "Maryland"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16dc-TRUMP-IMMIG-vqzg/16dc-TRUMP-IMMIG-vqzg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Patty Morin joined a briefing at the White House on Wednesday and recounted the murder of her daughter, Rachel Morin, who was killed by an immigrant in 2023.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16dc-TRUMP-IMMIG-vqzg/16dc-TRUMP-IMMIG-vqzg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Patty Morin joined a briefing at the White House on Wednesday and recounted the murder of her daughter, Rachel Morin, who was killed by an immigrant in 2023.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16dc-TRUMP-IMMIG-vqzg/16dc-TRUMP-IMMIG-vqzg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Patty Morin joined a briefing at the White House on Wednesday and recounted the murder of her daughter, Rachel Morin, who was killed by an immigrant in 2023.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Waved Off Israeli Strike After Divisions Emerged in His Administration",
+        "abstract": "Israel developed plans for attacking Iranian nuclear facilities that would have required U.S. assistance. But some administration officials had doubts.",
+        "url": "https://www.nytimes.com/2025/04/16/us/politics/trump-israel-iran-nuclear.html",
+        "uri": "nyt://article/575f937a-9834-50ea-b83d-7ae93e2cda59",
+        "byline": "By Julian E. Barnes, Eric Schmitt, Maggie Haberman and Ronen Bergman",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T20:42:39-04:00",
+        "created_date": "2025-04-16T19:12:11-04:00",
+        "published_date": "2025-04-16T19:12:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Iran-Israel Proxy Conflict",
+            "Nuclear Weapons",
+            "Defense and Military Forces",
+            "Politics and Government",
+            "International Relations",
+            "United States International Relations",
+            "United States Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+            "Iran",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16dc-trump-iran-ztfk/16dc-trump-iran-ztfk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel during a meeting with President Trump this month.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16dc-trump-iran-ztfk/16dc-trump-iran-ztfk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel during a meeting with President Trump this month.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16dc-trump-iran-ztfk/16dc-trump-iran-ztfk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel during a meeting with President Trump this month.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Iran Says Shifting U.S. Messages on Nuclear Talks Are ‘Not Helpful’",
+        "abstract": "But Iran’s foreign minister said Tehran planned to participate “calmly and coolly” in the negotiations. Both sides will meet in Rome on Saturday for a second round, Iran’s Foreign Ministry said.",
+        "url": "https://www.nytimes.com/2025/04/16/world/middleeast/iran-trump-nuclear-talks.html",
+        "uri": "nyt://article/bb532e71-69ef-5474-b960-285ee9384649",
+        "byline": "By Farnaz Fassihi",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T19:53:55-04:00",
+        "created_date": "2025-04-16T19:03:36-04:00",
+        "published_date": "2025-04-16T19:03:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Embargoes and Sanctions",
+            "United States International Relations",
+            "Nuclear Weapons"
+        ],
+        "org_facet": [
+            "International Atomic Energy Agency",
+            "United Nations"
+        ],
+        "per_facet": [
+            "Araghchi, Abbas",
+            "Khamenei, Ali",
+            "Grossi, Rafael",
+            "Trump, Donald J",
+            "Waltz, Michael (1974- )"
+        ],
+        "geo_facet": [
+            "Iran",
+            "Oman"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-Iran-US-talks-whzg/16int-Iran-US-talks-whzg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Foreign Minister Abbas Araghchi has been Iran’s envoy in the talks with the United States. He and President Trump’s special envoy, Steve Witkoff, planned to hold a second round of talks on Saturday.",
+                "copyright": "Vahid Salemi/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-Iran-US-talks-whzg/16int-Iran-US-talks-whzg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Foreign Minister Abbas Araghchi has been Iran’s envoy in the talks with the United States. He and President Trump’s special envoy, Steve Witkoff, planned to hold a second round of talks on Saturday.",
+                "copyright": "Vahid Salemi/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-Iran-US-talks-whzg/16int-Iran-US-talks-whzg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Foreign Minister Abbas Araghchi has been Iran’s envoy in the talks with the United States. He and President Trump’s special envoy, Steve Witkoff, planned to hold a second round of talks on Saturday.",
+                "copyright": "Vahid Salemi/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Trump Is Relying More on Tattoos to Identify Gang Members. Experts Say That’s Unreliable.",
+        "abstract": "The administration appears to be using little more than body art to deport people that it says are members of Tren de Aragua, a move that critics say ignores decades of protocol.",
+        "url": "https://www.nytimes.com/2025/04/16/us/tattoos-gangs-tren-de-aragua-immigration.html",
+        "uri": "nyt://article/1d02f58d-e871-5b18-959e-3c68b9dcdb72",
+        "byline": "By Tim Arango, Chelsia Rose Marcius and Jesus Jiménez",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T20:57:56-04:00",
+        "created_date": "2025-04-16T18:59:42-04:00",
+        "published_date": "2025-04-16T18:59:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Tattoos",
+            "Gangs",
+            "Deportation",
+            "Illegal Immigration",
+            "Alien Enemies Act (1798)"
+        ],
+        "org_facet": [
+            "Tren de Aragua (Gang)"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16nat-tattoos-top-hjlk/16nat-tattoos-top-hjlk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Federal immigration agents detaining a man in Denver this year.",
+                "copyright": "Kevin Mohatt/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16nat-tattoos-top-hjlk/16nat-tattoos-top-hjlk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Federal immigration agents detaining a man in Denver this year.",
+                "copyright": "Kevin Mohatt/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16nat-tattoos-top-hjlk/16nat-tattoos-top-hjlk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Federal immigration agents detaining a man in Denver this year.",
+                "copyright": "Kevin Mohatt/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "L.A.’s Schools Chief Knows What It’s Like to Be Undocumented",
+        "abstract": "A visit by federal agents to two elementary schools drew an angry, impassioned response from the superintendent, Alberto Carvalho, a Portuguese immigrant.",
+        "url": "https://www.nytimes.com/2025/04/16/us/alberto-carvalho-superintendent-los-angeles-public-schools.html",
+        "uri": "nyt://article/49ac25c7-5e0e-5428-a9a4-7ecfc9f370df",
+        "byline": "By Jesus Jiménez",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T20:42:05-04:00",
+        "created_date": "2025-04-16T18:39:18-04:00",
+        "published_date": "2025-04-16T18:39:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Teachers and School Employees",
+            "Immigration and Emigration",
+            "Illegal Immigration"
+        ],
+        "org_facet": [
+            "Homeland Security Department"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Los Angeles (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16NAT-CARVALHO-pmjv/16NAT-CARVALHO-pmjv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alberto Carvalho, the superintendent of Los Angeles’s public schools, in 2022. Mr. Carvalho said he himself was once undocumented.",
+                "copyright": "Sarah Reingewirtz/The Orange County Register, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16NAT-CARVALHO-pmjv/16NAT-CARVALHO-pmjv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alberto Carvalho, the superintendent of Los Angeles’s public schools, in 2022. Mr. Carvalho said he himself was once undocumented.",
+                "copyright": "Sarah Reingewirtz/The Orange County Register, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16NAT-CARVALHO-pmjv/16NAT-CARVALHO-pmjv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alberto Carvalho, the superintendent of Los Angeles’s public schools, in 2022. Mr. Carvalho said he himself was once undocumented.",
+                "copyright": "Sarah Reingewirtz/The Orange County Register, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "Astronomers Detect a Possible Signature of Life on a Distant Planet",
+        "abstract": "Further studies are needed to determine whether K2-18b, which orbits a star 120 light-years away, is inhabited, or even habitable.",
+        "url": "https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html",
+        "uri": "nyt://article/1d41dfc3-6337-5925-bc4d-9ce3ef94375d",
+        "byline": "By Carl Zimmer",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T20:45:37-04:00",
+        "created_date": "2025-04-16T19:00:05-04:00",
+        "published_date": "2025-04-16T19:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Space and Astronomy",
+            "Extraterrestrial Life",
+            "Planets",
+            "James Webb Space Telescope"
+        ],
+        "org_facet": [
+            "Cambridge University"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15HS-ALIENS-pcgz/15HS-ALIENS-pcgz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An artist’s conception of a Hycean exoplanet like K2-18b orbiting a red dwarf star.",
+                "copyright": "A. Smith, N. Madhusudhan/University of Cambridge"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15HS-ALIENS-pcgz/15HS-ALIENS-pcgz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An artist’s conception of a Hycean exoplanet like K2-18b orbiting a red dwarf star.",
+                "copyright": "A. Smith, N. Madhusudhan/University of Cambridge"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15HS-ALIENS-pcgz/15HS-ALIENS-pcgz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An artist’s conception of a Hycean exoplanet like K2-18b orbiting a red dwarf star.",
+                "copyright": "A. Smith, N. Madhusudhan/University of Cambridge"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump’s Threats Force Institutions to Choose: Cut a Deal or Fight Back",
+        "abstract": "In a hint of a shift in strategy, some of the country’s most powerful institutions have started choosing to resist.",
+        "url": "https://www.nytimes.com/2025/04/16/us/politics/trump-universities-law-firms-deals.html",
+        "uri": "nyt://article/7f496769-76fa-529d-91ae-e289986d84c9",
+        "byline": "By Luke Broadwater",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T20:32:24-04:00",
+        "created_date": "2025-04-16T19:07:49-04:00",
+        "published_date": "2025-04-16T19:07:49-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States Politics and Government",
+            "Colleges and Universities",
+            "Federal Aid (US)",
+            "Legal Profession"
+        ],
+        "org_facet": [
+            "Harvard University"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15dc-trump-capitulate-fmtb/15dc-trump-capitulate-fmtb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1367,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has succeeded in wrenching enormous concessions through threats, lawsuits and coercion.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15dc-trump-capitulate-fmtb/15dc-trump-capitulate-fmtb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has succeeded in wrenching enormous concessions through threats, lawsuits and coercion.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15dc-trump-capitulate-fmtb/15dc-trump-capitulate-fmtb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has succeeded in wrenching enormous concessions through threats, lawsuits and coercion.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Space Travel and Tuberculosis Research Are Hit by Trump’s Harvard Cuts",
+        "abstract": "Researchers who have lost funds warned of long-term repercussions, but several said their school should still refuse to comply with the federal government.",
+        "url": "https://www.nytimes.com/2025/04/16/us/trump-harvard-cuts-sarah-fortune-tuberculosis.html",
+        "uri": "nyt://article/6b32103d-6864-5350-a084-ccaae9e9eaa5",
+        "byline": "By Stephanie Saul and Alan Blinder",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T20:19:09-04:00",
+        "created_date": "2025-04-16T19:12:20-04:00",
+        "published_date": "2025-04-16T19:12:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Colleges and Universities",
+            "Research",
+            "Tuberculosis",
+            "Radiation"
+        ],
+        "org_facet": [
+            "Harvard University",
+            "National Institutes of Health"
+        ],
+        "per_facet": [
+            "Fortune, Sarah M",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16nat-har-fortune1-wklc/16nat-har-fortune1-wklc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dr. Sarah Fortune at her lab at the Harvard School of Public Health where she does research on tuberculosis.",
+                "copyright": "Cody O'Loughlin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16nat-har-fortune1-wklc/16nat-har-fortune1-wklc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dr. Sarah Fortune at her lab at the Harvard School of Public Health where she does research on tuberculosis.",
+                "copyright": "Cody O'Loughlin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16nat-har-fortune1-wklc/16nat-har-fortune1-wklc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dr. Sarah Fortune at her lab at the Harvard School of Public Health where she does research on tuberculosis.",
+                "copyright": "Cody O'Loughlin for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Trump Administration Halts Building of Giant Wind Farm Off N.Y. Coast",
+        "abstract": "Gov. Kathy Hochul quickly responded that she would “fight this decision every step of the way.”",
+        "url": "https://www.nytimes.com/2025/04/16/nyregion/empire-wind-farm-trump-ny.html",
+        "uri": "nyt://article/dcd4a656-45c8-5594-8984-cb63f3e8448a",
+        "byline": "By Patrick McGeehan",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T19:12:45-04:00",
+        "created_date": "2025-04-16T19:12:45-04:00",
+        "published_date": "2025-04-16T19:12:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Wind Power",
+            "Government Contracts and Procurement",
+            "Energy and Power",
+            "Electric Light and Power"
+        ],
+        "org_facet": [
+            "Equinor ASA"
+        ],
+        "per_facet": [
+            "Burgum, Douglas",
+            "Hochul, Kathleen C",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Long Island (NY)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2024/04/25/multimedia/15met-windfarm-top/00cli-TrumpReversals-03-bcwl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A wind turbine off the coast of Montauk, N.Y. The Empire Wind project was designed to produce 810 megawatts of energy.",
+                "copyright": "Joe Buglewicz for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/04/25/multimedia/15met-windfarm-top/00cli-TrumpReversals-03-bcwl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A wind turbine off the coast of Montauk, N.Y. The Empire Wind project was designed to produce 810 megawatts of energy.",
+                "copyright": "Joe Buglewicz for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/04/25/multimedia/15met-windfarm-top/00cli-TrumpReversals-03-bcwl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A wind turbine off the coast of Montauk, N.Y. The Empire Wind project was designed to produce 810 megawatts of energy.",
+                "copyright": "Joe Buglewicz for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Michelle Trachtenberg, ‘Buffy’ Actress, Died From Complications of Diabetes",
+        "abstract": "The New York City medical examiner’s office determined the cause and manner of her death after reviewing toxicology test results, a spokeswoman said.",
+        "url": "https://www.nytimes.com/2025/04/16/us/michelle-trachtenberg-cause-of-death-diabetes.html",
+        "uri": "nyt://article/e5cf2753-d127-5ee8-98ed-9eb1250b56ec",
+        "byline": "By Alexandra E. Petri",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T19:11:09-04:00",
+        "created_date": "2025-04-16T18:58:36-04:00",
+        "published_date": "2025-04-16T18:58:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "Office of the Chief Medical Examiner of the City of New York"
+        ],
+        "per_facet": [
+            "Trachtenberg, Michelle"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16xp-Michelle-Trachtenberg-3-pgwk/16xp-Michelle-Trachtenberg-3-pgwk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1375,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Michelle Trachtenberg in 2014. A former child star, she found a new level of fame as a troubled teenager in the supernatural series “Buffy the Vampire Slayer” and, later, in “Gossip Girl.”",
+                "copyright": "Richard Shotwell/Invision, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16xp-Michelle-Trachtenberg-3-pgwk/16xp-Michelle-Trachtenberg-3-pgwk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Michelle Trachtenberg in 2014. A former child star, she found a new level of fame as a troubled teenager in the supernatural series “Buffy the Vampire Slayer” and, later, in “Gossip Girl.”",
+                "copyright": "Richard Shotwell/Invision, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16xp-Michelle-Trachtenberg-3-pgwk/16xp-Michelle-Trachtenberg-3-pgwk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Michelle Trachtenberg in 2014. A former child star, she found a new level of fame as a troubled teenager in the supernatural series “Buffy the Vampire Slayer” and, later, in “Gossip Girl.”",
+                "copyright": "Richard Shotwell/Invision, via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
