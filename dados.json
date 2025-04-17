@@ -60432,5 +60432,249 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "The Hidden Torments of the Firefighter With O.C.D.",
+        "abstract": "For years, Timmy Reen tried to hide his compulsions and rituals from everyone at his New York City firehouse — until his secret was forced out in the open.",
+        "url": "https://www.nytimes.com/2025/04/17/nyregion/firefighter-mental-health-ocd.html",
+        "uri": "nyt://article/909d1ae6-c299-5076-8d17-17635ed259bc",
+        "byline": "By Joseph Goldstein",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T11:42:40-04:00",
+        "created_date": "2025-04-17T03:00:19-04:00",
+        "published_date": "2025-04-17T03:00:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Fires and Firefighters",
+            "Coronavirus (2019-nCoV)",
+            "Vaccination and Immunization",
+            "Obsessive-Compulsive Disorder",
+            "Subways",
+            "Habits and Routines (Behavior)",
+            "Content Type: Personal Profile",
+            "Hygiene and Cleanliness"
+        ],
+        "org_facet": [
+            "Fire Department (NYC)"
+        ],
+        "per_facet": [
+            "Timmy Reen"
+        ],
+        "geo_facet": [
+            "Rockaway Peninsula (Queens, NY)",
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00met-ocd-firefighter-promo/00met-ocd-firefighter-promo-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jeenah Moon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00met-ocd-firefighter-promo/00met-ocd-firefighter-promo-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jeenah Moon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00met-ocd-firefighter-promo/00met-ocd-firefighter-promo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jeenah Moon for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "magazine",
+        "subsection": "",
+        "title": "Lawyer Up? Increasingly, Americans Won’t, or Can’t.",
+        "abstract": "It’s dangerous to go to court without legal representation — but more Americans are going it alone.",
+        "url": "https://www.nytimes.com/2025/04/17/magazine/lawyers-civil-court.html",
+        "uri": "nyt://article/2e0a26fb-ce1c-5d41-a457-503ee0780816",
+        "byline": "By Rowan Moore Gerety",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T08:22:39-04:00",
+        "created_date": "2025-04-17T05:01:31-04:00",
+        "published_date": "2025-04-17T05:01:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Suits and Litigation (Civil)",
+            "Courts and the Judiciary",
+            "Divorce, Separations and Annulments",
+            "Legal Aid for the Poor (Civil)",
+            "Child Custody and Support",
+            "Income Inequality",
+            "Family Courts"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/magazine/20Mag-Litigation/20Mag-Litigation-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1977,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by Matt Dorfman"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/magazine/20Mag-Litigation/20Mag-Litigation-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by Matt Dorfman"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/magazine/20Mag-Litigation/20Mag-Litigation-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by Matt Dorfman"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "style",
+        "subsection": "",
+        "title": "Gloria Gaynor Hit Hard Times After ‘I Will Survive.’ Now She’s Back.",
+        "abstract": "The disco queen was in the doldrums before she decided to take control of her life and career. Now, at 81, she’s reaping the rewards.",
+        "url": "https://www.nytimes.com/2025/04/17/style/gloria-gaynor-i-will-survive.html",
+        "uri": "nyt://article/92d1f2c3-a432-5580-b482-3938df325940",
+        "byline": "By Steven Kurutz",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T09:45:32-04:00",
+        "created_date": "2025-04-17T05:01:08-04:00",
+        "published_date": "2025-04-17T05:01:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Pop and Rock Music",
+            "Content Type: Personal Profile",
+            "I Will Survive (Song)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Gaynor, Gloria"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17ST-GLORIA-GAYNOR-01-gcpl/17ST-GLORIA-GAYNOR-01-gcpl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1658,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“The time of staying in the shadows helped me to come out of the shadows,” Ms. Gaynor said.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17ST-GLORIA-GAYNOR-01-gcpl/17ST-GLORIA-GAYNOR-01-gcpl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“The time of staying in the shadows helped me to come out of the shadows,” Ms. Gaynor said.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17ST-GLORIA-GAYNOR-01-gcpl/17ST-GLORIA-GAYNOR-01-gcpl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“The time of staying in the shadows helped me to come out of the shadows,” Ms. Gaynor said.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Can an Institution With a Horrific Past Be Rebuilt for a Promising Future?",
+        "abstract": "The former Hospital for the Negro Insane of Maryland was once the state’s most crowded psychiatric institution. Pulling off a plan to redevelop it won’t be easy.",
+        "url": "https://www.nytimes.com/2025/04/17/business/crownsville-maryland-development.html",
+        "uri": "nyt://article/b42b900c-17c7-5920-87d1-27efe62f4a1d",
+        "byline": "By Alexander Nazaryan",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T11:29:19-04:00",
+        "created_date": "2025-04-17T05:00:14-04:00",
+        "published_date": "2025-04-17T05:00:14-04:00",
+        "material_type_facet": "",
+        "kicker": "square feet",
+        "des_facet": [
+            "Real Estate (Commercial)",
+            "Historic Buildings and Sites",
+            "Restoration and Renovation"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Maryland"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/multimedia/00biz-crownsville-hvqj/00biz-crownsville-hvqj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Crownsville Hospital Center, formerly called the Hospital for the Negro Insane of Maryland, is a relic of the area’s painful history during segregation.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/multimedia/00biz-crownsville-hvqj/00biz-crownsville-hvqj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Crownsville Hospital Center, formerly called the Hospital for the Negro Insane of Maryland, is a relic of the area’s painful history during segregation.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/multimedia/00biz-crownsville-hvqj/00biz-crownsville-hvqj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Crownsville Hospital Center, formerly called the Hospital for the Negro Insane of Maryland, is a relic of the area’s painful history during segregation.",
+                "copyright": "Erin Schaff/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
