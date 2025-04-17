@@ -58903,5 +58903,648 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "A Legal Battle Over Trump’s Threats to Public School Funding Has Begun",
+        "abstract": "Can President Trump withhold federal money for low-income students? A brewing fight over diversity, equity and inclusion programs may force the courts to decide.",
+        "url": "https://www.nytimes.com/2025/04/17/us/dei-public-schools-trump-administration-lawsuit.html",
+        "uri": "nyt://article/4dbb75c4-b823-5a8a-8dcd-a1f81d342ebf",
+        "byline": "By Sarah Mervosh and Dana Goldstein",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T05:18:17-04:00",
+        "created_date": "2025-04-17T05:05:23-04:00",
+        "published_date": "2025-04-17T05:05:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "States (US)",
+            "Law and Legislation",
+            "Education (K-12)",
+            "Diversity Initiatives",
+            "Civil Rights and Liberties"
+        ],
+        "org_facet": [
+            "American Federation of Teachers",
+            "National Assn for the Advancement of Colored People"
+        ],
+        "per_facet": [
+            "Carvalho, Alberto M",
+            "Driver, Justin (Scholar)"
+        ],
+        "geo_facet": [
+            "New Hampshire"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17nat-dei-k12-01-vzlj/17nat-dei-k12-01-vzlj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Public schools in the United States receive only about 10 percent of their funding from the federal government.",
+                "copyright": "Erin Kirkland for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17nat-dei-k12-01-vzlj/17nat-dei-k12-01-vzlj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Public schools in the United States receive only about 10 percent of their funding from the federal government.",
+                "copyright": "Erin Kirkland for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17nat-dei-k12-01-vzlj/17nat-dei-k12-01-vzlj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Public schools in the United States receive only about 10 percent of their funding from the federal government.",
+                "copyright": "Erin Kirkland for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Europe Seeks a Direct Line to Trump, Skeptical That Aides Speak for Him",
+        "abstract": "Despite Europe’s size, economic might and longstanding alliances with Washington, Trump officials have made clear it is not a priority, European officials say.",
+        "url": "https://www.nytimes.com/2025/04/17/world/europe/europe-trump-trade-defense.html",
+        "uri": "nyt://article/7779b22f-dbea-56a3-bb12-5132dbd61fdc",
+        "byline": "By Steven Erlanger, Jeanna Smialek, Lara Jakes, Mark Landler and Aurelien Breeden",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T04:29:17-04:00",
+        "created_date": "2025-04-17T00:01:10-04:00",
+        "published_date": "2025-04-17T00:01:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "International Relations",
+            "United States Defense and Military Forces",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "European Union",
+            "European Commission",
+            "North Atlantic Treaty Organization"
+        ],
+        "per_facet": [
+            "Macron, Emmanuel (1977- )",
+            "Meloni, Giorgia (1977- )",
+            "Rutte, Mark",
+            "Trump, Donald J",
+            "Lutnick, Howard W"
+        ],
+        "geo_facet": [
+            "Europe",
+            "France",
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-europe-trump-01-blpt/17int-europe-trump-01-blpt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In President Trump’s White House, he is the ultimate decision maker, and is far from a predictable one.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-europe-trump-01-blpt/17int-europe-trump-01-blpt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In President Trump’s White House, he is the ultimate decision maker, and is far from a predictable one.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-europe-trump-01-blpt/17int-europe-trump-01-blpt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In President Trump’s White House, he is the ultimate decision maker, and is far from a predictable one.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "design",
+        "title": "A Guided Tour: Inside the Splendor of the New Frick",
+        "abstract": "Our art critic goes room-by-room through New York’s Gilded Age house museum, reopening after nearly five years. Don’t miss the new upstairs galleries.",
+        "url": "https://www.nytimes.com/interactive/2025/03/19/arts/design/frick-museum-reopening-nyc.html",
+        "uri": "nyt://interactive/89701986-b80f-553f-bfef-b1973eed8e76",
+        "byline": "By Holland Cotter",
+        "item_type": "Interactive",
+        "updated_date": "2025-03-21T11:30:45-04:00",
+        "created_date": "2025-03-19T22:02:14-04:00",
+        "published_date": "2025-03-19T22:02:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Art",
+            "Museums",
+            "Collectors and Collections",
+            "Restoration and Renovation",
+            "vis-design",
+            "vis-photo"
+        ],
+        "org_facet": [
+            "Frick Collection"
+        ],
+        "per_facet": [
+            "Frick, Henry Clay"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/21/multimedia/cul-frick-cotter-promo-vjcm/cul-frick-cotter-promo-vjcm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Adrianna Glaviano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/21/multimedia/cul-frick-cotter-promo-vjcm/cul-frick-cotter-promo-vjcm-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Adrianna Glaviano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/21/multimedia/cul-frick-cotter-promo-vjcm/cul-frick-cotter-promo-vjcm-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Adrianna Glaviano for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Can China Fight Deflation and Trump’s Tariffs at the Same Time?",
+        "abstract": "China is facing a double whammy: corrosive deflation and tariffs that threaten to block trade. Chinese workers will be the biggest casualties.",
+        "url": "https://www.nytimes.com/2025/04/17/business/china-deflation-trump-tariffs.html",
+        "uri": "nyt://article/5a99e1da-e86f-5b8a-9f19-a4e4a1750ad9",
+        "byline": "By Alexandra Stevenson",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T05:22:18-04:00",
+        "created_date": "2025-04-17T05:05:27-04:00",
+        "published_date": "2025-04-17T05:05:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Economic Conditions and Trends",
+            "Deflation (Economics)",
+            "International Trade and World Market",
+            "Labor and Jobs",
+            "Wages and Salaries"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "China",
+            "Shanghai (China)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17Biz-China-Deflation-01-whfb/17Biz-China-Deflation-01-whfb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Meituan delivery drivers in yellow in Shanghai in April 2021.",
+                "copyright": "Ng Han Guan/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17Biz-China-Deflation-01-whfb/17Biz-China-Deflation-01-whfb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Meituan delivery drivers in yellow in Shanghai in April 2021.",
+                "copyright": "Ng Han Guan/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17Biz-China-Deflation-01-whfb/17Biz-China-Deflation-01-whfb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Meituan delivery drivers in yellow in Shanghai in April 2021.",
+                "copyright": "Ng Han Guan/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "realestate",
+        "subsection": "",
+        "title": "Mr. Zuckerberg Goes to Washington and Buys a Mansion",
+        "abstract": "Mark Zuckerberg’s political ideology and tastes have evolved. His real estate portfolio reflects the shift.",
+        "url": "https://www.nytimes.com/2025/04/17/realestate/mark-zuckerberg-washington-dc-mansion.html",
+        "uri": "nyt://article/57f8e21b-8d49-50df-acb7-dace9c87f826",
+        "byline": "By Anna Kodé",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T05:02:07-04:00",
+        "created_date": "2025-04-17T05:02:07-04:00",
+        "published_date": "2025-04-17T05:02:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Social Media",
+            "Real Estate and Housing (Residential)",
+            "Presidential Election of 2024",
+            "Antitrust Laws and Competition Issues"
+        ],
+        "org_facet": [
+            "Facebook Inc",
+            "Meta Platforms Inc"
+        ],
+        "per_facet": [
+            "Zuckerberg, Mark E"
+        ],
+        "geo_facet": [
+            "Washington (DC)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17re-zuckerberg-05-ckjw/17re-zuckerberg-05-ckjw-superJumbo-v4.jpg",
+                "format": "Super Jumbo",
+                "height": 1342,
+                "width": 895,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mr. Zuckerberg’s new home, shown here in a picture provided by the architect.",
+                "copyright": "Anice Hoachlander for Robert Gurney"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17re-zuckerberg-05-ckjw/17re-zuckerberg-05-ckjw-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mr. Zuckerberg’s new home, shown here in a picture provided by the architect.",
+                "copyright": "Anice Hoachlander for Robert Gurney"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17re-zuckerberg-05-ckjw/17re-zuckerberg-05-ckjw-thumbLarge-v4.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mr. Zuckerberg’s new home, shown here in a picture provided by the architect.",
+                "copyright": "Anice Hoachlander for Robert Gurney"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "One Town Says, Yes, You Can Have Too Many Capybaras",
+        "abstract": "The world’s largest rodent is multiplying in — and dividing — one of Argentina’s most exclusive gated communities.",
+        "url": "https://www.nytimes.com/2025/04/17/world/americas/argentina-capybaras-vasectomies.html",
+        "uri": "nyt://article/10183610-4a62-5821-a9bc-d90d6f2819b3",
+        "byline": "By Jack Nicas and Anita Pouchard Serra",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T05:01:40-04:00",
+        "created_date": "2025-04-17T05:01:40-04:00",
+        "published_date": "2025-04-17T05:01:40-04:00",
+        "material_type_facet": "",
+        "kicker": "Argentina dispatch",
+        "des_facet": [
+            "Animal Behavior",
+            "Sterilization (Reproductive)",
+            "Rodents"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Argentina"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-argentina-capybara-dispatch-promo/00int-argentina-capybara-dispatch-top-fjzq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A family of capybaras near a lake in Nordelta, a gated community north of Buenos Aires.",
+                "copyright": "Anita Pouchard Serra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-argentina-capybara-dispatch-promo/00int-argentina-capybara-dispatch-top-fjzq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A family of capybaras near a lake in Nordelta, a gated community north of Buenos Aires.",
+                "copyright": "Anita Pouchard Serra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-argentina-capybara-dispatch-promo/00int-argentina-capybara-dispatch-top-fjzq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A family of capybaras near a lake in Nordelta, a gated community north of Buenos Aires.",
+                "copyright": "Anita Pouchard Serra for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "The Emergency Is Here",
+        "abstract": "Trump is disappearing people to a Salvadoran prison for terrorists. And he says he wants to send “homegrown” Americans there next.",
+        "url": "https://www.nytimes.com/2025/04/17/opinion/ezra-klein-podcast-asha-rangappa.html",
+        "uri": "nyt://article/42b5d01e-cd25-52da-b4bb-ec99d0781f23",
+        "byline": "By Ezra Klein",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T05:59:53-04:00",
+        "created_date": "2025-04-17T05:05:41-04:00",
+        "published_date": "2025-04-17T05:05:41-04:00",
+        "material_type_facet": "",
+        "kicker": "The Ezra Klein Show",
+        "des_facet": [
+            "United States Politics and Government",
+            "audio-neutral-informative",
+            "Presidential Power (US)",
+            "Right-Wing Extremism and Alt-Right",
+            "Courts and the Judiciary",
+            "War and Emergency Powers (US)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Asha Rangappa",
+            "Abrego Garcia, Kilmar Armando",
+            "Bukele, Nayib",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "El Salvador",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/opinion/17eks-rangappa/17eks-rangappa-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photograph by Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/opinion/17eks-rangappa/17eks-rangappa-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photograph by Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/opinion/17eks-rangappa/17eks-rangappa-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photograph by Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "Stephen Colbert Defends PBS and NPR Against Trump’s Defunding Plan",
+        "abstract": "Colbert said both public media entities are “already operating on a shoestring budget — Daniel Tiger can’t even afford to wear pants.”",
+        "url": "https://www.nytimes.com/2025/04/17/arts/television/stephen-colbert-pbs-npr-trump.html",
+        "uri": "nyt://article/6ba319d1-4328-5755-9de2-cc0c9fa002eb",
+        "byline": "By Trish Bendix",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T02:12:33-04:00",
+        "created_date": "2025-04-17T02:12:33-04:00",
+        "published_date": "2025-04-17T02:12:33-04:00",
+        "material_type_facet": "",
+        "kicker": "Best of Late Night",
+        "des_facet": [
+            "Television",
+            "Jimmy Kimmel Live (TV Program)",
+            "Late Show with Stephen Colbert (TV Program)",
+            "The Daily Show with Trevor Noah (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kimmel, Jimmy",
+            "Colbert, Stephen",
+            "Chieng, Ronny (Comedian)"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/arts/17latenight/17latenight-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1022,
+                "width": 1817,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“So NPR fans, get ready for ‘Fresh Air’ to become ‘Cough Cough,’ and PBS fans can look forward to ‘Sesame Street: Bert and Ernie Have Wives Now,’” Stephen Colbert said.",
+                "copyright": "CBS"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/arts/17latenight/17latenight-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“So NPR fans, get ready for ‘Fresh Air’ to become ‘Cough Cough,’ and PBS fans can look forward to ‘Sesame Street: Bert and Ernie Have Wives Now,’” Stephen Colbert said.",
+                "copyright": "CBS"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/arts/17latenight/17latenight-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“So NPR fans, get ready for ‘Fresh Air’ to become ‘Cough Cough,’ and PBS fans can look forward to ‘Sesame Street: Bert and Ernie Have Wives Now,’” Stephen Colbert said.",
+                "copyright": "CBS"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Michigan’s Newest Senate Candidate Urges Tougher Stance on Trump",
+        "abstract": "Dr. Abdul El-Sayed, a progressive former public health official, is joining the Democratic race to succeed Senator Gary Peters, who is retiring.",
+        "url": "https://www.nytimes.com/2025/04/17/us/politics/michigan-senate-race-abdul-el-sayed.html",
+        "uri": "nyt://article/3232f1af-d19c-5c43-9409-8b716fbef843",
+        "byline": "By Katie Glueck",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T05:06:00-04:00",
+        "created_date": "2025-04-17T05:06:00-04:00",
+        "published_date": "2025-04-17T05:06:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Elections, Senate"
+        ],
+        "org_facet": [
+            "Democratic Party"
+        ],
+        "per_facet": [
+            "El-Sayed, Abdul",
+            "McMorrow, Mallory",
+            "Peters, Gary"
+        ],
+        "geo_facet": [
+            "Michigan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/us/politics/17pol-michigan-senate-topart/17pol-michigan-senate-topart-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dr. Abdul El-Sayed at a protest against the Trump administration in Lansing, Mich., this month. He ran unsuccessfully for governor of Michigan in 2018.",
+                "copyright": "Andrew Roth/ZUMA Press Wire, via Alamy Live News"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/us/politics/17pol-michigan-senate-topart/17pol-michigan-senate-topart-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dr. Abdul El-Sayed at a protest against the Trump administration in Lansing, Mich., this month. He ran unsuccessfully for governor of Michigan in 2018.",
+                "copyright": "Andrew Roth/ZUMA Press Wire, via Alamy Live News"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/us/politics/17pol-michigan-senate-topart/17pol-michigan-senate-topart-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dr. Abdul El-Sayed at a protest against the Trump administration in Lansing, Mich., this month. He ran unsuccessfully for governor of Michigan in 2018.",
+                "copyright": "Andrew Roth/ZUMA Press Wire, via Alamy Live News"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Trump Names Interim U.S. Attorney for Manhattan, Bypassing Schumer",
+        "abstract": "Senator Chuck Schumer had said he would block the permanent appointment of Jay Clayton, the president’s choice to head one of the nation’s most prestigious prosecutor’s offices.",
+        "url": "https://www.nytimes.com/2025/04/16/nyregion/trump-clayton-schumer-sdny-interim-appointment.html",
+        "uri": "nyt://article/56804182-ef2c-52b1-ba8d-fe6df31bee4b",
+        "byline": "By Benjamin Weiser and Santul Nerkar",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T04:26:57-04:00",
+        "created_date": "2025-04-16T20:54:15-04:00",
+        "published_date": "2025-04-16T20:54:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Federal Courts (US)",
+            "Appointments and Executive Changes",
+            "United States Attorneys",
+            "Presidential Election of 2024"
+        ],
+        "org_facet": [
+            "Senate",
+            "Southern District of New York",
+            "Eastern District of New York",
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Clayton, Walter J"
+        ],
+        "geo_facet": [
+            "Manhattan (NYC)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16met-sdny-clayton-qkfh/16met-sdny-clayton-qkfh-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jay Clayton, a lawyer at the firm Sullivan & Cromwell who has never been a prosecutor, served as chairman of the Securities and Exchange Commission from 2017 to 2020.",
+                "copyright": "Brendan Mcdermid/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16met-sdny-clayton-qkfh/16met-sdny-clayton-qkfh-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jay Clayton, a lawyer at the firm Sullivan & Cromwell who has never been a prosecutor, served as chairman of the Securities and Exchange Commission from 2017 to 2020.",
+                "copyright": "Brendan Mcdermid/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16met-sdny-clayton-qkfh/16met-sdny-clayton-qkfh-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jay Clayton, a lawyer at the firm Sullivan & Cromwell who has never been a prosecutor, served as chairman of the Securities and Exchange Commission from 2017 to 2020.",
+                "copyright": "Brendan Mcdermid/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
