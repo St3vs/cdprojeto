@@ -58395,5 +58395,202 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "I.R.S. Is Said to Be Considering Whether to Revoke Harvard’s Tax-Exempt Status",
+        "abstract": "The move would be a major escalation of the Trump administration’s attempts to choke off federal money and support for the leading research university.",
+        "url": "https://www.nytimes.com/2025/04/16/us/politics/trump-irs-harvard.html",
+        "uri": "nyt://article/bc8d5c1a-a449-56d8-abf6-aa57bbae9890",
+        "byline": "By Andrew Duehren and Maggie Haberman",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T22:56:22-04:00",
+        "created_date": "2025-04-16T22:04:17-04:00",
+        "published_date": "2025-04-16T22:04:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Colleges and Universities"
+        ],
+        "org_facet": [
+            "Harvard University"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Noem, Kristi"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/01/31/multimedia/16dc-irs-harvard/31nat-universities-lobbying-print2-bvpz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has called for the I.R.S. revoke Harvard’s tax-exempt status.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/01/31/multimedia/16dc-irs-harvard/31nat-universities-lobbying-print2-bvpz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has called for the I.R.S. revoke Harvard’s tax-exempt status.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/01/31/multimedia/16dc-irs-harvard/31nat-universities-lobbying-print2-bvpz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has called for the I.R.S. revoke Harvard’s tax-exempt status.",
+                "copyright": "Sophie Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Judge Threatens Contempt Proceedings Over Deportation Flights to El Salvador",
+        "abstract": "The move was a remarkable attempt by a jurist to hold the White House accountable for its apparent willingness to flout court orders.",
+        "url": "https://www.nytimes.com/2025/04/16/us/politics/trump-probable-cause-contempt-deportation-flights.html",
+        "uri": "nyt://article/b53f51de-4049-534f-b4e5-6a961560067f",
+        "byline": "By Alan Feuer",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T22:35:46-04:00",
+        "created_date": "2025-04-16T13:06:12-04:00",
+        "published_date": "2025-04-16T13:06:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Federal Courts (US)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Boasberg, James E"
+        ],
+        "geo_facet": [
+            "El Salvador",
+            "Venezuela"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16dc-immig-topart-bhfj/16dc-immig-topart-bhfj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Judge James E. Boasberg originally ordered Trump administration officials to stop planes with Venezuelan migrants flying to El Salvador last month. The planes were not stopped, and the migrants are now being held in a Salvadoran prison.",
+                "copyright": "Drew Angerer/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16dc-immig-topart-bhfj/16dc-immig-topart-bhfj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Judge James E. Boasberg originally ordered Trump administration officials to stop planes with Venezuelan migrants flying to El Salvador last month. The planes were not stopped, and the migrants are now being held in a Salvadoran prison.",
+                "copyright": "Drew Angerer/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16dc-immig-topart-bhfj/16dc-immig-topart-bhfj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Judge James E. Boasberg originally ordered Trump administration officials to stop planes with Venezuelan migrants flying to El Salvador last month. The planes were not stopped, and the migrants are now being held in a Salvadoran prison.",
+                "copyright": "Drew Angerer/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "A Columbia Activist Sought Middle Ground on Gaza. The U.S. Detained Him.",
+        "abstract": "Mohsen Mahdawi was arrested at a citizenship interview in Vermont. He had spent a decade trying to understand the conflict that shaped his life, his supporters say.",
+        "url": "https://www.nytimes.com/2025/04/16/nyregion/columbia-activist-mahdawi-ice-palestinian.html",
+        "uri": "nyt://article/4d5598e9-65ed-5922-8ca0-fa0610a8b5b3",
+        "byline": "By Ana Ley, Sharon Otterman and Anvee Bhutani",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T21:47:19-04:00",
+        "created_date": "2025-04-16T21:47:19-04:00",
+        "published_date": "2025-04-16T21:47:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Pro-Palestinian Campus Protests (2023- )",
+            "Israel-Gaza War (2023- )",
+            "Immigration Detention",
+            "Foreign Students (in US)",
+            "Deportation",
+            "Palestinians",
+            "Anti-Semitism"
+        ],
+        "org_facet": [
+            "Birzeit University",
+            "Canary Mission (Web Site)",
+            "Columbia University",
+            "Homeland Security Department",
+            "Lehigh University"
+        ],
+        "per_facet": [
+            "Khalil, Mahmoud (Activist)",
+            "Mahdawi, Mohsen",
+            "Rubio, Marco"
+        ],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel",
+            "Middle East",
+            "New England States (US)",
+            "Vermont",
+            "West Bank"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15met-columbia-mahdawi-01-tclm/15met-columbia-mahdawi-01-tclm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mohsen Mahdawi, a Palestinian student at Columbia University, addressed pro-Palestinian demonstrators in November 2023.",
+                "copyright": "Bing Guan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15met-columbia-mahdawi-01-tclm/15met-columbia-mahdawi-01-tclm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mohsen Mahdawi, a Palestinian student at Columbia University, addressed pro-Palestinian demonstrators in November 2023.",
+                "copyright": "Bing Guan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15met-columbia-mahdawi-01-tclm/15met-columbia-mahdawi-01-tclm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mohsen Mahdawi, a Palestinian student at Columbia University, addressed pro-Palestinian demonstrators in November 2023.",
+                "copyright": "Bing Guan for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
