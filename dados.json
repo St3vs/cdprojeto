@@ -62092,5 +62092,391 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "A Startling Admission From a G.O.P. Senator: ‘We Are All Afraid’",
+        "abstract": "Lisa Murkowski, a longtime senator from Alaska and an independent voice in an increasingly tribal party, has been the rare Republican on Capitol Hill willing to criticize President Trump’s actions.",
+        "url": "https://www.nytimes.com/2025/04/17/us/politics/lisa-murkowski-trump.html",
+        "uri": "nyt://article/db509d9b-d1dd-5753-be0a-9e09f170a37a",
+        "byline": "By Annie Karni",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T17:34:12-04:00",
+        "created_date": "2025-04-17T17:30:53-04:00",
+        "published_date": "2025-04-17T17:30:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Murkowski, Lisa",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Alaska",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17trump-news-murkowski-lvwt/17trump-news-murkowski-lvwt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Lisa Murkowski, Republican of Alaska, in the Capitol earlier this year.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17trump-news-murkowski-lvwt/17trump-news-murkowski-lvwt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Lisa Murkowski, Republican of Alaska, in the Capitol earlier this year.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17trump-news-murkowski-lvwt/17trump-news-murkowski-lvwt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Lisa Murkowski, Republican of Alaska, in the Capitol earlier this year.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "In 2014, Florida State University Reeled From Another Shooting",
+        "abstract": "The campus, where a gunman killed two people on Thursday, experienced another shooting over a decade ago that left three people injured.",
+        "url": "https://www.nytimes.com/2025/04/17/us/fsu-shooting-library-2014.html",
+        "uri": "nyt://article/e0f5587f-c9d5-5753-a98c-97964cf596f6",
+        "byline": "By Eduardo Medina",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T17:10:34-04:00",
+        "created_date": "2025-04-17T17:10:34-04:00",
+        "published_date": "2025-04-17T17:10:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "School Shootings and Armed Attacks",
+            "Firearms"
+        ],
+        "org_facet": [
+            "Florida State University"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Tallahassee (Fla)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17fsu-shooting-2014-attack-vgcj/17fsu-shooting-2014-attack-vgcj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Investigating the shooting outside the Strozier Library at Florida State University in 2014.",
+                "copyright": "Mark Wallheiser/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17fsu-shooting-2014-attack-vgcj/17fsu-shooting-2014-attack-vgcj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Investigating the shooting outside the Strozier Library at Florida State University in 2014.",
+                "copyright": "Mark Wallheiser/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17fsu-shooting-2014-attack-vgcj/17fsu-shooting-2014-attack-vgcj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Investigating the shooting outside the Strozier Library at Florida State University in 2014.",
+                "copyright": "Mark Wallheiser/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Embattled Congestion Pricing Program Gets Boost From Federal Judge",
+        "abstract": "Judge Lewis J. Liman struck down several arguments in various lawsuits seeking to undo the New York City tolling program. Though weakened, the court cases continue.",
+        "url": "https://www.nytimes.com/2025/04/17/nyregion/congestion-pricing-lawsuits-judge.html",
+        "uri": "nyt://article/54cd1806-56be-5114-befb-61a5501b6e8f",
+        "byline": "By Stefanos Chen and Winnie Hu",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T17:20:15-04:00",
+        "created_date": "2025-04-17T17:20:15-04:00",
+        "published_date": "2025-04-17T17:20:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Congestion Pricing",
+            "Tolls",
+            "Transportation",
+            "Suits and Litigation (Civil)",
+            "Federal Courts (US)",
+            "Transit Systems"
+        ],
+        "org_facet": [
+            "Metropolitan Transportation Authority",
+            "Transportation Department (US)",
+            "United Federation of Teachers"
+        ],
+        "per_facet": [
+            "Duffy, Sean P",
+            "Hochul, Kathleen C",
+            "Liman, Lewis Jeffrey",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Manhattan (NYC)",
+            "New York State"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17met-cp-court-tchb/17met-cp-court-tchb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New York has said it will keep the congestion pricing toll cameras on despite pressure from the federal government and other opponents.",
+                "copyright": "Hiroko Masuike/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17met-cp-court-tchb/17met-cp-court-tchb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New York has said it will keep the congestion pricing toll cameras on despite pressure from the federal government and other opponents.",
+                "copyright": "Hiroko Masuike/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17met-cp-court-tchb/17met-cp-court-tchb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New York has said it will keep the congestion pricing toll cameras on despite pressure from the federal government and other opponents.",
+                "copyright": "Hiroko Masuike/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "School Vouchers Won in Texas. Next Up, the Nation.",
+        "abstract": "Choice laws have now passed in every major Republican state. Congress and President Trump are now aiming at blue states that have resisted vouchers for decades.",
+        "url": "https://www.nytimes.com/2025/04/17/us/school-choice-trump.html",
+        "uri": "nyt://article/12898534-4971-568b-94d7-58745d75c3ed",
+        "byline": "By Dana Goldstein and Sarah Mervosh",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T16:53:50-04:00",
+        "created_date": "2025-04-17T16:53:50-04:00",
+        "published_date": "2025-04-17T16:53:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Private and Sectarian Schools",
+            "Education (K-12)",
+            "Vouchers"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Abbott, Gregory W (1957- )",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Texas"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17Nat-schoolchoice-01-tmhk/17Nat-schoolchoice-01-tmhk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Texas House passed a bill that would create a pathway toward universal eligibility for school vouchers.",
+                "copyright": "Desiree Rios for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17Nat-schoolchoice-01-tmhk/17Nat-schoolchoice-01-tmhk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Texas House passed a bill that would create a pathway toward universal eligibility for school vouchers.",
+                "copyright": "Desiree Rios for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17Nat-schoolchoice-01-tmhk/17Nat-schoolchoice-01-tmhk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Texas House passed a bill that would create a pathway toward universal eligibility for school vouchers.",
+                "copyright": "Desiree Rios for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "What to Know About Eli Lilly’s Daily Pill for Weight Loss",
+        "abstract": "Eli Lilly reported promising results from a study of its experimental oral drug that could rival popular injections to treat obesity and diabetes.",
+        "url": "https://www.nytimes.com/2025/04/17/health/weight-loss-pill-eli-lilly.html",
+        "uri": "nyt://article/8ab6b1be-44a7-5c3a-a86d-1017da240384",
+        "byline": "By Rebecca Robbins and Gina Kolata",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T17:24:51-04:00",
+        "created_date": "2025-04-17T17:24:51-04:00",
+        "published_date": "2025-04-17T17:24:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Drugs (Pharmaceuticals)",
+            "GLP-1 RAs (Drug)",
+            "Diabetes",
+            "Weight",
+            "Prices (Fares, Fees and Rates)",
+            "Clinical Trials",
+            "Obesity",
+            "Regulation and Deregulation of Industry",
+            "Ozempic (Drug)"
+        ],
+        "org_facet": [
+            "Eli Lilly and Company",
+            "Food and Drug Administration",
+            "Novo Nordisk A/S",
+            "Pfizer Inc"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Kennedy, Robert F Jr"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/science/17HS-QA-WEIGHT-LOSS-PILL/17HS-QA-WEIGHT-LOSS-PILL-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eli Lilly, the pill’s manufacturer, is not expected to announce a price tag for the drug until after it wins approval, as is typical for drugmakers.",
+                "copyright": "Scott Olson/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/science/17HS-QA-WEIGHT-LOSS-PILL/17HS-QA-WEIGHT-LOSS-PILL-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eli Lilly, the pill’s manufacturer, is not expected to announce a price tag for the drug until after it wins approval, as is typical for drugmakers.",
+                "copyright": "Scott Olson/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/science/17HS-QA-WEIGHT-LOSS-PILL/17HS-QA-WEIGHT-LOSS-PILL-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eli Lilly, the pill’s manufacturer, is not expected to announce a price tag for the drug until after it wins approval, as is typical for drugmakers.",
+                "copyright": "Scott Olson/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Will a Manhattan Garden’s Famous Fans Tank a Plan to Build Housing?",
+        "abstract": "The Elizabeth Street Garden in Lower Manhattan was going to be razed to make way for affordable housing for older New Yorkers. Now the plan may be on hold.",
+        "url": "https://www.nytimes.com/2025/04/17/nyregion/elizabeth-street-garden.html",
+        "uri": "nyt://article/b7802445-e478-5b30-a0d7-86ac90dd5e57",
+        "byline": "By Dana Rubinstein and Mihir Zaveri",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T16:38:32-04:00",
+        "created_date": "2025-04-17T16:24:24-04:00",
+        "published_date": "2025-04-17T16:24:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Affordable Housing",
+            "Real Estate and Housing (Residential)",
+            "Public and Subsidized Housing"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Adams, Eric L",
+            "Carone, Frank (Attorney)"
+        ],
+        "geo_facet": [
+            "Elizabeth Street Garden (Manhattan, NY)",
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17met-garden-01-gjcv/17met-garden-01-gjcv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New York City officials could have evicted the Elizabeth Street Garden as early as March 24, but Randy Mastro, the new first deputy mayor, has asked them to stand down.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17met-garden-01-gjcv/17met-garden-01-gjcv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New York City officials could have evicted the Elizabeth Street Garden as early as March 24, but Randy Mastro, the new first deputy mayor, has asked them to stand down.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17met-garden-01-gjcv/17met-garden-01-gjcv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New York City officials could have evicted the Elizabeth Street Garden as early as March 24, but Randy Mastro, the new first deputy mayor, has asked them to stand down.",
+                "copyright": "Karsten Moran for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
