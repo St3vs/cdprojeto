@@ -58592,5 +58592,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Two-Student Team Stuns the Competition at U.S. Constitution Contest",
+        "abstract": "Matthew Meyers and Colin Williams of Oregon won first place at the national U.S. Constitution Team competition. Then came the recount that threatened to unravel their achievement.",
+        "url": "https://www.nytimes.com/2025/04/16/us/we-the-people-constitution-competition-sprague-high-school.html",
+        "uri": "nyt://article/62f663ce-d4fb-54b3-8dbd-b234e039c6a8",
+        "byline": "By Hank Sanders",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T14:42:28-04:00",
+        "created_date": "2025-04-16T14:26:46-04:00",
+        "published_date": "2025-04-16T14:26:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Constitution (US)",
+            "Education (K-12)",
+            "Education (Secondary)",
+            "Contests and Prizes"
+        ],
+        "org_facet": [
+            "Lincoln High School",
+            "Supreme Court (US)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Oregon",
+            "Portland (Ore)",
+            "Salem (Ore)",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/00xp-conteam-02/00xp-conteam-02-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1059,
+                "width": 1588,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Colin Williams, left, and Matthew Meyers of Sprague High School in Salem, Ore. Their two-person team was the smallest to compete at the national finals of a debate-style contest about the U.S. Constitution last week.",
+                "copyright": "Drew Precious/Center for Civic Education"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/00xp-conteam-02/00xp-conteam-02-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Colin Williams, left, and Matthew Meyers of Sprague High School in Salem, Ore. Their two-person team was the smallest to compete at the national finals of a debate-style contest about the U.S. Constitution last week.",
+                "copyright": "Drew Precious/Center for Civic Education"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/00xp-conteam-02/00xp-conteam-02-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Colin Williams, left, and Matthew Meyers of Sprague High School in Salem, Ore. Their two-person team was the smallest to compete at the national finals of a debate-style contest about the U.S. Constitution last week.",
+                "copyright": "Drew Precious/Center for Civic Education"
+            }
+        ],
+        "short_url": ""
     }
 ]
