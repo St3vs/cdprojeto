@@ -66393,5 +66393,396 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Administration Bolsters Putin With Hint of Abandoning Ukraine Talks",
+        "abstract": "President Trump and Secretary of State Marco Rubio both suggested Friday that the United States might wash its hands of the peace effort.",
+        "url": "https://www.nytimes.com/2025/04/18/us/politics/trump-rubio-putin-ukraine.html",
+        "uri": "nyt://article/0fcce761-26e1-5e08-ae62-3f05b0991f85",
+        "byline": "By David E. Sanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T18:24:48-04:00",
+        "created_date": "2025-04-18T17:44:47-04:00",
+        "published_date": "2025-04-18T17:44:47-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Peace Process",
+            "United States Politics and Government",
+            "International Relations",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Rubio, Marco",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Kyiv (Ukraine)",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-PREXY-jtpv/18dc-PREXY-jtpv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio said the United States would abandon efforts to end the war in Ukraine if meaningful progress is not made within days.",
+                "copyright": "Pool photo by Julien De Rosa"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-PREXY-jtpv/18dc-PREXY-jtpv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio said the United States would abandon efforts to end the war in Ukraine if meaningful progress is not made within days.",
+                "copyright": "Pool photo by Julien De Rosa"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-PREXY-jtpv/18dc-PREXY-jtpv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio said the United States would abandon efforts to end the war in Ukraine if meaningful progress is not made within days.",
+                "copyright": "Pool photo by Julien De Rosa"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Lawyers Urge Courts to Halt Imminent Deportation of Migrants Under Wartime Law",
+        "abstract": "More than 50 Venezuelans are believed to be scheduled to be flown out of the country, presumably to El Salvador, from an immigration detention center in Anson, Texas.",
+        "url": "https://www.nytimes.com/2025/04/18/us/trump-deportations-venezuelans-el-salvador.html",
+        "uri": "nyt://article/0ada2502-d413-5c8a-ba4c-119f162b6c93",
+        "byline": "By Alan Feuer and Hamed Aleaziz",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T19:09:35-04:00",
+        "created_date": "2025-04-18T17:47:34-04:00",
+        "published_date": "2025-04-18T17:47:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Immigration Detention"
+        ],
+        "org_facet": [
+            "American Civil Liberties Union",
+            "Justice Department",
+            "Supreme Court (US)",
+            "Tren de Aragua (Gang)"
+        ],
+        "per_facet": [
+            "Boasberg, James E",
+            "Trump, Donald J",
+            "Wesley, James"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18DC-DEPORT-lhfv/18DC-DEPORT-lhfv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The maximum security penitentiary in San Vicente, El Salvador, where many deported migrants have been taken, earlier this month. ",
+                "copyright": "Alex Peña/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18DC-DEPORT-lhfv/18DC-DEPORT-lhfv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The maximum security penitentiary in San Vicente, El Salvador, where many deported migrants have been taken, earlier this month. ",
+                "copyright": "Alex Peña/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18DC-DEPORT-lhfv/18DC-DEPORT-lhfv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The maximum security penitentiary in San Vicente, El Salvador, where many deported migrants have been taken, earlier this month. ",
+                "copyright": "Alex Peña/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "How Universities Became So Dependent on the Federal Government",
+        "abstract": "For decades, universities got billions in federal dollars for research. The relationship was mutually beneficial, until President Trump decided it wasn’t.",
+        "url": "https://www.nytimes.com/2025/04/18/us/trump-universities.html",
+        "uri": "nyt://article/9beec8d7-6b02-5df8-b7e2-1707f5936d5a",
+        "byline": "By Jeremy W. Peters and Andrea Fuller",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T17:47:03-04:00",
+        "created_date": "2025-04-18T17:44:52-04:00",
+        "published_date": "2025-04-18T17:44:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Colleges and Universities",
+            "Research",
+            "Federal Aid (US)",
+            "World War II (1939-45)",
+            "Manhattan Project"
+        ],
+        "org_facet": [
+            "Johns Hopkins University",
+            "Harvard University"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/2025-04-18-research-funding-index/2025-04-18-research-funding-index-superJumbo-v6.png",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/2025-04-18-research-funding-index/2025-04-18-research-funding-index-threeByTwoSmallAt2X-v9.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/2025-04-18-research-funding-index/2025-04-18-research-funding-index-thumbLarge-v7.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "On New Website, Trump Declares Lab Leak as ‘True Origins’ of Covid",
+        "abstract": "Government websites that once provided basic information about the virus now redirect to a page citing a number of misleading or heavily contested claims.",
+        "url": "https://www.nytimes.com/2025/04/18/science/trump-covid-website-lab-leak.html",
+        "uri": "nyt://article/ee9cfb06-db2f-523c-819c-a10920da4076",
+        "byline": "By Benjamin Mueller",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T17:48:36-04:00",
+        "created_date": "2025-04-18T17:47:27-04:00",
+        "published_date": "2025-04-18T17:47:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Coronavirus (2019-nCoV)",
+            "United States Politics and Government",
+            "Wildlife Trade and Poaching",
+            "Research",
+            "Coronavirus Origins Investigation",
+            "Laboratories and Scientific Equipment"
+        ],
+        "org_facet": [
+            "Wuhan Institute of Virology (China)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Wuhan (China)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/science/18hs-lableak-alt/18hs-lableak-alt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1058,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The new page cites a number of misleading or heavily contested claims and ignores a substantial amount of research that points instead to the virus spilling from animals into humans at an illegal wild animal market in Wuhan.",
+                "copyright": "Whitehouse.gov"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/science/18hs-lableak-alt/18hs-lableak-alt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The new page cites a number of misleading or heavily contested claims and ignores a substantial amount of research that points instead to the virus spilling from animals into humans at an illegal wild animal market in Wuhan.",
+                "copyright": "Whitehouse.gov"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/science/18hs-lableak-alt/18hs-lableak-alt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The new page cites a number of misleading or heavily contested claims and ignores a substantial amount of research that points instead to the virus spilling from animals into humans at an illegal wild animal market in Wuhan.",
+                "copyright": "Whitehouse.gov"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "Trump-Allied Prosecutor Sends Letters to Medical Journals Alleging Bias",
+        "abstract": "An interim U.S. attorney is demanding information about the selection of research articles and the role of N.I.H. Experts worry this will have a chilling effect on publications.",
+        "url": "https://www.nytimes.com/2025/04/18/health/trump-martin-us-attorney-medical-journals.html",
+        "uri": "nyt://article/cfe47c81-8c12-500c-8fe3-fe6810208ca6",
+        "byline": "By Teddy Rosenbluth and Rebecca Robbins",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T18:39:30-04:00",
+        "created_date": "2025-04-18T18:39:30-04:00",
+        "published_date": "2025-04-18T18:39:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Book Trade and Publishing",
+            "Presidential Election of 2024",
+            "Research",
+            "Coronavirus (2019-nCoV)",
+            "Medicine and Health",
+            "United States Attorneys"
+        ],
+        "org_facet": [
+            "American College of Obstetricians and Gynecologists",
+            "American Public Health Assn",
+            "Chest (Journal)",
+            "National Institutes of Health",
+            "Health and Human Services Department"
+        ],
+        "per_facet": [
+            "Bhattacharya, Jay",
+            "Makary, Marty",
+            "Martin, Edward Robert Jr",
+            "Trump, Donald J",
+            "Kennedy, Robert F Jr"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/science/21HS-MEDICAL-JOURNALS/21HS-MEDICAL-JOURNALS-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Edward Martin Jr., a Republican activist serving as interim U.S. attorney in Washington, D.C., sent letters to science and medical journals, accusing them of bias.",
+                "copyright": "Amanda Andrade-Rhoades/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/science/21HS-MEDICAL-JOURNALS/21HS-MEDICAL-JOURNALS-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Edward Martin Jr., a Republican activist serving as interim U.S. attorney in Washington, D.C., sent letters to science and medical journals, accusing them of bias.",
+                "copyright": "Amanda Andrade-Rhoades/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/science/21HS-MEDICAL-JOURNALS/21HS-MEDICAL-JOURNALS-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Edward Martin Jr., a Republican activist serving as interim U.S. attorney in Washington, D.C., sent letters to science and medical journals, accusing them of bias.",
+                "copyright": "Amanda Andrade-Rhoades/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "A Fireball Near Mexico City Lit Up the Sky and the Internet",
+        "abstract": "The glowing object was a bolide, fireballs that explode in a bright flash, according to experts. It streaked across Mexico’s predawn skies on Wednesday.",
+        "url": "https://www.nytimes.com/2025/04/18/science/mexico-city-bolide-meteor.html",
+        "uri": "nyt://article/c6a5ecd9-a5e2-5278-9ec9-e872806fcd48",
+        "byline": "By Aimee Ortiz",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T18:52:01-04:00",
+        "created_date": "2025-04-18T18:37:01-04:00",
+        "published_date": "2025-04-18T18:37:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Meteors and Meteorites",
+            "Space and Astronomy",
+            "Video Recordings, Downloads and Streaming"
+        ],
+        "org_facet": [
+            "Meteoritical Society"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Mexico",
+            "Mexico City (Mexico)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/science/space/mexico-meteor-2025/mexico-meteor-2025-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1620,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Webcams de Mexico, Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/science/space/mexico-meteor-2025/mexico-meteor-2025-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Webcams de Mexico, Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/science/space/mexico-meteor-2025/mexico-meteor-2025-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Webcams de Mexico, Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
