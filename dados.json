@@ -63699,5 +63699,744 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "podcasts",
+        "subsection": "the-headlines",
+        "title": "Senator Visits Wrongly Deported Man, and Trump’s ‘Kill List’ for Regulations",
+        "abstract": "Plus, meat is making a comeback.",
+        "url": "https://www.nytimes.com/2025/04/18/podcasts/the-headlines/senator-deported-man-trump-kill-list.html",
+        "uri": "nyt://article/bfdff7b3-ec0c-51f5-a5fd-421320540d68",
+        "byline": "By Will Jarvis, Ian Stewart, Jessica Metzger and Coral Davenport",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T06:00:09-04:00",
+        "created_date": "2025-04-18T06:00:09-04:00",
+        "published_date": "2025-04-18T06:00:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Illegal Immigration"
+        ],
+        "org_facet": [
+            "Centers for Disease Control and Prevention",
+            "Florida State University",
+            "Government Efficiency Department (US)",
+            "Senate"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "El Salvador",
+            "Florida",
+            "Maryland"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18headlines1-mpzl/18headlines1-mpzl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Chris Van Hollen, Democrat of Maryland, in El Salvador with Kilmar Armando Abrego Garcia, the Maryland who was wrongly deported, in a handout photo from the senator’s office on Thursday.",
+                "copyright": "The office of Senator Chris Van Hollen"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18headlines1-mpzl/18headlines1-mpzl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Chris Van Hollen, Democrat of Maryland, in El Salvador with Kilmar Armando Abrego Garcia, the Maryland who was wrongly deported, in a handout photo from the senator’s office on Thursday.",
+                "copyright": "The office of Senator Chris Van Hollen"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18headlines1-mpzl/18headlines1-mpzl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Chris Van Hollen, Democrat of Maryland, in El Salvador with Kilmar Armando Abrego Garcia, the Maryland who was wrongly deported, in a handout photo from the senator’s office on Thursday.",
+                "copyright": "The office of Senator Chris Van Hollen"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "With Harvard Threat, Trump Tries to Bend the I.R.S. to His Will",
+        "abstract": "Since the post-Nixon era, the Internal Revenue Service has had a degree of independence from the White House. President Trump is seeking to change that.",
+        "url": "https://www.nytimes.com/2025/04/18/us/politics/trump-irs.html",
+        "uri": "nyt://article/1f99c2e8-0eda-5116-b144-209fe16b4742",
+        "byline": "By Andrew Duehren, Alan Rappeport and Russ Buettner",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T05:02:14-04:00",
+        "created_date": "2025-04-18T05:02:14-04:00",
+        "published_date": "2025-04-18T05:02:14-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "Taxation",
+            "Trump Tax Returns",
+            "United States Politics and Government",
+            "Tax Credits, Deductions and Exemptions",
+            "Appointments and Executive Changes",
+            "Internal Revenue Service Political Profiling"
+        ],
+        "org_facet": [
+            "Harvard University",
+            "Internal Revenue Service"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-trump-irs-hcbm/18dc-trump-irs-hcbm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1370,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has moved swiftly to suppress the independence of the I.R.S. in the first few months of his second term.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-trump-irs-hcbm/18dc-trump-irs-hcbm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has moved swiftly to suppress the independence of the I.R.S. in the first few months of his second term.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-trump-irs-hcbm/18dc-trump-irs-hcbm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has moved swiftly to suppress the independence of the I.R.S. in the first few months of his second term.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "movies",
+        "subsection": "",
+        "title": "How John Cena Became the Last Great Crossover Wrestling Star",
+        "abstract": "As his in-ring career draws to a close, the most popular star in W.W.E. is trying out a new role: the bad guy.",
+        "url": "https://www.nytimes.com/2025/04/18/movies/john-cena-wrestlemania.html",
+        "uri": "nyt://article/9d7d1f2a-8662-5a10-b554-537cb6aa96ca",
+        "byline": "By Timothy Bella",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T05:01:46-04:00",
+        "created_date": "2025-04-18T05:01:46-04:00",
+        "published_date": "2025-04-18T05:01:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Wrestling",
+            "Actors and Actresses",
+            "Movies",
+            "Peacemaker (TV Program)",
+            "The Suicide Squad (Movie)",
+            "Content Type: Personal Profile"
+        ],
+        "org_facet": [
+            "World Wrestling Entertainment Inc"
+        ],
+        "per_facet": [
+            "Cena, John"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/arts/18cul-john-cena-lead/18cul-john-cena-lead-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1241,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "John Cena has gone from a professional wrestling headliner to an actor seen in many blockbuster films and a star-vehicle TV show.",
+                "copyright": "Kevin Mazur/WireImage, via Getty Images; Valerie Macon/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/arts/18cul-john-cena-lead/18cul-john-cena-lead-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "John Cena has gone from a professional wrestling headliner to an actor seen in many blockbuster films and a star-vehicle TV show.",
+                "copyright": "Kevin Mazur/WireImage, via Getty Images; Valerie Macon/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/arts/18cul-john-cena-lead/18cul-john-cena-lead-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "John Cena has gone from a professional wrestling headliner to an actor seen in many blockbuster films and a star-vehicle TV show.",
+                "copyright": "Kevin Mazur/WireImage, via Getty Images; Valerie Macon/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Choking, Shaking, Foaming at the Mouth: Syrians Recount Gas Attack",
+        "abstract": "Syria’s ousted dictator, Bashar al-Assad, unleashed a Sarin gas strike on the suburbs of Damascus in 2013, killing at least 1,500. Now, the survivors want justice.",
+        "url": "https://www.nytimes.com/2025/04/18/world/middleeast/choking-shaking-foaming-at-the-mouth-syrians-recount-gas-attack.html",
+        "uri": "nyt://article/9cace4d0-e374-59c4-bd63-bc3dab0f0bec",
+        "byline": "By Carlotta Gall, Saad Alnassife and Kiana Hayeri",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T05:01:20-04:00",
+        "created_date": "2025-04-18T05:01:20-04:00",
+        "published_date": "2025-04-18T05:01:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Civilian Casualties",
+            "War and Armed Conflicts",
+            "Deaths (Fatalities)",
+            "Politics and Government",
+            "War Crimes, Genocide and Crimes Against Humanity",
+            "Defense and Military Forces",
+            "Defectors (Political)",
+            "Biological and Chemical Warfare"
+        ],
+        "org_facet": [
+            "Syrian Army"
+        ],
+        "per_facet": [
+            "Assad, Bashar al-",
+            "Obama, Barack"
+        ],
+        "geo_facet": [
+            "Damascus (Syria)",
+            "Ghouta (Syria)",
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-syria-chemical-attack-promo/00int-syria-chemical-attack-02-zgvm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The basement of an underground medical center in Eastern Ghouta, Syria, where victims of a chemical attack were taken in 2013.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-syria-chemical-attack-promo/00int-syria-chemical-attack-02-zgvm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The basement of an underground medical center in Eastern Ghouta, Syria, where victims of a chemical attack were taken in 2013.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-syria-chemical-attack-promo/00int-syria-chemical-attack-promo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The basement of an underground medical center in Eastern Ghouta, Syria, where victims of a chemical attack were taken in 2013.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Milwaukee’s Lead Crisis: Flaky Paint, Closed Schools and a C.D.C. in Retreat",
+        "abstract": "Some children were exposed to lead and investigators found flaking paint inside aging schools. Two federal experts, expected to help guide the response, have lost their jobs.",
+        "url": "https://www.nytimes.com/2025/04/18/us/milwaukee-schools-lead-cdc.html",
+        "uri": "nyt://article/bf3ce040-746d-5741-bee7-ed965c68eb84",
+        "byline": "By Julie Bosman and Jamie Kelter Davis",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T05:01:25-04:00",
+        "created_date": "2025-04-18T05:01:25-04:00",
+        "published_date": "2025-04-18T05:01:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Lead",
+            "Hazardous and Toxic Substances"
+        ],
+        "org_facet": [
+            "Centers for Disease Control and Prevention"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Milwaukee (Wis)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17nat-milwaukee-fernwood-lwcg/17nat-milwaukee-fernwood-lwcg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Fernwood Montessori students have been temporarily bused to another school while their building remains closed for lead removal.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17nat-milwaukee-fernwood-lwcg/17nat-milwaukee-fernwood-lwcg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Fernwood Montessori students have been temporarily bused to another school while their building remains closed for lead removal.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17nat-milwaukee-fernwood-lwcg/17nat-milwaukee-fernwood-lwcg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Fernwood Montessori students have been temporarily bused to another school while their building remains closed for lead removal.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "How Does a Nation Charm China? Name a Boulevard After Xi Jinping.",
+        "abstract": "China is the biggest foreign patron of Cambodia, where Mr. Xi concluded a tour of Southeast Asia. But the region also needs to curry favor with President Trump.",
+        "url": "https://www.nytimes.com/2025/04/18/world/asia/china-xi-trump-cambodia.html",
+        "uri": "nyt://article/11cebeb3-3124-5e13-a200-26dc7aa33ea9",
+        "byline": "By Hannah Beech and Sun Narin",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T03:33:35-04:00",
+        "created_date": "2025-04-18T03:32:39-04:00",
+        "published_date": "2025-04-18T03:32:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Foreign Investments"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "China",
+            "Cambodia",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-cambodia-xi-01-cljk/18int-cambodia-xi-01-cljk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Xi Jinping, China’s top leader, and King Norodom Sihamoni of Cambodia walking past the honor guards upon arrival at Phnom Penh International Airport on Thursday. ",
+                "copyright": "Agence Kampuchea Presse, via Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-cambodia-xi-01-cljk/18int-cambodia-xi-01-cljk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Xi Jinping, China’s top leader, and King Norodom Sihamoni of Cambodia walking past the honor guards upon arrival at Phnom Penh International Airport on Thursday. ",
+                "copyright": "Agence Kampuchea Presse, via Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-cambodia-xi-01-cljk/18int-cambodia-xi-01-cljk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Xi Jinping, China’s top leader, and King Norodom Sihamoni of Cambodia walking past the honor guards upon arrival at Phnom Penh International Airport on Thursday. ",
+                "copyright": "Agence Kampuchea Presse, via Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Is This the End of Impulse Shopping?",
+        "abstract": "The chief executive of QVC, David Rawlinson II, on tariffs, TikTok, and other threats to the company’s future.",
+        "url": "https://www.nytimes.com/2025/04/18/business/qvc-david-rawlinson-tariffs-tiktok.html",
+        "uri": "nyt://article/14f66adb-6c9b-51ef-9386-9930a2c3f57e",
+        "byline": "By Jordyn Holman",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T05:01:32-04:00",
+        "created_date": "2025-04-18T05:01:32-04:00",
+        "published_date": "2025-04-18T05:01:32-04:00",
+        "material_type_facet": "",
+        "kicker": "Corner Office",
+        "des_facet": [
+            "Television",
+            "Social Media",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Shopping and Retail",
+            "Cable Television",
+            "Consumer Behavior",
+            "Executives and Management (Theory)",
+            "Content Type: Personal Profile"
+        ],
+        "org_facet": [
+            "HSN Inc",
+            "QVC Inc"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/17CornerOffice-QVC-tjzb/17CornerOffice-QVC-tjzb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "David Rawlinson II is the chief executive of QVC, which stands for Quality, Value and Convenience. ",
+                "copyright": "Oliver Farshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/17CornerOffice-QVC-tjzb/17CornerOffice-QVC-tjzb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "David Rawlinson II is the chief executive of QVC, which stands for Quality, Value and Convenience. ",
+                "copyright": "Oliver Farshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/17CornerOffice-QVC-tjzb/17CornerOffice-QVC-tjzb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "David Rawlinson II is the chief executive of QVC, which stands for Quality, Value and Convenience. ",
+                "copyright": "Oliver Farshi for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "dining",
+        "subsection": "",
+        "title": "A Stunning, Stress-Free Easter Dish Everyone Will Love",
+        "abstract": "A whole fillet of salmon looks and tastes impressive while leaving you time to enjoy the day.",
+        "url": "https://www.nytimes.com/2025/04/15/dining/easter-salmon-recipe.html",
+        "uri": "nyt://article/ecab6c04-fdc3-5173-a705-8506fbf5bad5",
+        "byline": "By Genevieve Ko",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T00:46:33-04:00",
+        "created_date": "2025-04-15T05:01:39-04:00",
+        "published_date": "2025-04-15T05:01:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Salmon",
+            "Easter and Holy Week",
+            "Cooking and Cookbooks"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/15KO-EASTER-1-hfvj/15KO-EASTER-1-hfvj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1361,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In this simple but showstopping recipe, a honey-lemon sauce glosses a leaner cut of salmon with richness.",
+                "copyright": "David Malosh for The New York Times. Food Stylist: Rebecca Jurkevich."
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/15KO-EASTER-1-hfvj/15KO-EASTER-1-hfvj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In this simple but showstopping recipe, a honey-lemon sauce glosses a leaner cut of salmon with richness.",
+                "copyright": "David Malosh for The New York Times. Food Stylist: Rebecca Jurkevich."
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/15KO-EASTER-1-hfvj/15KO-EASTER-1-hfvj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In this simple but showstopping recipe, a honey-lemon sauce glosses a leaner cut of salmon with richness.",
+                "copyright": "David Malosh for The New York Times. Food Stylist: Rebecca Jurkevich."
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "dining",
+        "subsection": "",
+        "title": "Easter Desserts Anyone Can Make",
+        "abstract": "Mix up chocolate treats in minutes or build a cake over a few hours with these smart tips.",
+        "url": "https://www.nytimes.com/2025/04/14/dining/easter-desserts-cakes.html",
+        "uri": "nyt://article/b7ac7f1e-d1f5-5bb4-a7bd-0245a8de53fb",
+        "byline": "By Nicola Lamb",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T00:46:16-04:00",
+        "created_date": "2025-04-14T16:48:29-04:00",
+        "published_date": "2025-04-14T16:48:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Recipes",
+            "Cooking and Cookbooks",
+            "Spring (Season)",
+            "Bakeries and Baked Products"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14FD-EASTER-DESSERT-PROMO-ktmq/14FD-EASTER-DESSERT-PROMO-ktmq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Linda Xiao for The New York Times. Food Stylist: Yossy Arefi."
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14FD-EASTER-DESSERT-PROMO-ktmq/14FD-EASTER-DESSERT-PROMO-ktmq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Linda Xiao for The New York Times. Food Stylist: Yossy Arefi."
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14FD-EASTER-DESSERT-PROMO-ktmq/14FD-EASTER-DESSERT-PROMO-ktmq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Linda Xiao for The New York Times. Food Stylist: Yossy Arefi."
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "dining",
+        "subsection": "",
+        "title": "Our Best Easter Recipes",
+        "abstract": "Here’s what to cook when you’ve had your fill of chocolate bunnies.",
+        "url": "https://cooking.nytimes.com/article/best-easter-recipes",
+        "uri": "nyt://article/691afeef-0b49-501b-b54d-8ae09769f8c0",
+        "byline": "By Margaux Laskey",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T11:19:49-04:00",
+        "created_date": "2020-04-06T21:59:57-04:00",
+        "published_date": "2020-04-06T21:59:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Cooking and Cookbooks",
+            "Recipes",
+            "Easter and Holy Week"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2020/07/27/dining/13Easter-Roundup-mrouzia-lamb-shanks-copy/merlin_174968559_8322cc1f-0723-4075-9925-fc48f3d9c2cf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Linda Xiao for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2020/07/27/dining/13Easter-Roundup-mrouzia-lamb-shanks-copy/merlin_174968559_8322cc1f-0723-4075-9925-fc48f3d9c2cf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Linda Xiao for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2020/07/27/dining/13Easter-Roundup-mrouzia-lamb-shanks-copy/nb-mrouzia-lamb-shanks-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Linda Xiao for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "An ‘Army of Child Laborers’ Enriches Shen Yun, Ex-Dancers Say in Suit",
+        "abstract": "The group performing traditional Chinese dance has been under scrutiny for its treatment of performers and financial practices.",
+        "url": "https://www.nytimes.com/2025/04/18/nyregion/shen-yun-abuse-lawsuit.html",
+        "uri": "nyt://article/3d2e05be-db1d-5d23-bd99-57ef0218adba",
+        "byline": "By Michael Rothfeld",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T03:00:25-04:00",
+        "created_date": "2025-04-18T03:00:25-04:00",
+        "published_date": "2025-04-18T03:00:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Suits and Litigation (Civil)",
+            "Human Trafficking",
+            "Forced Labor"
+        ],
+        "org_facet": [
+            "Shen Yun Performing Arts",
+            "Falun Gong",
+            "New York Times"
+        ],
+        "per_facet": [
+            "Li Hongzhi",
+            "Li Rui"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17met-shen-yun-01-vhmt/17met-shen-yun-01-vhmt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 850,
+                "width": 1276,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sun Zan and Cheng Qingling married after they left Shen Yun Performing Arts. They sued the dance company together.",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17met-shen-yun-01-vhmt/17met-shen-yun-01-vhmt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sun Zan and Cheng Qingling married after they left Shen Yun Performing Arts. They sued the dance company together.",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17met-shen-yun-01-vhmt/17met-shen-yun-01-vhmt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sun Zan and Cheng Qingling married after they left Shen Yun Performing Arts. They sued the dance company together.",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "It’s Gotten Riskier to Be a Long-Term Investor",
+        "abstract": "President Trump’s policies have shaken the markets. Protect yourself first, and, only then, take advantage of investment bargains, our columnist says.",
+        "url": "https://www.nytimes.com/2025/04/18/business/investing-risk-trump-tariffs.html",
+        "uri": "nyt://article/08dfebb8-127d-5d35-b665-aa6f705024f1",
+        "byline": "By Jeff Sommer",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T05:01:40-04:00",
+        "created_date": "2025-04-18T05:01:40-04:00",
+        "published_date": "2025-04-18T05:01:40-04:00",
+        "material_type_facet": "",
+        "kicker": "Strategies",
+        "des_facet": [
+            "Stocks and Bonds",
+            "Federal Budget (US)",
+            "International Trade and World Market",
+            "Government Bonds",
+            "Customs (Tariff)",
+            "Content Type: Service",
+            "Personal Finances"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/business/20Strategies-illo/20Strategies-illo-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1810,
+                "width": 1815,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Peter and Maria Hoey"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/business/20Strategies-illo/20Strategies-illo-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Peter and Maria Hoey"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/business/20Strategies-illo/20Strategies-illo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Peter and Maria Hoey"
+            }
+        ],
+        "short_url": ""
     }
 ]
