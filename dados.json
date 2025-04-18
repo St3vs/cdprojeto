@@ -66128,5 +66128,131 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Justice Dept.’s Civil Rights Division Pushes Trump’s Culture War Agenda",
+        "abstract": "The head of the division directed its staff to focus on enforcing edicts on transgender women in sports and other issues, shifting from its founding purpose of fighting race-based discrimination.",
+        "url": "https://www.nytimes.com/2025/04/18/us/politics/trump-doj-civil-rights.html",
+        "uri": "nyt://article/28b7549a-fccd-58b2-a928-311baae53be3",
+        "byline": "By Glenn Thrush",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T16:42:44-04:00",
+        "created_date": "2025-04-18T15:53:54-04:00",
+        "published_date": "2025-04-18T15:53:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Civil Rights and Liberties",
+            "Discrimination"
+        ],
+        "org_facet": [
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Dhillon, Harmeet",
+            "Biden, Joseph R Jr",
+            "Gupta, Vanita",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/us/politics/dc-civilrights/dc-civilrights-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harmeet Dhillon, the head of the Justice Department’s civil rights division, has taken steps to reverse a handful of high-profile Biden-era actions focused on addressing racial discrimination.",
+                "copyright": "Tom Williams/CQ-Roll Call, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/us/politics/dc-civilrights/dc-civilrights-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harmeet Dhillon, the head of the Justice Department’s civil rights division, has taken steps to reverse a handful of high-profile Biden-era actions focused on addressing racial discrimination.",
+                "copyright": "Tom Williams/CQ-Roll Call, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/us/politics/dc-civilrights/dc-civilrights-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harmeet Dhillon, the head of the Justice Department’s civil rights division, has taken steps to reverse a handful of high-profile Biden-era actions focused on addressing racial discrimination.",
+                "copyright": "Tom Williams/CQ-Roll Call, via Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "media",
+        "title": "Columbia Journalism Review Fires Its Editor",
+        "abstract": "Sewell Chan, who started as executive editor of the publication in September, said his firing after several staff complaints was “baffling.”",
+        "url": "https://www.nytimes.com/2025/04/18/business/media/cjr-sewell-chan-fired.html",
+        "uri": "nyt://article/23fce896-1456-52a9-a77a-e2055425d82a",
+        "byline": "By Katie Robertson and Benjamin Mullin",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T16:51:16-04:00",
+        "created_date": "2025-04-18T16:51:16-04:00",
+        "published_date": "2025-04-18T16:51:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "News and News Media",
+            "Journalism Schools",
+            "Appointments and Executive Changes"
+        ],
+        "org_facet": [
+            "Columbia Journalism Review",
+            "Columbia University"
+        ],
+        "per_facet": [
+            "Chan, Sewell",
+            "Cobb, Jelani",
+            "Somaiya, Ravi"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/business/18biz-cjr/18biz-cjr-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sewell Chan said he had learned earlier this week of several staff complaints about his behavior and had offered to meet with the employees.",
+                "copyright": "Hutton Supancic/SXSW Conference & Festivals via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/business/18biz-cjr/18biz-cjr-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sewell Chan said he had learned earlier this week of several staff complaints about his behavior and had offered to meet with the employees.",
+                "copyright": "Hutton Supancic/SXSW Conference & Festivals via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/business/18biz-cjr/18biz-cjr-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sewell Chan said he had learned earlier this week of several staff complaints about his behavior and had offered to meet with the employees.",
+                "copyright": "Hutton Supancic/SXSW Conference & Festivals via Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
