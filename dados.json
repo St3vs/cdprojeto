@@ -65564,5 +65564,386 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Risk of Financial Panic Tempers Trump on Firing Powell",
+        "abstract": "President Trump again attacked the chair of the Federal Reserve this week, but advisers say the president has turned more cautious on policies that could stoke extreme financial volatility again.",
+        "url": "https://www.nytimes.com/2025/04/18/business/trump-powell-fed-markets.html",
+        "uri": "nyt://article/7638a351-c366-5ac7-bf65-ca6a842310f3",
+        "byline": "By Colby Smith, Jonathan Swan and Maggie Haberman",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T12:58:26-04:00",
+        "created_date": "2025-04-18T12:33:05-04:00",
+        "published_date": "2025-04-18T12:33:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Regulation and Deregulation of Industry",
+            "Banking and Financial Institutions",
+            "Stocks and Bonds",
+            "United States Economy",
+            "Customs (Tariff)",
+            "Interest Rates"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-fed-trump-mwgt/18dc-fed-trump-mwgt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The president’s advisers have repeatedly told him that firing Jerome H. Powell, the Federal Reserve chair, is both legally and financially fraught.",
+                "copyright": "Cheriss May for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-fed-trump-mwgt/18dc-fed-trump-mwgt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The president’s advisers have repeatedly told him that firing Jerome H. Powell, the Federal Reserve chair, is both legally and financially fraught.",
+                "copyright": "Cheriss May for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-fed-trump-mwgt/18dc-fed-trump-mwgt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The president’s advisers have repeatedly told him that firing Jerome H. Powell, the Federal Reserve chair, is both legally and financially fraught.",
+                "copyright": "Cheriss May for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Shifted on Tariffs After Bond Holders Got Jittery. He Held Millions Himself.",
+        "abstract": "As of August, the president’s investment portfolio showed significantly more in bonds than in stocks. It is unclear if his personal holdings had any bearing on his decisions regarding tariffs.",
+        "url": "https://www.nytimes.com/2025/04/18/us/politics/trump-bonds-tariffs.html",
+        "uri": "nyt://article/feda608c-9868-5a7e-8032-d28db19861eb",
+        "byline": "By Ben Protess, Andrea Fuller and Joe Rennison",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T12:57:33-04:00",
+        "created_date": "2025-04-18T12:30:05-04:00",
+        "published_date": "2025-04-18T12:30:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Stocks and Bonds",
+            "Government Bonds",
+            "Customs (Tariff)",
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "United States Economy"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00dc-trump-bonds-01-zqpk/00dc-trump-bonds-01-zqpk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "While there is no indication that President Trump did anything improper, he had a financial incentive to change course on tariffs.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00dc-trump-bonds-01-zqpk/00dc-trump-bonds-01-zqpk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "While there is no indication that President Trump did anything improper, he had a financial incentive to change course on tariffs.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00dc-trump-bonds-01-zqpk/00dc-trump-bonds-01-zqpk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "While there is no indication that President Trump did anything improper, he had a financial incentive to change course on tariffs.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Head of I.R.S. Being Ousted Amid Treasury’s Power Struggle With Elon Musk",
+        "abstract": "Treasury Secretary Scott Bessent complained to President Trump that the acting commissioner had been installed without his knowledge.",
+        "url": "https://www.nytimes.com/2025/04/18/us/politics/irs-scott-bessent-elon-musk.html",
+        "uri": "nyt://article/08082b14-76e2-5b08-987d-6616cc4cf1de",
+        "byline": "By Jonathan Swan, Andrew Duehren, Alan Rappeport and Maggie Haberman",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T12:39:50-04:00",
+        "created_date": "2025-04-18T11:58:27-04:00",
+        "published_date": "2025-04-18T11:58:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Government Employees",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Internal Revenue Service",
+            "Treasury Department"
+        ],
+        "per_facet": [
+            "Bessent, Scott",
+            "Shapley, Gary",
+            "Musk, Elon",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-bessent-musk-topart-jqpw/18dc-bessent-musk-topart-jqpw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gary Shapley, a longtime I.R.S. agent, was lauded by conservatives after he publicly argued that the Justice Department had slow-walked its investigation into Hunter Biden’s taxes.",
+                "copyright": "Al Drago for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-bessent-musk-topart-jqpw/18dc-bessent-musk-topart-jqpw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gary Shapley, a longtime I.R.S. agent, was lauded by conservatives after he publicly argued that the Justice Department had slow-walked its investigation into Hunter Biden’s taxes.",
+                "copyright": "Al Drago for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-bessent-musk-topart-jqpw/18dc-bessent-musk-topart-jqpw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gary Shapley, a longtime I.R.S. agent, was lauded by conservatives after he publicly argued that the Justice Department had slow-walked its investigation into Hunter Biden’s taxes.",
+                "copyright": "Al Drago for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump’s Trade War Puts Bromance With Xi Beyond Reach",
+        "abstract": "President Trump says he wants Xi Jinping, China’s leader, to call him to talk tariffs. Mr. Xi is ghosting Mr. Trump, and markets are plummeting.",
+        "url": "https://www.nytimes.com/2025/04/18/us/politics/china-trump-trade-war.html",
+        "uri": "nyt://article/78739b53-97f0-57f1-a83b-b4f282e518d1",
+        "byline": "By Edward Wong",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T12:52:11-04:00",
+        "created_date": "2025-04-18T12:52:11-04:00",
+        "published_date": "2025-04-18T12:52:11-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States International Relations",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Xi Jinping",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18DC-CHINA-DIPLO-gwhj/18DC-CHINA-DIPLO-gwhj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Donald Trump with President Xi Jinping of China at the G20 Summit in Japan in 2019. “He’s been a friend of mine for a long period of time,” Mr. Trump said of Mr. Xi last week.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18DC-CHINA-DIPLO-gwhj/18DC-CHINA-DIPLO-gwhj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Donald Trump with President Xi Jinping of China at the G20 Summit in Japan in 2019. “He’s been a friend of mine for a long period of time,” Mr. Trump said of Mr. Xi last week.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18DC-CHINA-DIPLO-gwhj/18DC-CHINA-DIPLO-gwhj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Donald Trump with President Xi Jinping of China at the G20 Summit in Japan in 2019. “He’s been a friend of mine for a long period of time,” Mr. Trump said of Mr. Xi last week.",
+                "copyright": "Erin Schaff/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Top DOGE Officials Moved From Social Security Administration to Justice Dept.",
+        "abstract": "The Elon Musk operatives were abruptly shifted to the department’s immigration enforcement unit as part of an expanding effort to use personal data in deportation cases, one official said.",
+        "url": "https://www.nytimes.com/2025/04/18/us/politics/doge-musk-social-security-justice-department.html",
+        "uri": "nyt://article/ccf46014-a6e5-5d80-ba82-f1c24b2fa6a0",
+        "byline": "By Glenn Thrush",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T12:40:40-04:00",
+        "created_date": "2025-04-18T12:00:10-04:00",
+        "published_date": "2025-04-18T12:00:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Social Security (US)",
+            "Deportation"
+        ],
+        "org_facet": [
+            "Government Efficiency Department (US)",
+            "Social Security Administration",
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Bondi, Pamela J",
+            "Gracias, Antonio",
+            "Musk, Elon",
+            "Trump, Donald J",
+            "Jon Koval",
+            "Payton Rehling"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-justice-topart-qpkw/17dc-justice-topart-qpkw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Justice Department has been given a vastly expanded role in immigration enforcement under President Trump.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-justice-topart-qpkw/17dc-justice-topart-qpkw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Justice Department has been given a vastly expanded role in immigration enforcement under President Trump.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-justice-topart-qpkw/17dc-justice-topart-qpkw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Justice Department has been given a vastly expanded role in immigration enforcement under President Trump.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Who Is J. Harvie Wilkinson, the Judge Behind a Scathing Rebuke of the White House?",
+        "abstract": "The judge, a conservative Reagan appointee, wrote a blistering opinion accusing the administration of failing to give a man wrongly deported to El Salvador any semblance of due process.",
+        "url": "https://www.nytimes.com/2025/04/18/us/politics/harvie-wilkinson-conservative-judge.html",
+        "uri": "nyt://article/13df7d1a-8e32-53bd-b7f2-da0ed3e24804",
+        "byline": "By Alan Feuer and Adam Liptak",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T12:53:13-04:00",
+        "created_date": "2025-04-18T12:53:13-04:00",
+        "published_date": "2025-04-18T12:53:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Decisions and Verdicts",
+            "Conservatism (US Politics)",
+            "Deportation"
+        ],
+        "org_facet": [
+            "Justice Department",
+            "Republican Party",
+            "University of Virginia"
+        ],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Adams, Eric L",
+            "Bush, George W",
+            "Powell, Lewis F Jr",
+            "Sassoon, Danielle R",
+            "Wilkinson, J Harvie III"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/us/politics/18dc-wilinson-topart/18dc-wilinson-topart-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1638,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In recent weeks Judge J. Harvie Wilkinson III has voiced his outrage at the White House’s mistake and refusal to do much to get Kilmar Armando Abrego Garcia back from a notoriously dangerous Salvadoran prison.",
+                "copyright": "Cynthia Johnson/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/us/politics/18dc-wilinson-topart/18dc-wilinson-topart-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In recent weeks Judge J. Harvie Wilkinson III has voiced his outrage at the White House’s mistake and refusal to do much to get Kilmar Armando Abrego Garcia back from a notoriously dangerous Salvadoran prison.",
+                "copyright": "Cynthia Johnson/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/us/politics/18dc-wilinson-topart/18dc-wilinson-topart-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In recent weeks Judge J. Harvie Wilkinson III has voiced his outrage at the White House’s mistake and refusal to do much to get Kilmar Armando Abrego Garcia back from a notoriously dangerous Salvadoran prison.",
+                "copyright": "Cynthia Johnson/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
