@@ -63245,5 +63245,128 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "At Least 2 Killed and 6 Injured in Florida State University Shooting",
+        "abstract": "The police identified the gunman as a 20-year-old student who is the son of a Leon County sheriff’s deputy. Neither of the slain victims was a student at the university.",
+        "url": "https://www.nytimes.com/2025/04/17/us/fsu-shooting-tallahassee.html",
+        "uri": "nyt://article/3a03cc52-1e92-5a0e-80c2-cf8064b0aaaa",
+        "byline": "By Adeel Hassan, Valerie Crowder and Thomas Fuller",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T23:28:50-04:00",
+        "created_date": "2025-04-17T13:21:51-04:00",
+        "published_date": "2025-04-17T13:21:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Colleges and Universities",
+            "Mass Shootings"
+        ],
+        "org_facet": [
+            "Florida State University"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Tallahassee (Fla)",
+            "Florida"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/17/multimedia/17xp-floridastate-hpkf/17xp-floridastate-hpkf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Students and members of the community leaving flowers outside the taped off perimeter on Florida State University’s campus on Thursday.",
+                "copyright": "Erich Martin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/17/multimedia/17xp-floridastate-hpkf/17xp-floridastate-hpkf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Students and members of the community leaving flowers outside the taped off perimeter on Florida State University’s campus on Thursday.",
+                "copyright": "Erich Martin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/17/multimedia/17xp-floridastate-hpkf/17xp-floridastate-hpkf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Students and members of the community leaving flowers outside the taped off perimeter on Florida State University’s campus on Thursday.",
+                "copyright": "Erich Martin for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "music",
+        "title": "Nino Tempo, Who Topped the Charts With ‘Deep Purple,’ Dies at 90",
+        "abstract": "He was a busy session saxophonist, but he is probably best known for the Grammy-winning pop hit that he sang in 1963 as half of a duo act with his sister, April Stevens.",
+        "url": "https://www.nytimes.com/2025/04/17/arts/music/nino-tempo-dead.html",
+        "uri": "nyt://article/cd7a1d9e-cd79-5c82-ac8b-69fc37a94a2a",
+        "byline": "By Daniel E. Slotnik",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T18:26:53-04:00",
+        "created_date": "2025-04-17T17:37:14-04:00",
+        "published_date": "2025-04-17T17:37:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Deep Purple (Song)",
+            "Pop and Rock Music",
+            "Jazz",
+            "Saxophones"
+        ],
+        "org_facet": [
+            "Atlantic Records"
+        ],
+        "per_facet": [
+            "Tempo, Nino (1935- )",
+            "Stevens, April (1929-2023)"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17Tempo--01-whfp/17Tempo--01-whfp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1629,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mr. Tempo and Ms. Stevens in 1970. Their rise to the top was rapid, but their time at the pinnacle was short. ",
+                "copyright": "Keystone Press/Alamy"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17Tempo--01-whfp/17Tempo--01-whfp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mr. Tempo and Ms. Stevens in 1970. Their rise to the top was rapid, but their time at the pinnacle was short. ",
+                "copyright": "Keystone Press/Alamy"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17Tempo--01-whfp/17Tempo--01-whfp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mr. Tempo and Ms. Stevens in 1970. Their rise to the top was rapid, but their time at the pinnacle was short. ",
+                "copyright": "Keystone Press/Alamy"
+            }
+        ],
+        "short_url": ""
     }
 ]
