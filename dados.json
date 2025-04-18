@@ -62728,5 +62728,339 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "What to Know About the Court Cases Challenging Trump’s Immigration Agenda",
+        "abstract": "The Trump administration is on course for a potential constitutional clash with the judiciary branch, which has issued several rulings countering executive orders.",
+        "url": "https://www.nytimes.com/2025/04/17/us/politics/trump-immigration-cases-explained.html",
+        "uri": "nyt://article/bb3aac23-8e07-5051-8dbb-5aebb2f0f10e",
+        "byline": "By Alan Feuer and Abbie VanSickle",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T20:27:30-04:00",
+        "created_date": "2025-04-17T19:23:49-04:00",
+        "published_date": "2025-04-17T19:23:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Deportation",
+            "Courts and the Judiciary",
+            "Decisions and Verdicts",
+            "Illegal Immigration",
+            "Fourteenth Amendment (US Constitution)",
+            "Alien Enemies Act (1798)",
+            "Presidential Power (US)"
+        ],
+        "org_facet": [
+            "Supreme Court (US)",
+            "Tren de Aragua (Gang)"
+        ],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Boasberg, James E",
+            "Trump, Donald J",
+            "Wong Kim Ark (b 1873)",
+            "Xinis, Paula"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-courts-explainer-topart-jzlv/18dc-courts-explainer-topart-jzlv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court announced it would hear oral arguments on May 15 about President Trump’s request to lift a nationwide pause on his executive order ending birthright citizenship.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-courts-explainer-topart-jzlv/18dc-courts-explainer-topart-jzlv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court announced it would hear oral arguments on May 15 about President Trump’s request to lift a nationwide pause on his executive order ending birthright citizenship.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-courts-explainer-topart-jzlv/18dc-courts-explainer-topart-jzlv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court announced it would hear oral arguments on May 15 about President Trump’s request to lift a nationwide pause on his executive order ending birthright citizenship.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Sheriff vows to do ‘everything we can to prosecute’ after identifying the gunman as a deputy’s son.",
+        "abstract": "The 20-year-old gunman used his mother’s service weapon, which she had bought for personal use, said the sheriff of Leon County, Fla.",
+        "url": "https://www.nytimes.com/live/2025/04/17/us/fsu-shooting-tallahassee/fsu-shooting-sheriff-gunman",
+        "uri": "nyt://article/34f8b003-eb08-5821-933d-d43a6029cb47",
+        "byline": "By Patricia Mazzei",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T20:36:27-04:00",
+        "created_date": "2025-04-17T18:43:03-04:00",
+        "published_date": "2025-04-17T18:43:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "School Shootings and Armed Attacks",
+            "Murders, Attempted Murders and Homicides",
+            "Police",
+            "Colleges and Universities"
+        ],
+        "org_facet": [
+            "Florida State University"
+        ],
+        "per_facet": [
+            "Ikner, Phoenix",
+            "McNeil, Walter"
+        ],
+        "geo_facet": [
+            "Tallahassee (Fla)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17fsu-shooting-presser-vlcf/17fsu-shooting-presser-vlcf-superJumbo-v3.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sheriff Walter McNeil of Leon County, Fla., speaking at a news conference after a shooting at Florida State University killed 2 and wounded 6 on Thursday.",
+                "copyright": "Erich Martin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17fsu-shooting-presser-vlcf/17fsu-shooting-presser-vlcf-threeByTwoSmallAt2X-v3.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sheriff Walter McNeil of Leon County, Fla., speaking at a news conference after a shooting at Florida State University killed 2 and wounded 6 on Thursday.",
+                "copyright": "Erich Martin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17fsu-shooting-presser-vlcf/17fsu-shooting-presser-vlcf-thumbLarge-v3.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sheriff Walter McNeil of Leon County, Fla., speaking at a news conference after a shooting at Florida State University killed 2 and wounded 6 on Thursday.",
+                "copyright": "Erich Martin for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Ukraine and U.S. Sign Agreement in Lead-Up to a Full Minerals Deal",
+        "abstract": "The signed memorandum of understanding was thin on details, and the White House did not comment. But President Trump has said he expects to sign a minerals deal with Kyiv soon.",
+        "url": "https://www.nytimes.com/2025/04/17/world/europe/ukraine-us-minerals-agreement.html",
+        "uri": "nyt://article/de0d8055-57a5-59a6-bb21-ff55c336628d",
+        "byline": "By Andrew E. Kramer",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T20:05:17-04:00",
+        "created_date": "2025-04-17T19:40:00-04:00",
+        "published_date": "2025-04-17T19:40:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations",
+            "Politics and Government",
+            "Defense and Military Forces",
+            "International Relations",
+            "Mines and Mining",
+            "Foreign Aid",
+            "Rare Earths"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Trump, Donald J",
+            "Zelensky, Volodymyr",
+            "Bessent, Scott",
+            "Yulia Svyrydenko"
+        ],
+        "geo_facet": [
+            "Russia",
+            "Ukraine",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-ukraine-deal-gpbv/17int-ukraine-deal-gpbv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mining ilmenite in the central region of Kirovohrad, Ukraine, earlier this year. President Trump has said he expects the United States to reap $500 billion from Ukraine’s natural resources in the deal and win access to deposits of rare earth metals. ",
+                "copyright": "Efrem Lukatsky/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-ukraine-deal-gpbv/17int-ukraine-deal-gpbv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mining ilmenite in the central region of Kirovohrad, Ukraine, earlier this year. President Trump has said he expects the United States to reap $500 billion from Ukraine’s natural resources in the deal and win access to deposits of rare earth metals. ",
+                "copyright": "Efrem Lukatsky/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-ukraine-deal-gpbv/17int-ukraine-deal-gpbv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mining ilmenite in the central region of Kirovohrad, Ukraine, earlier this year. President Trump has said he expects the United States to reap $500 billion from Ukraine’s natural resources in the deal and win access to deposits of rare earth metals. ",
+                "copyright": "Efrem Lukatsky/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Columbia Activists Are Being Detained. Protesters Demand Answers.",
+        "abstract": "Demonstrators rallied on Columbia’s campus and marched in Manhattan, three days after Mohsen Mahdawi was detained by immigration officials after arriving for a U.S. citizenship appointment.",
+        "url": "https://www.nytimes.com/2025/04/17/nyregion/columbia-protest-khalil-mahdawi.html",
+        "uri": "nyt://article/6054a5fd-7e3f-5fd1-a860-449116e04d17",
+        "byline": "By Anvee Bhutani and Kaja Andric",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T19:47:47-04:00",
+        "created_date": "2025-04-17T19:43:47-04:00",
+        "published_date": "2025-04-17T19:43:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Immigration Detention",
+            "Demonstrations, Protests and Riots",
+            "Foreign Students (in US)",
+            "Pro-Palestinian Campus Protests (2023- )",
+            "Deportation",
+            "Palestinians"
+        ],
+        "org_facet": [
+            "Columbia University",
+            "Immigration and Customs Enforcement (US)"
+        ],
+        "per_facet": [
+            "Khalil, Mahmoud (Activist)",
+            "Mahdawi, Mohsen"
+        ],
+        "geo_facet": [
+            "New York City",
+            "Washington Square Park (Manhattan, NY)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17met-columbia-protest-zcbq/17met-columbia-protest-zcbq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters at Columbia University on Thursday called for answers about the detention of two organizers of pro-Palestinian demonstrations.",
+                "copyright": "Marco Postigo Storel for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17met-columbia-protest-zcbq/17met-columbia-protest-zcbq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters at Columbia University on Thursday called for answers about the detention of two organizers of pro-Palestinian demonstrations.",
+                "copyright": "Marco Postigo Storel for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17met-columbia-protest-zcbq/17met-columbia-protest-zcbq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters at Columbia University on Thursday called for answers about the detention of two organizers of pro-Palestinian demonstrations.",
+                "copyright": "Marco Postigo Storel for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Judge Delays a Resentencing Hearing for the Menendez Brothers",
+        "abstract": "The proceedings were pushed back for three weeks over the issue of whether a key report on Erik and Lyle Menendez was admissible.",
+        "url": "https://www.nytimes.com/2025/04/17/us/menendez-brothers-resentencing-hearing.html",
+        "uri": "nyt://article/0cf5e07a-36ea-551e-a239-6fbbe65834e7",
+        "byline": "By Tim Arango and Matt Stevens",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T20:34:04-04:00",
+        "created_date": "2025-04-17T19:10:59-04:00",
+        "published_date": "2025-04-17T19:10:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Murders, Attempted Murders and Homicides"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Menendez, Erik",
+            "Menendez, Lyle",
+            "Hochman, Nathan (1963- )",
+            "Newsom, Gavin"
+        ],
+        "geo_facet": [
+            "Los Angeles (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17nat-menendez-hfo-vmzq/17nat-menendez-hfo-vmzq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Richard J. Donovan Correctional Facility in San Diego, where Erik and Lyle Menendez are serving their sentences.",
+                "copyright": "Mike Blake/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17nat-menendez-hfo-vmzq/17nat-menendez-hfo-vmzq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Richard J. Donovan Correctional Facility in San Diego, where Erik and Lyle Menendez are serving their sentences.",
+                "copyright": "Mike Blake/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17nat-menendez-hfo-vmzq/17nat-menendez-hfo-vmzq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Richard J. Donovan Correctional Facility in San Diego, where Erik and Lyle Menendez are serving their sentences.",
+                "copyright": "Mike Blake/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
