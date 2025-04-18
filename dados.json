@@ -65130,5 +65130,439 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Administration Steps Up Pressure on Harvard With New Records Demand",
+        "abstract": "The Education Department accused the university of failing to report large foreign donations to the government, as required by law. Harvard disputed the claim.",
+        "url": "https://www.nytimes.com/2025/04/18/us/politics/trump-harvard-foreign-donations.html",
+        "uri": "nyt://article/fbc1bc19-b918-5b10-8b1a-bd1fc0fdeb73",
+        "byline": "By Karoun Demirjian",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T11:42:06-04:00",
+        "created_date": "2025-04-18T11:42:06-04:00",
+        "published_date": "2025-04-18T11:42:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Federal Aid (US)",
+            "Foreign Students (in US)",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Harvard University",
+            "Education Department (US)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Garber, Alan M"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/17/multimedia/18dc-harvard1/17harvard-campus-HP-fplj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Harvard campus this week. The Education Department told the university to provide names and all records of communication with foreign donors from the beginning of 2020.",
+                "copyright": "Cody O'Loughlin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/17/multimedia/18dc-harvard1/17harvard-campus-HP-fplj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Harvard campus this week. The Education Department told the university to provide names and all records of communication with foreign donors from the beginning of 2020.",
+                "copyright": "Cody O'Loughlin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/17/multimedia/18dc-harvard1/17harvard-campus-HP-fplj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Harvard campus this week. The Education Department told the university to provide names and all records of communication with foreign donors from the beginning of 2020.",
+                "copyright": "Cody O'Loughlin for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "style",
+        "subsection": "",
+        "title": "The Women Who Think the World Needs More Babies",
+        "abstract": "At a convention of the pronatalist movement, the relatively few women in attendance agreed: Motherhood needs a rebrand.",
+        "url": "https://www.nytimes.com/2025/04/17/style/women-pronatalist-movement.html",
+        "uri": "nyt://article/9f8addf7-6eff-59a4-bdab-14e54db60342",
+        "byline": "By Emma Goldberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T12:03:58-04:00",
+        "created_date": "2025-04-17T05:02:15-04:00",
+        "published_date": "2025-04-17T05:02:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Parenting",
+            "Birth Rates",
+            "United States Politics and Government",
+            "Women and Girls",
+            "Fringe Groups and Movements",
+            "Right-Wing Extremism and Alt-Right",
+            "Conservatism (US Politics)",
+            "Population",
+            "Families and Family Life"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Bradford, Amanda"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17ST-PRONATAL-WOMEN-03-ltpk/17ST-PRONATAL-WOMEN-03-ltpk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Amanda Bradford, left, with Malcolm Collins, 38, and his wife, Simone, 37. The Collinses host a podcast called “Based Camp” and are high-profile members of the pronatalist movement.",
+                "copyright": "Simone Collins"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17ST-PRONATAL-WOMEN-03-ltpk/17ST-PRONATAL-WOMEN-03-ltpk-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Amanda Bradford, left, with Malcolm Collins, 38, and his wife, Simone, 37. The Collinses host a podcast called “Based Camp” and are high-profile members of the pronatalist movement.",
+                "copyright": "Simone Collins"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17ST-PRONATAL-WOMEN-03-ltpk/17ST-PRONATAL-WOMEN-03-ltpk-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Amanda Bradford, left, with Malcolm Collins, 38, and his wife, Simone, 37. The Collinses host a podcast called “Based Camp” and are high-profile members of the pronatalist movement.",
+                "copyright": "Simone Collins"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "well",
+        "subsection": "",
+        "title": "Kennedy Claimed Autism ‘Destroys’ Lives. Autistic People Disagree.",
+        "abstract": "People in the community called the remarks dehumanizing and warned they could perpetuate harmful stigma.",
+        "url": "https://www.nytimes.com/2025/04/18/well/autism-kennedy-reaction.html",
+        "uri": "nyt://article/30df4fe8-953c-5fcb-aa2f-93fa304f5f21",
+        "byline": "By Maggie Astor, Azeen Ghorayshi and Dani Blum",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T12:01:01-04:00",
+        "created_date": "2025-04-18T11:25:00-04:00",
+        "published_date": "2025-04-18T11:25:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Autism",
+            "Disabilities",
+            "Children and Childhood",
+            "Discrimination"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kennedy, Robert F Jr",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/RFK-AUTISM-REAX1-qjbk/RFK-AUTISM-REAX1-qjbk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Robert F. Kennedy Jr.’s remarks in a news conference Wednesday have sparked an outraged reaction among many autistic people and their families. ",
+                "copyright": "Pete Kiehart for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/RFK-AUTISM-REAX1-qjbk/RFK-AUTISM-REAX1-qjbk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Robert F. Kennedy Jr.’s remarks in a news conference Wednesday have sparked an outraged reaction among many autistic people and their families. ",
+                "copyright": "Pete Kiehart for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/RFK-AUTISM-REAX1-qjbk/RFK-AUTISM-REAX1-qjbk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Robert F. Kennedy Jr.’s remarks in a news conference Wednesday have sparked an outraged reaction among many autistic people and their families. ",
+                "copyright": "Pete Kiehart for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "Google Makes History With Rapid-Fire Antitrust Losses",
+        "abstract": "Within a year, two federal judges declared the tech giant a monopoly in search and ad technology. The tide may be turning for antitrust.",
+        "url": "https://www.nytimes.com/2025/04/18/technology/google-antitrust-losses-history.html",
+        "uri": "nyt://article/f29e0b89-21c4-5422-b207-c8682d2e63dd",
+        "byline": "By Steve Lohr",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T11:32:51-04:00",
+        "created_date": "2025-04-18T10:39:19-04:00",
+        "published_date": "2025-04-18T10:39:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Antitrust Laws and Competition Issues",
+            "Computers and the Internet",
+            "Decisions and Verdicts",
+            "Search Engines",
+            "Online Advertising",
+            "Suits and Litigation (Civil)",
+            "Android (Operating System)"
+        ],
+        "org_facet": [
+            "Google Inc",
+            "Justice Department",
+            "Microsoft Corp"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18biz-google-antitrust-01-fkpc/18biz-google-antitrust-01-fkpc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Google antitrust lawsuits are “important affirmations of the ability of the government to pursue major monopolization cases and prevail,” said Nancy Rose, an M.I.T. economist.",
+                "copyright": "Jason Henry for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18biz-google-antitrust-01-fkpc/18biz-google-antitrust-01-fkpc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Google antitrust lawsuits are “important affirmations of the ability of the government to pursue major monopolization cases and prevail,” said Nancy Rose, an M.I.T. economist.",
+                "copyright": "Jason Henry for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18biz-google-antitrust-01-fkpc/18biz-google-antitrust-01-fkpc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Google antitrust lawsuits are “important affirmations of the ability of the government to pursue major monopolization cases and prevail,” said Nancy Rose, an M.I.T. economist.",
+                "copyright": "Jason Henry for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Wisconsin Supreme Court Says Governor’s 400-Year Edit Was Within Veto Authority",
+        "abstract": "Gov. Tony Evers, a Democrat, used his veto power to increase school funding limits for four centuries longer than Republican lawmakers in the state had intended.",
+        "url": "https://www.nytimes.com/2025/04/18/us/wisconsin-supreme-court-veto.html",
+        "uri": "nyt://article/fdfadf88-7509-50ba-b6fc-de64f10feb3c",
+        "byline": "By Mitch Smith",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T11:41:51-04:00",
+        "created_date": "2025-04-18T11:10:46-04:00",
+        "published_date": "2025-04-18T11:10:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Governors (US)",
+            "Vetoes (US)",
+            "Education (K-12)",
+            "Supreme Courts (State)",
+            "Decisions and Verdicts"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Evers, Tony (1951- )"
+        ],
+        "geo_facet": [
+            "Wisconsin"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17nat-milwaukee-1-fklq/17nat-milwaukee-1-fklq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gov. Tony Evers of Wisconsin spoke in Madison earlier this year.",
+                "copyright": "Morry Gash/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17nat-milwaukee-1-fklq/17nat-milwaukee-1-fklq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gov. Tony Evers of Wisconsin spoke in Madison earlier this year.",
+                "copyright": "Morry Gash/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17nat-milwaukee-1-fklq/17nat-milwaukee-1-fklq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gov. Tony Evers of Wisconsin spoke in Madison earlier this year.",
+                "copyright": "Morry Gash/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Battling ‘Eat and Flee’ Tourists, Venice Brings Its Entrance Fee Back",
+        "abstract": "A measure to limit day tourism on peak days began for the second year on Friday, charging day trippers five euros (or 10 for the spontaneous traveler).",
+        "url": "https://www.nytimes.com/2025/04/18/world/europe/venice-entrance-fee-tourists.html",
+        "uri": "nyt://article/4c34d430-e4be-5e5c-be43-05f40cd27851",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T10:49:45-04:00",
+        "created_date": "2025-04-18T10:41:25-04:00",
+        "published_date": "2025-04-18T10:41:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Travel and Vacations",
+            "Prices (Fares, Fees and Rates)"
+        ],
+        "org_facet": [
+            "United Nations"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Venice (Italy)",
+            "Italy"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-venice-fee-zwhk/18int-venice-fee-zwhk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tourists at the Rialto Bridge in Venice. The city has recently banned cruise ships from its lagoon and taken other measures to counteract crowding. ",
+                "copyright": "Laetitia Vancon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-venice-fee-zwhk/18int-venice-fee-zwhk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tourists at the Rialto Bridge in Venice. The city has recently banned cruise ships from its lagoon and taken other measures to counteract crowding. ",
+                "copyright": "Laetitia Vancon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-venice-fee-zwhk/18int-venice-fee-zwhk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tourists at the Rialto Bridge in Venice. The city has recently banned cruise ships from its lagoon and taken other measures to counteract crowding. ",
+                "copyright": "Laetitia Vancon for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "‘Psychological Torture’: London Bans Busking in a Famed Tourist Hub",
+        "abstract": "Noise complaints led the authorities to halt street performances in Leicester Square. Some miss the music. Others found the noise “bloody annoying.”",
+        "url": "https://www.nytimes.com/2025/04/18/world/europe/london-busking-street-performers-leicester-square-ban.html",
+        "uri": "nyt://article/7510f515-39d7-59ea-a38e-129d58871be0",
+        "byline": "By Jonathan Wolfe",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T08:14:00-04:00",
+        "created_date": "2025-04-18T06:01:52-04:00",
+        "published_date": "2025-04-18T06:01:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Street Performers",
+            "City Councils",
+            "Noise"
+        ],
+        "org_facet": [
+            "Covent Garden"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Westminster (England)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17london-busking-htmq/17london-busking-htmq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Street performers have been a fixture in Leicester Square for generations, but they were barred from the tourist hub this week.",
+                "copyright": "Henry Nicholls/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17london-busking-htmq/17london-busking-htmq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Street performers have been a fixture in Leicester Square for generations, but they were barred from the tourist hub this week.",
+                "copyright": "Henry Nicholls/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17london-busking-htmq/17london-busking-htmq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Street performers have been a fixture in Leicester Square for generations, but they were barred from the tourist hub this week.",
+                "copyright": "Henry Nicholls/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
