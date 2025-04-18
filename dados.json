@@ -64874,5 +64874,261 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Under Trump, National Security Guardrails Vanish",
+        "abstract": "America’s adversaries have more room to operate, at least in the disinformation space, cybersecurity experts say.",
+        "url": "https://www.nytimes.com/2025/04/18/us/politics/trump-national-security.html",
+        "uri": "nyt://article/abe89a36-351d-5a8d-bbcc-019f283001ef",
+        "byline": "By Helene Cooper and Julian E. Barnes",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T10:56:20-04:00",
+        "created_date": "2025-04-18T10:20:09-04:00",
+        "published_date": "2025-04-18T10:20:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Defense and Military Forces",
+            "Cyberwarfare and Defense",
+            "Rumors and Misinformation",
+            "Classified Information and State Secrets",
+            "Propaganda"
+        ],
+        "org_facet": [
+            "Cybersecurity and Infrastructure Security Agency",
+            "United States Cyber Command"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-guardrails-topart-bcft/18dc-guardrails-topart-bcft-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1640,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "F.B.I. headquarters. In the past, the bureau would counter foreign disinformation campaigns by calling them out, but it has instead shut down its foreign influence task force.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-guardrails-topart-bcft/18dc-guardrails-topart-bcft-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "F.B.I. headquarters. In the past, the bureau would counter foreign disinformation campaigns by calling them out, but it has instead shut down its foreign influence task force.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-guardrails-topart-bcft/18dc-guardrails-topart-bcft-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "F.B.I. headquarters. In the past, the bureau would counter foreign disinformation campaigns by calling them out, but it has instead shut down its foreign influence task force.",
+                "copyright": "Erin Schaff/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "After Attacking Judges, Trump Administration Blames Judge for Escalating Tensions",
+        "abstract": "The administration cast the threat by the judge, James E. Boasberg, to open criminal contempt proceedings as another salvo in an increasingly bitter battle between the White House and the courts.",
+        "url": "https://www.nytimes.com/2025/04/18/us/boasberg-trump-administration-tensions.html",
+        "uri": "nyt://article/9db684cb-b5e1-543e-9ea0-82dbaf60a8f6",
+        "byline": "By Alan Feuer",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T10:02:27-04:00",
+        "created_date": "2025-04-18T09:32:45-04:00",
+        "published_date": "2025-04-18T09:32:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Presidential Power (US)",
+            "United States Politics and Government",
+            "Deportation"
+        ],
+        "org_facet": [
+            "Justice Department",
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Boasberg, James E",
+            "Trump, Donald J",
+            "Wilkinson, J Harvie III",
+            "Xinis, Paula"
+        ],
+        "geo_facet": [
+            "El Salvador",
+            "Maryland",
+            "Venezuela"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-immig-bvkg/18dc-immig-bvkg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "James E. Boasberg, chief judge of the U.S. District Court for the District of Columbia, in Washington earlier this month.",
+                "copyright": "Drew Angerer/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-immig-bvkg/18dc-immig-bvkg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "James E. Boasberg, chief judge of the U.S. District Court for the District of Columbia, in Washington earlier this month.",
+                "copyright": "Drew Angerer/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-immig-bvkg/18dc-immig-bvkg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "James E. Boasberg, chief judge of the U.S. District Court for the District of Columbia, in Washington earlier this month.",
+                "copyright": "Drew Angerer/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "What We Know About the Florida State University Shooting",
+        "abstract": "Two people were killed and six others were injured when a 20-year-old gunman opened fire near the student union building, the police said.",
+        "url": "https://www.nytimes.com/2025/04/17/us/florida-state-university-shooting-explainer.html",
+        "uri": "nyt://article/ca43425f-ad0e-57d9-a674-09448d3d97f1",
+        "byline": "By Patricia Mazzei",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T10:47:54-04:00",
+        "created_date": "2025-04-17T21:57:55-04:00",
+        "published_date": "2025-04-17T21:57:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Murders, Attempted Murders and Homicides",
+            "School Shootings and Armed Attacks"
+        ],
+        "org_facet": [
+            "Florida State University"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Tallahassee (Fla)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00nat-floridstate-wwk/17fsu-video-cover-mftc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The scene on campus at Florida State University after a shooting that left two dead and six injured on Thursday.",
+                "copyright": "Erich Martin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00nat-floridstate-wwk/17fsu-video-cover-mftc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The scene on campus at Florida State University after a shooting that left two dead and six injured on Thursday.",
+                "copyright": "Erich Martin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00nat-floridstate-wwk/17fsu-video-cover-mftc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The scene on campus at Florida State University after a shooting that left two dead and six injured on Thursday.",
+                "copyright": "Erich Martin for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Are Easter Baskets Getting Out of Hand?",
+        "abstract": "Social media feeds are awash in images of lavish baskets overflowing with expensive gifts. Some parents are giving their children bikes. Others are pushing back.",
+        "url": "https://www.nytimes.com/2025/04/18/business/easter-baskets-kids-items-tiktok.html",
+        "uri": "nyt://article/a0b00c2f-c471-5b2c-be92-758f8eab6079",
+        "byline": "By Claire Fahy",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T11:04:22-04:00",
+        "created_date": "2025-04-18T11:00:38-04:00",
+        "published_date": "2025-04-18T11:00:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Easter and Holy Week",
+            "Gifts",
+            "Children and Childhood",
+            "Candy",
+            "Toys",
+            "Social Media",
+            "internal-storyline-no"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Sacramento (Calif)",
+            "Philadelphia (Pa)",
+            "Canada",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18xp-easter-baskets/18xp-easter-baskets-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 960,
+                "width": 1656,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "TK"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18xp-easter-baskets/18xp-easter-baskets-threeByTwoSmallAt2X-v3.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "TK"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18xp-easter-baskets/18xp-easter-baskets-thumbLarge-v3.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "TK"
+            }
+        ],
+        "short_url": ""
     }
 ]
