@@ -65945,5 +65945,123 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "well",
+        "subsection": "",
+        "title": "She Kept Her Condition Secret for Decades, Then Bared It All Online.",
+        "abstract": "Millions of people compulsively pick their skin or pull their hair. Social media is helping some of them to recover.",
+        "url": "https://www.nytimes.com/2025/04/18/well/skin-hair-picking-dermatillomania.html",
+        "uri": "nyt://article/0b7743a9-f3f8-5ccc-919f-b8a68b713ee0",
+        "byline": "By Chloe W. Shakin",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T13:10:43-04:00",
+        "created_date": "2025-04-18T05:00:09-04:00",
+        "published_date": "2025-04-18T05:00:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Skin",
+            "Social Media",
+            "Hair",
+            "Anxiety and Stress",
+            "Depression (Mental)",
+            "Psychiatry and Psychiatrists"
+        ],
+        "org_facet": [
+            "Instagram Inc"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/WELL-BFRB-RECOVERY5-wmpb/WELL-BFRB-RECOVERY5-wmpb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1463,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sarah Redzikowski began picking her skin as a child as a way to cope with stress at home. “I get in front of the mirror and then suddenly the time is gone,” she said.",
+                "copyright": "Alex Welsh for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/WELL-BFRB-RECOVERY5-wmpb/WELL-BFRB-RECOVERY5-wmpb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sarah Redzikowski began picking her skin as a child as a way to cope with stress at home. “I get in front of the mirror and then suddenly the time is gone,” she said.",
+                "copyright": "Alex Welsh for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/WELL-BFRB-RECOVERY5-wmpb/WELL-BFRB-RECOVERY5-wmpb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sarah Redzikowski began picking her skin as a child as a way to cope with stress at home. “I get in front of the mirror and then suddenly the time is gone,” she said.",
+                "copyright": "Alex Welsh for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Man Sinks in Quicksand and Emerges With a Girlfriend",
+        "abstract": "A Michigan man who ended up waist-deep on an unstable beach was rescued, and found himself in a relationship.",
+        "url": "https://www.nytimes.com/2025/04/18/us/lake-michigan-quicksand.html",
+        "uri": "nyt://article/59400ac6-20ec-5834-990d-1ee81e0ffcc5",
+        "byline": "By Victor Mather",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T13:34:25-04:00",
+        "created_date": "2025-04-18T13:27:09-04:00",
+        "published_date": "2025-04-18T13:27:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Dating and Relationships",
+            "Beaches"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Lake Michigan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18xp-sand-04/18xp-sand-04-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“I knew not to panic. I have to be a macho man,” Mitchell O’Brien said of his mind-set while trapped in the sand.",
+                "copyright": "Breanne Sika"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18xp-sand-04/18xp-sand-04-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“I knew not to panic. I have to be a macho man,” Mitchell O’Brien said of his mind-set while trapped in the sand.",
+                "copyright": "Breanne Sika"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18xp-sand-04/18xp-sand-04-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“I knew not to panic. I have to be a macho man,” Mitchell O’Brien said of his mind-set while trapped in the sand.",
+                "copyright": "Breanne Sika"
+            }
+        ],
+        "short_url": ""
     }
 ]
