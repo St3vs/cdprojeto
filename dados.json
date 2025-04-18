@@ -64438,5 +64438,307 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Calls Florida Shooting a ‘Shame,’ but Signals No Shift in Gun Laws",
+        "abstract": "Speaking to reporters in the Oval Office, the president said he would “always protect the Second Amendment.”",
+        "url": "https://www.nytimes.com/2025/04/18/us/politics/trump-florida-shooting-gun-laws.html",
+        "uri": "nyt://article/faf760be-e9d9-579c-8046-678fa4ab854a",
+        "byline": "By Jonathan Wolfe",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T07:04:33-04:00",
+        "created_date": "2025-04-18T06:33:34-04:00",
+        "published_date": "2025-04-18T06:33:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Gun Control",
+            "United States Politics and Government",
+            "Law and Legislation",
+            "Second Amendment (US Constitution)",
+            "School Shootings and Armed Attacks"
+        ],
+        "org_facet": [
+            "Bureau of Alcohol, Tobacco, Firearms and Explosives"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18trump-news-florida-shooting-flkv/18trump-news-florida-shooting-flkv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The site of a shooting that left two dead at the campus of Florida State University in Tallahassee on Thursday.",
+                "copyright": "Erich Martin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18trump-news-florida-shooting-flkv/18trump-news-florida-shooting-flkv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The site of a shooting that left two dead at the campus of Florida State University in Tallahassee on Thursday.",
+                "copyright": "Erich Martin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18trump-news-florida-shooting-flkv/18trump-news-florida-shooting-flkv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The site of a shooting that left two dead at the campus of Florida State University in Tallahassee on Thursday.",
+                "copyright": "Erich Martin for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "U.S. Gas Exports to China Stopped After Beijing Imposed Tariffs",
+        "abstract": "The United States accounted for only 3 percent of China’s natural gas imports last year. Those purchases could now dry up entirely in the trade war.",
+        "url": "https://www.nytimes.com/2025/04/18/business/china-us-lng-trump-tariffs.html",
+        "uri": "nyt://article/b391e1ec-31e4-5e4f-9286-b5baaffb3e1b",
+        "byline": "By Keith Bradsher",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T06:48:01-04:00",
+        "created_date": "2025-04-18T06:48:01-04:00",
+        "published_date": "2025-04-18T06:48:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Russian Invasion of Ukraine (2022)",
+            "Natural Gas"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18Biz-China-LNG-01-klwj/18Biz-China-LNG-01-klwj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A liquefied natural gas plant in Port Arthur, Texas. Chinese energy firms have been big buyers of L.N.G. in the United States, but have been selling its purchases to Europe.",
+                "copyright": "Brandon Bell/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18Biz-China-LNG-01-klwj/18Biz-China-LNG-01-klwj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A liquefied natural gas plant in Port Arthur, Texas. Chinese energy firms have been big buyers of L.N.G. in the United States, but have been selling its purchases to Europe.",
+                "copyright": "Brandon Bell/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18Biz-China-LNG-01-klwj/18Biz-China-LNG-01-klwj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A liquefied natural gas plant in Port Arthur, Texas. Chinese energy firms have been big buyers of L.N.G. in the United States, but have been selling its purchases to Europe.",
+                "copyright": "Brandon Bell/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Christianity in the White House",
+        "abstract": "President Trump has significantly expanded the power and influence of conservative Christians in government.",
+        "url": "https://www.nytimes.com/2025/04/18/briefing/christianity-in-the-white-house.html",
+        "uri": "nyt://article/f2d237b6-1769-5aa9-8295-c553803e4b62",
+        "byline": "By Ruth Graham",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T06:40:58-04:00",
+        "created_date": "2025-04-18T06:40:58-04:00",
+        "published_date": "2025-04-18T06:40:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "internal-storyline-no"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18themorning-nl-LEAD-pvlc/18themorning-nl-LEAD-pvlc-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 2047,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18themorning-nl-LEAD-pvlc/18themorning-nl-LEAD-pvlc-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18themorning-nl-LEAD-pvlc/18themorning-nl-LEAD-pvlc-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "Stephen Colbert Translates Trump’s Italian Tariff Talk",
+        "abstract": "“The Late Show” host said Italy’s prime minister, Giorgia Meloni, is “seen as something of a Trump whisperer” after she visited the White House on Thursday.",
+        "url": "https://www.nytimes.com/2025/04/18/arts/television/stephen-colbert-trump-meloni.html",
+        "uri": "nyt://article/4053423c-71e1-5006-90d6-fbc6802c09d1",
+        "byline": "By Trish Bendix",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T03:00:16-04:00",
+        "created_date": "2025-04-18T02:44:37-04:00",
+        "published_date": "2025-04-18T02:44:37-04:00",
+        "material_type_facet": "",
+        "kicker": "Best of Late Night",
+        "des_facet": [
+            "Television",
+            "Jimmy Kimmel Live (TV Program)",
+            "Late Show with Stephen Colbert (TV Program)",
+            "The Daily Show with Trevor Noah (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kimmel, Jimmy",
+            "Colbert, Stephen",
+            "Chieng, Ronny (Comedian)"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/arts/18latenight/18latenight-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1028,
+                "width": 1823,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Things went so well that they planned a second play date,” Stephen Colbert said of the Trump-Meloni meeting.",
+                "copyright": "CBS"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/arts/18latenight/18latenight-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Things went so well that they planned a second play date,” Stephen Colbert said of the Trump-Meloni meeting.",
+                "copyright": "CBS"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/arts/18latenight/18latenight-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Things went so well that they planned a second play date,” Stephen Colbert said of the Trump-Meloni meeting.",
+                "copyright": "CBS"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "China-Built Airport in Nepal Was Littered With Corruption, Inquiry Finds",
+        "abstract": "A Nepali investigation blamed lawmakers and officials for looking the other way. The $216 million airport receives only one international flight a week.",
+        "url": "https://www.nytimes.com/2025/04/18/business/china-nepal-airport.html",
+        "uri": "nyt://article/f80e143b-45fc-5fce-9035-a9c633f3feaa",
+        "byline": "By Bhadra Sharma and Daisuke Wakabayashi",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T06:35:57-04:00",
+        "created_date": "2025-04-18T06:10:37-04:00",
+        "published_date": "2025-04-18T06:10:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Airports",
+            "Infrastructure (Public Works)"
+        ],
+        "org_facet": [
+            "Bank of China",
+            "China CAMC Engineering",
+            "Export-Import Bank of China"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "China",
+            "Nepal",
+            "Pokhara (Nepal)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18biz-china-nepal-tkhw/18biz-china-nepal-tkhw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Crowds welcomed passengers from the first international flight to arrive at Pokhara International Airport in 2023. Nepal is saddled with a Chinese loan it cannot afford to repay.",
+                "copyright": "Rebecca Conway for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18biz-china-nepal-tkhw/18biz-china-nepal-tkhw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Crowds welcomed passengers from the first international flight to arrive at Pokhara International Airport in 2023. Nepal is saddled with a Chinese loan it cannot afford to repay.",
+                "copyright": "Rebecca Conway for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18biz-china-nepal-tkhw/18biz-china-nepal-tkhw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Crowds welcomed passengers from the first international flight to arrive at Pokhara International Airport in 2023. Nepal is saddled with a Chinese loan it cannot afford to repay.",
+                "copyright": "Rebecca Conway for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
