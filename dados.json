@@ -64740,5 +64740,139 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Choking, Shaking, Foaming at the Mouth: Syrians Recount Gas Attack",
+        "abstract": "Syria’s ousted dictator, Bashar al-Assad, unleashed a Sarin gas strike on the suburbs of Damascus in 2013, killing at least 1,500. Now, the survivors want justice.",
+        "url": "https://www.nytimes.com/2025/04/18/world/middleeast/syria-assad-chemical-attack.html",
+        "uri": "nyt://article/9cace4d0-e374-59c4-bd63-bc3dab0f0bec",
+        "byline": "By Carlotta Gall, Saad Alnassife and Kiana Hayeri",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T08:00:21-04:00",
+        "created_date": "2025-04-18T05:01:21-04:00",
+        "published_date": "2025-04-18T05:01:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Civilian Casualties",
+            "War and Armed Conflicts",
+            "Deaths (Fatalities)",
+            "Politics and Government",
+            "War Crimes, Genocide and Crimes Against Humanity",
+            "Defense and Military Forces",
+            "Defectors (Political)",
+            "Biological and Chemical Warfare"
+        ],
+        "org_facet": [
+            "Syrian Army"
+        ],
+        "per_facet": [
+            "Assad, Bashar al-",
+            "Obama, Barack"
+        ],
+        "geo_facet": [
+            "Damascus (Syria)",
+            "Ghouta (Syria)",
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-syria-chemical-attack-promo/00int-syria-chemical-attack-02-zgvm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The basement of an underground medical center in Eastern Ghouta, Syria, where victims of a chemical attack were taken in 2013.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-syria-chemical-attack-promo/00int-syria-chemical-attack-02-zgvm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The basement of an underground medical center in Eastern Ghouta, Syria, where victims of a chemical attack were taken in 2013.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-syria-chemical-attack-promo/00int-syria-chemical-attack-promo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The basement of an underground medical center in Eastern Ghouta, Syria, where victims of a chemical attack were taken in 2013.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "U.S. Strikes on Yemeni Port Kill Dozens, Houthis Say",
+        "abstract": "President Trump has vowed the Iran-backed Houthi militia will be “completely annihilated.” But forceful American strikes do not seem to have deterred the Yemeni fighters.",
+        "url": "https://www.nytimes.com/2025/04/18/world/middleeast/us-yemen-houthis.html",
+        "uri": "nyt://article/e3962ee4-7ccc-5c12-8505-7de4719d5855",
+        "byline": "By Aaron Boxerman and Vivian Nereim",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T08:10:11-04:00",
+        "created_date": "2025-04-18T08:07:37-04:00",
+        "published_date": "2025-04-18T08:07:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Israel-Gaza War (2023- )",
+            "Missiles and Missile Defense Systems",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [
+            "Houthis"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Al Hudaydah (Yemen)",
+            "United States",
+            "Israel",
+            "Yemen"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-yemen-strike-cfbv/18int-yemen-strike-cfbv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a video released on Friday by the Houthi-run Al-Masirah channel showing fire and destruction at the site of American strikes on the port of Ras Isa in Yemen.",
+                "copyright": "Al-Masirah TV, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-yemen-strike-cfbv/18int-yemen-strike-cfbv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a video released on Friday by the Houthi-run Al-Masirah channel showing fire and destruction at the site of American strikes on the port of Ras Isa in Yemen.",
+                "copyright": "Al-Masirah TV, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-yemen-strike-cfbv/18int-yemen-strike-cfbv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a video released on Friday by the Houthi-run Al-Masirah channel showing fire and destruction at the site of American strikes on the port of Ras Isa in Yemen.",
+                "copyright": "Al-Masirah TV, via Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
