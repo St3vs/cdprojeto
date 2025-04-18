@@ -63500,5 +63500,204 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Rubio Says U.S. to Decide in Days if End to Ukraine War Is ‘Doable’",
+        "abstract": "“If it is not possible to end the war in Ukraine, we need to move on,” the American secretary of state said as he departed meetings in Paris.",
+        "url": "https://www.nytimes.com/2025/04/18/world/europe/rubio-ukraine-russia-war-paris.html",
+        "uri": "nyt://article/a7d2dc6c-7c30-502a-bde3-a97395649f34",
+        "byline": "By Roger Cohen",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T04:58:20-04:00",
+        "created_date": "2025-04-18T04:33:11-04:00",
+        "published_date": "2025-04-18T04:33:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations",
+            "United States Politics and Government",
+            "Politics and Government",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Macron, Emmanuel (1977- )",
+            "Putin, Vladimir V",
+            "Rubio, Marco",
+            "Witkoff, Steven",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "France",
+            "Paris (France)",
+            "Europe",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-rubio-ukraine-fzwj/18int-rubio-ukraine-fzwj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "High-level talks on Thursday in Paris between American, European and Ukrainian officials.",
+                "copyright": "Pool photo by Ludovic Marin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-rubio-ukraine-fzwj/18int-rubio-ukraine-fzwj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "High-level talks on Thursday in Paris between American, European and Ukrainian officials.",
+                "copyright": "Pool photo by Ludovic Marin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-rubio-ukraine-fzwj/18int-rubio-ukraine-fzwj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "High-level talks on Thursday in Paris between American, European and Ukrainian officials.",
+                "copyright": "Pool photo by Ludovic Marin"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "13 Trump Voters on the Highs and Lows of His Term So Far",
+        "abstract": "The participants discuss how they think Trump’s second term is going.",
+        "url": "https://www.nytimes.com/interactive/2025/04/18/opinion/trump-approval-focus-group.html",
+        "uri": "nyt://interactive/fc1d9fd8-bcf2-5d7a-a8c3-e308cc76b4ee",
+        "byline": "By Katherine Miller, Adrian J. Rivera and Margie Omero",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-18T05:02:08-04:00",
+        "created_date": "2025-04-18T05:02:08-04:00",
+        "published_date": "2025-04-18T05:02:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Presidential Election of 2024",
+            "Prices (Fares, Fees and Rates)",
+            "Polls and Public Opinion"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Vance, J D"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/opinion/trump-approval-focus-group-1744905552573/trump-approval-focus-group-1744905552573-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1656,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/opinion/trump-approval-focus-group-1744905552573/trump-approval-focus-group-1744905552573-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/opinion/trump-approval-focus-group-1744905552573/trump-approval-focus-group-1744905552573-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Do Not Sleepwalk Through Trump’s Attack on the Fed’s Independence",
+        "abstract": "The president’s threat to fire Jerome Powell is more than a personal spat. It’s a direct challenge to the economic foundation that has helped America prosper.",
+        "url": "https://www.nytimes.com/2025/04/18/opinion/federal-reserve-powell-trump.html",
+        "uri": "nyt://article/d50ba464-6a6f-5d2d-98bd-d21d046dff26",
+        "byline": "By Chris Hughes",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T05:03:11-04:00",
+        "created_date": "2025-04-18T05:03:11-04:00",
+        "published_date": "2025-04-18T05:03:11-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "Banking and Financial Institutions",
+            "United States Politics and Government",
+            "Regulation and Deregulation of Industry",
+            "United States Economy"
+        ],
+        "org_facet": [
+            "Federal Reserve System"
+        ],
+        "per_facet": [
+            "Alito, Samuel A Jr",
+            "Burns, Arthur F",
+            "Hughes, Chris (1983- )",
+            "Johnson, Lyndon Baines",
+            "Martin, William McChesney",
+            "Nixon, Richard Milhous",
+            "Powell, Jerome H",
+            "Trump, Donald J",
+            "Roosevelt, Franklin Delano"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20hughes-cljw/18hughes-cljw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1639,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo Illustration by Rob Frogoso for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20hughes-cljw/18hughes-cljw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo Illustration by Rob Frogoso for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20hughes-cljw/18hughes-cljw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo Illustration by Rob Frogoso for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
