@@ -69306,5 +69306,130 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "An Urgent Supreme Court Order Protecting Migrants Was Built for Speed",
+        "abstract": "In an overnight ruling blocking the Trump administration from deporting a group of Venezuelans, the justices ignored some of their protocols.",
+        "url": "https://www.nytimes.com/2025/04/19/us/politics/supreme-court-deportation-protocol-venezuela.html",
+        "uri": "nyt://article/d2b854bd-d227-5f9a-9c05-25cd52769f57",
+        "byline": "By Adam Liptak",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T17:05:02-04:00",
+        "created_date": "2025-04-19T14:31:16-04:00",
+        "published_date": "2025-04-19T14:31:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Deportation",
+            "Illegal Immigration",
+            "Law and Legislation",
+            "Decisions and Verdicts",
+            "Courts and the Judiciary"
+        ],
+        "org_facet": [
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Alito, Samuel A Jr",
+            "Roberts, John G Jr"
+        ],
+        "geo_facet": [
+            "Venezuela",
+            "El Salvador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19dc-scotus-lfjc/19dc-scotus-lfjc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court blocked the Trump administration early Saturday from deporting a group of Venezuelan migrants accused of being gang members.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19dc-scotus-lfjc/19dc-scotus-lfjc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court blocked the Trump administration early Saturday from deporting a group of Venezuelan migrants accused of being gang members.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19dc-scotus-lfjc/19dc-scotus-lfjc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court blocked the Trump administration early Saturday from deporting a group of Venezuelan migrants accused of being gang members.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Barbara Lee Wins Oakland Mayor’s Race in Her Return Home",
+        "abstract": "The former congresswoman, a progressive Democrat, campaigned on a promise to unite residents in the beleaguered California city. Her challenger, Loren Taylor, conceded on Saturday.",
+        "url": "https://www.nytimes.com/2025/04/19/us/barbara-lee-oakland-mayor.html",
+        "uri": "nyt://article/72e7a393-36fa-5d90-bbea-8d4b5ba25305",
+        "byline": "By Soumya Karlamangla",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T16:47:28-04:00",
+        "created_date": "2025-04-19T16:47:28-04:00",
+        "published_date": "2025-04-19T16:47:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Mayors"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Lee, Barbara Jean (1946- )"
+        ],
+        "geo_facet": [
+            "Oakland (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00nat-oakland-mayor-HFO-ktcm/00nat-oakland-mayor-HFO-ktcm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Barbara Lee has represented Oakland in Congress and, before that, in the State Legislature.",
+                "copyright": "Christie Hemm Klok for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00nat-oakland-mayor-HFO-ktcm/00nat-oakland-mayor-HFO-ktcm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Barbara Lee has represented Oakland in Congress and, before that, in the State Legislature.",
+                "copyright": "Christie Hemm Klok for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00nat-oakland-mayor-HFO-ktcm/00nat-oakland-mayor-HFO-ktcm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Barbara Lee has represented Oakland in Congress and, before that, in the State Legislature.",
+                "copyright": "Christie Hemm Klok for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
