@@ -69183,5 +69183,61 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Protesters Nationwide Rally Again to Condemn Trump Policies",
+        "abstract": "More than 700 events were planned for Saturday, as people turned out to speak against the administration’s handling of immigration, civil liberties and federal job cuts.",
+        "url": "https://www.nytimes.com/2025/04/19/us/politics/trump-protests-nyc-florida-la.html",
+        "uri": "nyt://article/32e3705b-178b-511d-a1d6-5e7259e4dd8f",
+        "byline": "By Jesus Jiménez and Minho Kim",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T13:36:38-04:00",
+        "created_date": "2025-04-19T12:59:09-04:00",
+        "published_date": "2025-04-19T12:59:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Demonstrations, Protests and Riots"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19trump-news-protests-nyc-jtzb/19trump-news-protests-nyc-jtzb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters rally against the Trump administration outside the New York Public Library on Saturday.",
+                "copyright": "Victor J. Blue for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19trump-news-protests-nyc-jtzb/19trump-news-protests-nyc-jtzb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters rally against the Trump administration outside the New York Public Library on Saturday.",
+                "copyright": "Victor J. Blue for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19trump-news-protests-nyc-jtzb/19trump-news-protests-nyc-jtzb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters rally against the Trump administration outside the New York Public Library on Saturday.",
+                "copyright": "Victor J. Blue for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
