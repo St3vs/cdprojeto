@@ -68447,5 +68447,63 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Former Trump Staff Members Liken His Actions to Those of ‘Royal Despot’",
+        "abstract": "In an open letter, prominent Republicans criticized President Trump for using his power to punish two former administration officials who criticized him.",
+        "url": "https://www.nytimes.com/2025/04/19/us/politics/trump-letter-ty-cobb.html",
+        "uri": "nyt://article/2673d704-d6e4-5ed6-9643-d60f9e803e08",
+        "byline": "By Karoun Demirjian",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T09:20:41-04:00",
+        "created_date": "2025-04-19T09:20:41-04:00",
+        "published_date": "2025-04-19T09:20:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Executive Orders and Memorandums"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Cobb, Ty"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18trump-news-letter-pwcl/18trump-news-letter-pwcl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Earlier this month President Trump signed executive orders punishing two officials who served in his first administration.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18trump-news-letter-pwcl/18trump-news-letter-pwcl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Earlier this month President Trump signed executive orders punishing two officials who served in his first administration.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18trump-news-letter-pwcl/18trump-news-letter-pwcl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Earlier this month President Trump signed executive orders punishing two officials who served in his first administration.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
