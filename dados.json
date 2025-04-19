@@ -69431,5 +69431,138 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "A Timeline of the Trump Administration’s Use of the Alien Enemies Act",
+        "abstract": "Legal challenges over the powerful wartime law have gone all the way to the Supreme Court.",
+        "url": "https://www.nytimes.com/2025/04/19/us/politics/alien-enemies-act-timeline.html",
+        "uri": "nyt://article/c715dce6-590e-5238-8765-aa92878ca6f2",
+        "byline": "By Tim Balk",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T17:09:13-04:00",
+        "created_date": "2025-04-19T17:08:22-04:00",
+        "published_date": "2025-04-19T17:08:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Alien Enemies Act (1798)",
+            "Immigration and Emigration",
+            "Illegal Immigration"
+        ],
+        "org_facet": [
+            "Immigration and Customs Enforcement (US)",
+            "Justice Department",
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "James E. Boasberg"
+        ],
+        "geo_facet": [
+            "El Salvador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19trump-news-alien-timeline-mvjh/19trump-news-alien-timeline-mvjh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump in the Oval Office this week. He has said he respects the Supreme Court, but his administration’s immigration policies have raised questions about whether judicial orders are being followed. ",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19trump-news-alien-timeline-mvjh/19trump-news-alien-timeline-mvjh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump in the Oval Office this week. He has said he respects the Supreme Court, but his administration’s immigration policies have raised questions about whether judicial orders are being followed. ",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19trump-news-alien-timeline-mvjh/19trump-news-alien-timeline-mvjh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump in the Oval Office this week. He has said he respects the Supreme Court, but his administration’s immigration policies have raised questions about whether judicial orders are being followed. ",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Many Have Tried to Fix Penn Station. Can Trump Get the Job Done?",
+        "abstract": "Transportation experts say a thorough renovation is likely to take several years to complete — unless emergency measures are employed.",
+        "url": "https://www.nytimes.com/2025/04/19/nyregion/trump-penn-station.html",
+        "uri": "nyt://article/d90a4b02-625a-5523-9f28-780de45cffe9",
+        "byline": "By Patrick McGeehan",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T17:45:36-04:00",
+        "created_date": "2025-04-19T03:00:27-04:00",
+        "published_date": "2025-04-19T03:00:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Stations and Terminals (Passenger)"
+        ],
+        "org_facet": [
+            "Amtrak",
+            "Metropolitan Transportation Authority",
+            "New Jersey Transit",
+            "Long Island Rail Road Co",
+            "Madison Square Garden",
+            "Moynihan Train Hall at Pennsylvania Station (Manhattan, NY)",
+            "Pennsylvania Station (Manhattan, NY)"
+        ],
+        "per_facet": [
+            "Duffy, Sean P",
+            "Hochul, Kathleen C",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Midtown Area (Manhattan, NY)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19met-Penn-trump-chmw/19met-Penn-trump-chmw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A thicket of conflicting priorities among the various public and private entities with a stake in Penn Station have thwarted many attempts to renovate the busy train terminal.",
+                "copyright": "Adam Gray/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19met-Penn-trump-chmw/19met-Penn-trump-chmw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A thicket of conflicting priorities among the various public and private entities with a stake in Penn Station have thwarted many attempts to renovate the busy train terminal.",
+                "copyright": "Adam Gray/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19met-Penn-trump-chmw/19met-Penn-trump-chmw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A thicket of conflicting priorities among the various public and private entities with a stake in Penn Station have thwarted many attempts to renovate the busy train terminal.",
+                "copyright": "Adam Gray/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
