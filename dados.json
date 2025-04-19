@@ -69006,5 +69006,182 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Supreme Court orders in the middle of the night are rare these days.",
+        "abstract": "Such rulings, more common a few years ago, seem to now be reserved for authentic emergencies.",
+        "url": "https://www.nytimes.com/live/2025/04/19/us/trump-news/supreme-court-orders-in-the-middle-of-the-night-are-rare-these-days",
+        "uri": "nyt://article/eb24f4dd-d3f8-5f36-b389-707643f9fffe",
+        "byline": "By Adam Liptak",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T12:36:14-04:00",
+        "created_date": "2025-04-19T12:12:10-04:00",
+        "published_date": "2025-04-19T12:12:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/19trump-news-scotus/19trump-news-scotus-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court’s order over the deportation of Venezuelan migrants was issued at 12:55 a.m. Saturday.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/19trump-news-scotus/19trump-news-scotus-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court’s order over the deportation of Venezuelan migrants was issued at 12:55 a.m. Saturday.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/19trump-news-scotus/19trump-news-scotus-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court’s order over the deportation of Venezuelan migrants was issued at 12:55 a.m. Saturday.",
+                "copyright": "Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Why Big Law Firms Aren’t Standing Together Against Trump’s Assault",
+        "abstract": "The arms race for talent seems to have made collective action, within and between firms, nearly impossible.",
+        "url": "https://www.nytimes.com/2025/04/19/business/trump-law-firms.html",
+        "uri": "nyt://article/03956546-2c64-58c5-943d-129adc175c6c",
+        "byline": "By Noam Scheiber",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T05:00:45-04:00",
+        "created_date": "2025-04-19T05:00:45-04:00",
+        "published_date": "2025-04-19T05:00:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Legal Profession",
+            "Presidential Power (US)",
+            "Executive Orders and Memorandums",
+            "audio-neutral-informative"
+        ],
+        "org_facet": [
+            "American Lawyer (Magazine)",
+            "American Lawyer Media (ALM)",
+            "Paul Weiss Rifkind Wharton & Garrison"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/business/18biz-Big-Law-illo/18biz-Big-Law-illo-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1602,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Thomas Fuchs"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/business/18biz-Big-Law-illo/18biz-Big-Law-illo-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Thomas Fuchs"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/business/18biz-Big-Law-illo/18biz-Big-Law-illo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Thomas Fuchs"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Mike Wood, Whose LeapFrog Toys Taught a Generation, Dies at 72",
+        "abstract": "His LeapPad tablets, which helped children read, found their way into tens of millions of homes beginning in 1999.",
+        "url": "https://www.nytimes.com/2025/04/19/business/michael-c-wood-dead.html",
+        "uri": "nyt://article/fc914bfa-adbe-5d96-aa1f-169f4bab2312",
+        "byline": "By Trip Gabriel",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T12:44:22-04:00",
+        "created_date": "2025-04-19T12:44:22-04:00",
+        "published_date": "2025-04-19T12:44:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Toys",
+            "Tablet Computers",
+            "Innovation",
+            "Reading and Writing Skills (Education)"
+        ],
+        "org_facet": [
+            "LeapFrog"
+        ],
+        "per_facet": [
+            "Wood, Mike (1952-2005)"
+        ],
+        "geo_facet": [
+            "California"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18Wood--01-pfvw/18Wood--01-pfvw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1409,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mike Wood in 2003, when he was the chief executive of Leapfrog Enterprises.",
+                "copyright": "J. Countess/WireImage for LeapFrog Enterprises, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18Wood--01-pfvw/18Wood--01-pfvw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mike Wood in 2003, when he was the chief executive of Leapfrog Enterprises.",
+                "copyright": "J. Countess/WireImage for LeapFrog Enterprises, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18Wood--01-pfvw/18Wood--01-pfvw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mike Wood in 2003, when he was the chief executive of Leapfrog Enterprises.",
+                "copyright": "J. Countess/WireImage for LeapFrog Enterprises, via Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
