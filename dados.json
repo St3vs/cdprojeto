@@ -66784,5 +66784,315 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "In Trump Attack on Harvard, Punishment Before Proof",
+        "abstract": "The legal underpinnings of the administration’s broadsides against universities and schools stretch precedents and cut corners.",
+        "url": "https://www.nytimes.com/2025/04/18/us/trump-harvard-legal-process.html",
+        "uri": "nyt://article/82db2408-46f4-57ab-bd3d-129bd24bd8fd",
+        "byline": "By Jonah E. Bromwich, Alan Blinder and Sarah Mervosh",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T19:43:26-04:00",
+        "created_date": "2025-04-18T19:18:07-04:00",
+        "published_date": "2025-04-18T19:18:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Colleges and Universities",
+            "Law and Legislation",
+            "Federal Aid (US)",
+            "Civil Rights and Liberties",
+            "Education (K-12)",
+            "Presidential Election of 2024"
+        ],
+        "org_facet": [
+            "American Council on Education",
+            "Columbia University",
+            "Education Department (US)",
+            "Harvard University",
+            "Health and Human Services Department",
+            "University of California"
+        ],
+        "per_facet": [
+            "Burck, William A",
+            "Bush, George W",
+            "Chemerinsky, Erwin",
+            "Clinton, Bill",
+            "Hur, Robert Kyoung",
+            "Kennedy, Robert F Jr",
+            "Somin, Ilya (1973- )",
+            "Summers, Lawrence H",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00met-harvard-legal2-mqkj/00met-harvard-legal2-mqkj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard University had seemed prepared to negotiate over the administration’s demands until it saw the legal rationale.",
+                "copyright": "Cody O'Loughlin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00met-harvard-legal2-mqkj/00met-harvard-legal2-mqkj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard University had seemed prepared to negotiate over the administration’s demands until it saw the legal rationale.",
+                "copyright": "Cody O'Loughlin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00met-harvard-legal2-mqkj/00met-harvard-legal2-mqkj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard University had seemed prepared to negotiate over the administration’s demands until it saw the legal rationale.",
+                "copyright": "Cody O'Loughlin for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Maryland Deportee Told Senator He Had Been in Isolation in El Salvador Prison",
+        "abstract": "Senator Chris Van Hollen said that Kilmar Armando Abrego Garcia,who was deported and incarcerated in El Salvador, reported having been transferred after weeks in a maximum-security prison.",
+        "url": "https://www.nytimes.com/2025/04/18/us/politics/abrego-garcia-chris-van-hollen-el-salvador.html",
+        "uri": "nyt://article/6ab6401f-d0d6-5baf-ad58-2f4a655ac014",
+        "byline": "By Robert Jimison",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T19:37:31-04:00",
+        "created_date": "2025-04-18T16:33:32-04:00",
+        "published_date": "2025-04-18T16:33:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Deportation",
+            "Illegal Immigration",
+            "Prisons and Prisoners"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Van Hollen, Christopher Jr",
+            "Bukele, Nayib",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-vanhollen-thfc-copy/18dc-vanhollen-thfc-copy-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Chris Van Hollen speaking to reporters at Dulles International Airport on Friday.",
+                "copyright": "Allison Bailey for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-vanhollen-thfc-copy/18dc-vanhollen-thfc-copy-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Chris Van Hollen speaking to reporters at Dulles International Airport on Friday.",
+                "copyright": "Allison Bailey for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-vanhollen-thfc-copy/18dc-vanhollen-thfc-copy-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Chris Van Hollen speaking to reporters at Dulles International Airport on Friday.",
+                "copyright": "Allison Bailey for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Guns, Extreme Views and Chaotic Childhood Shaped Suspect in Florida State Shooting",
+        "abstract": "His biological mother said in an interview on Friday that she was bewildered by the attack, and had been against the presence of firearms in her son’s life.",
+        "url": "https://www.nytimes.com/2025/04/18/us/fsu-shooting-suspect-victims.html",
+        "uri": "nyt://article/ca7b3999-b4c3-5556-94ae-473a73e0c89f",
+        "byline": "By Patricia Mazzei, Andrew Pantazi, Kate Selig and Christina Morales",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T20:48:32-04:00",
+        "created_date": "2025-04-18T19:04:54-04:00",
+        "published_date": "2025-04-18T19:04:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "School Shootings and Armed Attacks"
+        ],
+        "org_facet": [
+            "Florida State University"
+        ],
+        "per_facet": [
+            "Ikner, Phoenix"
+        ],
+        "geo_facet": [
+            "Tallahassee (Fla)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18nat-fsu-shooting-bkfw/18nat-fsu-shooting-bkfw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flowers left at Florida State University’s campus where a shooting left two dead and six others injured on Thursday.",
+                "copyright": "Erich Martin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18nat-fsu-shooting-bkfw/18nat-fsu-shooting-bkfw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flowers left at Florida State University’s campus where a shooting left two dead and six others injured on Thursday.",
+                "copyright": "Erich Martin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18nat-fsu-shooting-bkfw/18nat-fsu-shooting-bkfw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flowers left at Florida State University’s campus where a shooting left two dead and six others injured on Thursday.",
+                "copyright": "Erich Martin for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "The Head of the I.R.S. Was Ousted",
+        "abstract": "Also, Milwaukee is facing a lead crisis in its schools. Here’s the latest at the end of Friday.",
+        "url": "https://www.nytimes.com/2025/04/18/briefing/irs-leadership-lead-wisconsin-schools-john-cena.html",
+        "uri": "nyt://article/ff9e7fd1-8e78-50a9-bcff-f80b7c811132",
+        "byline": "By Matthew Cullen",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T17:55:40-04:00",
+        "created_date": "2025-04-18T17:55:40-04:00",
+        "published_date": "2025-04-18T17:55:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2023/12/05/multimedia/18evening-nl-irs-shapley/18evening-nl-irs-shapley-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gary Shapley, who briefly led the I.R.S.",
+                "copyright": "Al Drago for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2023/12/05/multimedia/18evening-nl-irs-shapley/18evening-nl-irs-shapley-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gary Shapley, who briefly led the I.R.S.",
+                "copyright": "Al Drago for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2023/12/05/multimedia/18evening-nl-irs-shapley/18evening-nl-irs-shapley-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gary Shapley, who briefly led the I.R.S.",
+                "copyright": "Al Drago for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Judge Rules Against Trump Administration on Passport Changes",
+        "abstract": "A group of transgender plaintiffs sued President Trump and the State Department over a new rule prohibiting passports from including a gender different from the sex listed on an original birth certificate.",
+        "url": "https://www.nytimes.com/2025/04/18/us/trump-passport-changes-transgender.html",
+        "uri": "nyt://article/95054fbc-2610-54ab-b2a6-f0faf1a8f2b3",
+        "byline": "By Amy Harmon and Maya Shwayder",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T20:09:58-04:00",
+        "created_date": "2025-04-18T19:30:20-04:00",
+        "published_date": "2025-04-18T19:30:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Transgender",
+            "Passports",
+            "Federal Courts (US)"
+        ],
+        "org_facet": [
+            "State Department"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/24/us/HFOnat-trans-passport/HFOnat-trans-passport--superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Julia E. Kobick at a hearing in 2022 on her nomination to become a federal judge.",
+                "copyright": "Rod Lamkey/CNP, via Alamy"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/24/us/HFOnat-trans-passport/HFOnat-trans-passport--threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Julia E. Kobick at a hearing in 2022 on her nomination to become a federal judge.",
+                "copyright": "Rod Lamkey/CNP, via Alamy"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/24/us/HFOnat-trans-passport/HFOnat-trans-passport--thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Julia E. Kobick at a hearing in 2022 on her nomination to become a federal judge.",
+                "copyright": "Rod Lamkey/CNP, via Alamy"
+            }
+        ],
+        "short_url": ""
     }
 ]
