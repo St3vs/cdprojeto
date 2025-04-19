@@ -68623,5 +68623,388 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Maybe Musk Isn’t All-Powerful, After All",
+        "abstract": "A series of setbacks have raised questions about Elon Musk’s enduring influence in the White House.",
+        "url": "https://www.nytimes.com/2025/04/18/us/politics/musk-doge-irs-bessent.html",
+        "uri": "nyt://article/e3bb6788-8705-5936-96ca-72e7a4877aee",
+        "byline": "By Jess Bidgood",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T20:40:53-04:00",
+        "created_date": "2025-04-18T18:52:58-04:00",
+        "published_date": "2025-04-18T18:52:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Americorps",
+            "Consumer Financial Protection Bureau",
+            "Government Efficiency Department (US)",
+            "Interior Department",
+            "Internal Revenue Service",
+            "United States Agency for International Development"
+        ],
+        "per_facet": [
+            "Bessent, Scott",
+            "Burgum, Douglas",
+            "Loomer, Laura",
+            "Musk, Elon",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18-pol-on-politics-newsletter-musk-mce-topitem-hvmq/18-pol-on-politics-newsletter-musk-mce-topitem-hvmq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk at Joint Base Andrews in Maryland last month.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18-pol-on-politics-newsletter-musk-mce-topitem-hvmq/18-pol-on-politics-newsletter-musk-mce-topitem-hvmq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk at Joint Base Andrews in Maryland last month.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18-pol-on-politics-newsletter-musk-mce-topitem-hvmq/18-pol-on-politics-newsletter-musk-mce-topitem-hvmq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk at Joint Base Andrews in Maryland last month.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "The Next Stage of Rebuilding the Palisades Is Here: Burned Lots for Sale",
+        "abstract": "As Pacific Palisades residents clear debris from January’s wildfires, they’re wrestling with the decision to stay and rebuild or sell and move away.",
+        "url": "https://www.nytimes.com/2025/04/19/us/palisades-burned-lots-sale.html",
+        "uri": "nyt://article/5874f91a-252a-50fe-a974-664cc11167b6",
+        "byline": "By Jesus Jiménez",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T05:00:53-04:00",
+        "created_date": "2025-04-19T05:00:53-04:00",
+        "published_date": "2025-04-19T05:00:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Southern California Wildfires (Jan 2025)",
+            "Real Estate and Housing (Residential)",
+            "Area Planning and Renewal"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Pacific Palisades (Calif)",
+            "California"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00nat-palisades-lots-01-lqhg/00nat-palisades-lots-01-lqhg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1534,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Edward Stark, a lawyer, decided to sell his lot in Pacific Palisades, Calif., with an asking price of $1,899,000. It’s one of nearly 200 burned lots that have gone up for sale in recent weeks.",
+                "copyright": "Philip Cheung for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00nat-palisades-lots-01-lqhg/00nat-palisades-lots-01-lqhg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Edward Stark, a lawyer, decided to sell his lot in Pacific Palisades, Calif., with an asking price of $1,899,000. It’s one of nearly 200 burned lots that have gone up for sale in recent weeks.",
+                "copyright": "Philip Cheung for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00nat-palisades-lots-01-lqhg/00nat-palisades-lots-01-lqhg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Edward Stark, a lawyer, decided to sell his lot in Pacific Palisades, Calif., with an asking price of $1,899,000. It’s one of nearly 200 burned lots that have gone up for sale in recent weeks.",
+                "copyright": "Philip Cheung for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "For L.A. Residents Whose Homes Burned, Aging Complicates What Comes Next",
+        "abstract": "Losing your home in a disaster when you’re at or near retirement age can derail your finances and jeopardize the funds you were counting on.",
+        "url": "https://www.nytimes.com/2025/04/19/business/la-fires-retirement-insurance-california.html",
+        "uri": "nyt://article/632ebe03-dfe9-5676-8b38-59715940840b",
+        "byline": "By Constance Sommer",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T05:00:35-04:00",
+        "created_date": "2025-04-19T05:00:35-04:00",
+        "published_date": "2025-04-19T05:00:35-04:00",
+        "material_type_facet": "",
+        "kicker": "retiring",
+        "des_facet": [
+            "Southern California Wildfires (Jan 2025)",
+            "Homeowners Insurance",
+            "Personal Finances",
+            "Real Estate and Housing (Residential)",
+            "Prices (Fares, Fees and Rates)",
+            "Age, Chronological",
+            "Fires and Firefighters",
+            "Content Type: Service",
+            "Elderly",
+            "Retirement",
+            "Consumer Protection"
+        ],
+        "org_facet": [
+            "United Policyholders (Org)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Altadena (Calif)",
+            "Los Angeles County (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/business/06Retiring-disaster-illo/06Retiring-disaster-illo-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1413,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Hannah Agosta"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/business/06Retiring-disaster-illo/06Retiring-disaster-illo-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Hannah Agosta"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/business/06Retiring-disaster-illo/06Retiring-disaster-illo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Hannah Agosta"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "In the Cradle of the American Revolution, Telling History Her Way",
+        "abstract": "A teenager in Lexington, Mass., has for years been teaching people about the battle that started the war 250 years ago this weekend. Her entertaining website has drawn praise and raised eyebrows.",
+        "url": "https://www.nytimes.com/2025/04/19/us/battle-of-lexington-250th-anniversary.html",
+        "uri": "nyt://article/7583ceb8-6f11-56f5-99f3-a8dfc3f45cba",
+        "byline": "By Dan Barry",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T11:20:23-04:00",
+        "created_date": "2025-04-19T11:20:23-04:00",
+        "published_date": "2025-04-19T11:20:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Revolutionary War, American (1775-83)",
+            "Historic Buildings and Sites",
+            "Parades",
+            "Hamilton (Play)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Adams, Samuel (1722-1803)",
+            "Hancock, John",
+            "Revere, Paul (1735-1818)",
+            "Dawes, William",
+            "Clarke, Jonas",
+            "Bhattacharjya, Sabrina"
+        ],
+        "geo_facet": [
+            "Lexington (Mass)",
+            "Massachusetts"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19lexington-sabrina1-zkpq/19lexington-sabrina1-zkpq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1463,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sabrina Bhattacharjya, 15, at a women’s monument in Lexington, Mass., her hometown.",
+                "copyright": "Cassandra Klos for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19lexington-sabrina1-zkpq/19lexington-sabrina1-zkpq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sabrina Bhattacharjya, 15, at a women’s monument in Lexington, Mass., her hometown.",
+                "copyright": "Cassandra Klos for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19lexington-sabrina1-zkpq/19lexington-sabrina1-zkpq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sabrina Bhattacharjya, 15, at a women’s monument in Lexington, Mass., her hometown.",
+                "copyright": "Cassandra Klos for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "The Banker vs. the Politician: The Men Vying to Become Canada’s Next Prime Minister",
+        "abstract": "The April 28 election will come down to two candidates with starkly different personalities and experience: Mark Carney and Pierre Poilievre.",
+        "url": "https://www.nytimes.com/2025/04/19/world/canada/elections-mark-carney-pierre-poilievre.html",
+        "uri": "nyt://article/73b70f90-6691-5978-8381-ae78090abe37",
+        "byline": "By Matina Stevis-Gridneff and Vjosa Isai",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T05:01:25-04:00",
+        "created_date": "2025-04-19T05:01:25-04:00",
+        "published_date": "2025-04-19T05:01:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Polls and Public Opinion",
+            "Elections"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Poilievre, Pierre",
+            "Carney, Mark J"
+        ],
+        "geo_facet": [
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/world/19int-canada-elections-candidates-sub/19int-canada-elections-candidates-sub-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Carney, left, leads the Liberal Party of Canada, and Pierre Poilievre, right, is leader of the Conservative Party.",
+                "copyright": "Amber Bracken for The New York Times, Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/world/19int-canada-elections-candidates-sub/19int-canada-elections-candidates-sub-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Carney, left, leads the Liberal Party of Canada, and Pierre Poilievre, right, is leader of the Conservative Party.",
+                "copyright": "Amber Bracken for The New York Times, Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/world/19int-canada-elections-candidates-sub/19int-canada-elections-candidates-sub-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Carney, left, leads the Liberal Party of Canada, and Pierre Poilievre, right, is leader of the Conservative Party.",
+                "copyright": "Amber Bracken for The New York Times, Cole Burston for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "New York City’s Hottest Hangout Is a 500-Person Board Game Night",
+        "abstract": "At Richard Ye’s enormous monthly gatherings, where people play Exploding Kittens, Hues and Clues, and mahjong, New Yorkers find real-life connections and a little free fun.",
+        "url": "https://www.nytimes.com/2025/04/19/nyregion/new-york-city-giant-game-night.html",
+        "uri": "nyt://article/fec2de16-135d-599f-8ec9-9d7be860526d",
+        "byline": "By Dodai Stewart",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T03:00:18-04:00",
+        "created_date": "2025-04-19T03:00:18-04:00",
+        "published_date": "2025-04-19T03:00:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Games",
+            "Cards and Card Games"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Richard Ye"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19met-game-night-01-vhmq/19met-game-night-01-vhmq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1639,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Raucous rounds of One Night Ultimate Werewolf resulted in screams and shouts.",
+                "copyright": "Nathan Bajar for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19met-game-night-01-vhmq/19met-game-night-01-vhmq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Raucous rounds of One Night Ultimate Werewolf resulted in screams and shouts.",
+                "copyright": "Nathan Bajar for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19met-game-night-01-vhmq/19met-game-night-01-vhmq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Raucous rounds of One Night Ultimate Werewolf resulted in screams and shouts.",
+                "copyright": "Nathan Bajar for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
