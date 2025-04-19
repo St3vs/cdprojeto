@@ -67094,5 +67094,131 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Trump Officials Blame Mistake for Setting Off Confrontation With Harvard",
+        "abstract": "An official on the administration’s antisemitism task force told the university that a letter of demands had been sent without authorization.",
+        "url": "https://www.nytimes.com/2025/04/18/business/trump-harvard-letter-mistake.html",
+        "uri": "nyt://article/71b944eb-ca32-5460-89a9-dc848a8c85c0",
+        "byline": "By Michael S. Schmidt and Michael C. Bender",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T21:51:50-04:00",
+        "created_date": "2025-04-18T21:10:42-04:00",
+        "published_date": "2025-04-18T21:10:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Colleges and Universities",
+            "Anti-Semitism",
+            "Federal Aid (US)"
+        ],
+        "org_facet": [
+            "Harvard University"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18biz-harvard-letter-bmwz/18biz-harvard-letter-bmwz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard was emailed a letter detailing demands by the Trump administration when administration lawyers were still willing to continue talks.",
+                "copyright": "Sophie Park/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18biz-harvard-letter-bmwz/18biz-harvard-letter-bmwz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard was emailed a letter detailing demands by the Trump administration when administration lawyers were still willing to continue talks.",
+                "copyright": "Sophie Park/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18biz-harvard-letter-bmwz/18biz-harvard-letter-bmwz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard was emailed a letter detailing demands by the Trump administration when administration lawyers were still willing to continue talks.",
+                "copyright": "Sophie Park/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Appeals Court Pauses for Now Contempt Proposal by Trial Judge",
+        "abstract": "Judge James E. Boasberg had threatened to open contempt proceedings to determine whether the Trump administration had violated his order not to deport Venezuelan migrants to El Salvador.",
+        "url": "https://www.nytimes.com/2025/04/18/us/politics/court-contempt-trump-deportations.html",
+        "uri": "nyt://article/c0a0bb3d-820e-5f18-be7f-88185437af1d",
+        "byline": "By Alan Feuer",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T21:09:19-04:00",
+        "created_date": "2025-04-18T21:09:19-04:00",
+        "published_date": "2025-04-18T21:09:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Deportation",
+            "Presidential Power (US)",
+            "Decisions and Verdicts",
+            "Illegal Immigration",
+            "Suits and Litigation (Civil)",
+            "Alien Enemies Act (1798)"
+        ],
+        "org_facet": [
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Boasberg, James E",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-contempt-jclk/18dc-contempt-jclk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The appeals court made clear that it was not ruling on the merits of Judge James E. Boasberg’s plan for contempt proceedings but rather wanted more time to study the issue.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-contempt-jclk/18dc-contempt-jclk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The appeals court made clear that it was not ruling on the merits of Judge James E. Boasberg’s plan for contempt proceedings but rather wanted more time to study the issue.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-contempt-jclk/18dc-contempt-jclk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The appeals court made clear that it was not ruling on the merits of Judge James E. Boasberg’s plan for contempt proceedings but rather wanted more time to study the issue.",
+                "copyright": "Erin Schaff/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
