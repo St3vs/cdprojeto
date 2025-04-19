@@ -68073,5 +68073,254 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "magazine",
+        "subsection": "",
+        "title": "Nate Bargatze Doesn’t Mind if You Think He’s an Idiot",
+        "abstract": "The stand-up comic discusses having a magician for a father, the challenge of mainstream comedy and his aspirations to build the next Disneyland.",
+        "url": "https://www.nytimes.com/2025/04/19/magazine/nate-bargatze-interview.html",
+        "uri": "nyt://article/a74e4149-a0cb-515a-8e5e-be9b8ef69888",
+        "byline": "By David Marchese",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T05:15:05-04:00",
+        "created_date": "2025-04-19T05:15:05-04:00",
+        "published_date": "2025-04-19T05:15:05-04:00",
+        "material_type_facet": "",
+        "kicker": "The Interview",
+        "des_facet": [
+            "Comedy and Humor",
+            "Movies",
+            "Television",
+            "Saturday Night Live (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Bargatze, Nate"
+        ],
+        "geo_facet": [
+            "Nashville (Tenn)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/magazine/27mag-interview-bargatze-01/27mag-interview-bargatze-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1536,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Devin Oktar Yalkin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/magazine/27mag-interview-bargatze-01/27mag-interview-bargatze-01-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Devin Oktar Yalkin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/magazine/27mag-interview-bargatze-01/27mag-interview-bargatze-01-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Devin Oktar Yalkin for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Come With Me if You Want to Survive an Age of Extinction",
+        "abstract": "Everything is under threat. What you care about can make it to the other side.",
+        "url": "https://www.nytimes.com/2025/04/19/opinion/extinction-technology-culture.html",
+        "uri": "nyt://article/626b11af-a125-568b-a648-4a52e876d278",
+        "byline": "By Ross Douthat",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T07:04:48-04:00",
+        "created_date": "2025-04-19T07:00:06-04:00",
+        "published_date": "2025-04-19T07:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "Ross Douthat",
+        "des_facet": [
+            "Artificial Intelligence",
+            "Computers and the Internet",
+            "Social Media",
+            "Pornography"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Italy",
+            "Japan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/opinion/19Douthat/19Douthat-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1368,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo illustration by Tyler Comrie. (Georges Seurat, “A Sunday on La Grande Jatte — 1884,” via the Helen Birch Bartlett Memorial Collection/The Art Institute of Chicago)"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/opinion/19Douthat/19Douthat-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo illustration by Tyler Comrie. (Georges Seurat, “A Sunday on La Grande Jatte — 1884,” via the Helen Birch Bartlett Memorial Collection/The Art Institute of Chicago)"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/opinion/19Douthat/19Douthat-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo illustration by Tyler Comrie. (Georges Seurat, “A Sunday on La Grande Jatte — 1884,” via the Helen Birch Bartlett Memorial Collection/The Art Institute of Chicago)"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "What Is Lost When We Scare Away Foreign Students",
+        "abstract": "The immigration crackdown has come to America’s campuses.",
+        "url": "https://www.nytimes.com/2025/04/19/opinion/international-students-ice-deportations-universities.html",
+        "uri": "nyt://article/c3ea5e18-4818-5eb6-ae5d-cc454feb0ee2",
+        "byline": "By Rachel Riedl and Stephen Yale-Loehr",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T07:00:05-04:00",
+        "created_date": "2025-04-19T07:00:05-04:00",
+        "published_date": "2025-04-19T07:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "Colleges and Universities",
+            "Foreign Students (in US)",
+            "International Relations",
+            "Anti-Semitism",
+            "Visas",
+            "Immigration and Emigration",
+            "Scholarships and Fellowships",
+            "Fear (Emotion)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Rubio, Marco"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/06reidlwolfordyale-lkcb/00reidlwolfordyale-lkcb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1760,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Rachel Stern for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/06reidlwolfordyale-lkcb/06reidlwolfordyale-lkcb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Rachel Stern for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/06reidlwolfordyale-lkcb/00reidlwolfordyale-lkcb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Rachel Stern for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Say, Old Sport",
+        "abstract": "“The Great Gatsby” is important, of course, but it’s also all kinds of fun.",
+        "url": "https://www.nytimes.com/2025/04/19/briefing/say-old-sport.html",
+        "uri": "nyt://article/13aefc92-0e27-5dc4-ab67-1a98c3d12e14",
+        "byline": "By A.O. Scott",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T06:07:29-04:00",
+        "created_date": "2025-04-19T06:07:29-04:00",
+        "published_date": "2025-04-19T06:07:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "internal-storyline-no",
+            "Movies",
+            "The Great Gatsby (Book)",
+            "The Great Gatsby (Movie)",
+            "The Great Gatsby (Play)",
+            "The Great Gatsby, A New Musical (Play)",
+            "Books and Literature"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Fitzgerald, F Scott"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19themorning-nl-GATSBY-02-mhgj/19themorning-nl-GATSBY-02-mhgj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19themorning-nl-GATSBY-02-mhgj/19themorning-nl-GATSBY-02-mhgj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19themorning-nl-GATSBY-02-mhgj/19themorning-nl-GATSBY-02-mhgj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
