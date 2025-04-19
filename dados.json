@@ -67357,5 +67357,721 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Defying the Law and the Courts, Trump Seeks to Shift the Focus",
+        "abstract": "The president is trying to rewrite the narrative of Kilmar Armando Abrego Garcia’s wrongful deportation as a dispute about illegal immigration rather than the rule of law.",
+        "url": "https://www.nytimes.com/2025/04/19/us/politics/deportation-trump-abrego-garcia-el-salvador.html",
+        "uri": "nyt://article/9294e1f9-cc40-5364-b578-37a09fa48f69",
+        "byline": "By Peter Baker",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T05:01:43-04:00",
+        "created_date": "2025-04-19T05:01:43-04:00",
+        "published_date": "2025-04-19T05:01:43-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Homeland Security Department",
+            "Mara Salvatrucha (MS-13)"
+        ],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Bukele, Nayib",
+            "Trump, Donald J",
+            "Wilkinson, J Harvie III",
+            "Van Hollen, Christopher Jr"
+        ],
+        "geo_facet": [
+            "El Salvador",
+            "Maryland"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18DC-MEMO-hclz/18DC-MEMO-hclz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump holding a document with talking points about Kilmar Armando Abrego Garcia in the Oval Office on Friday. The Supreme Court ordered the Trump administration to “facilitate” his return from El Salvador, but the president has indicated he won’t try to do so. ",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18DC-MEMO-hclz/18DC-MEMO-hclz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump holding a document with talking points about Kilmar Armando Abrego Garcia in the Oval Office on Friday. The Supreme Court ordered the Trump administration to “facilitate” his return from El Salvador, but the president has indicated he won’t try to do so. ",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18DC-MEMO-hclz/18DC-MEMO-hclz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump holding a document with talking points about Kilmar Armando Abrego Garcia in the Oval Office on Friday. The Supreme Court ordered the Trump administration to “facilitate” his return from El Salvador, but the president has indicated he won’t try to do so. ",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Losing International Students Could Devastate Many Colleges",
+        "abstract": "Students could bypass the United States for friendlier countries as the Trump administration attacks universities and revokes visas. Their loss could hurt schools and the economy.",
+        "url": "https://www.nytimes.com/2025/04/19/us/losing-international-students-could-devastate-many-colleges.html",
+        "uri": "nyt://article/1780b3f1-de58-50bf-9324-d54ceb9315d8",
+        "byline": "By Stephanie Saul and Troy Closson",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T05:01:33-04:00",
+        "created_date": "2025-04-19T05:01:33-04:00",
+        "published_date": "2025-04-19T05:01:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Foreign Students (in US)",
+            "Colleges and Universities",
+            "International Study and Teaching",
+            "Deportation"
+        ],
+        "org_facet": [
+            "Columbia University",
+            "Institute of International Education",
+            "Harvard University",
+            "New York University",
+            "Northeastern University"
+        ],
+        "per_facet": [
+            "Kornbluth, Sally A"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19nat-international-students-jzwf/19nat-international-students-jzwf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "At the Massachusetts Institute of Technology, more than one in four students hail from abroad.",
+                "copyright": "Scott Eisen/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19nat-international-students-jzwf/19nat-international-students-jzwf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "At the Massachusetts Institute of Technology, more than one in four students hail from abroad.",
+                "copyright": "Scott Eisen/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19nat-international-students-jzwf/19nat-international-students-jzwf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "At the Massachusetts Institute of Technology, more than one in four students hail from abroad.",
+                "copyright": "Scott Eisen/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "The Trump Billionaires Who Run the Economy and the Things They Say",
+        "abstract": "“You have to laugh to keep from crying,” one Republican pollster said about recent comments by the billionaires on the stock market, retirement funds and Social Security.",
+        "url": "https://www.nytimes.com/2025/04/19/us/politics/trump-musk-billionaires-economy.html",
+        "uri": "nyt://article/cfcc1f47-3358-5878-bae4-b6681b4bc6ae",
+        "byline": "By Elisabeth Bumiller",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T05:01:22-04:00",
+        "created_date": "2025-04-19T05:01:22-04:00",
+        "published_date": "2025-04-19T05:01:22-04:00",
+        "material_type_facet": "",
+        "kicker": "Washington Memo",
+        "des_facet": [
+            "United States Politics and Government",
+            "Polls and Public Opinion",
+            "High Net Worth Individuals",
+            "Stocks and Bonds",
+            "Psychology and Psychologists",
+            "United States Economy",
+            "Prices (Fares, Fees and Rates)",
+            "Pensions and Retirement Plans"
+        ],
+        "org_facet": [
+            "Democratic Party",
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Bessent, Scott",
+            "Biden, Joseph R Jr",
+            "Lutnick, Howard W",
+            "Musk, Elon",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-billionaires-topart-vlwf/18dc-billionaires-topart-vlwf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Treasury Secretary Scott Bessent, left, and Commerce Secretary Howard Lutnick, right, in the Oval Office with President Trump this month. The three men are each worth billions of dollars.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-billionaires-topart-vlwf/18dc-billionaires-topart-vlwf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Treasury Secretary Scott Bessent, left, and Commerce Secretary Howard Lutnick, right, in the Oval Office with President Trump this month. The three men are each worth billions of dollars.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-billionaires-topart-vlwf/18dc-billionaires-topart-vlwf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Treasury Secretary Scott Bessent, left, and Commerce Secretary Howard Lutnick, right, in the Oval Office with President Trump this month. The three men are each worth billions of dollars.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "",
+        "title": "Trump’s American History Revolution",
+        "abstract": "As the 250th anniversary of America’s independence approaches, the president is moving to put his stamp on how the nation’s story is told, in Washington and beyond.",
+        "url": "https://www.nytimes.com/2025/04/19/arts/trump-american-history-250th.html",
+        "uri": "nyt://article/ac35ba8f-656b-52aa-8a62-6c5dcd12f564",
+        "byline": "By Jennifer Schuessler",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T05:01:37-04:00",
+        "created_date": "2025-04-19T05:01:37-04:00",
+        "published_date": "2025-04-19T05:01:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Presidents and Presidency (US)",
+            "History (Academic Subject)",
+            "Revolutionary War, American (1775-83)",
+            "Executive Orders and Memorandums"
+        ],
+        "org_facet": [
+            "Organization of American Historians"
+        ],
+        "per_facet": [
+            "Rios, Rosa Gumataotao",
+            "Trump, Donald J",
+            "Johann Neem"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19CUL-TRUMP-HISTORY1-gwhv/19CUL-TRUMP-HISTORY1-gwhv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump and Melania Trump at Mount Rushmore on July 3, 2020, where the president delivered a speech decrying the vandalism of statues during racial justice protests.",
+                "copyright": "Anna Moneymaker for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19CUL-TRUMP-HISTORY1-gwhv/19CUL-TRUMP-HISTORY1-gwhv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump and Melania Trump at Mount Rushmore on July 3, 2020, where the president delivered a speech decrying the vandalism of statues during racial justice protests.",
+                "copyright": "Anna Moneymaker for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19CUL-TRUMP-HISTORY1-gwhv/19CUL-TRUMP-HISTORY1-gwhv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump and Melania Trump at Mount Rushmore on July 3, 2020, where the president delivered a speech decrying the vandalism of statues during racial justice protests.",
+                "copyright": "Anna Moneymaker for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Riding Paul Revere’s Route 250 Years Later, Here’s What We Saw",
+        "abstract": "We followed the route of Revere’s famous midnight ride. Along the way we spoke to many Americans who felt a sense of wonder about that April night.",
+        "url": "https://www.nytimes.com/2025/04/18/us/paul-revere-ride-250-anniversary.html",
+        "uri": "nyt://article/b40be1b6-898c-5253-882c-94edeec5bee0",
+        "byline": "By Jenna Russell and Todd Heisler",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T18:20:35-04:00",
+        "created_date": "2025-04-18T15:53:34-04:00",
+        "published_date": "2025-04-18T15:53:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Revolutionary War, American (1775-83)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Revere, Paul (1735-1818)"
+        ],
+        "geo_facet": [
+            "Boston (Mass)",
+            "Lexington (Mass)",
+            "Medford (Mass)",
+            "Somerville (Mass)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00nat-paul-revere-lhbz/00nat-paul-revere-lhbz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "On the Battle Green in Lexington, Mass., actors rehearsed for a re-enactment of the battle that started the Revolutionary War.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00nat-paul-revere-lhbz/00nat-paul-revere-lhbz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "On the Battle Green in Lexington, Mass., actors rehearsed for a re-enactment of the battle that started the Revolutionary War.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00nat-paul-revere-lhbz/00nat-paul-revere-lhbz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "On the Battle Green in Lexington, Mass., actors rehearsed for a re-enactment of the battle that started the Revolutionary War.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Carmakers Highlight American Roots in Bid to Influence Trump",
+        "abstract": "Wary of directly criticizing the president’s trade policies, automakers are emphasizing how much they have already invested in U.S. manufacturing.",
+        "url": "https://www.nytimes.com/2025/04/19/business/cars-trump-tariffs-us-manufacturing.html",
+        "uri": "nyt://article/c3b5a25c-eed5-5117-a305-3d5dae933693",
+        "byline": "By Jack Ewing",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T05:01:16-04:00",
+        "created_date": "2025-04-19T05:01:16-04:00",
+        "published_date": "2025-04-19T05:01:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Automobiles",
+            "International Trade and World Market",
+            "Factories and Manufacturing",
+            "Electric and Hybrid Vehicles",
+            "Customs (Tariff)",
+            "Supply Chain",
+            "New York International Auto Show"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00biz-automakers-trump-zjfv/00biz-automakers-trump-zjfv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1365,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "For automakers, boasting about how much they already contribute to the U.S. economy is a way to resist tariffs without offending President Trump.",
+                "copyright": "Audra Melton for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00biz-automakers-trump-zjfv/00biz-automakers-trump-zjfv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "For automakers, boasting about how much they already contribute to the U.S. economy is a way to resist tariffs without offending President Trump.",
+                "copyright": "Audra Melton for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00biz-automakers-trump-zjfv/00biz-automakers-trump-zjfv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "For automakers, boasting about how much they already contribute to the U.S. economy is a way to resist tariffs without offending President Trump.",
+                "copyright": "Audra Melton for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Gen Z Re-evaluates Its Budgets as a Global Trade War Rages",
+        "abstract": "Some young adults with disposable incomes for the first time in their lives are trying to make sense of how tariffs are affecting how they should save and spend.",
+        "url": "https://www.nytimes.com/2025/04/19/business/tariffs-gen-z-budgets.html",
+        "uri": "nyt://article/58bed000-544a-524a-9961-9531a1e70c42",
+        "byline": "By Paulette Perhach",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T05:00:53-04:00",
+        "created_date": "2025-04-19T05:00:53-04:00",
+        "published_date": "2025-04-19T05:00:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Generation Z",
+            "Personal Finances",
+            "Customs (Tariff)",
+            "Budgets and Budgeting",
+            "Savings",
+            "Shopping and Retail",
+            "Prices (Fares, Fees and Rates)",
+            "Fashion and Apparel",
+            "United States Economy"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19Biz-20Something-Costs-zcml/19Biz-20Something-Costs-zcml-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "After graduating from the University of Missouri, Jack Kankiewicz, 22, is planning on moving in with his aunt and uncle in Ohio to save money.",
+                "copyright": "Chase Castor for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19Biz-20Something-Costs-zcml/19Biz-20Something-Costs-zcml-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "After graduating from the University of Missouri, Jack Kankiewicz, 22, is planning on moving in with his aunt and uncle in Ohio to save money.",
+                "copyright": "Chase Castor for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19Biz-20Something-Costs-zcml/19Biz-20Something-Costs-zcml-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "After graduating from the University of Missouri, Jack Kankiewicz, 22, is planning on moving in with his aunt and uncle in Ohio to save money.",
+                "copyright": "Chase Castor for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A Shadow Hanging Over Europe: ‘A Taste of Italy’ From New Jersey",
+        "abstract": "Italian food producers worry that tariffs may price them out of the American market amid competition from U.S. goods that look and sound as if they are from Italy.",
+        "url": "https://www.nytimes.com/2025/04/18/world/europe/trump-tariffs-italy-cheese.html",
+        "uri": "nyt://article/07e627a2-dc31-5471-8029-24e67bea45e2",
+        "byline": "By Emma Bubola and Matteo de Mayda",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T12:05:41-04:00",
+        "created_date": "2025-04-18T11:40:58-04:00",
+        "published_date": "2025-04-18T11:40:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Cheese",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Prices (Fares, Fees and Rates)",
+            "Italian Food (Cuisine)",
+            "Shopping and Retail"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Meloni, Giorgia (1977- )",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Italy",
+            "Sardinia (Italy)",
+            "Wisconsin"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00int-italy-tariff-fears-PROMO/00int-italy-tariff-fears-mzpl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Grana Padano wheels aging inside the warehouse of Caseificio Zanetti. in Lallio, Italy, on Monday.",
+                "copyright": "Matteo de Mayda for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00int-italy-tariff-fears-PROMO/00int-italy-tariff-fears-mzpl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Grana Padano wheels aging inside the warehouse of Caseificio Zanetti. in Lallio, Italy, on Monday.",
+                "copyright": "Matteo de Mayda for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00int-italy-tariff-fears-PROMO/00int-italy-tariff-fears-mzpl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Grana Padano wheels aging inside the warehouse of Caseificio Zanetti. in Lallio, Italy, on Monday.",
+                "copyright": "Matteo de Mayda for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Many Have Tried to Fix Penn Station. Can Trump Get the Job Done?",
+        "abstract": "Transportation experts say a thorough renovation is likely to take several years to complete — unless emergency measures are employed.",
+        "url": "https://www.nytimes.com/2025/04/19/nyregion/many-have-tried-to-fix-penn-station-can-trump-get-the-job-done.html",
+        "uri": "nyt://article/d90a4b02-625a-5523-9f28-780de45cffe9",
+        "byline": "By Patrick McGeehan",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T03:00:27-04:00",
+        "created_date": "2025-04-19T03:00:27-04:00",
+        "published_date": "2025-04-19T03:00:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Stations and Terminals (Passenger)"
+        ],
+        "org_facet": [
+            "Amtrak",
+            "Metropolitan Transportation Authority",
+            "New Jersey Transit",
+            "Long Island Rail Road Co",
+            "Madison Square Garden",
+            "Moynihan Train Hall at Pennsylvania Station (Manhattan, NY)",
+            "Pennsylvania Station (Manhattan, NY)"
+        ],
+        "per_facet": [
+            "Duffy, Sean P",
+            "Hochul, Kathleen C",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Midtown Area (Manhattan, NY)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19met-Penn-trump-chmw/19met-Penn-trump-chmw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A thicket of conflicting priorities among the various public and private entities with a stake in Penn Station have thwarted many attempts to renovate the busy train terminal.",
+                "copyright": "Adam Gray/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19met-Penn-trump-chmw/19met-Penn-trump-chmw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A thicket of conflicting priorities among the various public and private entities with a stake in Penn Station have thwarted many attempts to renovate the busy train terminal.",
+                "copyright": "Adam Gray/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19met-Penn-trump-chmw/19met-Penn-trump-chmw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A thicket of conflicting priorities among the various public and private entities with a stake in Penn Station have thwarted many attempts to renovate the busy train terminal.",
+                "copyright": "Adam Gray/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "WrestleMania? In Los Angeles, It’s LuchaMania.",
+        "abstract": "Lucha libre, the Mexican version of professional wrestling, is thriving in Los Angeles, where the action and the masks draw fans to venues big and small.",
+        "url": "https://www.nytimes.com/2025/04/19/us/los-angeles-lucha-libre-wrestling.html",
+        "uri": "nyt://article/b2d26278-e7b4-5bab-b811-a33043ac38db",
+        "byline": "By Orlando Mayorquín and Zaydee Sanchez",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T05:00:28-04:00",
+        "created_date": "2025-04-19T05:00:28-04:00",
+        "published_date": "2025-04-19T05:00:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "vis-photo",
+            "Wrestling",
+            "Mexican-Americans",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Los Angeles (Calif)",
+            "Mexico"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/us/00ATC-la-map/00ATC-la-map-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 343,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/us/00ATC-la-map/00ATC-la-map-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/us/00ATC-la-map/00ATC-la-map-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Despite His Shaky French, Canada’s Prime Minister Is a Hit in Quebec",
+        "abstract": "Voters are overlooking Mark Carney’s linguistic gaffes and lack of knowledge about the French-speaking province, viewing him as the most capable candidate to deal with President Trump.",
+        "url": "https://www.nytimes.com/2025/04/19/world/americas/canada-carney-quebec-french.html",
+        "uri": "nyt://article/78b14729-ee6c-5bf5-b7e3-dbf8ef9936ab",
+        "byline": "By Norimitsu Onishi",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T05:01:30-04:00",
+        "created_date": "2025-04-19T05:01:30-04:00",
+        "published_date": "2025-04-19T05:01:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "French Language",
+            "Politics and Government",
+            "United States International Relations",
+            "Elections",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "Bloc Quebecois",
+            "Liberal Party (Canada)",
+            "Conservative Party (Canada)"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Blanchet, Yves-Francois",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Canada",
+            "Montreal (Quebec)",
+            "Quebec Province (Canada)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19int-quebec-campaign-kvgc/19int-quebec-campaign-kvgc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An election poster for Prime Minister Mark Carney, in Blainville, Quebec. In polls on this month’s federal election, Mr. Carney and his Liberal Party now have a huge lead in Quebec.",
+                "copyright": "Renaud Philippe for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19int-quebec-campaign-kvgc/19int-quebec-campaign-kvgc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An election poster for Prime Minister Mark Carney, in Blainville, Quebec. In polls on this month’s federal election, Mr. Carney and his Liberal Party now have a huge lead in Quebec.",
+                "copyright": "Renaud Philippe for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19int-quebec-campaign-kvgc/19int-quebec-campaign-kvgc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An election poster for Prime Minister Mark Carney, in Blainville, Quebec. In polls on this month’s federal election, Mr. Carney and his Liberal Party now have a huge lead in Quebec.",
+                "copyright": "Renaud Philippe for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
