@@ -69930,5 +69930,79 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "The Conservative Legal Doctrine That Could Undo Trump’s Agenda",
+        "abstract": "What goes around, comes around. And it is not likely to be good for the White House.",
+        "url": "https://www.nytimes.com/2025/04/20/opinion/trump-challenge-supreme-court.html",
+        "uri": "nyt://article/87278091-b11b-57bf-8e13-d1da3e5e1610",
+        "byline": "By Aaron Tang",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T01:00:05-04:00",
+        "created_date": "2025-04-20T01:00:05-04:00",
+        "published_date": "2025-04-20T01:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "Conservatism (US Politics)",
+            "Decisions and Verdicts",
+            "Law and Legislation",
+            "Citizenship and Naturalization",
+            "Regulation and Deregulation of Industry",
+            "United States Economy",
+            "Suits and Litigation (Civil)",
+            "Presidents and Presidency (US)",
+            "Presidential Power (US)"
+        ],
+        "org_facet": [
+            "Environmental Protection Agency",
+            "Government Efficiency Department (US)",
+            "National Council of Nonprofits",
+            "New Civil Liberties Alliance",
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Musk, Elon",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/opinion/20Tang/20Tang-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ben Hickey"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/opinion/20Tang/20Tang-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ben Hickey"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/opinion/20Tang/20Tang-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ben Hickey"
+            }
+        ],
+        "short_url": ""
     }
 ]
