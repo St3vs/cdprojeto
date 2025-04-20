@@ -71826,5 +71826,124 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "After meeting wrongly deported man, Van Hollen accuses Trump of defying courts.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/20/us/trump-news/after-meeting-wrongly-deported-man-van-hollen-accuses-trump-of-defying-courts",
+        "uri": "nyt://article/3d55e70f-3038-527f-8ff8-e946f1f36204",
+        "byline": "By Minho Kim",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T14:57:14-04:00",
+        "created_date": "2025-04-20T14:57:14-04:00",
+        "published_date": "2025-04-20T14:57:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20trump-news-vanhollen-hfqb/20trump-news-vanhollen-hfqb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“They are flouting the courts as we speak,” Senator Chris Van Hollen of Maryland said on Sunday.",
+                "copyright": "Allison Bailey for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20trump-news-vanhollen-hfqb/20trump-news-vanhollen-hfqb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“They are flouting the courts as we speak,” Senator Chris Van Hollen of Maryland said on Sunday.",
+                "copyright": "Allison Bailey for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20trump-news-vanhollen-hfqb/20trump-news-vanhollen-hfqb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“They are flouting the courts as we speak,” Senator Chris Van Hollen of Maryland said on Sunday.",
+                "copyright": "Allison Bailey for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Inside a City Swept by Roving Gunmen, Deadly Grudges and Fear",
+        "abstract": "A sectarian-fueled killing spree exposed how fragile peace is in Syria, where the government’s control is limited and tension runs deep after nearly 14 years of civil war.",
+        "url": "https://www.nytimes.com/2025/04/20/world/middleeast/syria-alawite-massacre.html",
+        "uri": "nyt://article/741b43a4-cd13-5440-b016-d630ac4b1cdd",
+        "byline": "By Christina Goldbaum and David Guttenfelder",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T11:51:08-04:00",
+        "created_date": "2025-04-20T00:01:16-04:00",
+        "published_date": "2025-04-20T00:01:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Mass Shootings",
+            "Civilian Casualties",
+            "Politics and Government",
+            "Sunni Muslims"
+        ],
+        "org_facet": [
+            "Hayat Tahrir al-Sham",
+            "Syrian Observatory for Human Rights"
+        ],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )"
+        ],
+        "geo_facet": [
+            "Baniyas (Syria)",
+            "Latakia (Syria)",
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/00Int-Syria-Massacre-02-kmcg-promo/00Int-Syria-Massacre-02-kmcg-promo-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1203,
+                "width": 1805,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In the center of Baniyas, emergency workers had turned a looted furniture store into a makeshift morgue, filled with dead bodies in body bags, in early March.",
+                "copyright": "David Guttenfelder/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/00Int-Syria-Massacre-02-kmcg-promo/00Int-Syria-Massacre-02-kmcg-promo-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In the center of Baniyas, emergency workers had turned a looted furniture store into a makeshift morgue, filled with dead bodies in body bags, in early March.",
+                "copyright": "David Guttenfelder/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/00Int-Syria-Massacre-02-kmcg-promo/00Int-Syria-Massacre-02-kmcg-promo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In the center of Baniyas, emergency workers had turned a looted furniture store into a makeshift morgue, filled with dead bodies in body bags, in early March.",
+                "copyright": "David Guttenfelder/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
