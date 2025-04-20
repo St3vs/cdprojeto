@@ -72202,5 +72202,65 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "3 Men Die in Fire in Overcrowded House in Queens",
+        "abstract": "The house in the Jamaica Estates neighborhood had no working smoke detectors and was crammed with tenants, fire officials said.",
+        "url": "https://www.nytimes.com/2025/04/20/nyregion/house-fire-queens-3-dead.html",
+        "uri": "nyt://article/06ee2a82-4cdc-5bed-9b65-aa347a726c5e",
+        "byline": "By Chelsia Rose Marcius and Nate Schweber",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T17:13:13-04:00",
+        "created_date": "2025-04-20T17:13:13-04:00",
+        "published_date": "2025-04-20T17:13:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Fires and Firefighters",
+            "Renting and Leasing (Real Estate)",
+            "Deaths (Fatalities)",
+            "Smoke Detectors",
+            "Real Estate and Housing (Residential)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Jamaica Estates (Queens, NY)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20MET-QUEENS-FIRE-lvqp/20MET-QUEENS-FIRE-lvqp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An overnight fire in the Jamaica Estates neighborhood in Queens left three residents dead.",
+                "copyright": "Dakota Santiago for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20MET-QUEENS-FIRE-lvqp/20MET-QUEENS-FIRE-lvqp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An overnight fire in the Jamaica Estates neighborhood in Queens left three residents dead.",
+                "copyright": "Dakota Santiago for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20MET-QUEENS-FIRE-lvqp/20MET-QUEENS-FIRE-lvqp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An overnight fire in the Jamaica Estates neighborhood in Queens left three residents dead.",
+                "copyright": "Dakota Santiago for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
