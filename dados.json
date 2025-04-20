@@ -70136,5 +70136,910 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Arizona governor vetoes bill that would have supported federal immigration efforts.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/19/us/trump-news/arizona-governor-vetoes-bill-that-would-have-supported-federal-immigration-efforts",
+        "uri": "nyt://article/8de3c504-45ae-597f-8faf-ac788520d705",
+        "byline": "By Christina Morales",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T19:08:50-04:00",
+        "created_date": "2025-04-19T19:08:50-04:00",
+        "published_date": "2025-04-19T19:08:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19trump-news-arizona-ztvf/19trump-news-arizona-ztvf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In a letter explaining her veto, Gov. Katie Hobbs said, “Arizonans, not Washington, D.C., politicians, must decide what’s best for Arizona.”",
+                "copyright": "Rebecca Noble for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19trump-news-arizona-ztvf/19trump-news-arizona-ztvf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In a letter explaining her veto, Gov. Katie Hobbs said, “Arizonans, not Washington, D.C., politicians, must decide what’s best for Arizona.”",
+                "copyright": "Rebecca Noble for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19trump-news-arizona-ztvf/19trump-news-arizona-ztvf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In a letter explaining her veto, Gov. Katie Hobbs said, “Arizonans, not Washington, D.C., politicians, must decide what’s best for Arizona.”",
+                "copyright": "Rebecca Noble for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "A Different Kind of F.B.I. Chief: Jet-Setting Patel Loves the Limelight",
+        "abstract": "Kash Patel’s embrace of the spotlight appears to be a break from the recent past, as his predecessors typically did the job with little fanfare.",
+        "url": "https://www.nytimes.com/2025/04/20/us/politics/kash-patel-spotlight-fbi-director.html",
+        "uri": "nyt://article/ba1b80f9-a5b5-5fe1-949c-07332c821968",
+        "byline": "By Adam Goldman and Aric Toler",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T05:01:02-04:00",
+        "created_date": "2025-04-20T05:01:02-04:00",
+        "published_date": "2025-04-20T05:01:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Federal Criminal Case Against Trump (Documents Case)",
+            "United States Politics and Government",
+            "Content Type: Personal Profile"
+        ],
+        "org_facet": [
+            "Federal Bureau of Investigation",
+            "Gulfstream Aerospace Corp"
+        ],
+        "per_facet": [
+            "Biden, Hunter",
+            "Bongino, Daniel",
+            "Comey, James B",
+            "Freeh, Louis J",
+            "Gretzky, Wayne",
+            "Hoover, J Edgar",
+            "Kennedy, John Fitzgerald",
+            "Mueller, Robert S III"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00dc-patel-topart-cvpj/00dc-patel-topart-cvpj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kash Patel, the Federal Bureau of Investigation director, has embraced the spotlight in a way traditionally shunned by his recent predecessors.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00dc-patel-topart-cvpj/00dc-patel-topart-cvpj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kash Patel, the Federal Bureau of Investigation director, has embraced the spotlight in a way traditionally shunned by his recent predecessors.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00dc-patel-topart-cvpj/00dc-patel-topart-cvpj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kash Patel, the Federal Bureau of Investigation director, has embraced the spotlight in a way traditionally shunned by his recent predecessors.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "The Trade Adviser Who Hates Trade",
+        "abstract": "Once sidelined, President Trump’s counselor Peter Navarro has returned to Washington and quickly upended the global trading system.",
+        "url": "https://www.nytimes.com/2025/04/20/business/economy/peter-navarro-trump-tariffs.html",
+        "uri": "nyt://article/88626c17-60db-5e32-9665-09e7764b34b2",
+        "byline": "By Ana Swanson",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T03:00:18-04:00",
+        "created_date": "2025-04-20T03:00:18-04:00",
+        "published_date": "2025-04-20T03:00:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "International Trade and World Market",
+            "United States Economy",
+            "Factories and Manufacturing",
+            "Prices (Fares, Fees and Rates)",
+            "North American Free Trade Agreement",
+            "Content Type: Personal Profile",
+            "Protectionism (Trade)",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "World Trade Organization",
+            "Commerce Department",
+            "National Economic Council (US)"
+        ],
+        "per_facet": [
+            "Navarro, Peter",
+            "Trump, Donald J",
+            "Bessent, Scott",
+            "Cohn, Gary D"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00BIZ-NAVARRO-lede-lcwp/00BIZ-NAVARRO-lede-lcwp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1639,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00BIZ-NAVARRO-lede-lcwp/00BIZ-NAVARRO-lede-lcwp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00BIZ-NAVARRO-lede-lcwp/00BIZ-NAVARRO-lede-lcwp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "With Only Bad Options, Businesses Scramble for a Tariff Chaos Playbook",
+        "abstract": "President Trump’s trade war is forcing companies to cut costs, raise prices, shrink profits, discontinue products and find other suppliers.",
+        "url": "https://www.nytimes.com/2025/04/20/business/economy/tariffs-business-strategy.html",
+        "uri": "nyt://article/715317c8-25a6-5747-bf37-07d92170e031",
+        "byline": "By Lydia DePillis",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T05:01:18-04:00",
+        "created_date": "2025-04-20T05:01:18-04:00",
+        "published_date": "2025-04-20T05:01:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "International Relations",
+            "Prices (Fares, Fees and Rates)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00biz-tariff-playbook-kfvt/00biz-tariff-playbook-kfvt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1464,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cargo was unloaded from a ship this month in Palmetto, Fla. Importers have been struggling with how to adjust to President Trump’s evolving tariffs.",
+                "copyright": "Scott McIntyre for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00biz-tariff-playbook-kfvt/00biz-tariff-playbook-kfvt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cargo was unloaded from a ship this month in Palmetto, Fla. Importers have been struggling with how to adjust to President Trump’s evolving tariffs.",
+                "copyright": "Scott McIntyre for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00biz-tariff-playbook-kfvt/00biz-tariff-playbook-kfvt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cargo was unloaded from a ship this month in Palmetto, Fla. Importers have been struggling with how to adjust to President Trump’s evolving tariffs.",
+                "copyright": "Scott McIntyre for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "China Is Finding Ways to Replace American Farmers",
+        "abstract": "China has long relied on the U.S. for soybeans. But with new steep tariffs, it is likely to look even more to Brazil and Argentina.",
+        "url": "https://www.nytimes.com/2025/04/20/business/tariffs-china-us-farmers.html",
+        "uri": "nyt://article/1c41321f-5abe-585b-8cb2-b024d62e1e87",
+        "byline": "By Kevin Draper and Jack Nicas",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T05:00:43-04:00",
+        "created_date": "2025-04-20T05:00:43-04:00",
+        "published_date": "2025-04-20T05:00:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Soybeans",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Prices (Fares, Fees and Rates)",
+            "Agriculture and Farming"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Brazil",
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00biz-trade-soybean-wzfp/00biz-trade-soybean-wzfp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1638,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tariffs are “a threat to our continued way of life,” said Heather Feuerstein, shown on her farm near Grand Rapids, Mich.",
+                "copyright": "Taylor Ballek for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00biz-trade-soybean-wzfp/00biz-trade-soybean-wzfp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tariffs are “a threat to our continued way of life,” said Heather Feuerstein, shown on her farm near Grand Rapids, Mich.",
+                "copyright": "Taylor Ballek for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00biz-trade-soybean-wzfp/00biz-trade-soybean-wzfp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tariffs are “a threat to our continued way of life,” said Heather Feuerstein, shown on her farm near Grand Rapids, Mich.",
+                "copyright": "Taylor Ballek for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "magazine",
+        "subsection": "",
+        "title": "How the War Over Trans Athletes Tore a Volleyball Team Apart",
+        "abstract": "Blaire Fleming was a little-known college player. Then she suddenly became a symbol of injustice — to both sides of the controversy.",
+        "url": "https://www.nytimes.com/2025/04/20/magazine/trans-athletes-women-college-sports.html",
+        "uri": "nyt://article/299f0d5d-75ee-5c64-9652-233508c9120b",
+        "byline": "By Jason Zengerle",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T05:00:58-04:00",
+        "created_date": "2025-04-20T05:00:58-04:00",
+        "published_date": "2025-04-20T05:00:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Colleges and Universities",
+            "Transgender",
+            "Presidential Election of 2024",
+            "Volleyball",
+            "Women and Girls",
+            "College Athletics",
+            "Civil Rights and Liberties",
+            "Gender",
+            "Hormones",
+            "Executive Orders and Memorandums",
+            "Title IX (Gender Discrimination Legislation)",
+            "Draft and Recruitment (Sports)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/magazine/27mag-volleyball/27mag-volleyball-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1639,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Preston Gannaway for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/magazine/27mag-volleyball/27mag-volleyball-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Preston Gannaway for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/magazine/27mag-volleyball/27mag-volleyball-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Preston Gannaway for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "An Inside Look at the Subway’s Archaic Signal System",
+        "abstract": "Vast swaths of the subway still rely on signal equipment from the Great Depression. A multibillion dollar plan, now at risk, hopes to bring the system into the 21st century",
+        "url": "https://www.nytimes.com/interactive/2025/04/20/nyregion/nyc-subway-signals.html",
+        "uri": "nyt://interactive/94d4d934-e3da-550b-80c9-31de27142557",
+        "byline": "By Winnie Hu, Stefanos Chen, Eden Weingart and Tony Cenicola",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-20T03:00:07-04:00",
+        "created_date": "2025-04-20T03:00:07-04:00",
+        "published_date": "2025-04-20T03:00:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "vis-design",
+            "Transit Systems",
+            "Congestion Pricing",
+            "Delays (Transportation)",
+            "Infrastructure (Public Works)",
+            "Subways",
+            "Commuting"
+        ],
+        "org_facet": [
+            "Metropolitan Transportation Authority"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/nyregion/20-nyc-subway-signals-still/20-nyc-subway-signals-still-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tony Cenicola/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/nyregion/20-nyc-subway-signals-still/20-nyc-subway-signals-still-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tony Cenicola/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/nyregion/20-nyc-subway-signals-still/20-nyc-subway-signals-still-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tony Cenicola/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "The Face of Catholicism in the United States Has Changed. Here’s How.",
+        "abstract": "For decades, the share of American Catholics declined in the face in secularization. But in recent years, those numbers have stabilized, buoyed by growing communities and broader societal changes.",
+        "url": "https://www.nytimes.com/2025/04/20/us/us-catholic-identity.html",
+        "uri": "nyt://article/21317edd-11da-532e-b45e-5d579e559047",
+        "byline": "By Kate Selig",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T05:00:47-04:00",
+        "created_date": "2025-04-20T05:00:47-04:00",
+        "published_date": "2025-04-20T05:00:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Language and Languages",
+            "Priests",
+            "Asian-Americans",
+            "Hispanic-Americans"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Pew Research Center"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20nat-catholic-identity-gwmh/20nat-catholic-identity-gwmh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Standing-room-only Masses at one parish in Las Vegas draw about 1,200 people each, according to its pastor.",
+                "copyright": "Roger Kisby for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20nat-catholic-identity-gwmh/20nat-catholic-identity-gwmh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Standing-room-only Masses at one parish in Las Vegas draw about 1,200 people each, according to its pastor.",
+                "copyright": "Roger Kisby for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20nat-catholic-identity-gwmh/20nat-catholic-identity-gwmh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Standing-room-only Masses at one parish in Las Vegas draw about 1,200 people each, according to its pastor.",
+                "copyright": "Roger Kisby for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "style",
+        "subsection": "",
+        "title": "Why Is It So Hard to Talk About God?",
+        "abstract": "An interview with Krista Tippett on how people talk — and struggle to talk — about religion and spirituality.",
+        "url": "https://www.nytimes.com/2025/04/18/style/krista-tippett-interview.html",
+        "uri": "nyt://article/fd8c968f-6d95-5a7e-b7b1-b53ff9f93be1",
+        "byline": "By Lauren Jackson",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T09:19:22-04:00",
+        "created_date": "2025-04-18T17:00:06-04:00",
+        "published_date": "2025-04-18T17:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "Believing",
+        "des_facet": [
+            "Religion and Belief",
+            "Radio"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Tippett, Krista"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/fashion/krista-tippet-topper-illo/krista-tippet-topper-illo-superJumbo-v3.jpg",
+                "format": "Super Jumbo",
+                "height": 1613,
+                "width": 1983,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Iris Legendre"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/fashion/krista-tippet-topper-illo/krista-tippet-topper-illo-threeByTwoSmallAt2X-v3.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Iris Legendre"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/fashion/krista-tippet-topper-illo/krista-tippet-topper-illo-thumbLarge-v3.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Iris Legendre"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "How Texas Officials Invited the Rigging of the State Lottery",
+        "abstract": "Texas lottery executives blessed a scheme that ensured one player would win a $95 million jackpot in 2023. The caper has underscored a sense that almost nothing is on the level.",
+        "url": "https://www.nytimes.com/2025/04/20/us/rigged-texas-lottery.html",
+        "uri": "nyt://article/4c1ec9cb-ab91-5dca-b5f2-54b6c1bdf4b6",
+        "byline": "By J. David Goodman",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T05:00:08-04:00",
+        "created_date": "2025-04-20T05:00:08-04:00",
+        "published_date": "2025-04-20T05:00:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Gambling",
+            "United States Politics and Government",
+            "Lotteries",
+            "Regulation and Deregulation of Industry",
+            "Frauds and Swindling"
+        ],
+        "org_facet": [
+            "Texas Lottery Commission"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Austin (Tex)",
+            "Texas"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00nat-texas-lottery-top-opt-1-qmgl/00nat-texas-lottery-top-opt-1-qmgl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Professional bettors purchased virtually every combination of possible numbers to ensure a lottery win.",
+                "copyright": "Desiree Rios for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00nat-texas-lottery-top-opt-1-qmgl/00nat-texas-lottery-top-opt-1-qmgl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Professional bettors purchased virtually every combination of possible numbers to ensure a lottery win.",
+                "copyright": "Desiree Rios for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00nat-texas-lottery-top-opt-1-qmgl/00nat-texas-lottery-top-opt-1-qmgl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Professional bettors purchased virtually every combination of possible numbers to ensure a lottery win.",
+                "copyright": "Desiree Rios for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Sherrod Brown: What Worries Me Most About Trump’s Failing Economy",
+        "abstract": "Democrats should not confuse Trump’s tariff disaster for a trade policy that helps workers.",
+        "url": "https://www.nytimes.com/2025/04/20/opinion/sherrod-brown-tariffs-trade-trump-workers.html",
+        "uri": "nyt://article/80dc2ccb-f5f9-5ea9-b8ed-2922c5f90d5f",
+        "byline": "By Sherrod Brown",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T06:00:06-04:00",
+        "created_date": "2025-04-20T06:00:06-04:00",
+        "published_date": "2025-04-20T06:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "Computers and the Internet",
+            "Customs (Tariff)",
+            "Prices (Fares, Fees and Rates)",
+            "Layoffs and Job Reductions",
+            "Outsourcing",
+            "Wages and Salaries",
+            "Factories and Manufacturing",
+            "Trans-Pacific Partnership",
+            "Labor and Jobs",
+            "North American Free Trade Agreement"
+        ],
+        "org_facet": [
+            "Democratic Party"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Ohio"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/opinion/16brown/16brown-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Sandra Navarro"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/opinion/16brown/16brown-threeByTwoSmallAt2X-v3.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Sandra Navarro"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/opinion/16brown/16brown-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Sandra Navarro"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "‘A Huge Negative Shock’: Three Experts Game Out Recession Odds and Economic Uncertainty",
+        "abstract": "A look at tariffs, the Fed, the dollar and how uncertainty is wreaking havoc on financial markets.",
+        "url": "https://www.nytimes.com/2025/04/20/opinion/trump-economy-recession-uncertainty.html",
+        "uri": "nyt://article/2452faf7-0335-546e-95af-5882941cf22b",
+        "byline": "By Josh Barro, Lael Brainard and Conor Sen",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T06:00:17-04:00",
+        "created_date": "2025-04-20T06:00:17-04:00",
+        "published_date": "2025-04-20T06:00:17-04:00",
+        "material_type_facet": "",
+        "kicker": "Round table",
+        "des_facet": [
+            "United States Politics and Government",
+            "Banking and Financial Institutions",
+            "United States Economy",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Stocks and Bonds",
+            "Federal Budget (US)",
+            "Presidential Power (US)",
+            "Inflation (Economics)",
+            "Labor and Jobs",
+            "Standard & Poor's 500-Stock Index",
+            "Smoot-Hawley Tariff Act (1930)"
+        ],
+        "org_facet": [
+            "Democratic Party",
+            "Federal Reserve System",
+            "Government Efficiency Department (US)",
+            "Republican Party",
+            "Treasury Department"
+        ],
+        "per_facet": [
+            "Bessent, Scott",
+            "Fink, Laurence D",
+            "Jayapal, Pramila",
+            "Powell, Jerome H",
+            "Trump, Donald J",
+            "Vance, J D"
+        ],
+        "geo_facet": [
+            "United States",
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/opinion/20roundtable/20roundtable-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/opinion/20roundtable/20roundtable-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/opinion/20roundtable/20roundtable-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "6 Killed as Giant Waves Batter Australia",
+        "abstract": "The victims fell or were swept into the ocean, according to the police, as swells pounded Sydney and other places along the country’s east coast. At least two others were missing.",
+        "url": "https://www.nytimes.com/2025/04/20/world/asia/australia-waves-queensland-sydney.html",
+        "uri": "nyt://article/c0f7d898-e505-5c1c-8e8f-a1db88eadbfa",
+        "byline": "By Yan Zhuang",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T05:37:40-04:00",
+        "created_date": "2025-04-20T05:33:34-04:00",
+        "published_date": "2025-04-20T05:33:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Fatalities)",
+            "Missing Persons"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Australia",
+            "Byron Bay (Australia)",
+            "Gold Coast (Australia)",
+            "New South Wales (Australia)",
+            "Queensland (Australia)",
+            "Sydney (Australia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19waves-kcpv/19waves-kcpv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Waves breaking at a beach in Sydney on Friday.",
+                "copyright": "David Gray/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19waves-kcpv/19waves-kcpv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Waves breaking at a beach in Sydney on Friday.",
+                "copyright": "David Gray/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19waves-kcpv/19waves-kcpv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Waves breaking at a beach in Sydney on Friday.",
+                "copyright": "David Gray/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "media",
+        "title": "‘Sinners’ Is a Box Office Success (With a Big Asterisk)",
+        "abstract": "Ryan Coogler’s original horror film was expected to sell a strong $40 million-plus in tickets over the weekend. But its profitability remains a long way off.",
+        "url": "https://www.nytimes.com/2025/04/20/business/media/sinners-box-office.html",
+        "uri": "nyt://article/9b1806f2-cc32-578d-9a6a-a69624c38afd",
+        "byline": "By Brooks Barnes",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T05:01:17-04:00",
+        "created_date": "2025-04-20T05:01:17-04:00",
+        "published_date": "2025-04-20T05:01:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Movies",
+            "Box Office Sales",
+            "Wages and Salaries",
+            "Sinners (Movie)"
+        ],
+        "org_facet": [
+            "Warner Bros Discovery",
+            "Warner Brothers Pictures"
+        ],
+        "per_facet": [
+            "Coogler, Ryan",
+            "Jordan, Michael B"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20box-5-btcp/20box-5-btcp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Michael B. Jordan as Smoke, one of two characters he plays in “Sinners,” which cost at least $150 million to make and market worldwide.",
+                "copyright": "Eli Adé/Warner Bros. Pictures"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20box-5-btcp/20box-5-btcp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Michael B. Jordan as Smoke, one of two characters he plays in “Sinners,” which cost at least $150 million to make and market worldwide.",
+                "copyright": "Eli Adé/Warner Bros. Pictures"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20box-5-btcp/20box-5-btcp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Michael B. Jordan as Smoke, one of two characters he plays in “Sinners,” which cost at least $150 million to make and market worldwide.",
+                "copyright": "Eli Adé/Warner Bros. Pictures"
+            }
+        ],
+        "short_url": ""
     }
 ]
