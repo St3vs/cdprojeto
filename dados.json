@@ -69564,5 +69564,248 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Inside the Urgent Fight Over the Trump Administration’s New Deportation Effort",
+        "abstract": "The push to deport a group of Venezuelans raises questions about whether the government is following a Supreme Court order requiring that migrants receive due process.",
+        "url": "https://www.nytimes.com/2025/04/19/us/politics/trump-deportation-courts-venezuelan-migrants-texas.html",
+        "uri": "nyt://article/ebaba552-6086-5e4f-aa41-12e1483f88fa",
+        "byline": "By Hamed Aleaziz, Alan Feuer and Annie Correal",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T21:02:41-04:00",
+        "created_date": "2025-04-19T20:07:26-04:00",
+        "published_date": "2025-04-19T20:07:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Suits and Litigation (Civil)",
+            "Deportation",
+            "Illegal Immigration",
+            "Immigration Detention",
+            "Federal Courts (US)",
+            "United States Politics and Government",
+            "Alien Enemies Act (1798)"
+        ],
+        "org_facet": [
+            "Supreme Court (US)",
+            "Justice Department",
+            "American Civil Liberties Union"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Venezuela",
+            "Texas"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19dc-deport-lhzj/19dc-deport-lhzj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "News of notices being handed out to migrants at the Bluebonnet Detention Facility in Anson, Texas, warning of impending deportations prompted a flurry of legal actions this week.",
+                "copyright": "Evelyn Hockstein/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19dc-deport-lhzj/19dc-deport-lhzj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "News of notices being handed out to migrants at the Bluebonnet Detention Facility in Anson, Texas, warning of impending deportations prompted a flurry of legal actions this week.",
+                "copyright": "Evelyn Hockstein/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19dc-deport-lhzj/19dc-deport-lhzj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "News of notices being handed out to migrants at the Bluebonnet Detention Facility in Anson, Texas, warning of impending deportations prompted a flurry of legal actions this week.",
+                "copyright": "Evelyn Hockstein/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Vance, whose views have clashed with the pope’s, spends Holy Week in Rome.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/19/us/trump-news/vance-whose-views-have-clashed-with-the-popes-spends-holy-week-in-rome",
+        "uri": "nyt://article/7f959059-775f-53e2-8385-82c330a78aa0",
+        "byline": "By Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T13:35:23-04:00",
+        "created_date": "2025-04-19T09:20:43-04:00",
+        "published_date": "2025-04-19T09:20:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19trump-news-vance-vatican-vpwt/19trump-news-vance-vatican-vpwt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Usha Vance and Vice President JD Vance attending a Good Friday service in St. Peter’s Basilica at the Vatican.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19trump-news-vance-vatican-vpwt/19trump-news-vance-vatican-vpwt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Usha Vance and Vice President JD Vance attending a Good Friday service in St. Peter’s Basilica at the Vatican.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19trump-news-vance-vatican-vpwt/19trump-news-vance-vatican-vpwt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Usha Vance and Vice President JD Vance attending a Good Friday service in St. Peter’s Basilica at the Vatican.",
+                "copyright": "Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "What Trump Isn’t Telling You About His Trade War With China",
+        "abstract": "What happens if we run out of rare-earth metals or bond prices collapse?",
+        "url": "https://www.nytimes.com/2025/04/19/opinion/trump-china-trade-war.html",
+        "uri": "nyt://article/df5d4c55-f96e-576c-999c-a656ba0c5ab7",
+        "byline": "By Nicholas Kristof",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T14:05:40-04:00",
+        "created_date": "2025-04-19T07:00:24-04:00",
+        "published_date": "2025-04-19T07:00:24-04:00",
+        "material_type_facet": "",
+        "kicker": "Nicholas Kristof",
+        "des_facet": [
+            "Customs (Tariff)",
+            "Fentanyl",
+            "International Trade and World Market",
+            "Rare Earths",
+            "Metals and Minerals"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19kristof-mqtc/19kristof-mqtc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jade Gao/Agence France-Presse"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19kristof-mqtc/19kristof-mqtc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jade Gao/Agence France-Presse"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19kristof-mqtc/19kristof-mqtc-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jade Gao/Agence France-Presse"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Small Plane With 4 Aboard Crashes in Illinois",
+        "abstract": "The authorities said they were conducting a “fatal aircraft investigation” but did not provide details about the number of people who died.",
+        "url": "https://www.nytimes.com/2025/04/19/us/plane-crash-illinois.html",
+        "uri": "nyt://article/36f97310-9b24-5662-9059-1f5dd2d4a7d2",
+        "byline": "By Adeel Hassan",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T19:17:59-04:00",
+        "created_date": "2025-04-19T19:17:59-04:00",
+        "published_date": "2025-04-19T19:17:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Airlines and Airplanes",
+            "Deaths (Fatalities)",
+            "Aviation Accidents, Safety and Disasters"
+        ],
+        "org_facet": [
+            "Federal Aviation Administration",
+            "National Transportation Safety Board"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Illinois"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19xp-trilla/19xp-trilla-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1067,
+                "width": 1600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A small plane crashed in Trill, Ill., on Saturday morning, officials said. There were four people on board.",
+                "copyright": "WCIA"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19xp-trilla/19xp-trilla-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A small plane crashed in Trill, Ill., on Saturday morning, officials said. There were four people on board.",
+                "copyright": "WCIA"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19xp-trilla/19xp-trilla-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A small plane crashed in Trill, Ill., on Saturday morning, officials said. There were four people on board.",
+                "copyright": "WCIA"
+            }
+        ],
+        "short_url": ""
     }
 ]
