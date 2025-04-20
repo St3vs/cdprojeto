@@ -71221,5 +71221,183 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "Inside a Union’s Fight Against Trump’s Federal Job Cuts",
+        "abstract": "Leaders of the union representing government workers say their battle is galvanizing but also alarming. “It’s insulting to say,” one said, “that we are lazy.”",
+        "url": "https://www.nytimes.com/2025/04/20/business/economy/government-union-trump-musk.html",
+        "uri": "nyt://article/08e62273-57dc-5888-becd-4865cb75abf6",
+        "byline": "By Rebecca Davis O’Brien",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T07:57:09-04:00",
+        "created_date": "2025-04-20T05:01:12-04:00",
+        "published_date": "2025-04-20T05:01:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Government Employees",
+            "Organized Labor",
+            "Presidential Election of 2024",
+            "Collective Bargaining",
+            "Layoffs and Job Reductions",
+            "Workplace Environment"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Johnson, Mike (1972- )",
+            "Trump, Donald J",
+            "Musk, Elon"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00biz-federal-union-phmf/00biz-federal-union-phmf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The American Federation of Government Employees, which represents about 800,000 workers, rallied in Washington in February against cuts to federal jobs.",
+                "copyright": "Samuel Corum for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00biz-federal-union-phmf/00biz-federal-union-phmf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The American Federation of Government Employees, which represents about 800,000 workers, rallied in Washington in February against cuts to federal jobs.",
+                "copyright": "Samuel Corum for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00biz-federal-union-phmf/00biz-federal-union-phmf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The American Federation of Government Employees, which represents about 800,000 workers, rallied in Washington in February against cuts to federal jobs.",
+                "copyright": "Samuel Corum for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "These Maps Show Federal Employees Work in Every Corner of America",
+        "abstract": "Before the Trump administration’s cuts, members of the civilian federal work force were in every state and in thousands of the nation’s cities and small towns.",
+        "url": "https://www.nytimes.com/interactive/2025/04/20/us/politics/federal-workers-america-map.html",
+        "uri": "nyt://interactive/cbc49f0f-0184-5b15-934d-481514e4acc7",
+        "byline": "By Zach Levitt",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-20T05:00:45-04:00",
+        "created_date": "2025-04-20T05:00:45-04:00",
+        "published_date": "2025-04-20T05:00:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Government Efficiency Department (US)",
+            "Veterans Affairs Department",
+            "Internal Revenue Service",
+            "Social Security Administration"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Musk, Elon"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-03-01-mapping-federal-workforce-index/2025-03-01-mapping-federal-workforce-index-superJumbo-v6.jpg",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-03-01-mapping-federal-workforce-index/2025-03-01-mapping-federal-workforce-index-threeByTwoSmallAt2X-v8.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-03-01-mapping-federal-workforce-index/2025-03-01-mapping-federal-workforce-index-thumbLarge-v6.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Arizona governor vetoes bill that would have supported federal immigration efforts.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/20/us/trump-news/arizona-governor-vetoes-bill-that-would-have-supported-federal-immigration-efforts",
+        "uri": "nyt://article/8de3c504-45ae-597f-8faf-ac788520d705",
+        "byline": "By Christina Morales",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T09:00:38-04:00",
+        "created_date": "2025-04-19T19:08:50-04:00",
+        "published_date": "2025-04-19T19:08:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19trump-news-arizona-ztvf/19trump-news-arizona-ztvf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In a letter explaining her veto, Gov. Katie Hobbs said, “Arizonans, not Washington, D.C., politicians, must decide what’s best for Arizona.”",
+                "copyright": "Rebecca Noble for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19trump-news-arizona-ztvf/19trump-news-arizona-ztvf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In a letter explaining her veto, Gov. Katie Hobbs said, “Arizonans, not Washington, D.C., politicians, must decide what’s best for Arizona.”",
+                "copyright": "Rebecca Noble for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19trump-news-arizona-ztvf/19trump-news-arizona-ztvf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In a letter explaining her veto, Gov. Katie Hobbs said, “Arizonans, not Washington, D.C., politicians, must decide what’s best for Arizona.”",
+                "copyright": "Rebecca Noble for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
