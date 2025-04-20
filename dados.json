@@ -71399,5 +71399,187 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Alito Releases Dissent in Supreme Court Decision Blocking Deportations",
+        "abstract": "Justice Samuel A. Alito Jr. wrote that the court’s overnight order blocking the Trump administration from deporting a group of Venezuelans under a wartime law was not “necessary or appropriate.”",
+        "url": "https://www.nytimes.com/2025/04/20/us/politics/alito-supreme-court-dissent-alien-enemies-act.html",
+        "uri": "nyt://article/306726d0-4f99-5c29-9daa-26c1819da9b6",
+        "byline": "By Abbie VanSickle",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T10:32:56-04:00",
+        "created_date": "2025-04-20T10:32:56-04:00",
+        "published_date": "2025-04-20T10:32:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Deportation"
+        ],
+        "org_facet": [
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Alito, Samuel A Jr",
+            "Thomas, Clarence"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20trump-news-alito-wcth/20trump-news-alito-wcth-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Justice Samuel A. Alito Jr. published his dissent on Saturday shortly before midnight.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20trump-news-alito-wcth/20trump-news-alito-wcth-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Justice Samuel A. Alito Jr. published his dissent on Saturday shortly before midnight.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20trump-news-alito-wcth/20trump-news-alito-wcth-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Justice Samuel A. Alito Jr. published his dissent on Saturday shortly before midnight.",
+                "copyright": "Erin Schaff/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Read Justice Alito’s Dissent",
+        "abstract": "Justice Samuel A. Alito Jr. wrote that the Supreme Court’s decision to block the Trump administration from deporting Venezuelan migrants under a wartime law was premature.",
+        "url": "https://www.nytimes.com/interactive/2025/04/20/us/politics/24a1007-dissent.html",
+        "uri": "nyt://interactive/d0fc0495-0ed5-51a9-9c6f-16614b57ebf5",
+        "byline": "",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-20T09:35:51-04:00",
+        "created_date": "2025-04-20T09:35:51-04:00",
+        "published_date": "2025-04-20T09:35:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Alien Enemies Act (1798)"
+        ],
+        "org_facet": [
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Alito, Samuel A Jr"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/doc-2c5cd1c6-a96d-4a6a-bbe5-6-promo/doc-2c5cd1c6-a96d-4a6a-bbe5-6-promo-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1583,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/doc-2c5cd1c6-a96d-4a6a-bbe5-6-promo/doc-2c5cd1c6-a96d-4a6a-bbe5-6-promo-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/doc-2c5cd1c6-a96d-4a6a-bbe5-6-promo/doc-2c5cd1c6-a96d-4a6a-bbe5-6-promo-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel’s Military Cites ‘Professional Failures’ in Killings of Gaza Medics",
+        "abstract": "In a statement summarizing its investigation into the deadly episode, the military said a deputy commander would be dismissed.",
+        "url": "https://www.nytimes.com/2025/04/20/world/middleeast/israel-gaza-medics.html",
+        "uri": "nyt://article/8618be58-c708-5518-8e70-27f967789e8b",
+        "byline": "By Isabel Kershner",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T10:44:46-04:00",
+        "created_date": "2025-04-20T10:44:46-04:00",
+        "published_date": "2025-04-20T10:44:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Civilian Casualties",
+            "War Crimes, Genocide and Crimes Against Humanity",
+            "Ambulances"
+        ],
+        "org_facet": [
+            "International Federation of Red Cross and Red Crescent Societies",
+            "United Nations"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Rafah (Gaza Strip)",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-gaza-paramedic-ctqz-copy/13int-gaza-paramedic-ctqz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a cellphone video taken by a paramedic and released by the Palestinian Red Crescent showed the moments before he and other rescue workers were killed by Israelis in Gaza on March 23.",
+                "copyright": "via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-gaza-paramedic-ctqz-copy/13int-gaza-paramedic-ctqz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a cellphone video taken by a paramedic and released by the Palestinian Red Crescent showed the moments before he and other rescue workers were killed by Israelis in Gaza on March 23.",
+                "copyright": "via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-gaza-paramedic-ctqz-copy/13int-gaza-paramedic-ctqz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a cellphone video taken by a paramedic and released by the Palestinian Red Crescent showed the moments before he and other rescue workers were killed by Israelis in Gaza on March 23.",
+                "copyright": "via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
