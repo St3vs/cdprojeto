@@ -69807,5 +69807,128 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "At World Expo, Japan Recalls a Faded Dynamism",
+        "abstract": "The event is stirring memories of an exhibition in 1970, when the postwar Japanese economy was taking off and “you could have dreams about the future.”",
+        "url": "https://www.nytimes.com/2025/04/20/business/japan-osaka-world-expo.html",
+        "uri": "nyt://article/a7bfc812-fdac-5bc4-b38a-74e18d4dd4af",
+        "byline": "By River Akira Davis, Kiuko Notoya and Hiroko Masuike/The New York Times",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T00:01:37-04:00",
+        "created_date": "2025-04-20T00:01:37-04:00",
+        "published_date": "2025-04-20T00:01:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Economic Conditions and Trends",
+            "International Trade and World Market",
+            "World's Fairs"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Japan",
+            "Osaka (Japan)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/BIZ-JAPAN-EXPO-10-btzw/BIZ-JAPAN-EXPO-10-btzw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Visitors pose at the site of Osaka’s 1970 World Expo, now a park.",
+                "copyright": "Hiroko Masuike/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/BIZ-JAPAN-EXPO-10-btzw/BIZ-JAPAN-EXPO-10-btzw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Visitors pose at the site of Osaka’s 1970 World Expo, now a park.",
+                "copyright": "Hiroko Masuike/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/BIZ-JAPAN-EXPO-10-btzw/BIZ-JAPAN-EXPO-10-btzw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Visitors pose at the site of Osaka’s 1970 World Expo, now a park.",
+                "copyright": "Hiroko Masuike/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Strawberries Aren’t Ripe for Africa? His Farms Disprove That, Deliciously.",
+        "abstract": "Thierno Agne left behind studying law to grow strawberries, a shocking move in Senegal, where farming is considered work for the old, poor and uneducated. His success is making the profession “sexy.”",
+        "url": "https://www.nytimes.com/2025/04/20/world/africa/senegal-strawberry-farmer-profile.html",
+        "uri": "nyt://article/0eeef5e1-e44d-5566-b17e-12f0e6c5ee47",
+        "byline": "By Saikou Jammeh and Carmen Abd Ali",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T00:01:14-04:00",
+        "created_date": "2025-04-20T00:01:14-04:00",
+        "published_date": "2025-04-20T00:01:14-04:00",
+        "material_type_facet": "",
+        "kicker": "The Global Profile",
+        "des_facet": [
+            "Strawberries",
+            "Agriculture and Farming",
+            "Foreign Aid",
+            "Youth",
+            "Content Type: Personal Profile"
+        ],
+        "org_facet": [
+            "United States Agency for International Development"
+        ],
+        "per_facet": [
+            "Thierno Agne"
+        ],
+        "geo_facet": [
+            "Senegal"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-senegal-strawberries-profile-PROMO-mhfq/20int-senegal-strawberries-profile-PROMO-mhfq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Carmen Abd Ali for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-senegal-strawberries-profile-PROMO-mhfq/20int-senegal-strawberries-profile-PROMO-mhfq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Carmen Abd Ali for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-senegal-strawberries-profile-PROMO-mhfq/20int-senegal-strawberries-profile-PROMO-mhfq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Carmen Abd Ali for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
