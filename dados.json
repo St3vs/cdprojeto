@@ -72010,5 +72010,197 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Hegseth Said to Have Shared Attack Details in Second Signal Chat",
+        "abstract": "The defense secretary sent sensitive information about strikes in Yemen to an encrypted group chat that included his wife and brother, people familiar with the matter said.",
+        "url": "https://www.nytimes.com/2025/04/20/us/politics/hegseth-yemen-attack-second-signal-chat.html",
+        "uri": "nyt://article/3bc4ce30-7bcd-514d-ba1b-30edc3c61f24",
+        "byline": "By Greg Jaffe, Eric Schmitt and Maggie Haberman",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T17:03:39-04:00",
+        "created_date": "2025-04-20T17:03:39-04:00",
+        "published_date": "2025-04-20T17:03:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Defense and Military Forces",
+            "Signal Chat Leak (Trump Administration)",
+            "Classified Information and State Secrets",
+            "United States Politics and Government",
+            "War and Armed Conflicts",
+            "Computer Security"
+        ],
+        "org_facet": [
+            "Defense Department",
+            "Atlantic Monthly"
+        ],
+        "per_facet": [
+            "Hegseth, Pete",
+            "Trump, Donald J",
+            "Waltz, Michael (1974- )"
+        ],
+        "geo_facet": [
+            "Yemen"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20dc-Hegseth-thlb/20dc-Hegseth-thlb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The information that Defense Secretary Pete Hegseth shared on the second Signal chat included the flight schedules for the F/A-18 Hornets targeting the Houthis in Yemen, according to some of the people familiar with the chat.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20dc-Hegseth-thlb/20dc-Hegseth-thlb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The information that Defense Secretary Pete Hegseth shared on the second Signal chat included the flight schedules for the F/A-18 Hornets targeting the Houthis in Yemen, according to some of the people familiar with the chat.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20dc-Hegseth-thlb/20dc-Hegseth-thlb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The information that Defense Secretary Pete Hegseth shared on the second Signal chat included the flight schedules for the F/A-18 Hornets targeting the Houthis in Yemen, according to some of the people familiar with the chat.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "style",
+        "subsection": "",
+        "title": "Bunnies, Bonnets, Brights and Blooms at New York’s Easter Parade",
+        "abstract": "Time for revelry, and a celebration of spring, on a Sunday in the city.",
+        "url": "https://www.nytimes.com/2025/04/20/style/nyc-easter-parade-bonnet-festival.html",
+        "uri": "nyt://article/aebe2952-a193-58a3-8824-eacb9816726d",
+        "byline": "By Simbarashe Cha",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T16:40:40-04:00",
+        "created_date": "2025-04-20T16:19:13-04:00",
+        "published_date": "2025-04-20T16:19:13-04:00",
+        "material_type_facet": "",
+        "kicker": "style outside",
+        "des_facet": [
+            "vis-photo",
+            "Hats and Caps",
+            "Parades",
+            "Easter and Holy Week",
+            "Spring (Season)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Fifth Avenue (Manhattan, NY)",
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20STYLEOUTSIDE-EASTER-PARADE-01-clkg/20STYLEOUTSIDE-EASTER-PARADE-01-clkg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A steampunk interpretation of the spring season.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20STYLEOUTSIDE-EASTER-PARADE-01-clkg/20STYLEOUTSIDE-EASTER-PARADE-01-clkg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A steampunk interpretation of the spring season.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20STYLEOUTSIDE-EASTER-PARADE-01-clkg/20STYLEOUTSIDE-EASTER-PARADE-01-clkg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A steampunk interpretation of the spring season.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "When They Don’t Recognize You Anymore",
+        "abstract": "People with dementia often forget even close family members as the disease advances. “It can throw people into an existential crisis,” one expert said.",
+        "url": "https://www.nytimes.com/2025/04/20/health/dementia-family-recognition.html",
+        "uri": "nyt://article/f6bcb973-34ae-506e-b38f-a45815b20bf5",
+        "byline": "By Paula Span",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T17:05:23-04:00",
+        "created_date": "2025-04-20T07:01:22-04:00",
+        "published_date": "2025-04-20T07:01:22-04:00",
+        "material_type_facet": "",
+        "kicker": "the new old age",
+        "des_facet": [
+            "Dementia",
+            "Memory",
+            "Content Type: Service",
+            "Grief (Emotion)",
+            "Families and Family Life",
+            "Alzheimer's Disease",
+            "Names, Personal",
+            "Parenting",
+            "Elderly",
+            "Elder Care"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/science/22sci-span-dementia-recognition-promo/22sci-span-dementia-recognition-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1500,
+                "width": 1500,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jen Hsieh"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/science/22sci-span-dementia-recognition-promo/22sci-span-dementia-recognition-promo-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jen Hsieh"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/science/22sci-span-dementia-recognition-promo/22sci-span-dementia-recognition-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jen Hsieh"
+            }
+        ],
+        "short_url": ""
     }
 ]
