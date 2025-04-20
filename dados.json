@@ -71945,5 +71945,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "After Meeting Wrongly Deported Man, Van Hollen Accuses Trump of Defying Courts",
+        "abstract": "“Facilitating his return means something more than doing nothing, and they are doing nothing,” Senator Chris Van Hollen said after his trip to El Salvador.",
+        "url": "https://www.nytimes.com/2025/04/20/us/politics/van-hollen-deportation-trump-courts.html",
+        "uri": "nyt://article/3d55e70f-3038-527f-8ff8-e946f1f36204",
+        "byline": "By Minho Kim",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T16:06:43-04:00",
+        "created_date": "2025-04-20T14:57:14-04:00",
+        "published_date": "2025-04-20T14:57:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "United States Politics and Government",
+            "Appeals Courts (US)",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Van Hollen, Christopher Jr"
+        ],
+        "geo_facet": [
+            "El Salvador",
+            "Maryland"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20trump-news-vanhollen-hfqb/20trump-news-vanhollen-hfqb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“They are flouting the courts as we speak,” Senator Chris Van Hollen of Maryland said on Sunday.",
+                "copyright": "Allison Bailey for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20trump-news-vanhollen-hfqb/20trump-news-vanhollen-hfqb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“They are flouting the courts as we speak,” Senator Chris Van Hollen of Maryland said on Sunday.",
+                "copyright": "Allison Bailey for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20trump-news-vanhollen-hfqb/20trump-news-vanhollen-hfqb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“They are flouting the courts as we speak,” Senator Chris Van Hollen of Maryland said on Sunday.",
+                "copyright": "Allison Bailey for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
