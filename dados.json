@@ -71581,5 +71581,250 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "San Jose Considers Arresting Homeless People Who Refuse Housing",
+        "abstract": "The mayor of the Silicon Valley city has proposed arresting people who don’t accept offers of shelter. It’s the latest sign of frustrations over tent encampments in California.",
+        "url": "https://www.nytimes.com/2025/04/20/us/san-jose-homeless-arrest.html",
+        "uri": "nyt://article/d9865169-d805-5bbf-921a-b1fdcbb0f038",
+        "byline": "By Soumya Karlamangla",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T05:00:26-04:00",
+        "created_date": "2025-04-20T05:00:26-04:00",
+        "published_date": "2025-04-20T05:00:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Homeless Persons",
+            "Urban Areas",
+            "Local Government",
+            "Liberalism (US Politics)",
+            "Affordable Housing",
+            "Mayors"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "San Jose (Calif)",
+            "Silicon Valley (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20nat-homeless-01-gjhp/20nat-homeless-01-gjhp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Approximately 6,000 unhoused people in San Jose now live on the streets, along riverbanks and in vehicles.",
+                "copyright": "Loren Elliott for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20nat-homeless-01-gjhp/20nat-homeless-01-gjhp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Approximately 6,000 unhoused people in San Jose now live on the streets, along riverbanks and in vehicles.",
+                "copyright": "Loren Elliott for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20nat-homeless-01-gjhp/20nat-homeless-01-gjhp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Approximately 6,000 unhoused people in San Jose now live on the streets, along riverbanks and in vehicles.",
+                "copyright": "Loren Elliott for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "movies",
+        "subsection": "",
+        "title": "There’s a Feeling We’re Not in Hollywood Anymore",
+        "abstract": "Movies and TV productions are rapidly leaving California to film outside the United States, where labor costs are lower and tax incentives greater. Industry workers are exasperated.",
+        "url": "https://www.nytimes.com/2025/04/19/movies/hollywood-filming-overseas.html",
+        "uri": "nyt://article/e5091992-0445-5ecd-b267-01d970a085bc",
+        "byline": "By Matt Stevens and Nicole Sperling",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T05:00:09-04:00",
+        "created_date": "2025-04-19T05:00:09-04:00",
+        "published_date": "2025-04-19T05:00:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Tax Credits, Deductions and Exemptions",
+            "Television",
+            "Movies",
+            "Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "California"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17cul-overseas-hollywood5-qhcl/17cul-overseas-hollywood5-qhcl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Film and television production in Los Angeles is down by more than one-third over the past 10 years, according to FilmLA data.",
+                "copyright": "Stella Kalinina for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17cul-overseas-hollywood5-qhcl/17cul-overseas-hollywood5-qhcl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Film and television production in Los Angeles is down by more than one-third over the past 10 years, according to FilmLA data.",
+                "copyright": "Stella Kalinina for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17cul-overseas-hollywood5-qhcl/17cul-overseas-hollywood5-qhcl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Film and television production in Los Angeles is down by more than one-third over the past 10 years, according to FilmLA data.",
+                "copyright": "Stella Kalinina for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "A Good Doctor Knows When to Bend the Rules",
+        "abstract": "Some physicians agree to patients’ requests for unproven treatment or altered vaccine schedules.",
+        "url": "https://www.nytimes.com/2025/04/20/opinion/doctors-vaccines-patients.html",
+        "uri": "nyt://article/7bee364e-47d8-5da2-addf-32a270c34309",
+        "byline": "By Daniela J. Lamas",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T07:45:52-04:00",
+        "created_date": "2025-04-20T06:00:12-04:00",
+        "published_date": "2025-04-20T06:00:12-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "Medicine and Health",
+            "Vaccination and Immunization",
+            "Ivermectin (Drug)",
+            "Coronavirus (2019-nCoV)",
+            "Doctors",
+            "Rumors and Misinformation"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/opinion/20lamas-image/20lamas-image-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Chris W. Kim"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/opinion/20lamas-image/20lamas-image-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Chris W. Kim"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/opinion/20lamas-image/20lamas-image-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Chris W. Kim"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "weather",
+        "subsection": "",
+        "title": "2 Dead in Oklahoma Flooding as Severe Weather Threatens the Midwest",
+        "abstract": "Two people died after their vehicle was trapped in floodwaters. Hail and strong winds were possible in parts of Arkansas, Missouri and Oklahoma on Sunday, forecasters said.",
+        "url": "https://www.nytimes.com/2025/04/20/weather/storms-flood-tornado-oklahoma-texas.html",
+        "uri": "nyt://article/07d6261d-0640-56a0-8f5c-ee05a2dde138",
+        "byline": "By Amanda Holpuch",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T12:13:52-04:00",
+        "created_date": "2025-04-20T11:54:51-04:00",
+        "published_date": "2025-04-20T11:54:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Floods",
+            "Tornadoes",
+            "Deaths (Fatalities)",
+            "Rain",
+            "Traffic Accidents and Safety",
+            "Wind"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Arkansas",
+            "Louisiana",
+            "Missouri",
+            "Moore (Okla)",
+            "Texas"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20xp-sunday-storms/20xp-sunday-storms-superJumbo.gif",
+                "format": "Super Jumbo",
+                "height": 555,
+                "width": 815,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Forecasters on Sunday morning warned that severe weather moving through parts of Missouri and Arkansas could produce powerful winds, large hail and tornadoes.",
+                "copyright": "NOAA"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20xp-sunday-storms/20xp-sunday-storms-threeByTwoSmallAt2X.gif",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Forecasters on Sunday morning warned that severe weather moving through parts of Missouri and Arkansas could produce powerful winds, large hail and tornadoes.",
+                "copyright": "NOAA"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20xp-sunday-storms/20xp-sunday-storms-thumbLarge.gif",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Forecasters on Sunday morning warned that severe weather moving through parts of Missouri and Arkansas could produce powerful winds, large hail and tornadoes.",
+                "copyright": "NOAA"
+            }
+        ],
+        "short_url": ""
     }
 ]
