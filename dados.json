@@ -71163,5 +71163,63 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Pope Meets With JD Vance After Criticism of Trump Administration",
+        "abstract": "Francis and the vice president briefly exchanged Easter wishes, the Vatican said. An earlier meeting between Mr. Vance and church officials involved “an exchange of opinions” on migration.",
+        "url": "https://www.nytimes.com/2025/04/20/us/politics/pope-francis-meets-with-jd-vance.html",
+        "uri": "nyt://article/daabc685-f983-5cea-bc26-2850956f0615",
+        "byline": "By Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T09:06:56-04:00",
+        "created_date": "2025-04-20T08:21:24-04:00",
+        "published_date": "2025-04-20T08:21:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [
+            "Francis",
+            "Vance, J D",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20trump-news-vance-pope-jtbf/20trump-news-vance-pope-jtbf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Vatican released an image of Pope Francis seated in a wheelchair and talking with Vice President JD Vance.",
+                "copyright": "Vatican Media, via Agence France-Presse"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20trump-news-vance-pope-jtbf/20trump-news-vance-pope-jtbf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Vatican released an image of Pope Francis seated in a wheelchair and talking with Vice President JD Vance.",
+                "copyright": "Vatican Media, via Agence France-Presse"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20trump-news-vance-pope-jtbf/20trump-news-vance-pope-jtbf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Vatican released an image of Pope Francis seated in a wheelchair and talking with Vice President JD Vance.",
+                "copyright": "Vatican Media, via Agence France-Presse"
+            }
+        ],
+        "short_url": ""
     }
 ]
