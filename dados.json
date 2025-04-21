@@ -74276,5 +74276,255 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "How Will a New Pope Be Chosen After Francis’ Death?",
+        "abstract": "Many of the rituals and procedures of selecting a new pope — designed to ensure secrecy and an orderly transition — have remained unchanged for centuries.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/how-is-a-new-pope-chosen.html",
+        "uri": "nyt://article/3725ff25-a6ac-5eaa-912b-488b22365ee7",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T10:40:06-04:00",
+        "created_date": "2025-04-21T09:56:49-04:00",
+        "published_date": "2025-04-21T09:56:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2021/07/04/world/HFO-pope-election-explainer1/HFO-pope-election-explainer1-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The crowd in St. Peter’s Square as white smoke rose from the roof of the Sistine Chapel in 2013, when Pope Francis was elected to succeed Benedict XVI.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2021/07/04/world/HFO-pope-election-explainer1/merlin_67004792_6a5683a2-37fc-4f09-a043-37bd7a9ae965-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The crowd in St. Peter’s Square as white smoke rose from the roof of the Sistine Chapel in 2013, when Pope Francis was elected to succeed Benedict XVI.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2021/07/04/world/HFO-pope-election-explainer1/HFO-pope-election-explainer1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The crowd in St. Peter’s Square as white smoke rose from the roof of the Sistine Chapel in 2013, when Pope Francis was elected to succeed Benedict XVI.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "White House Assesses Ways to Persuade Women to Have More Children",
+        "abstract": "Baby bonuses and menstrual cycle classes are among the ideas pitched to Trump aides as they consider plans to try boosting the birthrate.",
+        "url": "https://www.nytimes.com/2025/04/21/us/politics/trump-birthrate-proposals.html",
+        "uri": "nyt://article/b2b5b8dd-73e1-589b-8d21-bb5cdfa81c84",
+        "byline": "By Caroline Kitchener",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T10:46:08-04:00",
+        "created_date": "2025-04-21T05:02:23-04:00",
+        "published_date": "2025-04-21T05:02:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Birth Rates",
+            "In Vitro Fertilization",
+            "United States Politics and Government",
+            "Conservatism (US Politics)",
+            "Child Tax Credits and Stipends"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Vance, J D",
+            "Musk, Elon"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00dc-trump-fertility-promo-jpwz/00dc-trump-fertility-promo-jpwz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Rebecca Kiger for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00dc-trump-fertility-promo-jpwz/00dc-trump-fertility-promo-jpwz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Rebecca Kiger for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00dc-trump-fertility-promo-jpwz/00dc-trump-fertility-promo-jpwz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Rebecca Kiger for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "As L.A. Emerges From Wildfires, Can Its Mayor Recover, Too?",
+        "abstract": "Los Angeles is rebuilding, but new crises are mounting and Mayor Karen Bass has been haunted by her absence when the fires started. It’s unclear whether she can reset.",
+        "url": "https://www.nytimes.com/2025/04/21/us/la-wildfires-mayor-karen-bass.html",
+        "uri": "nyt://article/df773cbb-87e6-5531-9803-915aa763988c",
+        "byline": "By Shawn Hubler",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T10:28:13-04:00",
+        "created_date": "2025-04-21T05:01:25-04:00",
+        "published_date": "2025-04-21T05:01:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Southern California Wildfires (Jan 2025)",
+            "Politics and Government",
+            "Olympic Games (2028)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Bass, Karen Ruth",
+            "Caruso, Rick J",
+            "Katzenberg, Jeffrey"
+        ],
+        "geo_facet": [
+            "Los Angeles (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21NAT-BASS-01-gvhj/21NAT-BASS-01-gvhj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mayor Karen Bass of Los Angeles was a popular figure as she addressed crime and other issues in the city. But her luck turned with the wildfires.",
+                "copyright": "Mark Abramson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21NAT-BASS-01-gvhj/21NAT-BASS-01-gvhj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mayor Karen Bass of Los Angeles was a popular figure as she addressed crime and other issues in the city. But her luck turned with the wildfires.",
+                "copyright": "Mark Abramson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21NAT-BASS-01-gvhj/21NAT-BASS-01-gvhj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mayor Karen Bass of Los Angeles was a popular figure as she addressed crime and other issues in the city. But her luck turned with the wildfires.",
+                "copyright": "Mark Abramson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Francis and the End of the Imperial Papacy",
+        "abstract": "Papal weakness has also opened up new possibilities for Christian and Catholic witness.",
+        "url": "https://www.nytimes.com/2025/04/21/opinion/pope-francis-catholic-church-weakness.html",
+        "uri": "nyt://article/34eb1ae9-fc55-592e-b5e3-e21ccffed22b",
+        "byline": "By Ross Douthat",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T10:21:31-04:00",
+        "created_date": "2025-04-21T10:21:31-04:00",
+        "published_date": "2025-04-21T10:21:31-04:00",
+        "material_type_facet": "",
+        "kicker": "Ross Douthat",
+        "des_facet": [
+            "Popes",
+            "Priests",
+            "Clergy",
+            "Liberalism (US Politics)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Benedict XVI",
+            "Francis",
+            "John Paul II"
+        ],
+        "geo_facet": [
+            "Africa"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/opinion/21bruni/21bruni-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1388,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": " Franco Origlia/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/opinion/21bruni/21bruni-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": " Franco Origlia/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/opinion/21bruni/21bruni-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": " Franco Origlia/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
