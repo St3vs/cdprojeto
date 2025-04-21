@@ -75662,5 +75662,265 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Nadine Menendez Is Found Guilty of Taking Bribes and Obstructing Justice",
+        "abstract": "Ms. Menendez had been charged with her husband, Robert Menendez, a former New Jersey senator convicted in July of trading his political influence for gold, cash and a Mercedes-Benz.",
+        "url": "https://www.nytimes.com/2025/04/21/nyregion/nadine-bob-menendez-wife-guilty-bribery-trial.html",
+        "uri": "nyt://article/b7d2df8c-405d-5e3b-99e3-7ae0e8f196c5",
+        "byline": "By Tracey Tully",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T16:01:09-04:00",
+        "created_date": "2025-04-21T15:52:29-04:00",
+        "published_date": "2025-04-21T15:52:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Bribery and Kickbacks",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "IS EG Halal"
+        ],
+        "per_facet": [
+            "Menendez, Nadine",
+            "Menendez, Robert",
+            "Stein, Sidney H",
+            "Hana, Wael",
+            "Daibes, Fred"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00met-nadine-verdict-guilty-glzc/00met-nadine-verdict-guilty-glzc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nadine Menendez, the wife of Robert Menendez, a former New Jersey senator, arrives at federal court on Friday.",
+                "copyright": "Jefferson Siegel for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00met-nadine-verdict-guilty-glzc/00met-nadine-verdict-guilty-glzc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nadine Menendez, the wife of Robert Menendez, a former New Jersey senator, arrives at federal court on Friday.",
+                "copyright": "Jefferson Siegel for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00met-nadine-verdict-guilty-glzc/00met-nadine-verdict-guilty-glzc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nadine Menendez, the wife of Robert Menendez, a former New Jersey senator, arrives at federal court on Friday.",
+                "copyright": "Jefferson Siegel for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "News Is Blocked on Meta’s Feeds in Canada. Here’s What Fills the Void.",
+        "abstract": "Hyperpartisan and misleading content from popular right-wing pages such as Canada Proud is thriving on Facebook as the election nears.",
+        "url": "https://www.nytimes.com/2025/04/21/technology/canada-election-facebook-instagram-meta.html",
+        "uri": "nyt://article/0e56d350-c69b-5359-8ec1-785b409819e5",
+        "byline": "By Matina Stevis-Gridneff and Stuart A. Thompson",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T15:38:17-04:00",
+        "created_date": "2025-04-21T11:06:36-04:00",
+        "published_date": "2025-04-21T11:06:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections",
+            "Social Media",
+            "News and News Media",
+            "Rumors and Misinformation",
+            "Right-Wing Extremism and Alt-Right",
+            "Computers and the Internet"
+        ],
+        "org_facet": [
+            "Meta Platforms Inc",
+            "Facebook Inc",
+            "Instagram Inc",
+            "Canada Proud"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Ballingall, Jeff"
+        ],
+        "geo_facet": [
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21biz-canada-elections-meta-lgfj/21biz-canada-elections-meta-lgfj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A campaign debate among Canada’s party leaders in Montreal last week. Online content around the April 28 federal election has veered into misinformation.",
+                "copyright": "Evan Buhler/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21biz-canada-elections-meta-lgfj/21biz-canada-elections-meta-lgfj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A campaign debate among Canada’s party leaders in Montreal last week. Online content around the April 28 federal election has veered into misinformation.",
+                "copyright": "Evan Buhler/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21biz-canada-elections-meta-lgfj/21biz-canada-elections-meta-lgfj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A campaign debate among Canada’s party leaders in Montreal last week. Online content around the April 28 federal election has veered into misinformation.",
+                "copyright": "Evan Buhler/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Pope Francis Was a Champion, if an Imperfect One, for L.G.B.T.Q. People",
+        "abstract": "He helped L.G.B.T.Q. Catholics feel more at home in their church. And that also meant that their families and friends also felt more at home.",
+        "url": "https://www.nytimes.com/2025/04/21/opinion/pope-francis-lgbtq-gay-people.html",
+        "uri": "nyt://article/94128ebe-5c0b-59fd-963a-5fbb10ed5ed5",
+        "byline": "By James Martin",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T15:34:52-04:00",
+        "created_date": "2025-04-21T15:34:52-04:00",
+        "published_date": "2025-04-21T15:34:52-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "Homosexuality and Bisexuality",
+            "Popes",
+            "Same-Sex Marriage, Civil Unions and Domestic Partnerships",
+            "Transgender"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/opinion/21martin/21martin-superJumbo-v4.jpg",
+                "format": "Super Jumbo",
+                "height": 2000,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Shoshana Schultz/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/opinion/21martin/21martin-threeByTwoSmallAt2X-v4.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Shoshana Schultz/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/opinion/21martin/21martin-thumbLarge-v4.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Shoshana Schultz/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "ICE Can’t Enter Rikers for Now, Judge Rules",
+        "abstract": "After meeting with President Trump’s border czar, Mayor Eric Adams supported allowing U.S. immigration authorities to reopen offices at Rikers Island.",
+        "url": "https://www.nytimes.com/2025/04/21/nyregion/eric-adams-ice-rikers.html",
+        "uri": "nyt://article/b74f253e-a045-568e-b650-f53d9ca195d9",
+        "byline": "By Luis Ferré-Sadurní",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T15:10:13-04:00",
+        "created_date": "2025-04-21T15:10:13-04:00",
+        "published_date": "2025-04-21T15:10:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Executive Orders and Memorandums",
+            "Mayors",
+            "Immigration Detention",
+            "City Councils"
+        ],
+        "org_facet": [
+            "City Council (NYC)",
+            "Immigration and Customs Enforcement (US)",
+            "Law Department (NYC)",
+            "Rikers Island Prison Complex"
+        ],
+        "per_facet": [
+            "Adams, Eric L",
+            "Homan, Thomas D",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/met-rikers-tro-qmtp/met-rikers-tro-qmtp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Immigration and Customs Enforcement was banned from city jails because of sanctuary laws that sought to stop the transfer of jailed undocumented immigrants into custody for deportation.",
+                "copyright": "José A. Alvarado Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/met-rikers-tro-qmtp/met-rikers-tro-qmtp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Immigration and Customs Enforcement was banned from city jails because of sanctuary laws that sought to stop the transfer of jailed undocumented immigrants into custody for deportation.",
+                "copyright": "José A. Alvarado Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/met-rikers-tro-qmtp/met-rikers-tro-qmtp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Immigration and Customs Enforcement was banned from city jails because of sanctuary laws that sought to stop the transfer of jailed undocumented immigrants into custody for deportation.",
+                "copyright": "José A. Alvarado Jr. for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
