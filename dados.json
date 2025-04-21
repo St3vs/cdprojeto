@@ -73925,5 +73925,199 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "What to Know About Pope Francis’ Death",
+        "abstract": "The pope was released from a lengthy hospital stay less than a month ago for a life-threatening respiratory condition.",
+        "url": "https://www.nytimes.com/article/pope-francis-death-health-problems.html",
+        "uri": "nyt://article/4f8e1930-3961-5f79-a59b-70ed3c61027a",
+        "byline": "By Elisabetta Povoledo and Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T08:06:10-04:00",
+        "created_date": "2025-02-24T12:04:27-05:00",
+        "published_date": "2025-02-24T12:04:27-05:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Funerals and Memorials",
+            "Cardinals (Roman Catholic Prelates)",
+            "Coffins",
+            "Priests",
+            "Grief (Emotion)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Sistine Chapel (Vatican City)"
+        ],
+        "per_facet": [
+            "Francis",
+            "John Paul II",
+            "Re, Giovanni Battista"
+        ],
+        "geo_facet": [
+            "Rome (Italy)",
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/02/28/multimedia/00pope-explainer-promo-vlkm/00pope-explainer-promo-vlkm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ciro De Luca/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/28/multimedia/00pope-explainer-promo-vlkm/00pope-explainer-promo-vlkm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ciro De Luca/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/28/multimedia/00pope-explainer-promo-vlkm/00pope-explainer-promo-vlkm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ciro De Luca/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israeli Minister Says Freeing Hostages Not ‘Most Important’ Aim of the War",
+        "abstract": "The far-right finance minister, Bezalel Smotrich, said the more crucial goal was ensuring that Hamas no longer ruled the Gaza Strip.",
+        "url": "https://www.nytimes.com/2025/04/21/world/middleeast/israel-finance-minister-hostages-bezalel-smotrich-gaza-hamas.html",
+        "uri": "nyt://article/9607e751-055a-5678-a2ff-31cda715ca2f",
+        "byline": "By Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T07:41:29-04:00",
+        "created_date": "2025-04-21T07:41:29-04:00",
+        "published_date": "2025-04-21T07:41:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Kidnapping and Hostages",
+            "Defense and Military Forces",
+            "Palestinians"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [
+            "Netanyahu, Benjamin",
+            "Smotrich, Bezalel (1980- )"
+        ],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21israel-smotrich-001-gkfj/21israel-smotrich-001-gkfj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters in Tel Aviv demanding the immediate release on Saturday of hostages held by Hamas in the Gaza Strip. ",
+                "copyright": "Ariel Schalit/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21israel-smotrich-001-gkfj/21israel-smotrich-001-gkfj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters in Tel Aviv demanding the immediate release on Saturday of hostages held by Hamas in the Gaza Strip. ",
+                "copyright": "Ariel Schalit/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21israel-smotrich-001-gkfj/21israel-smotrich-001-gkfj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters in Tel Aviv demanding the immediate release on Saturday of hostages held by Hamas in the Gaza Strip. ",
+                "copyright": "Ariel Schalit/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Major Advances in E.V. Batteries Announced by Chinese Company",
+        "abstract": "CATL, the world’s largest maker of batteries for electric vehicles, described breakthroughs that could make E.V.s more competitive with gasoline-powered cars.",
+        "url": "https://www.nytimes.com/2025/04/21/business/catl-battery-china.html",
+        "uri": "nyt://article/99ab8330-067e-50a2-a4b8-9c3f197736bd",
+        "byline": "By Keith Bradsher",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T07:06:46-04:00",
+        "created_date": "2025-04-21T07:06:46-04:00",
+        "published_date": "2025-04-21T07:06:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Batteries",
+            "Electric and Hybrid Vehicles",
+            "Prices (Fares, Fees and Rates)",
+            "Engineering and Engineers"
+        ],
+        "org_facet": [
+            "Contemporary Amperex Technology Ltd"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21Biz-China-Battery-cltp/21Biz-China-Battery-cltp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "CATL, based in Ningde, China, said it had developed batteries for electric vehicles that were cheaper, faster to recharge, better in the cold and provide greater driving range than current batteries. ",
+                "copyright": "Greg Baker/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21Biz-China-Battery-cltp/21Biz-China-Battery-cltp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "CATL, based in Ningde, China, said it had developed batteries for electric vehicles that were cheaper, faster to recharge, better in the cold and provide greater driving range than current batteries. ",
+                "copyright": "Greg Baker/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21Biz-China-Battery-cltp/21Biz-China-Battery-cltp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "CATL, based in Ningde, China, said it had developed batteries for electric vehicles that were cheaper, faster to recharge, better in the cold and provide greater driving range than current batteries. ",
+                "copyright": "Greg Baker/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
