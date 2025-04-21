@@ -72508,5 +72508,40 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Markets Slump on Persistent Concern That Tariffs Will Hurt Growth",
+        "abstract": "Trump’s tariffs continued to jar investors on Monday as stocks in Asia mostly fell and the U.S. dollar weakened.",
+        "url": "https://www.nytimes.com/2025/04/21/business/trump-tariffs-stock-markets.html",
+        "uri": "nyt://article/2bffcd5d-224c-5a52-b348-99de7c3a900b",
+        "byline": "By Kevin Granville",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T01:06:25-04:00",
+        "created_date": "2025-04-21T01:06:25-04:00",
+        "published_date": "2025-04-21T01:06:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Stocks and Bonds",
+            "Standard & Poor's 500-Stock Index",
+            "Customs (Tariff)",
+            "International Trade and World Market",
+            "Oil (Petroleum) and Gasoline"
+        ],
+        "org_facet": [
+            "Tesla Motors Inc",
+            "International Monetary Fund",
+            "Intel Corporation"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": null,
+        "short_url": ""
     }
 ]
