@@ -72543,5 +72543,68 @@
         ],
         "multimedia": null,
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Francis, the First Latin American Pope, Dies at 88",
+        "abstract": "After decades of conservative leadership, Francis tried to reset the course of the Roman Catholic Church, emphasizing inclusion and care for the marginalized over doctrinal purity.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/pope-francis-dead.html",
+        "uri": "nyt://article/c8be0ed1-f26e-5595-81ed-1ffd4ce186d5",
+        "byline": "By Jason Horowitz and Jim Yardley",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T04:04:56-04:00",
+        "created_date": "2025-04-21T04:04:56-04:00",
+        "published_date": "2025-04-21T04:04:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Religion and Belief",
+            "Christians and Christianity",
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Benedict XVI"
+        ],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2021/03/05/obituaries/00Francis1/merlin_99604096_6dc91de5-60a8-4561-bdf5-6f0289dfe2fc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1445,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis at St. Patrick’s Cathedral in New York in 2015. He was elected after the resignation of Pope Benedict XVI in 2013, but few expected him to seek to transform his church with such zeal.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2021/03/05/obituaries/00Francis1/00Francis1-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis at St. Patrick’s Cathedral in New York in 2015. He was elected after the resignation of Pope Benedict XVI in 2013, but few expected him to seek to transform his church with such zeal.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2021/03/05/obituaries/00Francis1/00Francis1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis at St. Patrick’s Cathedral in New York in 2015. He was elected after the resignation of Pope Benedict XVI in 2013, but few expected him to seek to transform his church with such zeal.",
+                "copyright": "Chang W. Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
