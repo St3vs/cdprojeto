@@ -74213,5 +74213,68 @@
         "geo_facet": [],
         "multimedia": null,
         "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "The Cardinals Must Now Decide on Francis’ Legacy",
+        "abstract": "Cardinals prepare to gather in Rome for the conclave to decide on Francis’ successor and the direction they want the church to take.",
+        "url": "https://www.nytimes.com/2025/04/21/opinion/pope-francis-successor-cardinals-conclave.html",
+        "uri": "nyt://article/7b9d40b3-f097-5652-a98a-e5bd4f21cf99",
+        "byline": "By Austen Ivereigh",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T09:44:01-04:00",
+        "created_date": "2025-04-21T09:17:28-04:00",
+        "published_date": "2025-04-21T09:17:28-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "Cardinals (Roman Catholic Prelates)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Sistine Chapel (Vatican City)"
+        ],
+        "per_facet": [
+            "Benedict XVI",
+            "Francis",
+            "Pius XI"
+        ],
+        "geo_facet": [
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21ivereigh1-tzlh/21ivereigh1-tzlh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Guglielmo Mangiapane/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21ivereigh1-tzlh/21ivereigh1-tzlh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Guglielmo Mangiapane/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21ivereigh1-tzlh/21ivereigh1-tzlh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Guglielmo Mangiapane/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
