@@ -72734,5 +72734,1073 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "World Leaders Praise Pope Francis and His Legacy",
+        "abstract": "Global leaders offered condolences to the world’s Catholics and praised the pontiff’s commitment to the poor and marginalized.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/pope-francis-death-reactions.html",
+        "uri": "nyt://article/d1f10af4-f6b4-5e03-935f-c69be126e65e",
+        "byline": "By Matthew Mpoke Bigg",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T05:32:50-04:00",
+        "created_date": "2025-04-21T05:32:23-04:00",
+        "published_date": "2025-04-21T05:32:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Death and Dying"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "von der Leyen, Ursula",
+            "Macron, Emmanuel (1977- )"
+        ],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-international-reaction-bgph/21pope-francis-international-reaction-bgph-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Giorgia Meloni of Italy, right, praised Pope Francis for his legacy.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-international-reaction-bgph/21pope-francis-international-reaction-bgph-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Giorgia Meloni of Italy, right, praised Pope Francis for his legacy.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-international-reaction-bgph/21pope-francis-international-reaction-bgph-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Giorgia Meloni of Italy, right, praised Pope Francis for his legacy.",
+                "copyright": "Erin Schaff/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Baby Bonuses, Fertility Planning: Trump Aides Assess Ideas to Boost Birthrate",
+        "abstract": "The White House is soliciting policy proposals designed to give women incentives to have more children, a priority for many social conservatives.",
+        "url": "https://www.nytimes.com/2025/04/21/us/politics/baby-bonuses-fertility-planning-trump-aides-assess-ideas-to-boost-birthrate.html",
+        "uri": "nyt://article/b2b5b8dd-73e1-589b-8d21-bb5cdfa81c84",
+        "byline": "By Caroline Kitchener",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T05:02:22-04:00",
+        "created_date": "2025-04-21T05:02:22-04:00",
+        "published_date": "2025-04-21T05:02:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "In Vitro Fertilization",
+            "Pregnancy and Childbirth",
+            "Child Care"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Vance, J D",
+            "Musk, Elon"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00dc-trump-fertility-promo-jpwz/00dc-trump-fertility-promo-jpwz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Rebecca Kiger for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00dc-trump-fertility-promo-jpwz/00dc-trump-fertility-promo-jpwz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Rebecca Kiger for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00dc-trump-fertility-promo-jpwz/00dc-trump-fertility-promo-jpwz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Rebecca Kiger for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Who Sits Where in Trump’s West Wing",
+        "abstract": "See how the Trump administration has divvied up the West Wing, the formal workspace of the president and senior staff members.",
+        "url": "https://www.nytimes.com/interactive/2025/04/21/us/politics/white-house-west-wing-offices-trump.html",
+        "uri": "nyt://interactive/087a5ddc-4ab6-5270-b1a1-d7ed5d02eea4",
+        "byline": "By Junho Lee, Elena Shao, Maggie Haberman and Doug Mills",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-21T05:01:20-04:00",
+        "created_date": "2025-04-21T05:01:20-04:00",
+        "published_date": "2025-04-21T05:01:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "White House Building (Washington, DC)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Leavitt, Karoline",
+            "Budowich, Taylor",
+            "Wiles, Susie",
+            "Vance, J D",
+            "Musk, Elon",
+            "Miller, Stephen (1985- )",
+            "Waltz, Michael (1974- )"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-03-19-wh-west-wing-trump-index/2025-03-19-wh-west-wing-trump-index-superJumbo-v7.jpg",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-03-19-wh-west-wing-trump-index/2025-03-19-wh-west-wing-trump-index-threeByTwoSmallAt2X-v8.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-03-19-wh-west-wing-trump-index/2025-03-19-wh-west-wing-trump-index-thumbLarge-v7.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "Will a Federal Judge Break Up Google?",
+        "abstract": "On Monday, the tech giant and the U.S. government face off in court over how to fix the company’s online search monopoly. The outcome could alter Google and Silicon Valley.",
+        "url": "https://www.nytimes.com/2025/04/21/technology/google-search-antitrust-hearing-breakup.html",
+        "uri": "nyt://article/e003fe62-ebed-5fbc-ad30-5d4684e6f68d",
+        "byline": "By David McCabe",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T03:00:24-04:00",
+        "created_date": "2025-04-21T03:00:24-04:00",
+        "published_date": "2025-04-21T03:00:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Search Engines",
+            "Computers and the Internet",
+            "United States Politics and Government",
+            "Mergers, Acquisitions and Divestitures",
+            "Decisions and Verdicts",
+            "Antitrust Laws and Competition Issues",
+            "Artificial Intelligence",
+            "Regulation and Deregulation of Industry",
+            "Law and Legislation"
+        ],
+        "org_facet": [
+            "Google Inc",
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Mehta, Amit P",
+            "Pichai, Sundar"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/business/00google-breakup/00google-breakup-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1560,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Edmon de Haro"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/business/00google-breakup/00google-breakup-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Edmon de Haro"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/business/00google-breakup/00google-breakup-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Edmon de Haro"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "Hidden Above a Trap Door, 17th-Century Frescoes Come to Light",
+        "abstract": "While inspecting a sumptuous villa in Rome, an electrician stumbled across long lost works by the Baroque painter Carlo Maratta.",
+        "url": "https://www.nytimes.com/2025/04/21/science/art-rome-maratta-frescoes.html",
+        "uri": "nyt://article/f9274fa8-4cdb-53de-8ce1-d7006f570bf4",
+        "byline": "By Franz Lidz",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T03:00:10-04:00",
+        "created_date": "2025-04-21T03:00:10-04:00",
+        "published_date": "2025-04-21T03:00:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Art",
+            "Archaeology and Anthropology"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Raphael"
+        ],
+        "geo_facet": [
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/00HS-SCI-FRESCOES-01b-bclv/00HS-SCI-FRESCOES-01b-bclv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A trap door in the Pompeian Room of the 16th-century Villa Farnesina in Rome revealed previously unknown frescoes by the painter Carlo Maratta and two students.",
+                "copyright": "Filippo Monteforte/Agence France-Presse &mdash; Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/00HS-SCI-FRESCOES-01b-bclv/00HS-SCI-FRESCOES-01b-bclv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A trap door in the Pompeian Room of the 16th-century Villa Farnesina in Rome revealed previously unknown frescoes by the painter Carlo Maratta and two students.",
+                "copyright": "Filippo Monteforte/Agence France-Presse &mdash; Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/00HS-SCI-FRESCOES-01b-bclv/00HS-SCI-FRESCOES-01b-bclv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A trap door in the Pompeian Room of the 16th-century Villa Farnesina in Rome revealed previously unknown frescoes by the painter Carlo Maratta and two students.",
+                "copyright": "Filippo Monteforte/Agence France-Presse &mdash; Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Same-Sex Marriage Is the Law of the Land. Some States Are Debating It Anyway.",
+        "abstract": "State efforts to urge the Supreme Court to reconsider same-sex marriage have not advanced, but they have reopened the issue.",
+        "url": "https://www.nytimes.com/2025/04/21/us/same-sex-marriage.html",
+        "uri": "nyt://article/09a64a7e-cab2-5414-b5d5-ab657397314a",
+        "byline": "By Amy Harmon",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T05:01:02-04:00",
+        "created_date": "2025-04-21T05:01:02-04:00",
+        "published_date": "2025-04-21T05:01:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Same-Sex Marriage, Civil Unions and Domestic Partnerships",
+            "State Legislatures",
+            "Obergefell v Hodges (Supreme Court Decision)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00nat-samesex-marriage-top-option-mhlf/00nat-samesex-marriage-top-option-mhlf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Republican lawmakers in half a dozen states have introduced resolutions urging the Supreme Court to overturn its 2015 decision that established same-sex marriage as a national right.",
+                "copyright": "Ty Wright for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00nat-samesex-marriage-top-option-mhlf/00nat-samesex-marriage-top-option-mhlf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Republican lawmakers in half a dozen states have introduced resolutions urging the Supreme Court to overturn its 2015 decision that established same-sex marriage as a national right.",
+                "copyright": "Ty Wright for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00nat-samesex-marriage-top-option-mhlf/00nat-samesex-marriage-top-option-mhlf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Republican lawmakers in half a dozen states have introduced resolutions urging the Supreme Court to overturn its 2015 decision that established same-sex marriage as a national right.",
+                "copyright": "Ty Wright for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Supreme Court Story Time: Justices Consider Children’s Books With L.G.B.T.Q. Themes",
+        "abstract": "Parents in Maryland say they have a religious right to withdraw their children from classes on days that storybooks with gay and transgender themes are discussed.",
+        "url": "https://www.nytimes.com/2025/04/21/us/politics/supreme-court-childrens-books-gay-trans.html",
+        "uri": "nyt://article/fb133731-4e8a-50a9-8223-1049259212a9",
+        "byline": "By Adam Liptak",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T05:02:47-04:00",
+        "created_date": "2025-04-21T05:02:47-04:00",
+        "published_date": "2025-04-21T05:02:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Books and Literature",
+            "Homosexuality and Bisexuality",
+            "Religion-State Relations",
+            "United States Politics and Government",
+            "Freedom of Religion",
+            "Religion and Belief",
+            "Same-Sex Marriage, Civil Unions and Domestic Partnerships",
+            "First Amendment (US Constitution)",
+            "Courts and the Judiciary",
+            "Children and Childhood",
+            "Transgender",
+            "Education (K-12)"
+        ],
+        "org_facet": [
+            "Supreme Court (US)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Montgomery County (Md)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00dc-scotus-books-02-gbch/00dc-scotus-books-02-gbch-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Pride Puppy” and several other books are at the center of the case.",
+                "copyright": "Hannah Beier/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00dc-scotus-books-02-gbch/00dc-scotus-books-02-gbch-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Pride Puppy” and several other books are at the center of the case.",
+                "copyright": "Hannah Beier/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00dc-scotus-books-02-gbch/00dc-scotus-books-02-gbch-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Pride Puppy” and several other books are at the center of the case.",
+                "copyright": "Hannah Beier/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "It Survived for 2,000 Years, but Syria’s War Battered Palmyra",
+        "abstract": "During a visit to Palmyra, reporters found traces of the many forces that had fought over the city and ancient monuments reduced to rubble.",
+        "url": "https://www.nytimes.com/2025/04/21/world/middleeast/palmyra-syria-islamic-state.html",
+        "uri": "nyt://article/41208edb-4a0e-50de-9e6b-23e4389b1c1f",
+        "byline": "By Ben Hubbard and David Guttenfelder",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T05:00:40-04:00",
+        "created_date": "2025-04-21T05:00:40-04:00",
+        "published_date": "2025-04-21T05:00:40-04:00",
+        "material_type_facet": "",
+        "kicker": "Syria DISPATCH",
+        "des_facet": [
+            "Historic Buildings and Sites",
+            "Destruction of Cultural Antiquities and Heritage",
+            "War and Armed Conflicts",
+            "Terrorism"
+        ],
+        "org_facet": [
+            "Islamic State in Iraq and Syria (ISIS)",
+            "Fatemiyoun Brigade"
+        ],
+        "per_facet": [
+            "Assad, Bashar al-"
+        ],
+        "geo_facet": [
+            "Palmyra (Syria)",
+            "Syria",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/00int-syria-palmyra-dispatch-gwmj/00int-syria-palmyra-dispatch-gwmj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "David Guttenfelder/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/00int-syria-palmyra-dispatch-gwmj/00int-syria-palmyra-dispatch-gwmj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "David Guttenfelder/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/00int-syria-palmyra-dispatch-gwmj/00int-syria-palmyra-dispatch-gwmj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "David Guttenfelder/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Where Do the Democrats Running for Mayor of New York City Stand on the Issues?",
+        "abstract": "The New York Times sent a wide-ranging survey to candidates in the Democratic primary for mayor of New York City about affordability, public safety, President Trump, homelessness, congestion pricing, immigration, schools and their one big idea.",
+        "url": "https://www.nytimes.com/interactive/2025/04/21/nyregion/nyc-mayor-democratic-candidates-issues.html",
+        "uri": "nyt://interactive/80d88826-7d5a-5b9d-bb62-e310c8d6b274",
+        "byline": "By Emma G. Fitzsimmons",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-21T03:00:26-04:00",
+        "created_date": "2025-04-21T03:00:26-04:00",
+        "published_date": "2025-04-21T03:00:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "vis-design",
+            "Politics and Government",
+            "Mayors",
+            "Affordable Housing"
+        ],
+        "org_facet": [
+            "Democratic Party"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/nyregion/nyc-mayor-democratic-candidates-issues-1745008860761/nyc-mayor-democratic-candidates-issues-1745008860761-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 1068,
+                "width": 1600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/nyregion/nyc-mayor-democratic-candidates-issues-1745008860761/nyc-mayor-democratic-candidates-issues-1745008860761-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/nyregion/nyc-mayor-democratic-candidates-issues-1745008860761/nyc-mayor-democratic-candidates-issues-1745008860761-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "10 TV Character Deaths That Shocked Fans Through History",
+        "abstract": "The big twist in “The Last of Us” this week wasn’t the first to completely upend a TV show and its fandom. Here’s a look at some other notable exits.",
+        "url": "https://www.nytimes.com/2025/04/21/arts/television/shocking-tv-deaths-last-of-us.html",
+        "uri": "nyt://article/a1cfe42d-328c-5be5-aed5-c7bd7a0263e8",
+        "byline": "By Jennifer Vineyard",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T05:03:20-04:00",
+        "created_date": "2025-04-21T05:03:20-04:00",
+        "published_date": "2025-04-21T05:03:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Television",
+            "Breaking Bad (TV Program)",
+            "Buffy the Vampire Slayer (TV Program)",
+            "Game of Thrones (TV Program)",
+            "Good Times (TV Program)",
+            "M*A*S*H (TV Program)",
+            "Orange Is the New Black (TV Program)",
+            "Succession (TV Program)",
+            "The Sopranos (TV Program)",
+            "The Last of Us (TV Program)",
+            "The Good Wife (TV Program)",
+            "The Walking Dead (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21cul-tv-deaths-gameofthrones-jbvm/21cul-tv-deaths-gameofthrones-jbvm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Fans unfamiliar with the George R.R. Martin books lost their heads when Ned Stark (Sean Bean) was executed in the first season of “Game of Thrones.”",
+                "copyright": "Helen Sloan/HBO"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21cul-tv-deaths-gameofthrones-jbvm/21cul-tv-deaths-gameofthrones-jbvm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Fans unfamiliar with the George R.R. Martin books lost their heads when Ned Stark (Sean Bean) was executed in the first season of “Game of Thrones.”",
+                "copyright": "Helen Sloan/HBO"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21cul-tv-deaths-gameofthrones-jbvm/21cul-tv-deaths-gameofthrones-jbvm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Fans unfamiliar with the George R.R. Martin books lost their heads when Ned Stark (Sean Bean) was executed in the first season of “Game of Thrones.”",
+                "copyright": "Helen Sloan/HBO"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "",
+        "title": "That ‘Last of Us’ Scene Stunned Gamers and Sapped the Games",
+        "abstract": "Five years ago, the video game series that inspired the HBO show leaned into violence and pain, cutting short its exploration of love.",
+        "url": "https://www.nytimes.com/2025/04/21/arts/last-of-us-video-games.html",
+        "uri": "nyt://article/693153fd-140c-55ae-8a97-acb50c9e5b2c",
+        "byline": "By Yussef Cole",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T05:01:30-04:00",
+        "created_date": "2025-04-21T05:01:30-04:00",
+        "published_date": "2025-04-21T05:01:30-04:00",
+        "material_type_facet": "",
+        "kicker": "Critic’s Notebook",
+        "des_facet": [
+            "Computer and Video Games",
+            "Television",
+            "The Last of Us (TV Program)",
+            "The Last of Us (Video Game)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21cul-lastofus-games-zwct/21cul-lastofus-games-zwct-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1087,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "When gamers discovered what happens early in The Last of Us Part II, some lashed out by review bombing the sequel.",
+                "copyright": "Naughty Dog"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21cul-lastofus-games-zwct/21cul-lastofus-games-zwct-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "When gamers discovered what happens early in The Last of Us Part II, some lashed out by review bombing the sequel.",
+                "copyright": "Naughty Dog"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21cul-lastofus-games-zwct/21cul-lastofus-games-zwct-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "When gamers discovered what happens early in The Last of Us Part II, some lashed out by review bombing the sequel.",
+                "copyright": "Naughty Dog"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "‘The Last of Us’ Season 2, Episode 2 Recap: Revenge",
+        "abstract": "The shocking twist in this week’s episode is sure to have all kinds of fallout. One consequence is certain: The show will never be the same.",
+        "url": "https://www.nytimes.com/2025/04/21/arts/television/the-last-of-us-recap-season-2-episode-2-joel.html",
+        "uri": "nyt://article/423488d6-fbda-5aea-a292-f70d8629b1e6",
+        "byline": "By Noel Murray",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T00:08:27-04:00",
+        "created_date": "2025-04-21T00:01:09-04:00",
+        "published_date": "2025-04-21T00:01:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Television",
+            "The Last of Us (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/arts/20cul-lastofus-recap/20cul-lastofus-recap-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1280,
+                "width": 1920,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Abby (Kaitlyn Dever) got her revenge, but at what cost?",
+                "copyright": "Liane Hentscher/HBO"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/arts/20cul-lastofus-recap/20cul-lastofus-recap-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Abby (Kaitlyn Dever) got her revenge, but at what cost?",
+                "copyright": "Liane Hentscher/HBO"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/arts/20cul-lastofus-recap/20cul-lastofus-recap-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Abby (Kaitlyn Dever) got her revenge, but at what cost?",
+                "copyright": "Liane Hentscher/HBO"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Pope Francis: There Is Faith in Humor",
+        "abstract": "The best thing to do in front of a mirror is to laugh at ourselves. It is good for us.",
+        "url": "https://www.nytimes.com/2024/12/17/opinion/pope-francis-humor.html",
+        "uri": "nyt://article/b1e58984-f0bd-522f-bf65-f1490bfb9249",
+        "byline": "By Pope Francis",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T05:31:33-04:00",
+        "created_date": "2024-12-17T01:00:05-05:00",
+        "published_date": "2024-12-17T01:00:05-05:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "Popes",
+            "Comedy and Humor",
+            "Narcissism"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2024/12/22/opinion/22bergoglio1/17bergoglio1-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1639,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Martin Parr/Magnum Photos"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/12/22/opinion/22bergoglio1/17bergoglio1-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Martin Parr/Magnum Photos"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/12/22/opinion/22bergoglio1/17bergoglio1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Martin Parr/Magnum Photos"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Only 1,370 Days to Go",
+        "abstract": "This is giving the people what they want?",
+        "url": "https://www.nytimes.com/2025/04/21/opinion/trump-powell-ocasio-cortez-birthright.html",
+        "uri": "nyt://article/2658da4f-ff1a-5102-a4ec-d34bacde4767",
+        "byline": "By Gail Collins and Bret Stephens",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T05:03:28-04:00",
+        "created_date": "2025-04-21T05:03:28-04:00",
+        "published_date": "2025-04-21T05:03:28-04:00",
+        "material_type_facet": "",
+        "kicker": "The Conversation",
+        "des_facet": [
+            "United States Politics and Government",
+            "Progressivism (Theory and Philosophy)",
+            "Presidential Election of 2024",
+            "United States Economy"
+        ],
+        "org_facet": [
+            "Democratic Party",
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Ocasio-Cortez, Alexandria",
+            "Sanders, Bernard",
+            "Trump, Donald J",
+            "Powell, Jerome H"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21conversation-vwjq/21conversation-vwjq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1369,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ken Cedeno/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21conversation-vwjq/21conversation-vwjq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ken Cedeno/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21conversation-vwjq/21conversation-vwjq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ken Cedeno/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Millions of Student Loan Borrowers Are Behind on Payments",
+        "abstract": "They’re seeing their credit scores drop, which will make it more difficult to buy a car or rent a home. And that has implications for the already slowing economy.",
+        "url": "https://www.nytimes.com/2025/04/21/business/student-loan-borrowers-payments.html",
+        "uri": "nyt://article/899e3e4a-8cdd-5a6a-bdbf-06a755b632f9",
+        "byline": "By Stacy Cowley",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T05:02:14-04:00",
+        "created_date": "2025-04-21T05:02:14-04:00",
+        "published_date": "2025-04-21T05:02:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Credit and Debt",
+            "Student Loans",
+            "United States Politics and Government",
+            "Credit Scores",
+            "United States Economy"
+        ],
+        "org_facet": [
+            "Education Department (US)",
+            "Nelnet Inc"
+        ],
+        "per_facet": [
+            "McMahon, Linda E",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00BIZ-LOAN-TROUBLE-vmkt/00BIZ-LOAN-TROUBLE-vmkt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1640,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Heather Lawton has undergraduate and graduate student loans. She had anticipated monthly payments of $490. Instead, she got a bill in January for $924. And when she called her servicer, she got a revised bill of $1,014.",
+                "copyright": "Ian Clontz for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00BIZ-LOAN-TROUBLE-vmkt/00BIZ-LOAN-TROUBLE-vmkt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Heather Lawton has undergraduate and graduate student loans. She had anticipated monthly payments of $490. Instead, she got a bill in January for $924. And when she called her servicer, she got a revised bill of $1,014.",
+                "copyright": "Ian Clontz for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00BIZ-LOAN-TROUBLE-vmkt/00BIZ-LOAN-TROUBLE-vmkt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Heather Lawton has undergraduate and graduate student loans. She had anticipated monthly payments of $490. Instead, she got a bill in January for $924. And when she called her servicer, she got a revised bill of $1,014.",
+                "copyright": "Ian Clontz for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Harvey Weinstein Becomes an Unlikely Voice in the Push to Close Rikers",
+        "abstract": "The disgraced producer has complained volubly about his treatment in jail on Rikers Island. Advocates for detainees say any attention to conditions there can’t hurt.",
+        "url": "https://www.nytimes.com/2025/04/21/nyregion/harvey-weinstein-rikers-island.html",
+        "uri": "nyt://article/18a9465a-2b5b-5f28-b1aa-ce45b574af85",
+        "byline": "By Hurubie Meko",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T03:00:26-04:00",
+        "created_date": "2025-04-21T03:00:26-04:00",
+        "published_date": "2025-04-21T03:00:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Sex Crimes",
+            "#MeToo Movement",
+            "Courts and the Judiciary",
+            "Local Government"
+        ],
+        "org_facet": [
+            "Rikers Island Prison Complex",
+            "City Council (NYC)",
+            "Correction Department (NYC)",
+            "Bellevue Hospital Center"
+        ],
+        "per_facet": [
+            "Weinstein, Harvey",
+            "Farber, Curtis",
+            "Swain, Laura Taylor"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/met-weinstein-jail-lmkg/met-weinstein-jail-lmkg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New York City is not expected to meet its deadline to shut Rikers, where the former film mogul Harvey Weinstein is jailed.",
+                "copyright": "José A. Alvarado Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/met-weinstein-jail-lmkg/met-weinstein-jail-lmkg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New York City is not expected to meet its deadline to shut Rikers, where the former film mogul Harvey Weinstein is jailed.",
+                "copyright": "José A. Alvarado Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/met-weinstein-jail-lmkg/met-weinstein-jail-lmkg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New York City is not expected to meet its deadline to shut Rikers, where the former film mogul Harvey Weinstein is jailed.",
+                "copyright": "José A. Alvarado Jr. for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "What to Know About Broker Fees in New York City",
+        "abstract": "A new law that will require many landlords, and not renters, to cover broker fees is set to take effect in less than two months. It may change how New Yorkers move.",
+        "url": "https://www.nytimes.com/2025/04/21/nyregion/nyc-broker-fees-law.html",
+        "uri": "nyt://article/1c30b30a-b350-52b9-b1ec-6f1a003180bd",
+        "byline": "By Mihir Zaveri",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T03:00:15-04:00",
+        "created_date": "2025-04-21T03:00:15-04:00",
+        "published_date": "2025-04-21T03:00:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Prices (Fares, Fees and Rates)",
+            "Law and Legislation",
+            "Renting and Leasing (Real Estate)",
+            "Suits and Litigation (Civil)",
+            "Real Estate and Housing (Residential)",
+            "Landlords",
+            "Real Estate Brokers"
+        ],
+        "org_facet": [
+            "City Council (NYC)",
+            "Real Estate Board of New York",
+            "StreetEasy"
+        ],
+        "per_facet": [
+            "Abrams, Ronnie",
+            "Adams, Eric L",
+            "Hochul, Kathleen C",
+            "Osse, Chi"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/met-broker-fee-gvqc/met-broker-fee-gvqc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1332,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Councilman Chi Ossé used his own frustrating experience trying to find an apartment to craft a bill that would spare tenants from paying hefty broker fees.",
+                "copyright": "Paola Chapdelaine for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/met-broker-fee-gvqc/met-broker-fee-gvqc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Councilman Chi Ossé used his own frustrating experience trying to find an apartment to craft a bill that would spare tenants from paying hefty broker fees.",
+                "copyright": "Paola Chapdelaine for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/met-broker-fee-gvqc/met-broker-fee-gvqc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Councilman Chi Ossé used his own frustrating experience trying to find an apartment to craft a bill that would spare tenants from paying hefty broker fees.",
+                "copyright": "Paola Chapdelaine for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
