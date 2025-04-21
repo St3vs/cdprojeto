@@ -74841,5 +74841,262 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "In Congestion Pricing Fight, Trump Administration Ratchets Up Threats",
+        "abstract": "The administration has demanded the tolling program end by late May, arguing that it unfairly burdens working-class commuters.",
+        "url": "https://www.nytimes.com/2025/04/21/nyregion/trump-nyc-congestion-pricing-threats.html",
+        "uri": "nyt://article/35f0f456-1d10-510d-bc2c-72781e6c78ed",
+        "byline": "By Stefanos Chen and Winnie Hu",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T12:40:05-04:00",
+        "created_date": "2025-04-21T11:57:52-04:00",
+        "published_date": "2025-04-21T11:57:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Congestion Pricing",
+            "United States Politics and Government",
+            "Tolls",
+            "Prices (Fares, Fees and Rates)",
+            "Federal Aid (US)"
+        ],
+        "org_facet": [
+            "Metropolitan Transportation Authority"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21met-congestion-Duffy-01-wlpb/21met-congestion-Duffy-01-wlpb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Congestion pricing charges most drivers $9 to enter Manhattan below 60th Street during peak traffic times.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21met-congestion-Duffy-01-wlpb/21met-congestion-Duffy-01-wlpb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Congestion pricing charges most drivers $9 to enter Manhattan below 60th Street during peak traffic times.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21met-congestion-Duffy-01-wlpb/21met-congestion-Duffy-01-wlpb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Congestion pricing charges most drivers $9 to enter Manhattan below 60th Street during peak traffic times.",
+                "copyright": "Karsten Moran for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israeli Security Chief Accuses Netanyahu of Making Improper Requests",
+        "abstract": "In a scathing court affidavit, the head of the Shin Bet said that Prime Minister Benjamin Netanyahu pressed him to spy on anti-government protesters.",
+        "url": "https://www.nytimes.com/2025/04/21/world/middleeast/israel-security-chief-netanyahu-accusations.html",
+        "uri": "nyt://article/dd658075-052c-5261-8fed-569de3793c1e",
+        "byline": "By Isabel Kershner",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T12:13:27-04:00",
+        "created_date": "2025-04-21T12:13:27-04:00",
+        "published_date": "2025-04-21T12:13:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Classified Information and State Secrets",
+            "Demonstrations, Protests and Riots",
+            "Espionage and Intelligence Services"
+        ],
+        "org_facet": [
+            "Shin Bet",
+            "Supreme Court of Israel"
+        ],
+        "per_facet": [
+            "Bar, Ronen (1965- )",
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+            "Israel",
+            "Qatar"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/world/21int-israel-ronen-bar-01/21int-israel-ronen-bar-01-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ronen Bar, the chief of Shin Bet, Israel’s domestic security agency.",
+                "copyright": "Pool photo by Gil Cohen-Magen"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/world/21int-israel-ronen-bar-01/21int-israel-ronen-bar-01-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ronen Bar, the chief of Shin Bet, Israel’s domestic security agency.",
+                "copyright": "Pool photo by Gil Cohen-Magen"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/world/21int-israel-ronen-bar-01/21int-israel-ronen-bar-01-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ronen Bar, the chief of Shin Bet, Israel’s domestic security agency.",
+                "copyright": "Pool photo by Gil Cohen-Magen"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Sludge Contaminated 10,000 Acres of Farmland. What Should Be Done?",
+        "abstract": "For years a textile mill gave farmers its sewage sludge as free fertilizer. Today the land is full of “forever chemicals.”",
+        "url": "https://www.nytimes.com/2025/04/21/climate/sludge-fertilizer-farmland-superfund.html",
+        "uri": "nyt://article/dbb19568-c421-5869-84d2-0c043ae8d4ad",
+        "byline": "By Hiroko Tabuchi and Caroline Gutman",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T11:48:16-04:00",
+        "created_date": "2025-04-21T05:00:53-04:00",
+        "published_date": "2025-04-21T05:00:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Hazardous and Toxic Substances",
+            "Chemicals",
+            "PFAS (Per- and Polyfluoroalkyl Substances)",
+            "Sewers and Sewage",
+            "Superfund",
+            "Fertilizer",
+            "Agriculture and Farming",
+            "Recycling of Waste Materials",
+            "Pollution"
+        ],
+        "org_facet": [
+            "Environmental Protection Agency"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "South Carolina"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00CLI-TOXIC-FARM-SUPERFUND-promo-qgzl/00CLI-TOXIC-FARM-SUPERFUND-promo-qgzl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Caroline Gutman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00CLI-TOXIC-FARM-SUPERFUND-promo-qgzl/00CLI-TOXIC-FARM-SUPERFUND-promo-qgzl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Caroline Gutman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00CLI-TOXIC-FARM-SUPERFUND-promo-qgzl/00CLI-TOXIC-FARM-SUPERFUND-promo-qgzl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Caroline Gutman for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Supreme Court Declines to Hear Case on Age Limits for Carrying Guns",
+        "abstract": "An appeals court had struck down a Minnesota law that applied to 18- to 20-year olds, saying it violated a new Second Amendment test focusing on history.",
+        "url": "https://www.nytimes.com/2025/04/21/us/supreme-court-guns-age.html",
+        "uri": "nyt://article/763ad124-0a52-58ff-bc88-4fcd1cc5d5bb",
+        "byline": "By Adam Liptak",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T12:55:28-04:00",
+        "created_date": "2025-04-21T12:55:28-04:00",
+        "published_date": "2025-04-21T12:55:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Gun Control",
+            "United States Politics and Government",
+            "Second Amendment (US Constitution)",
+            "Courts and the Judiciary"
+        ],
+        "org_facet": [
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21dc-scotus-guns-klzp/21dc-scotus-guns-klzp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court, which turned down the case without comment, will have other opportunities to consider the question of whether firearm restrictions for people aged 18 to 21 are constitutional.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21dc-scotus-guns-klzp/21dc-scotus-guns-klzp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court, which turned down the case without comment, will have other opportunities to consider the question of whether firearm restrictions for people aged 18 to 21 are constitutional.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21dc-scotus-guns-klzp/21dc-scotus-guns-klzp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court, which turned down the case without comment, will have other opportunities to consider the question of whether firearm restrictions for people aged 18 to 21 are constitutional.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
