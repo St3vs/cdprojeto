@@ -75098,5 +75098,387 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trump and Francis Had Sharply Different Views, and Sharp Disagreements",
+        "abstract": "The pope and the president remade the Catholic church and American politics in their outsider images, but their relationship was defined by their remarkable clashes.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/trump-pope-francis.html",
+        "uri": "nyt://article/590bc761-51de-5137-a90c-ed49b5435277",
+        "byline": "By Lisa Lerer and Elizabeth Dias",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T14:01:17-04:00",
+        "created_date": "2025-04-21T13:58:41-04:00",
+        "published_date": "2025-04-21T13:58:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Popes",
+            "Conservatism (US Politics)",
+            "Global Warming",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-trump-pope-qmkc/21pope-francis-trump-pope-qmkc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis and President Trump met at the Vatican in 2017.",
+                "copyright": "Evan Vucci/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-trump-pope-qmkc/21pope-francis-trump-pope-qmkc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis and President Trump met at the Vatican in 2017.",
+                "copyright": "Evan Vucci/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-trump-pope-qmkc/21pope-francis-trump-pope-qmkc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis and President Trump met at the Vatican in 2017.",
+                "copyright": "Evan Vucci/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "How Francis, a Progressive Pope, Catalyzed the Catholic Right in the U.S.",
+        "abstract": "His critics were fellow clergy as well as elected officials in the ascendant wing of the American Catholic political realm.",
+        "url": "https://www.nytimes.com/2025/04/21/us/pope-francis-catholic-right.html",
+        "uri": "nyt://article/48312002-9f6e-5b44-8818-49794a494e53",
+        "byline": "By Ruth Graham and Elizabeth Dias",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T14:05:38-04:00",
+        "created_date": "2025-04-21T10:44:39-04:00",
+        "published_date": "2025-04-21T10:44:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Conservatism (US Politics)",
+            "Religion and Belief",
+            "Popes",
+            "Religion-State Relations"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/02/26/multimedia/NAT-HFO-FRANCIS-CONSERVATIVES-tlhw/NAT-HFO-FRANCIS-CONSERVATIVES-tlhw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis energized Catholics, but not only in the way his supporters hoped. His papacy galvanized a traditionalist stream in the American church that strengthened throughout his papacy.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/26/multimedia/NAT-HFO-FRANCIS-CONSERVATIVES-tlhw/NAT-HFO-FRANCIS-CONSERVATIVES-tlhw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis energized Catholics, but not only in the way his supporters hoped. His papacy galvanized a traditionalist stream in the American church that strengthened throughout his papacy.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/26/multimedia/NAT-HFO-FRANCIS-CONSERVATIVES-tlhw/NAT-HFO-FRANCIS-CONSERVATIVES-tlhw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis energized Catholics, but not only in the way his supporters hoped. His papacy galvanized a traditionalist stream in the American church that strengthened throughout his papacy.",
+                "copyright": "Chang W. Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Pope Francis’ Legacy in the U.S.: A More Open, and Then Divided, Church",
+        "abstract": "Pope Francis’ transformative vision for the American church made it more open, but also energized conservative resistance that further divided it.",
+        "url": "https://www.nytimes.com/2025/04/21/us/pope-francis-legacy-us.html",
+        "uri": "nyt://article/24cb11db-fa92-5c5a-866f-d30a77843239",
+        "byline": "By Elizabeth Dias and Ruth Graham",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T14:10:34-04:00",
+        "created_date": "2025-04-21T10:42:46-04:00",
+        "published_date": "2025-04-21T10:42:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Conservatism (US Politics)",
+            "Religion-State Relations",
+            "Priests",
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/04/multimedia/NAT-HFO-FRANCIS-US-LEGACY-2015-2-01-cftz/NAT-HFO-FRANCIS-US-LEGACY-2015-2-01-cftz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis addressed a joint meeting of Congress in 2015. He was the first and only Pope to do so.",
+                "copyright": "Stephen Crowley/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/04/multimedia/NAT-HFO-FRANCIS-US-LEGACY-2015-2-01-cftz/NAT-HFO-FRANCIS-US-LEGACY-2015-2-01-cftz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis addressed a joint meeting of Congress in 2015. He was the first and only Pope to do so.",
+                "copyright": "Stephen Crowley/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/04/multimedia/NAT-HFO-FRANCIS-US-LEGACY-2015-2-01-cftz/NAT-HFO-FRANCIS-US-LEGACY-2015-2-01-cftz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis addressed a joint meeting of Congress in 2015. He was the first and only Pope to do so.",
+                "copyright": "Stephen Crowley/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Kristi Noem’s Bag, With Security Badge and $3,000, Is Stolen",
+        "abstract": "The homeland security secretary was dining at a Washington, D.C., restaurant. She also lost her passport and keys.",
+        "url": "https://www.nytimes.com/2025/04/21/us/politics/kristi-noem-purse-stolen.html",
+        "uri": "nyt://article/81e77b5d-aa21-5864-b271-f374bf5bd196",
+        "byline": "By Victor Mather",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T13:55:23-04:00",
+        "created_date": "2025-04-21T13:31:40-04:00",
+        "published_date": "2025-04-21T13:31:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Robberies and Thefts"
+        ],
+        "org_facet": [
+            "Homeland Security Department"
+        ],
+        "per_facet": [
+            "Noem, Kristi"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21xp-Kristi-Noem-gtcf/21xp-Kristi-Noem-gtcf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A handbag belonging to Kristi Noem, the secretary of the Department of Homeland Security, was stolen at a Washington restaurant on Easter.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21xp-Kristi-Noem-gtcf/21xp-Kristi-Noem-gtcf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A handbag belonging to Kristi Noem, the secretary of the Department of Homeland Security, was stolen at a Washington restaurant on Easter.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21xp-Kristi-Noem-gtcf/21xp-Kristi-Noem-gtcf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A handbag belonging to Kristi Noem, the secretary of the Department of Homeland Security, was stolen at a Washington restaurant on Easter.",
+                "copyright": "Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Google, Meta, Visa, JetBlue: A Guide to a New Era of U.S. Antitrust Cases",
+        "abstract": "Here are 16 major cases brought by the Justice Department and the Federal Trade Commission since late 2020, under both Presidents Trump and Biden, as antitrust enforcers have promised to sue monopolies and block big mergers.",
+        "url": "https://www.nytimes.com/interactive/2024/business/antitrust-case-tracker.html",
+        "uri": "nyt://interactive/f6ef4a94-1196-5b2a-a155-d6c9ce021810",
+        "byline": "By Danielle Kaye, Lazaro Gamio and Cecilia Kang",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-21T09:11:22-04:00",
+        "created_date": "2024-09-24T22:54:07-04:00",
+        "published_date": "2024-09-24T22:54:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Suits and Litigation (Civil)",
+            "Mergers, Acquisitions and Divestitures",
+            "Antitrust Laws and Competition Issues"
+        ],
+        "org_facet": [
+            "Activision Blizzard Inc",
+            "CVS Caremark Corporation",
+            "Change Healthcare Technologies Inc",
+            "Facebook Inc",
+            "Federal Trade Commission",
+            "Google Inc",
+            "Justice Department",
+            "JetBlue Airways Corporation",
+            "Kroger Company",
+            "Live Nation Entertainment Inc",
+            "Meta Platforms Inc",
+            "Penguin Random House",
+            "UnitedHealth Group Inc",
+            "Visa Inc",
+            "Microsoft Corp",
+            "Spirit Airlines"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2024/09/24/multimedia/2024-09-24-antitrust-tracker-index/2024-09-24-antitrust-tracker-index-superJumbo-v4.jpg",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/09/24/multimedia/2024-09-24-antitrust-tracker-index/2024-09-24-antitrust-tracker-index-threeByTwoSmallAt2X-v4.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/09/24/multimedia/2024-09-24-antitrust-tracker-index/2024-09-24-antitrust-tracker-index-thumbLarge-v4.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "El Paso Gunman in Walmart Shooting Sentenced Again to Life in Prison",
+        "abstract": "Both federal and state prosecutors took the death penalty out of consideration for a self-described white supremacist who carried out one of the deadliest attacks on Hispanic people in U.S. history.",
+        "url": "https://www.nytimes.com/2025/04/21/us/el-paso-walmart-shooting-sentencing.html",
+        "uri": "nyt://article/8a912a4e-6cc6-5c84-9e6c-52f06e0b4ba2",
+        "byline": "By Edgar Sandoval",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T13:03:48-04:00",
+        "created_date": "2025-04-21T13:03:29-04:00",
+        "published_date": "2025-04-21T13:03:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "El Paso, Tex, Shooting (2019)",
+            "Decisions and Verdicts",
+            "Murders, Attempted Murders and Homicides",
+            "Race and Ethnicity",
+            "Hate Crimes",
+            "Hispanic-Americans",
+            "Mass Shootings",
+            "Right-Wing Extremism and Alt-Right",
+            "Immigration and Emigration",
+            "Sentences (Criminal)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Crusius, Patrick (1998- )"
+        ],
+        "geo_facet": [
+            "El Paso (Tex)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21Nat-Sentence-Elpaso-gqtk/21Nat-Sentence-Elpaso-gqtk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The 2019 shooting a Walmart store in El Paso left 23 people dead and 22 injured.",
+                "copyright": "Joel Angel Juarez for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21Nat-Sentence-Elpaso-gqtk/21Nat-Sentence-Elpaso-gqtk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The 2019 shooting a Walmart store in El Paso left 23 people dead and 22 injured.",
+                "copyright": "Joel Angel Juarez for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21Nat-Sentence-Elpaso-gqtk/21Nat-Sentence-Elpaso-gqtk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The 2019 shooting a Walmart store in El Paso left 23 people dead and 22 injured.",
+                "copyright": "Joel Angel Juarez for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
