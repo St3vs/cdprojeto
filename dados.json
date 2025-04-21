@@ -72323,5 +72323,127 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Raised $239 Million for Inauguration, More Than Doubling His Own Record",
+        "abstract": "The staggering amount, disclosed in a filing with the Federal Election Commission, was driven by corporate America’s eagerness to win the president’s favor.",
+        "url": "https://www.nytimes.com/2025/04/20/us/politics/trump-inauguration-donors.html",
+        "uri": "nyt://article/56d912a9-4126-5aba-8044-59147f54976d",
+        "byline": "By Theodore Schleifer",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T21:18:56-04:00",
+        "created_date": "2025-04-20T20:58:22-04:00",
+        "published_date": "2025-04-20T20:58:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Inaugurations",
+            "Presidential Election of 2024",
+            "Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20pol-inaugural-donors-lcpv/20pol-inaugural-donors-lcpv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump, center, Vice President JD Vance, center left, and members of their families at an inaugural ball in January.",
+                "copyright": "Kirsten Luce for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20pol-inaugural-donors-lcpv/20pol-inaugural-donors-lcpv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump, center, Vice President JD Vance, center left, and members of their families at an inaugural ball in January.",
+                "copyright": "Kirsten Luce for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20pol-inaugural-donors-lcpv/20pol-inaugural-donors-lcpv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump, center, Vice President JD Vance, center left, and members of their families at an inaugural ball in January.",
+                "copyright": "Kirsten Luce for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Bukele Proposes Deal That Would Free Deported Venezuelans",
+        "abstract": "President Nayib Bukele said he would free the Venezuelans that the Trump administration deported to El Salvador if Venezuela releases the same number of prisoners, including members of the opposition.",
+        "url": "https://www.nytimes.com/2025/04/20/us/venezuela-bukele-maduro-prisoners-deported-immigration.html",
+        "uri": "nyt://article/17cc3b7b-e2fc-596f-8c4b-02319f12c90c",
+        "byline": "By Annie Correal and Julie Turkewitz",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T22:40:17-04:00",
+        "created_date": "2025-04-20T21:25:25-04:00",
+        "published_date": "2025-04-20T21:25:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Deportation",
+            "Political Prisoners"
+        ],
+        "org_facet": [
+            "Mara Salvatrucha (MS-13)",
+            "Tren de Aragua (Gang)"
+        ],
+        "per_facet": [
+            "Bukele, Nayib",
+            "Maduro, Nicolas",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/20/multimedia/20trump-news-bukele-maduro-kmgv/20trump-news-bukele-maduro-kmgv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Nayib Bukele of El Salvador at the White House in Washington, D.C., last week.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/20/multimedia/20trump-news-bukele-maduro-kmgv/20trump-news-bukele-maduro-kmgv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Nayib Bukele of El Salvador at the White House in Washington, D.C., last week.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/20/multimedia/20trump-news-bukele-maduro-kmgv/20trump-news-bukele-maduro-kmgv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Nayib Bukele of El Salvador at the White House in Washington, D.C., last week.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
