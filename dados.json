@@ -73802,5 +73802,128 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "podcasts",
+        "subsection": "the-headlines",
+        "title": "Pope Francis Dies at 88, and Another Hegseth Signal Chat",
+        "abstract": "Plus, more stories from our newsroom.",
+        "url": "https://www.nytimes.com/2025/04/21/podcasts/the-headlines/pope-francis-dies-hegseth-signal-chat.html",
+        "uri": "nyt://article/de244b7a-86eb-57a0-a88e-0ebd300fb9e0",
+        "byline": "By Tracy Mumford, Will Jarvis and Jessica Metzger",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T06:36:41-04:00",
+        "created_date": "2025-04-21T06:00:06-04:00",
+        "published_date": "2025-04-21T06:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Signal Chat Leak (Trump Administration)",
+            "Popes",
+            "Student Loans"
+        ],
+        "org_facet": [
+            "Democratic Party",
+            "Roman Catholic Church",
+            "Signal (Open Whisper Systems)"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "El Salvador",
+            "Maryland"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21headlines-pope2-ptwg/21headlines-pope2-ptwg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2047,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis’ groundbreaking pontificate sought, however haltingly, to reshape the Roman Catholic Church into a more inclusive institution.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21headlines-pope2-ptwg/21headlines-pope2-ptwg-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis’ groundbreaking pontificate sought, however haltingly, to reshape the Roman Catholic Church into a more inclusive institution.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21headlines-pope2-ptwg/21headlines-pope2-ptwg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis’ groundbreaking pontificate sought, however haltingly, to reshape the Roman Catholic Church into a more inclusive institution.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Remembering Pope Francis",
+        "abstract": "The pontiff has died at 88. We look at his life and his influence on more than one billion Catholics.",
+        "url": "https://www.nytimes.com/2025/04/21/briefing/pope-francis-dead-88.html",
+        "uri": "nyt://article/1de64b26-66ca-59cb-bb62-8013a892047d",
+        "byline": "By Lauren Jackson and Claire Fahy",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T06:51:21-04:00",
+        "created_date": "2025-04-21T06:51:21-04:00",
+        "published_date": "2025-04-21T06:51:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "internal-storyline-no"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21themorning-nl-top-vqjp/21themorning-nl-top-vqjp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1293,
+                "width": 1293,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis",
+                "copyright": "Damon Winter/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21themorning-nl-top-vqjp/21themorning-nl-top-vqjp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis",
+                "copyright": "Damon Winter/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21themorning-nl-top-vqjp/21themorning-nl-top-vqjp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis",
+                "copyright": "Damon Winter/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
