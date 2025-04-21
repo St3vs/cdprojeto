@@ -72445,5 +72445,68 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "There’s a Reason the World Is Such a Mess",
+        "abstract": "Global economic stagnation underlies today’s disarray.",
+        "url": "https://www.nytimes.com/2025/04/21/opinion/trump-tariffs-global-economy.html",
+        "uri": "nyt://article/aab4e045-d58f-5748-9e55-ca777dc070fd",
+        "byline": "By Aaron Benanav",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T01:00:06-04:00",
+        "created_date": "2025-04-21T01:00:06-04:00",
+        "published_date": "2025-04-21T01:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "Customs (Tariff)",
+            "United States Economy",
+            "Economic Conditions and Trends",
+            "Factories and Manufacturing",
+            "Artificial Intelligence"
+        ],
+        "org_facet": [
+            "Group of Twenty",
+            "International Monetary Fund"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/opinion/21benanav/21benanav-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Giacomo Bagnara"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/opinion/21benanav/21benanav-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Giacomo Bagnara"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/opinion/21benanav/21benanav-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Giacomo Bagnara"
+            }
+        ],
+        "short_url": ""
     }
 ]
