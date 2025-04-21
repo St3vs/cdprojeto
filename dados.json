@@ -76599,5 +76599,186 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "The World Mourned Pope Francis",
+        "abstract": "Also, the U.S. asked a judge to break up Google. Here’s the latest at the end of Monday.",
+        "url": "https://www.nytimes.com/2025/04/21/briefing/pope-francis-dead-google-antitrust-hearing.html",
+        "uri": "nyt://article/5a56aca8-ee62-5328-b515-33e9a181a1a9",
+        "byline": "By Matthew Cullen",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T18:05:18-04:00",
+        "created_date": "2025-04-21T18:05:18-04:00",
+        "published_date": "2025-04-21T18:05:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/02/22/multimedia/21evening-pope-copy/22ambriefing-asia-pope-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in New York City in 2015.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/22/multimedia/21evening-pope-copy/22pope-carousel-add-cvbw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in New York City in 2015.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/22/multimedia/21evening-pope-copy/22ambriefing-asia-pope-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in New York City in 2015.",
+                "copyright": "Chang W. Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "media",
+        "title": "In New Trial, Palin Says New York Times Editorial Damaged Her Reputation",
+        "abstract": "Closing arguments in the libel case are expected on Tuesday, after which the nine jurors will begin deliberations.",
+        "url": "https://www.nytimes.com/2025/04/21/business/media/sarah-palin-new-york-times-trial.html",
+        "uri": "nyt://article/fee37980-b80f-55ea-b294-012f988b0a9a",
+        "byline": "By Katie Robertson",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T18:29:03-04:00",
+        "created_date": "2025-04-21T18:29:03-04:00",
+        "published_date": "2025-04-21T18:29:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Libel and Slander",
+            "News and News Media",
+            "Political Advertising",
+            "Newspapers",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "New York Times Company"
+        ],
+        "per_facet": [
+            "Palin, Sarah",
+            "Bennet, James"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21biz-palin-trial-hpqk/21biz-palin-trial-hpqk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sarah Palin arriving on Monday at federal court in Manhattan, where she testified in her yearslong libel case against The New York Times.",
+                "copyright": "Andres Kudacki for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21biz-palin-trial-hpqk/21biz-palin-trial-hpqk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sarah Palin arriving on Monday at federal court in Manhattan, where she testified in her yearslong libel case against The New York Times.",
+                "copyright": "Andres Kudacki for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21biz-palin-trial-hpqk/21biz-palin-trial-hpqk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sarah Palin arriving on Monday at federal court in Manhattan, where she testified in her yearslong libel case against The New York Times.",
+                "copyright": "Andres Kudacki for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "books",
+        "subsection": "",
+        "title": "Herbert J. Gans, 97, Dies; Upended Myths on Urban and Suburban Life",
+        "abstract": "A leading sociologist, he explored American society up close — living in a Levittown at one point — to gain insight into issues of race, class, the media and even the Yankees.",
+        "url": "https://www.nytimes.com/2025/04/21/books/herbert-j-gans-dead.html",
+        "uri": "nyt://article/10ac30e1-1e8d-545f-a51b-7eb989e6d4a2",
+        "byline": "By Robert D. McFadden",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T18:37:33-04:00",
+        "created_date": "2025-04-21T18:37:33-04:00",
+        "published_date": "2025-04-21T18:37:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Colleges and Universities",
+            "Poverty",
+            "Deaths (Obituaries)",
+            "News and News Media",
+            "Books and Literature",
+            "Sociology",
+            "Urban Areas"
+        ],
+        "org_facet": [
+            "Columbia University"
+        ],
+        "per_facet": [
+            "Gans, Herbert J"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21Gans-ljkb/21Gans-ljkb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1529,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Herbert J. Gans in 1979. He became one of the nation’s most influential social critics.",
+                "copyright": "Jerry Bauer"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21Gans-ljkb/21Gans-ljkb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Herbert J. Gans in 1979. He became one of the nation’s most influential social critics.",
+                "copyright": "Jerry Bauer"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21Gans-ljkb/21Gans-ljkb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Herbert J. Gans in 1979. He became one of the nation’s most influential social critics.",
+                "copyright": "Jerry Bauer"
+            }
+        ],
+        "short_url": ""
     }
 ]
