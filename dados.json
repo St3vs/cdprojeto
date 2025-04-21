@@ -72606,5 +72606,133 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Francis Worked to Make Catholic Church More Inclusive",
+        "abstract": "Pope Francis sought to make the church more welcoming, global and collegial, after his predecessors adopted more doctrinaire and traditional approaches.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/pope-francis-catholic-church-legacy.html",
+        "uri": "nyt://article/cc3940fd-dac3-50bb-89e2-382dc6be3b1b",
+        "byline": "By Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T04:23:21-04:00",
+        "created_date": "2025-04-21T04:23:21-04:00",
+        "published_date": "2025-04-21T04:23:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Religion and Belief",
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Benedict XVI"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2021/08/06/world/06pope-francis-lede-item-jason/merlin_184699620_3ebce43a-63cc-4266-a095-4e54169201a1-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in Qaraqosh, Iraq, in March 2021.",
+                "copyright": "Ivor Prickett for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2021/08/06/world/06pope-francis-lede-item-jason/merlin_184699620_3ebce43a-63cc-4266-a095-4e54169201a1-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in Qaraqosh, Iraq, in March 2021.",
+                "copyright": "Ivor Prickett for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2021/08/06/world/06pope-francis-lede-item-jason/06pope-francis-lede-item-jason-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in Qaraqosh, Iraq, in March 2021.",
+                "copyright": "Ivor Prickett for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "China Warns Countries Not to Team Up With U.S. Against It on Trade",
+        "abstract": "Curbing trade with China to curry favor with the United States would be “selfish and shortsighted,” the government said, promising to retaliate.",
+        "url": "https://www.nytimes.com/2025/04/21/world/asia/china-tariffs-trade-warning.html",
+        "uri": "nyt://article/71c44f71-c344-5dc1-89ee-e774771eb2e0",
+        "byline": "By Vivian Wang",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T04:49:49-04:00",
+        "created_date": "2025-04-21T04:49:49-04:00",
+        "published_date": "2025-04-21T04:49:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "International Relations",
+            "Customs (Tariff)",
+            "United States International Relations",
+            "Factories and Manufacturing"
+        ],
+        "org_facet": [
+            "Ministry of Commerce (China)",
+            "European Union"
+        ],
+        "per_facet": [
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "China",
+            "Vietnam",
+            "South Korea",
+            "Malaysia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21int-china-tariffs-ltgj/21int-china-tariffs-ltgj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "China’s leader, Xi Jinping, met with his Vietnamese counterpart, To Lam, in Hanoi as part of a push to boost trade relations in the face of U.S. tariffs.",
+                "copyright": "Pool photo by Nhac Nguyen"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21int-china-tariffs-ltgj/21int-china-tariffs-ltgj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "China’s leader, Xi Jinping, met with his Vietnamese counterpart, To Lam, in Hanoi as part of a push to boost trade relations in the face of U.S. tariffs.",
+                "copyright": "Pool photo by Nhac Nguyen"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21int-china-tariffs-ltgj/21int-china-tariffs-ltgj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "China’s leader, Xi Jinping, met with his Vietnamese counterpart, To Lam, in Hanoi as part of a push to boost trade relations in the face of U.S. tariffs.",
+                "copyright": "Pool photo by Nhac Nguyen"
+            }
+        ],
+        "short_url": ""
     }
 ]
