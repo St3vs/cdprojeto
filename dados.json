@@ -74119,5 +74119,99 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "How Secure Is Signal, Anyway?",
+        "abstract": "The app, which was introduced in 2014 and has hundreds of millions of users, is widely viewed as the safest messaging tool because of its encryption technology.",
+        "url": "https://www.nytimes.com/2025/03/25/technology/signal-app-security-leak.html",
+        "uri": "nyt://article/e119b7ca-746d-5c75-ad2e-49e2fa0240f9",
+        "byline": "By Kate Conger",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T08:45:59-04:00",
+        "created_date": "2025-03-25T15:54:03-04:00",
+        "published_date": "2025-03-25T15:54:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Signal Chat Leak (Trump Administration)",
+            "News and News Media",
+            "Computer Security",
+            "Cyberattacks and Hackers",
+            "Classified Information and State Secrets"
+        ],
+        "org_facet": [
+            "Signal (Open Whisper Systems)",
+            "Atlantic Monthly",
+            "National Security Agency"
+        ],
+        "per_facet": [
+            "Hegseth, Pete",
+            "Marlinspike, Moxie",
+            "Acton, Brian"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/25/multimedia/25biz-signal-faq-pghw/25biz-signal-faq-pghw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of Defense Pete Hegseth in the Oval Office in March, during a meeting between President Trump and NATO’s Secretary General.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/25/multimedia/25biz-signal-faq-pghw/25biz-signal-faq-pghw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of Defense Pete Hegseth in the Oval Office in March, during a meeting between President Trump and NATO’s Secretary General.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/25/multimedia/25biz-signal-faq-pghw/25biz-signal-faq-pghw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of Defense Pete Hegseth in the Oval Office in March, during a meeting between President Trump and NATO’s Secretary General.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "How Francis Changed the Symbols of a Pope’s Funeral",
+        "abstract": "In life and death, Francis wanted the symbols of his papacy to be humbler.",
+        "url": "https://www.nytimes.com/2025/04/21/opinion/how-francis-changed-the-symbols-of-a-popes-funeral.html",
+        "uri": "nyt://article/3537d0b5-bf88-5caa-ac26-d19c7abd580d",
+        "byline": "By Daniel J. Wakin",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T09:21:21-04:00",
+        "created_date": "2025-04-21T08:45:47-04:00",
+        "published_date": "2025-04-21T08:45:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Funerals and Memorials"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": null,
+        "short_url": ""
     }
 ]
