@@ -78898,5 +78898,74 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Global Economic Leaders Gathering in U.S. Confront Trump’s New World Order",
+        "abstract": "The I.M.F. and World Bank are holding their spring meetings as President Trump’s trade war upends the global economy.",
+        "url": "https://www.nytimes.com/2025/04/22/us/politics/imf-world-bank-meetings-trump.html",
+        "uri": "nyt://article/b38f0f66-fa0e-5cb4-9899-ad890ba9048d",
+        "byline": "By Alan Rappeport",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T09:00:12-04:00",
+        "created_date": "2025-04-22T09:00:12-04:00",
+        "published_date": "2025-04-22T09:00:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Foreign Aid",
+            "International Trade and World Market",
+            "Global Warming",
+            "United States Economy",
+            "Banking and Financial Institutions",
+            "Economic Conditions and Trends"
+        ],
+        "org_facet": [
+            "International Monetary Fund",
+            "World Bank"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Banga, Ajay",
+            "Georgieva, Kristalina Ivanova"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00dc-imfworldbank-zpwb/00dc-globalecon-zpwb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1370,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The International Monetary Fund could attract President Trump’s attention this week when it offers its first assessment of the effects of his tariff policies.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00dc-imfworldbank-zpwb/00dc-globalecon-zpwb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The International Monetary Fund could attract President Trump’s attention this week when it offers its first assessment of the effects of his tariff policies.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00dc-imfworldbank-zpwb/00dc-globalecon-zpwb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The International Monetary Fund could attract President Trump’s attention this week when it offers its first assessment of the effects of his tariff policies.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
