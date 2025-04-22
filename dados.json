@@ -80115,5 +80115,192 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "design",
+        "title": "A Picasso Show From Pablo’s Daughter",
+        "abstract": "An exhibition at Gagosian  includes never-before-seen works from the personal collection of Paloma Picasso, who helped organize the show.",
+        "url": "https://www.nytimes.com/2025/04/22/arts/design/picasso-show-paloma.html",
+        "uri": "nyt://article/26d7e20e-0f8d-5c83-a5af-6e5d191c3d5a",
+        "byline": "By Robin Pogrebin",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T12:33:18-04:00",
+        "created_date": "2025-04-22T05:03:10-04:00",
+        "published_date": "2025-04-22T05:03:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Art",
+            "Wills and Estates"
+        ],
+        "org_facet": [
+            "Gagosian Gallery"
+        ],
+        "per_facet": [
+            "Picasso, Pablo",
+            "Picasso, Paloma",
+            "Gilot, Francoise"
+        ],
+        "geo_facet": [
+            "Manhattan (NYC)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22CUL-PALOMA-PICASSO-06-gcvh/22CUL-PALOMA-PICASSO-06-gcvh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1358,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Paloma Picasso with a work by her father, “Femme assise (Jacqueline)” (Seated Woman) from 1962. She hopes to show his many attributes in a gallery show.",
+                "copyright": "Estate of Pablo Picasso/Artists Rights Society (ARS), New York; Sam Hellmann for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22CUL-PALOMA-PICASSO-06-gcvh/22CUL-PALOMA-PICASSO-06-gcvh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Paloma Picasso with a work by her father, “Femme assise (Jacqueline)” (Seated Woman) from 1962. She hopes to show his many attributes in a gallery show.",
+                "copyright": "Estate of Pablo Picasso/Artists Rights Society (ARS), New York; Sam Hellmann for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22CUL-PALOMA-PICASSO-06-gcvh/22CUL-PALOMA-PICASSO-06-gcvh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Paloma Picasso with a work by her father, “Femme assise (Jacqueline)” (Seated Woman) from 1962. She hopes to show his many attributes in a gallery show.",
+                "copyright": "Estate of Pablo Picasso/Artists Rights Society (ARS), New York; Sam Hellmann for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "media",
+        "title": "Jury Begins Deliberating in Palin’s Case Against The Times",
+        "abstract": "This is the second time a jury has heard the case. Sarah Palin sued The New York Times in 2017, accusing the publication of defaming her in an editorial.",
+        "url": "https://www.nytimes.com/2025/04/22/business/media/sarah-palin-new-york-times-jury-deliberations.html",
+        "uri": "nyt://article/da22bf66-e73e-5901-b179-ff757525df71",
+        "byline": "By Katie Robertson",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T14:22:31-04:00",
+        "created_date": "2025-04-22T14:03:02-04:00",
+        "published_date": "2025-04-22T14:03:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Newspapers",
+            "Decisions and Verdicts",
+            "Libel and Slander",
+            "News and News Media",
+            "Suits and Litigation (Civil)"
+        ],
+        "org_facet": [
+            "New York Times"
+        ],
+        "per_facet": [
+            "Palin, Sarah",
+            "Bennet, James"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22biz-palin-trial-ltzc/22biz-palin-trial-ltzc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sarah Palin arriving at the U.S. District Court for the Southern District of New York on Tuesday.",
+                "copyright": "Andres Kudacki for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22biz-palin-trial-ltzc/22biz-palin-trial-ltzc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sarah Palin arriving at the U.S. District Court for the Southern District of New York on Tuesday.",
+                "copyright": "Andres Kudacki for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22biz-palin-trial-ltzc/22biz-palin-trial-ltzc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sarah Palin arriving at the U.S. District Court for the Southern District of New York on Tuesday.",
+                "copyright": "Andres Kudacki for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "",
+        "title": "Shannon Sharpe Is Accused of Rape by Ex-Girlfriend",
+        "abstract": "A lawyer for Mr. Sharpe, who hosts the podcast “Club Shay Shay,” said the sexual encounters were consensual and called the lawsuit “a blatant and cynical attempt” at a shakedown.",
+        "url": "https://www.nytimes.com/2025/04/22/arts/shannon-sharpe-lawsuit-rape-sexual-assault.html",
+        "uri": "nyt://article/9a2d8144-c82c-5511-b487-370ba7142e35",
+        "byline": "By Emmanuel Morgan",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T14:11:15-04:00",
+        "created_date": "2025-04-22T14:11:15-04:00",
+        "published_date": "2025-04-22T14:11:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Suits and Litigation (Civil)",
+            "Podcasts",
+            "Club Shay Shay (Radio Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Sharpe, Shannon",
+            "Buzbee, Tony G"
+        ],
+        "geo_facet": [
+            "Clark County (Nev)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22cul-sharpe-lawsuit-jgkz/22cul-sharpe-lawsuit-jgkz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Shannon Sharpe, a three-time Super Bowl champion and a Pro Football Hall of Fame inductee, has become a media personality since his retirement.",
+                "copyright": "Sean Gardner/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22cul-sharpe-lawsuit-jgkz/22cul-sharpe-lawsuit-jgkz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Shannon Sharpe, a three-time Super Bowl champion and a Pro Football Hall of Fame inductee, has become a media personality since his retirement.",
+                "copyright": "Sean Gardner/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22cul-sharpe-lawsuit-jgkz/22cul-sharpe-lawsuit-jgkz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Shannon Sharpe, a three-time Super Bowl champion and a Pro Football Hall of Fame inductee, has become a media personality since his retirement.",
+                "copyright": "Sean Gardner/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
