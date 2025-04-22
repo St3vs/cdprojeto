@@ -78468,5 +78468,181 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Education Department Will Resume Collections on Student Loan Debt",
+        "abstract": "In an announcement this week, the department warned that millions of borrowers could be referred to debt collectors and see deductions from their paychecks.",
+        "url": "https://www.nytimes.com/2025/04/22/business/education-department-student-loan-debt.html",
+        "uri": "nyt://article/39f2649e-3fc8-5548-a2db-3b7315bf78ab",
+        "byline": "By Ali Watkins",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T06:17:07-04:00",
+        "created_date": "2025-04-22T06:16:33-04:00",
+        "published_date": "2025-04-22T06:16:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Student Loans",
+            "United States Economy",
+            "Colleges and Universities"
+        ],
+        "org_facet": [
+            "Education Department (US)"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22xp-student-loans-zmfq/22xp-student-loans-zmfq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The campus of Harvard University this month. The Department of Education announced that collections on defaulted student loan payments would resume in May.",
+                "copyright": "Sophie Park/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22xp-student-loans-zmfq/22xp-student-loans-zmfq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The campus of Harvard University this month. The Department of Education announced that collections on defaulted student loan payments would resume in May.",
+                "copyright": "Sophie Park/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22xp-student-loans-zmfq/22xp-student-loans-zmfq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The campus of Harvard University this month. The Department of Education announced that collections on defaulted student loan payments would resume in May.",
+                "copyright": "Sophie Park/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Big Tech’s Troubles",
+        "abstract": "We explain why the government is trying to break up companies like Meta and Google.",
+        "url": "https://www.nytimes.com/2025/04/22/briefing/google-meta-antitrust.html",
+        "uri": "nyt://article/22792f90-8f6c-524c-a166-e5bcd3744831",
+        "byline": "By German Lopez",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T06:55:17-04:00",
+        "created_date": "2025-04-22T06:55:17-04:00",
+        "published_date": "2025-04-22T06:55:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "internal-storyline-no",
+            "Computers and the Internet",
+            "Social Media",
+            "Regulation and Deregulation of Industry"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22themorning-nl-LEAD1/22themorning-nl-LEAD1-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1638,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Xavi Torrent/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22themorning-nl-LEAD1/22themorning-nl-LEAD1-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Xavi Torrent/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22themorning-nl-LEAD1/22themorning-nl-LEAD1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Xavi Torrent/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "Jimmy Kimmel Praises Pope Francis for Going Out With a Mic Drop",
+        "abstract": "“Is there anything more Catholic than waiting until Monday to die so you don’t upstage Jesus Christ?” Kimmel said.",
+        "url": "https://www.nytimes.com/2025/04/22/arts/television/jimmy-kimmel-pope-francis-death.html",
+        "uri": "nyt://article/f22d9fbc-43fd-5c79-a442-f5cc01bbd0d0",
+        "byline": "By Trish Bendix",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T01:50:45-04:00",
+        "created_date": "2025-04-22T01:50:45-04:00",
+        "published_date": "2025-04-22T01:50:45-04:00",
+        "material_type_facet": "",
+        "kicker": "Best of Late Night",
+        "des_facet": [
+            "Television",
+            "Jimmy Kimmel Live (TV Program)",
+            "Have I Got News for You (TV Program)",
+            "Real Time With Bill Maher (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kimmel, Jimmy",
+            "Gutfeld, Greg",
+            "Maher, Bill"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/arts/22latenight/22latenight-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 941,
+                "width": 1528,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jimmy Kimmel said Pope Francis delaying death until after Easter Sunday was ”the Pope version of a mic drop.”",
+                "copyright": "ABC"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/arts/22latenight/22latenight-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jimmy Kimmel said Pope Francis delaying death until after Easter Sunday was ”the Pope version of a mic drop.”",
+                "copyright": "ABC"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/arts/22latenight/22latenight-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jimmy Kimmel said Pope Francis delaying death until after Easter Sunday was ”the Pope version of a mic drop.”",
+                "copyright": "ABC"
+            }
+        ],
+        "short_url": ""
     }
 ]
