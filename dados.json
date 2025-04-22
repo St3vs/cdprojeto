@@ -76971,5 +76971,265 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "For Pope Francis, a Last Burst of Pastoring Before Death",
+        "abstract": "The Catholic faithful took heart when the pontiff, after two brushes with death, emerged from a hospital and resumed some of his duties. Their joy proved short-lived.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/pope-francis-mourning.html",
+        "uri": "nyt://article/04bc9d1c-1e6a-557e-b844-779e80a26433",
+        "byline": "By Jason Horowitz, Elisabetta Povoledo, Emma Bubola and Michael Levenson",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T22:11:30-04:00",
+        "created_date": "2025-04-21T16:48:03-04:00",
+        "published_date": "2025-04-21T16:48:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Fatalities)",
+            "Funerals and Memorials",
+            "Popes",
+            "Illegal Immigration",
+            "Priests",
+            "Easter and Holy Week"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Farrell, Kevin J (1947- )",
+            "Vance, J D",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Vatican City",
+            "Argentina"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-ledeall-1-wmpf/21pope-ledeall-1-wmpf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Missionaries of Charity, the religious community founded by Mother Teresa, participating in the first prayer service, a rosary, in honor of Pope Francis, in Vatican City on Monday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-ledeall-1-wmpf/21pope-ledeall-1-wmpf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Missionaries of Charity, the religious community founded by Mother Teresa, participating in the first prayer service, a rosary, in honor of Pope Francis, in Vatican City on Monday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-ledeall-1-wmpf/21pope-ledeall-1-wmpf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Missionaries of Charity, the religious community founded by Mother Teresa, participating in the first prayer service, a rosary, in honor of Pope Francis, in Vatican City on Monday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Calls Concern Over Hegseth’s 2nd Signal Chat Episode ‘Waste of Time’",
+        "abstract": "The president said he had confidence in Defense Secretary Pete Hegseth after The New York Times reported that he had shared details about a military strike in another group chat.",
+        "url": "https://www.nytimes.com/2025/04/21/us/politics/trump-hegseth-signal-chat-leak.html",
+        "uri": "nyt://article/78e222fd-eb5c-53b3-97e3-065faf6de8e4",
+        "byline": "By Jonathan Swan, Aishvarya Kavi and Michael Gold",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T21:52:50-04:00",
+        "created_date": "2025-04-21T11:26:08-04:00",
+        "published_date": "2025-04-21T11:26:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Signal Chat Leak (Trump Administration)",
+            "Classified Information and State Secrets",
+            "Ethics and Official Misconduct",
+            "United States Defense and Military Forces",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Defense Department",
+            "Signal (Open Whisper Systems)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Hegseth, Pete"
+        ],
+        "geo_facet": [
+            "Yemen"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21dc-hegsethsub-photo-lzmv/21dc-hegsethsub-photo-lzmv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has so far been unwilling to fire any of his top officials, a marked change from his first administration.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21dc-hegsethsub-photo-lzmv/21dc-hegsethsub-photo-lzmv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has so far been unwilling to fire any of his top officials, a marked change from his first administration.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21dc-hegsethsub-photo-lzmv/21dc-hegsethsub-photo-lzmv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has so far been unwilling to fire any of his top officials, a marked change from his first administration.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Government Watchdog Drops Inquiries Into Mass Firings of Probationary Workers",
+        "abstract": "Experts in federal employment law said the Trump administration’s justifications to end the investigations were baffling at best.",
+        "url": "https://www.nytimes.com/2025/04/21/us/politics/probationary-workers-firings-trump-osc.html",
+        "uri": "nyt://article/ecfe41bc-b3b5-574f-b127-4045e386cf6e",
+        "byline": "By Eileen Sullivan",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T22:03:01-04:00",
+        "created_date": "2025-04-21T22:00:00-04:00",
+        "published_date": "2025-04-21T22:00:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Layoffs and Job Reductions",
+            "Government Employees"
+        ],
+        "org_facet": [
+            "United States Office of Special Counsel",
+            "Merit Systems Protection Board (US)"
+        ],
+        "per_facet": [
+            "Collins, Douglas A (1966- )",
+            "Dellinger, Hampton",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21dc-workers-photo-hzbk/21dc-workers-photo-hzbk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the American Federation of Government Employees union protesting budget cuts and layoffs near the Capitol in February. Probationary workers were the target of the first round of staff reductions.",
+                "copyright": "Samuel Corum for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21dc-workers-photo-hzbk/21dc-workers-photo-hzbk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the American Federation of Government Employees union protesting budget cuts and layoffs near the Capitol in February. Probationary workers were the target of the first round of staff reductions.",
+                "copyright": "Samuel Corum for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21dc-workers-photo-hzbk/21dc-workers-photo-hzbk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the American Federation of Government Employees union protesting budget cuts and layoffs near the Capitol in February. Probationary workers were the target of the first round of staff reductions.",
+                "copyright": "Samuel Corum for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Protesters Chain Themselves to Columbia Gates, Calling for Activists’ Release",
+        "abstract": "Demonstrators sought the release of Mohsen Mahdawi and Mahmoud Khalil, who organized pro-Palestinian protests and have been taken into ICE custody.",
+        "url": "https://www.nytimes.com/2025/04/21/us/politics/columbia-protests-khalil-mahdawi-ice.html",
+        "uri": "nyt://article/a28a181e-69a4-5ceb-9cbd-9d3ef1865637",
+        "byline": "By Anvee Bhutani",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T21:37:57-04:00",
+        "created_date": "2025-04-21T21:33:05-04:00",
+        "published_date": "2025-04-21T21:33:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Immigration Detention",
+            "Demonstrations, Protests and Riots",
+            "Freedom of Speech and Expression",
+            "Pro-Palestinian Campus Protests (2023- )"
+        ],
+        "org_facet": [
+            "Columbia University"
+        ],
+        "per_facet": [
+            "Khalil, Mahmoud (Activist)",
+            "Mahdawi, Mohsen"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21trump-news-columbia-ice-kzhg/21trump-news-columbia-ice-kzhg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Students protesting outside the gates to Columbia University, where some temporarily locked themselves to the gates in New York City, on Monday.",
+                "copyright": "Ryan Murphy/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21trump-news-columbia-ice-kzhg/21trump-news-columbia-ice-kzhg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Students protesting outside the gates to Columbia University, where some temporarily locked themselves to the gates in New York City, on Monday.",
+                "copyright": "Ryan Murphy/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21trump-news-columbia-ice-kzhg/21trump-news-columbia-ice-kzhg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Students protesting outside the gates to Columbia University, where some temporarily locked themselves to the gates in New York City, on Monday.",
+                "copyright": "Ryan Murphy/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
