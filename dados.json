@@ -78967,5 +78967,329 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Trump Joins a Bitter Fight on Long Island Over a School Mascot",
+        "abstract": "New York’s education leaders moved to ban Native American-inspired mascots in 2022, drawing a lawsuit from the Massapequa school district. Now, the president has weighed in.",
+        "url": "https://www.nytimes.com/2025/04/22/nyregion/trump-massapequa-school-mascot.html",
+        "uri": "nyt://article/791cad97-c81e-5445-95fe-30805b2a63b3",
+        "byline": "By Troy Closson",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T10:09:30-04:00",
+        "created_date": "2025-04-22T10:09:30-04:00",
+        "published_date": "2025-04-22T10:09:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Native Americans",
+            "Education (K-12)",
+            "Diversity Initiatives",
+            "Indigenous People",
+            "Athletics and Sports"
+        ],
+        "org_facet": [
+            "Education Department (NYS)",
+            "Kansas City Chiefs"
+        ],
+        "per_facet": [
+            "McMahon, Linda E",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Massapequa (NY)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22met-trump-mascot1-qlwk/22met-trump-mascot1-qlwk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump is threatening to slash education funding across the nation if states do not eliminate diversity, equity and inclusion programs.",
+                "copyright": "Heather Khalifa for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22met-trump-mascot1-qlwk/22met-trump-mascot1-qlwk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump is threatening to slash education funding across the nation if states do not eliminate diversity, equity and inclusion programs.",
+                "copyright": "Heather Khalifa for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22met-trump-mascot1-qlwk/22met-trump-mascot1-qlwk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump is threatening to slash education funding across the nation if states do not eliminate diversity, equity and inclusion programs.",
+                "copyright": "Heather Khalifa for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Larry David: My Dinner With Adolf",
+        "abstract": "When a private meeting goes unexpectedly.",
+        "url": "https://www.nytimes.com/2025/04/21/opinion/larry-david-hitler-dinner.html",
+        "uri": "nyt://article/d413ff33-18ce-5627-a2d1-6db7e45dcfcc",
+        "byline": "By Larry David",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T08:10:37-04:00",
+        "created_date": "2025-04-21T05:03:11-04:00",
+        "published_date": "2025-04-21T05:03:11-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "Comedy and Humor",
+            "Holocaust and the Nazi Era",
+            "Jews and Judaism"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Hitler, Adolf"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/opinion/21david1/21david1-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1638,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Lia Darjes, \"Plate VII\""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/opinion/21david1/21david1-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Lia Darjes, \"Plate VII\""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/opinion/21david1/21david1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Lia Darjes, \"Plate VII\""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russia and Ukraine, Under Trump Pressure, Signal Openness to Direct Talks",
+        "abstract": "An unusual public back-and-forth suggested that both sides in the war were eager to at least appear interested in negotiations.",
+        "url": "https://www.nytimes.com/2025/04/22/world/europe/russia-ukraine-putin-zelensky.html",
+        "uri": "nyt://article/fefd5ba8-d5a5-5fa3-aa2b-addc0c67c7dc",
+        "byline": "By Anton Troianovski",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T10:51:43-04:00",
+        "created_date": "2025-04-22T10:37:52-04:00",
+        "published_date": "2025-04-22T10:37:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Peskov, Dmitri S",
+            "Putin, Vladimir V",
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Black Sea",
+            "Europe",
+            "Kyiv (Ukraine)",
+            "Kursk (Russia)",
+            "Moscow (Russia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-russia-ukraine-01-czlf/22int-russia-ukraine-01-czlf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ukrainian soldiers on the front line in February.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-russia-ukraine-01-czlf/22int-russia-ukraine-01-czlf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ukrainian soldiers on the front line in February.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-russia-ukraine-01-czlf/22int-russia-ukraine-01-czlf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ukrainian soldiers on the front line in February.",
+                "copyright": "Tyler Hicks/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Tesla’s Falling Profit May Pressure Elon Musk to Return to Day Job",
+        "abstract": "The carmaker is expected to report a decline in quarterly earnings after Tesla’s brand suffered because of its chief executive’s role in the Trump administration.",
+        "url": "https://www.nytimes.com/2025/04/22/business/tesla-earnings-elon-musk.html",
+        "uri": "nyt://article/fdee36a7-91fa-5e8a-b347-16c920da7420",
+        "byline": "By Jack Ewing",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T10:27:08-04:00",
+        "created_date": "2025-04-22T10:27:08-04:00",
+        "published_date": "2025-04-22T10:27:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Electric and Hybrid Vehicles",
+            "Company Reports",
+            "Automobiles",
+            "United States Politics and Government",
+            "Demonstrations, Protests and Riots",
+            "Driverless and Semiautonomous Vehicles",
+            "Innovation",
+            "Prices (Fares, Fees and Rates)",
+            "International Trade and World Market",
+            "Sports Utility Vehicles and Light Trucks",
+            "Discount Selling",
+            "Customs (Tariff)",
+            "Car Services and Livery Cabs",
+            "Factories and Manufacturing"
+        ],
+        "org_facet": [
+            "Tesla Motors Inc",
+            "Waymo",
+            "Government Efficiency Department (US)",
+            "BYD Co Ltd"
+        ],
+        "per_facet": [
+            "Musk, Elon",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22biz-tesla-earnings-wjvg/22biz-tesla-earnings-wjvg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "As one of President Trump’s advisers, Elon Musk, the chief executive of Tesla, has become a lightning rod.",
+                "copyright": "Jim Vondruska for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22biz-tesla-earnings-wjvg/22biz-tesla-earnings-wjvg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "As one of President Trump’s advisers, Elon Musk, the chief executive of Tesla, has become a lightning rod.",
+                "copyright": "Jim Vondruska for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22biz-tesla-earnings-wjvg/22biz-tesla-earnings-wjvg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "As one of President Trump’s advisers, Elon Musk, the chief executive of Tesla, has become a lightning rod.",
+                "copyright": "Jim Vondruska for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Sweating to Shivering: Study Finds Rapid Swings in Temperature Have Increased",
+        "abstract": "Flips between warm temperatures to cold and vice versa have become quicker, more frequent and more intense in recent decades, a new study shows.",
+        "url": "https://www.nytimes.com/2025/04/22/climate/temperature-swings-climate-change.html",
+        "uri": "nyt://article/d0a4b934-385b-5e05-8673-100aeb424734",
+        "byline": "By Christina Kelso",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T11:00:19-04:00",
+        "created_date": "2025-04-22T11:00:19-04:00",
+        "published_date": "2025-04-22T11:00:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Weather",
+            "Heat and Heat Waves",
+            "Global Warming",
+            "Flowers and Plants",
+            "Greenhouse Gas Emissions"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2021/04/12/world/22cli-temperature-swings/12FRANCE-WINE2-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ice on wires at the Daniel-Etienne Defaix vineyard near Chablis, France, in April 2021, when a sudden frost caused widespread crop damage.",
+                "copyright": "Jeff Pachoud/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2021/04/12/world/22cli-temperature-swings/merlin_186078657_687d31d6-8343-4a87-b171-033d10ef76e0-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ice on wires at the Daniel-Etienne Defaix vineyard near Chablis, France, in April 2021, when a sudden frost caused widespread crop damage.",
+                "copyright": "Jeff Pachoud/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2021/04/12/world/22cli-temperature-swings/12FRANCE-WINE2-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ice on wires at the Daniel-Etienne Defaix vineyard near Chablis, France, in April 2021, when a sudden frost caused widespread crop damage.",
+                "copyright": "Jeff Pachoud/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
