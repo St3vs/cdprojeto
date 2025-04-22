@@ -77428,5 +77428,260 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "What’s Involved in a Papal Funeral?",
+        "abstract": "Pope Francis’ funeral, which is set to begin on Saturday, will span several days.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/pope-francis-funeral-arrangements.html",
+        "uri": "nyt://article/e7e3a106-58ad-5655-9c49-15f6d117974d",
+        "byline": "By Gaia Pianigiani",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T04:36:04-04:00",
+        "created_date": "2025-04-21T05:53:14-04:00",
+        "published_date": "2025-04-21T05:53:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Funerals and Memorials",
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Benedict XVI",
+            "Francis",
+            "John Paul II"
+        ],
+        "geo_facet": [
+            "Vatican City",
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2023/01/05/multimedia/00pope-francis-funeral-arrangements/05-THE-MORNING-NL-pope-1-54df-superJumbo-v3.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis presiding over the funeral of Pope Emeritus Benedict XVI in St. Peter’s Square in 2023.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2023/01/05/multimedia/00pope-francis-funeral-arrangements/05-THE-MORNING-NL-pope-1-54df-threeByTwoSmallAt2X-v3.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis presiding over the funeral of Pope Emeritus Benedict XVI in St. Peter’s Square in 2023.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2023/01/05/multimedia/00pope-francis-funeral-arrangements/00pope-francis-funeral-arrangements-thumbLarge-v4.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis presiding over the funeral of Pope Emeritus Benedict XVI in St. Peter’s Square in 2023.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Gold Hits $3,500, Setting Another Record, as Investors Remain Uneasy",
+        "abstract": "President Trump’s tariffs and his attacks on the Federal Reserve continue to unnerve the markets, pushing investors away from the dollar and toward havens like gold.",
+        "url": "https://www.nytimes.com/2025/04/22/business/trump-tariffs-stocks-gold-price.html",
+        "uri": "nyt://article/320b58fa-fd57-5c43-b9d4-21201120405f",
+        "byline": "By Kevin Granville",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T04:20:44-04:00",
+        "created_date": "2025-04-22T04:20:44-04:00",
+        "published_date": "2025-04-22T04:20:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Banking and Financial Institutions",
+            "Foreign Investments",
+            "Metals and Minerals",
+            "Stocks and Bonds",
+            "Currency",
+            "Gold"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22gold-promo-zhjl/22gold-promo-zhjl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1424,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mike Groll/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22gold-promo-zhjl/22gold-promo-zhjl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mike Groll/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22gold-promo-zhjl/22gold-promo-zhjl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mike Groll/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Pope Francis’ Gay Muddle",
+        "abstract": "Good Catholics were supposed to embrace gay people but not their gayness. That’s hardly the arithmetic of equality.",
+        "url": "https://www.nytimes.com/2025/04/22/opinion/pope-francis-gay-muddle.html",
+        "uri": "nyt://article/cac2e829-c618-5c96-b2e7-8fe6f3a90573",
+        "byline": "By Frank Bruni",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T05:00:29-04:00",
+        "created_date": "2025-04-22T05:00:29-04:00",
+        "published_date": "2025-04-22T05:00:29-04:00",
+        "material_type_facet": "",
+        "kicker": "Frank Bruni",
+        "des_facet": [
+            "Homosexuality and Bisexuality",
+            "Celibacy",
+            "Popes",
+            "Clergy",
+            "Priests",
+            "Child Abuse and Neglect"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Benedict XVI",
+            "Francis"
+        ],
+        "geo_facet": [
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21bruni2-btqv/21bruni2-btqv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1705,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Riccardo Antimiani/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21bruni2-btqv/21bruni2-btqv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Riccardo Antimiani/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21bruni2-btqv/21bruni2-btqv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Riccardo Antimiani/EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "I Caught a Glimpse of the New World Order in Greenland",
+        "abstract": "Whom Greenlanders choose to do business with — economically, politically and socially — will tell us a lot about the coming global realignment.",
+        "url": "https://www.nytimes.com/2025/04/22/opinion/greenland-trump-rare-earth-mining.html",
+        "uri": "nyt://article/d704a501-01f7-50e7-a599-df9b65ccf044",
+        "byline": "By Krista Mahr and Photographs by Damon Winter",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T05:02:51-04:00",
+        "created_date": "2025-04-22T05:02:51-04:00",
+        "published_date": "2025-04-22T05:02:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Rare Earths"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Frederiksen, Mette",
+            "Vance, J D"
+        ],
+        "geo_facet": [
+            "Greenland",
+            "Nuuk (Greenland)",
+            "Denmark"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22mahrPromo-jbqg/22mahrPromo-jbqg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Damon Winter/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22mahrPromo-jbqg/22mahrPromo-jbqg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Damon Winter/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22mahrPromo-jbqg/22mahrPromo-jbqg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Damon Winter/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
