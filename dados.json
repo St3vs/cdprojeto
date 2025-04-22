@@ -76780,5 +76780,196 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "With Latest Missteps, Veneer of Discipline in 2nd Trump Term Falls Away",
+        "abstract": "The mistakes, miscommunications and flip-flops are piling up after an early run defined by a flood of major policy changes that were rolled out at breakneck speed.",
+        "url": "https://www.nytimes.com/2025/04/21/us/politics/trump-administration-missteps.html",
+        "uri": "nyt://article/7a4e90e5-d5c8-571a-8513-4c10ae1af1c8",
+        "byline": "By Luke Broadwater",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T20:57:54-04:00",
+        "created_date": "2025-04-21T20:26:02-04:00",
+        "published_date": "2025-04-21T20:26:02-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [
+            "Hegseth, Pete",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21dc-memo-TOP-tjwc/21dc-memo-TOP-tjwc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump at the White House this month.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21dc-memo-TOP-tjwc/21dc-memo-TOP-tjwc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump at the White House this month.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21dc-memo-TOP-tjwc/21dc-memo-TOP-tjwc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump at the White House this month.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Mahmoud Khalil’s Wife Gives Birth as ICE Bars Him From Being There",
+        "abstract": "Mr. Khalil, a permanent resident detained in Louisiana, had requested a monitored furlough for the birth. His request was denied in less than an hour.",
+        "url": "https://www.nytimes.com/2025/04/21/nyregion/mahmoud-khalil-denied-baby-birth.html",
+        "uri": "nyt://article/9c7b9ecc-24c0-5efa-afa3-ce9e1ab3389d",
+        "byline": "By Jonah E. Bromwich",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T19:08:57-04:00",
+        "created_date": "2025-04-21T19:08:57-04:00",
+        "published_date": "2025-04-21T19:08:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "United States Politics and Government",
+            "Colleges and Universities",
+            "United States International Relations",
+            "Freedom of Speech and Expression",
+            "Pregnancy and Childbirth"
+        ],
+        "org_facet": [
+            "Columbia University",
+            "Immigration and Customs Enforcement (US)"
+        ],
+        "per_facet": [
+            "Rubio, Marco",
+            "Trump, Donald J",
+            "Khalil, Mahmoud (Activist)",
+            "Noor Abdalla"
+        ],
+        "geo_facet": [
+            "Jena (LA)",
+            "New Jersey"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21-met-khalil-baby2-mbjq/21-met-khalil-baby2-mbjq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dr. Noor Abdalla, wife of Mahmoud Khalil, at her home in New York, last month. She went into labor Sunday.",
+                "copyright": "Shuran Huang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21-met-khalil-baby2-mbjq/21-met-khalil-baby2-mbjq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dr. Noor Abdalla, wife of Mahmoud Khalil, at her home in New York, last month. She went into labor Sunday.",
+                "copyright": "Shuran Huang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21-met-khalil-baby2-mbjq/21-met-khalil-baby2-mbjq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dr. Noor Abdalla, wife of Mahmoud Khalil, at her home in New York, last month. She went into labor Sunday.",
+                "copyright": "Shuran Huang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Trump Will Never Be the ‘Fertilization President’",
+        "abstract": "MAGA pronatalism is doomed to fail.",
+        "url": "https://www.nytimes.com/2025/04/21/opinion/trump-fertility-birthrate-sexism.html",
+        "uri": "nyt://article/b4660bf8-6fa5-522f-82a6-310f7c621966",
+        "byline": "By Michelle Goldberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T20:55:06-04:00",
+        "created_date": "2025-04-21T20:55:06-04:00",
+        "published_date": "2025-04-21T20:55:06-04:00",
+        "material_type_facet": "",
+        "kicker": "Michelle Goldberg",
+        "des_facet": [
+            "United States Politics and Government",
+            "Birth Rates",
+            "Children and Childhood",
+            "Politics and Government",
+            "Women and Girls",
+            "Population"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Orban, Viktor",
+            "Musk, Elon",
+            "Vance, J D"
+        ],
+        "geo_facet": [
+            "Hungary"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21goldberg-hbjc/21goldberg-hbjc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jimmy Beunardeau/Hans Lucas, via Re​dux"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21goldberg-hbjc/21goldberg-hbjc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jimmy Beunardeau/Hans Lucas, via Re​dux"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21goldberg-hbjc/21goldberg-hbjc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jimmy Beunardeau/Hans Lucas, via Re​dux"
+            }
+        ],
+        "short_url": ""
     }
 ]
