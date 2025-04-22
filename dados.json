@@ -77683,5 +77683,790 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Francis’ Death Silences a Voice for the Voiceless",
+        "abstract": "As democratic values and alliances were being turned upside down, the pope was a consistent moral guidepost. Who can play that role now?",
+        "url": "https://www.nytimes.com/2025/04/22/world/europe/pope-francis-politics-advocate.html",
+        "uri": "nyt://article/f88320f6-ce47-52ed-ac38-2321e49ed620",
+        "byline": "By Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T04:43:10-04:00",
+        "created_date": "2025-04-22T00:01:14-04:00",
+        "published_date": "2025-04-22T00:01:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Clergy",
+            "Illegal Immigration",
+            "Deportation",
+            "Politics and Government",
+            "Poverty",
+            "Human Rights and Human Rights Violations",
+            "United States International Relations",
+            "Christians and Christianity",
+            "Empathy",
+            "Authoritarianism (Theory and Philosophy)",
+            "Income Inequality"
+        ],
+        "org_facet": [
+            "International Organization for Migration",
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Gallagher, Paul R (1954- )",
+            "Merkel, Angela",
+            "Obama, Barack",
+            "Trump, Donald J",
+            "Vance, J D"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Germany",
+            "Italy",
+            "Mediterranean Sea",
+            "Rome (Italy)",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-pope-moment-plhk/22int-pope-moment-plhk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis at a service for the world’s migrants and refugees in St. Peter’s Square, at the Vatican in 2023.",
+                "copyright": "Remo Casilli/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-pope-moment-plhk/22int-pope-moment-plhk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis at a service for the world’s migrants and refugees in St. Peter’s Square, at the Vatican in 2023.",
+                "copyright": "Remo Casilli/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-pope-moment-plhk/22int-pope-moment-plhk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis at a service for the world’s migrants and refugees in St. Peter’s Square, at the Vatican in 2023.",
+                "copyright": "Remo Casilli/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "podcasts",
+        "subsection": "the-headlines",
+        "title": "How to Choose a Pope, and a Deportation ‘Black Hole’",
+        "abstract": "Plus, the Oscars OK the use of A.I. (with caveats).",
+        "url": "https://www.nytimes.com/2025/04/22/podcasts/the-headlines/francis-pope-conclave-deportation-black-hole.html",
+        "uri": "nyt://article/66f1aaaa-4747-5d8f-9127-006f8ad33cd5",
+        "byline": "By Tracy Mumford, Will Jarvis, Ian Stewart and Jessica Metzger",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T06:01:41-04:00",
+        "created_date": "2025-04-22T06:00:10-04:00",
+        "published_date": "2025-04-22T06:00:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Artificial Intelligence",
+            "Signal Chat Leak (Trump Administration)",
+            "Academy Awards (Oscars)",
+            "Illegal Immigration",
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Signal (Open Whisper Systems)",
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Francis"
+        ],
+        "geo_facet": [
+            "United States",
+            "Venezuela"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22headlines-zgmt/22headlines-zgmt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "St. Peter’s Square in the Vatican during a prayer service in honor of Pope Francis on Monday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22headlines-zgmt/22headlines-zgmt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "St. Peter’s Square in the Vatican during a prayer service in honor of Pope Francis on Monday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22headlines-zgmt/22headlines-zgmt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "St. Peter’s Square in the Vatican during a prayer service in honor of Pope Francis on Monday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Can Harvard Withstand Trump’s Financial Attack?",
+        "abstract": "The world’s richest university may have enough money to survive a battle with the most powerful man in the world. But if Trump wins, Harvard won’t be the same.",
+        "url": "https://www.nytimes.com/2025/04/22/us/harvard-trump-funding-endowment.html",
+        "uri": "nyt://article/cd6fda77-4c08-5378-83f1-e09858dd34f0",
+        "byline": "By Alan Blinder and Stephanie Saul",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T05:03:53-04:00",
+        "created_date": "2025-04-22T05:03:53-04:00",
+        "published_date": "2025-04-22T05:03:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Colleges and Universities",
+            "Federal Aid (US)",
+            "Research",
+            "Endowments"
+        ],
+        "org_facet": [
+            "Harvard University"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Garber, Alan M"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00nat-university-finances-zmbk/00nat-university-finances-zmbk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard’s endowment is made up of thousands of funds, many of which have rules that limit how the money can be spent.",
+                "copyright": "Cody O'Loughlin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00nat-university-finances-zmbk/00nat-university-finances-zmbk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard’s endowment is made up of thousands of funds, many of which have rules that limit how the money can be spent.",
+                "copyright": "Cody O'Loughlin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00nat-university-finances-zmbk/00nat-university-finances-zmbk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard’s endowment is made up of thousands of funds, many of which have rules that limit how the money can be spent.",
+                "copyright": "Cody O'Loughlin for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Under Hegseth, Chaos Prevails at the Pentagon",
+        "abstract": "The defense secretary’s inner circle is in disarray, and distrust is growing among civil servants and senior military officials.",
+        "url": "https://www.nytimes.com/2025/04/22/us/politics/hegseth-chaos-pentagon.html",
+        "uri": "nyt://article/5738657d-56c7-5951-b995-4d84a9acff6d",
+        "byline": "By Greg Jaffe and Helene Cooper",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T05:05:10-04:00",
+        "created_date": "2025-04-22T05:05:10-04:00",
+        "published_date": "2025-04-22T05:05:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Defense and Military Forces",
+            "Appointments and Executive Changes",
+            "Defense and Military Forces",
+            "Signal Chat Leak (Trump Administration)"
+        ],
+        "org_facet": [
+            "Defense Department",
+            "Government Efficiency Department (US)"
+        ],
+        "per_facet": [
+            "Hegseth, Pete",
+            "Musk, Elon",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-pentagon-chaos-01-bvmg/22dc-pentagon-chaos-01-bvmg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1370,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Defense Secretary Pete Hegseth at the White House this month.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-pentagon-chaos-01-bvmg/22dc-pentagon-chaos-01-bvmg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Defense Secretary Pete Hegseth at the White House this month.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-pentagon-chaos-01-bvmg/22dc-pentagon-chaos-01-bvmg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Defense Secretary Pete Hegseth at the White House this month.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Angst Builds Inside Federal Agency Over Trump’s Moves Against Law Firms",
+        "abstract": "The Trump administration has deployed the Equal Employment Opportunity Commission in its effort to seek retribution against corporate law firms.",
+        "url": "https://www.nytimes.com/2025/04/22/business/eeoc-trump-dei-law-firms.html",
+        "uri": "nyt://article/f0afd2be-1e8b-5197-9335-ccc6b0d08ef7",
+        "byline": "By Jessica Silver-Greenberg, Matthew Goldstein and Kenneth P. Vogel",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T05:03:29-04:00",
+        "created_date": "2025-04-22T05:03:29-04:00",
+        "published_date": "2025-04-22T05:03:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Legal Profession",
+            "Civil Rights and Liberties",
+            "Hiring and Promotion",
+            "Diversity Initiatives"
+        ],
+        "org_facet": [
+            "Equal Employment Opportunity Commission",
+            "A&O Shearman",
+            "Latham & Watkins LLP",
+            "Kirkland & Ellis",
+            "SIMPSON THACHER & BARTLETT"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/BIZ-EEOC-LAWFIRMS-01-cwkj/BIZ-EEOC-LAWFIRMS-01-cwkj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1639,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Equal Employment Opportunity Commission has conducted an inquiry into the hiring practices at 20 law firms, alarming current and former employees.",
+                "copyright": "Andrew Harrer/Bloomberg"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/BIZ-EEOC-LAWFIRMS-01-cwkj/BIZ-EEOC-LAWFIRMS-01-cwkj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Equal Employment Opportunity Commission has conducted an inquiry into the hiring practices at 20 law firms, alarming current and former employees.",
+                "copyright": "Andrew Harrer/Bloomberg"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/BIZ-EEOC-LAWFIRMS-01-cwkj/BIZ-EEOC-LAWFIRMS-01-cwkj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Equal Employment Opportunity Commission has conducted an inquiry into the hiring practices at 20 law firms, alarming current and former employees.",
+                "copyright": "Andrew Harrer/Bloomberg"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Businesses Plead for Tariff Breaks After Trump Spares iPhones",
+        "abstract": "Retail executives huddled with the president amid fears that tariffs could result in higher prices.",
+        "url": "https://www.nytimes.com/2025/04/22/us/politics/trump-tariffs-relief-apple.html",
+        "uri": "nyt://article/e9b69144-5ed6-56b7-b91f-36c856766a6d",
+        "byline": "By Tony Romm",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T05:03:36-04:00",
+        "created_date": "2025-04-22T05:03:36-04:00",
+        "published_date": "2025-04-22T05:03:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Computers and the Internet",
+            "Factories and Manufacturing",
+            "Prices (Fares, Fees and Rates)",
+            "Electronics",
+            "Computer Chips",
+            "Automobiles",
+            "Rare Earths"
+        ],
+        "org_facet": [
+            "Apple Inc"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-tarifflobby-pvcf/22dc-tarifflobby-pvcf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump acknowledged last week that he had “helped” Apple, sparing iPhones from the roughly 145 percent U.S. tariff that currently applies to Chinese imports.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-tarifflobby-pvcf/22dc-tarifflobby-pvcf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump acknowledged last week that he had “helped” Apple, sparing iPhones from the roughly 145 percent U.S. tariff that currently applies to Chinese imports.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-tarifflobby-pvcf/22dc-tarifflobby-pvcf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump acknowledged last week that he had “helped” Apple, sparing iPhones from the roughly 145 percent U.S. tariff that currently applies to Chinese imports.",
+                "copyright": "Karsten Moran for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "How a Funeral Director Brought Wind Power to Rural Missouri",
+        "abstract": "Every year for nearly two decades, the small city of Rock Port has been producing more electricity from wind energy than it needs.",
+        "url": "https://www.nytimes.com/2025/04/21/climate/wind-power-missouri.html",
+        "uri": "nyt://article/02a9f61c-cff4-51f5-b7b3-534ffb7b933a",
+        "byline": "By Cara Buckley and David Robert Elliott",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T20:18:26-04:00",
+        "created_date": "2025-04-21T20:00:15-04:00",
+        "published_date": "2025-04-21T20:00:15-04:00",
+        "material_type_facet": "",
+        "kicker": "50 States, 50 Fixes",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Wind Power",
+            "Rural Areas",
+            "Electric Light and Power"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Missouri"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00cli-mo-promo-tqkc/00cli-mo-promo-tqkc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "David Robert Elliott for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00cli-mo-promo-tqkc/00cli-mo-promo-tqkc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "David Robert Elliott for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00cli-mo-promo-tqkc/00cli-mo-promo-tqkc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "David Robert Elliott for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Suicides and Rape at a Prized Mental Health Center",
+        "abstract": "Timberline Knolls, a mental health center owned by Acadia Healthcare, skimped on staff. Then came a series of tragedies.",
+        "url": "https://www.nytimes.com/2025/04/22/business/acadia-timberline-knolls-suicide-rape.html",
+        "uri": "nyt://article/da37ee70-0ca4-50df-bda3-1436043373af",
+        "byline": "By Jessica Silver-Greenberg and Katie Thomas",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T05:00:31-04:00",
+        "created_date": "2025-04-22T05:00:31-04:00",
+        "published_date": "2025-04-22T05:00:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Sex Crimes",
+            "Police",
+            "Workplace Hazards and Violations",
+            "Mental Health and Disorders",
+            "Therapy and Rehabilitation"
+        ],
+        "org_facet": [
+            "Acadia Healthcare Company Inc"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Lemont, Ill."
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/ACADIA-TIMBERLINE-01-mwck/ACADIA-TIMBERLINE-01-mwck-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dangerous conditions persisted for years at Timberline Knolls, a mental health center for women in Lemont, Ill.",
+                "copyright": "Mustafa Hussain for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/ACADIA-TIMBERLINE-01-mwck/ACADIA-TIMBERLINE-01-mwck-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dangerous conditions persisted for years at Timberline Knolls, a mental health center for women in Lemont, Ill.",
+                "copyright": "Mustafa Hussain for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/ACADIA-TIMBERLINE-01-mwck/ACADIA-TIMBERLINE-01-mwck-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dangerous conditions persisted for years at Timberline Knolls, a mental health center for women in Lemont, Ill.",
+                "copyright": "Mustafa Hussain for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "A Venezuelan Is Missing. The U.S. Deported Him. But to Where?",
+        "abstract": "The immigrant does not appear on a list of people sent to a prison in El Salvador, and his family and friends have no idea of his whereabouts. He has essentially disappeared.",
+        "url": "https://www.nytimes.com/2025/04/22/us/venezuela-immigrant-disappear-deport-ice.html",
+        "uri": "nyt://article/6dc66cf1-c1d5-58e1-b7c7-ff33a66c730b",
+        "byline": "By Miriam Jordan",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T05:04:09-04:00",
+        "created_date": "2025-04-22T05:04:09-04:00",
+        "published_date": "2025-04-22T05:04:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Immigration Detention",
+            "Immigration and Emigration",
+            "United States Politics and Government",
+            "Venezuelan-Americans"
+        ],
+        "org_facet": [
+            "Immigration and Customs Enforcement (US)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Venezuela",
+            "Detroit (Mich)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00nat-immigrant-disappear-01-mbfh/00nat-immigrant-disappear-01-mbfh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ricardo Prada Vásquez accidentally turned onto the Ambassador Bridge, which connects Detroit with Canada. He was detained while attempting to re-enter the United States.",
+                "copyright": "Brittany Greeson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00nat-immigrant-disappear-01-mbfh/00nat-immigrant-disappear-01-mbfh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ricardo Prada Vásquez accidentally turned onto the Ambassador Bridge, which connects Detroit with Canada. He was detained while attempting to re-enter the United States.",
+                "copyright": "Brittany Greeson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00nat-immigrant-disappear-01-mbfh/00nat-immigrant-disappear-01-mbfh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ricardo Prada Vásquez accidentally turned onto the Ambassador Bridge, which connects Detroit with Canada. He was detained while attempting to re-enter the United States.",
+                "copyright": "Brittany Greeson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Rep. Haley Stevens Joins an Increasingly Crowded Michigan Senate Race",
+        "abstract": "The Democratic representative from suburban Detroit is likely to be seen as a centrist in the primary contest to replace Senator Gary Peters, who is retiring.",
+        "url": "https://www.nytimes.com/2025/04/22/us/politics/michigan-senate-race-democrats-haley-stevens.html",
+        "uri": "nyt://article/167f6a39-35f0-53d6-83f0-97cb1bf6c8e7",
+        "byline": "By Katie Glueck",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T05:03:58-04:00",
+        "created_date": "2025-04-22T05:03:58-04:00",
+        "published_date": "2025-04-22T05:03:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Politics and Government",
+            "Primaries and Caucuses",
+            "Midterm Elections (2022)",
+            "Elections, Senate"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "El-Sayed, Abdul",
+            "McMorrow, Mallory",
+            "Rogers, Michael J (1963- )",
+            "Stevens, Haley"
+        ],
+        "geo_facet": [
+            "Michigan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00pol-stevens-senate-vckq/00pol-stevens-senate-vckq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Haley Stevens, who was first elected to Congress in 2018, is a strong fund-raiser who chairs the center-left New Democrat Coalition Action Fund.",
+                "copyright": "Susan Walsh/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00pol-stevens-senate-vckq/00pol-stevens-senate-vckq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Haley Stevens, who was first elected to Congress in 2018, is a strong fund-raiser who chairs the center-left New Democrat Coalition Action Fund.",
+                "copyright": "Susan Walsh/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/00pol-stevens-senate-vckq/00pol-stevens-senate-vckq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Haley Stevens, who was first elected to Congress in 2018, is a strong fund-raiser who chairs the center-left New Democrat Coalition Action Fund.",
+                "copyright": "Susan Walsh/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "Sex Hormones Are Brain Hormones. What Does This Mean for Treating Brain Diseases?",
+        "abstract": "A growing understanding of how “reproductive” hormones sculpt the brain could transform the management of neurological conditions.",
+        "url": "https://www.nytimes.com/2025/04/22/health/neuroscience-estrogen-hormones.html",
+        "uri": "nyt://article/d7fa622a-4057-535e-be81-0c58959b15a5",
+        "byline": "By Rachel E. Gross",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T05:00:38-04:00",
+        "created_date": "2025-04-22T05:00:38-04:00",
+        "published_date": "2025-04-22T05:00:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Hormones",
+            "Brain",
+            "Menopause",
+            "Women and Girls",
+            "Pregnancy and Childbirth",
+            "Menstruation",
+            "Migraine Headaches",
+            "Multiple Sclerosis",
+            "Women's Health Initiative",
+            "Estrogen",
+            "Autoimmune Diseases"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/science/08sci-Hormones-cover/08sci-Hormones-cover-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Yuko Shimizu"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/science/08sci-Hormones-cover/08sci-Hormones-cover-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Yuko Shimizu"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/science/08sci-Hormones-cover/08sci-Hormones-cover-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Yuko Shimizu"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Opening Arguments in Karen Read’s Retrial Are Set to Begin",
+        "abstract": "Ms. Read is accused of intentionally backing a vehicle into her boyfriend, a Boston police officer, and killing him in 2022. Her first trial last year ended in a mistrial.",
+        "url": "https://www.nytimes.com/article/karen-read-murder-trial.html",
+        "uri": "nyt://article/f37e52a6-2769-5e76-80f2-e243c022366a",
+        "byline": "By Michael Levenson and Jenna Russell",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T05:06:19-04:00",
+        "created_date": "2024-06-26T15:47:14-04:00",
+        "published_date": "2024-06-26T15:47:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Murders, Attempted Murders and Homicides",
+            "Hit-and-Run Drivers",
+            "Domestic Violence",
+            "Police"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "O'Keefe, John (d 2022)",
+            "Read, Karen (1980- )"
+        ],
+        "geo_facet": [
+            "Boston (Mass)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2024/06/26/multimedia/26xp-read-wwk-lfmk/26xp-read-wwk-lfmk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 841,
+                "width": 1260,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Karen Read, in court last June. She is accused of killing her boyfriend, a Boston police officer, in 2022.",
+                "copyright": "Pool photo by Greg Derr"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/06/26/multimedia/26xp-read-wwk-lfmk/26xp-read-wwk-lfmk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 401,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Karen Read, in court last June. She is accused of killing her boyfriend, a Boston police officer, in 2022.",
+                "copyright": "Pool photo by Greg Derr"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/06/26/multimedia/26xp-read-wwk-lfmk/26xp-read-wwk-lfmk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Karen Read, in court last June. She is accused of killing her boyfriend, a Boston police officer, in 2022.",
+                "copyright": "Pool photo by Greg Derr"
+            }
+        ],
+        "short_url": ""
     }
 ]
