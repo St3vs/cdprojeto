@@ -79924,5 +79924,196 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "media",
+        "title": "Top Producer of ‘60 Minutes’ Quits, Saying He Lost Independence",
+        "abstract": "The news program has faced mounting pressure from both President Trump and its corporate ownership at Paramount, the parent company of CBS News.",
+        "url": "https://www.nytimes.com/2025/04/22/business/media/cbs-60-minutes-trump-bill-owens.html",
+        "uri": "nyt://article/4b61bf95-2148-5e3c-ac37-1e4a5c28e30a",
+        "byline": "By Michael M. Grynbaum",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T13:26:38-04:00",
+        "created_date": "2025-04-22T13:06:48-04:00",
+        "published_date": "2025-04-22T13:06:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "News and News Media",
+            "Media",
+            "United States Politics and Government",
+            "CBS Evening News (TV Program)",
+            "60 Minutes (TV Program)"
+        ],
+        "org_facet": [
+            "CBS News",
+            "Paramount Global",
+            "CBS Corporation"
+        ],
+        "per_facet": [
+            "Owens, Bill (Television Executive)",
+            "Redstone, Shari",
+            "McMahon, Wendy (Television Executive)",
+            "Zirinsky, Susan",
+            "Cronkite, Walter"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22biz-cbs-zbgt/22biz-cbs-zbgt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Legal experts have dismissed President Trump’s lawsuit against CBS News as baseless and far-fetched, and Bill Owens, the executive producer of “60 Minutes,” said in February that he would not apologize as part of any prospective settlement. ",
+                "copyright": "Piaras Ó Mídheach/Sportsfile for Collision, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22biz-cbs-zbgt/22biz-cbs-zbgt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Legal experts have dismissed President Trump’s lawsuit against CBS News as baseless and far-fetched, and Bill Owens, the executive producer of “60 Minutes,” said in February that he would not apologize as part of any prospective settlement. ",
+                "copyright": "Piaras Ó Mídheach/Sportsfile for Collision, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22biz-cbs-zbgt/22biz-cbs-zbgt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Legal experts have dismissed President Trump’s lawsuit against CBS News as baseless and far-fetched, and Bill Owens, the executive producer of “60 Minutes,” said in February that he would not apologize as part of any prospective settlement. ",
+                "copyright": "Piaras Ó Mídheach/Sportsfile for Collision, via Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "I Watched the Pope Visit the Forgotten and Convert the Skeptical",
+        "abstract": "Jim Yardley, the former Rome bureau chief for The New York Times, witnessed Pope Francis’ transformation from an unlikely papal contender to a beloved figure.",
+        "url": "https://www.nytimes.com/2025/04/22/world/europe/pope-francis-death-legacy.html",
+        "uri": "nyt://article/cfdb0d0c-f11e-533c-8c55-c8179b7839bb",
+        "byline": "By Jim Yardley",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T14:14:36-04:00",
+        "created_date": "2025-04-22T13:50:06-04:00",
+        "published_date": "2025-04-22T13:50:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "New York Times"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Chiapas (Mexico)",
+            "Asuncion (Paraguay)",
+            "Caucasus (Russia)",
+            "Greece"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2015/09/19/world/europe/22pope-francis-yardley-first-person1/19FRANCIS-SS-slide-NLUH-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1310,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis riding in his popemobile in Asunción, Paraguay, after meeting with youths in 2015.",
+                "copyright": "Natacha Pisarenko/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2015/09/19/world/europe/22pope-francis-yardley-first-person1/22pope-francis-yardley-first-person1-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis riding in his popemobile in Asunción, Paraguay, after meeting with youths in 2015.",
+                "copyright": "Natacha Pisarenko/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2015/09/19/world/europe/22pope-francis-yardley-first-person1/22pope-francis-yardley-first-person1-thumbLarge-v3.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis riding in his popemobile in Asunción, Paraguay, after meeting with youths in 2015.",
+                "copyright": "Natacha Pisarenko/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Before Harvard Was Hailed a Hero, It Sought a Deal With Trump",
+        "abstract": "Harvard frantically tried to avoid a showdown with the Trump administration. Now many of its big donors are pushing the university’s leaders to back down and renew talks with the White House.",
+        "url": "https://www.nytimes.com/2025/04/22/business/harvard-trump-deal.html",
+        "uri": "nyt://article/8706ff82-5dea-5a94-9594-8f350d7b8ed5",
+        "byline": "By Rob Copeland, Maureen Farrell and Michael S. Schmidt",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T14:17:20-04:00",
+        "created_date": "2025-04-22T13:15:00-04:00",
+        "published_date": "2025-04-22T13:15:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Colleges and Universities",
+            "Suits and Litigation (Civil)",
+            "Diversity Initiatives"
+        ],
+        "org_facet": [
+            "Harvard University"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Garber, Alan M"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22BIZ-HARVARD-BOARD-01-vlbw/22BIZ-HARVARD-BOARD-01-vlbw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Harvard Corporation had previously taken a very different stance toward the Trump administration.",
+                "copyright": "Cody O'Loughlin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22BIZ-HARVARD-BOARD-01-vlbw/22BIZ-HARVARD-BOARD-01-vlbw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Harvard Corporation had previously taken a very different stance toward the Trump administration.",
+                "copyright": "Cody O'Loughlin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22BIZ-HARVARD-BOARD-01-vlbw/22BIZ-HARVARD-BOARD-01-vlbw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Harvard Corporation had previously taken a very different stance toward the Trump administration.",
+                "copyright": "Cody O'Loughlin for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
