@@ -81149,5 +81149,363 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Promised ‘Big, Beautiful’ Deals. Delivering Has Been Tougher.",
+        "abstract": "So far, the goals of many of President Trump’s negotiations have been unrealized, even those he said would be accomplished in a matter of days or weeks.",
+        "url": "https://www.nytimes.com/2025/04/22/us/politics/trump-trade-ukraine-negotiations.html",
+        "uri": "nyt://article/194242b0-b772-5393-861b-0a68dce20888",
+        "byline": "By Tyler Pager",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T19:03:24-04:00",
+        "created_date": "2025-04-22T18:13:24-04:00",
+        "published_date": "2025-04-22T18:13:24-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "Protectionism (Trade)",
+            "Customs (Tariff)",
+            "Executive Orders and Memorandums"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-trumpdeals1-wjgb/22dc-trumpdeals1-wjgb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The White House press secretary said that President Trump’s advisers had met with 34 countries in the last week to discuss trade deals.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-trumpdeals1-wjgb/22dc-trumpdeals1-wjgb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The White House press secretary said that President Trump’s advisers had met with 34 countries in the last week to discuss trade deals.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-trumpdeals1-wjgb/22dc-trumpdeals1-wjgb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The White House press secretary said that President Trump’s advisers had met with 34 countries in the last week to discuss trade deals.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Rubio Announces Major Cuts at State Dept., Accusing It of ‘Radical’ Ideology",
+        "abstract": "The secretary of state aims to eliminate an office that advances American values abroad in a plan aligning the agency with President Trump’s foreign policy approach.",
+        "url": "https://www.nytimes.com/2025/04/22/us/politics/state-department-cuts-rubio.html",
+        "uri": "nyt://article/a403e054-9ca4-5396-a118-74835eae7e2f",
+        "byline": "By Edward Wong and Michael Crowley",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T17:46:45-04:00",
+        "created_date": "2025-04-22T11:35:52-04:00",
+        "published_date": "2025-04-22T11:35:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Layoffs and Job Reductions",
+            "United States Politics and Government",
+            "United States International Relations"
+        ],
+        "org_facet": [
+            "State Department",
+            "United States Agency for International Development"
+        ],
+        "per_facet": [
+            "Rubio, Marco",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22trump-news-header12p-gqzm/22trump-news-header12p-gqzm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "As secretary of state, Marco Rubio, center, has hewed closely to President Trump’s transactional approach to foreign policy.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22trump-news-header12p-gqzm/22trump-news-header12p-gqzm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "As secretary of state, Marco Rubio, center, has hewed closely to President Trump’s transactional approach to foreign policy.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22trump-news-header12p-gqzm/22trump-news-header12p-gqzm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "As secretary of state, Marco Rubio, center, has hewed closely to President Trump’s transactional approach to foreign policy.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "polls",
+        "subsection": "",
+        "title": "How Americans Feel About DOGE and Elon Musk",
+        "abstract": "People like the idea of cutting government waste. But they dislike Mr. Musk, and they’re down on the Department of Government Efficiency.",
+        "url": "https://www.nytimes.com/2025/04/22/polls/doge-elon-musk.html",
+        "uri": "nyt://article/d2849691-2ea6-59a8-bd2b-9760a2aedea1",
+        "byline": "By Ruth Igielnik and Christine Zhang",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T18:40:41-04:00",
+        "created_date": "2025-04-22T18:40:41-04:00",
+        "published_date": "2025-04-22T18:40:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Polls and Public Opinion",
+            "United States Politics and Government",
+            "Federal Budget (US)"
+        ],
+        "org_facet": [
+            "Government Efficiency Department (US)",
+            "Internal Revenue Service",
+            "NBC News",
+            "Quinnipiac University"
+        ],
+        "per_facet": [
+            "Musk, Elon"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/2025-04-01-doge-polls-index/2025-04-01-doge-polls-index-superJumbo-v11.png",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/2025-04-01-doge-polls-index/2025-04-01-doge-polls-index-threeByTwoSmallAt2X-v13.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/2025-04-01-doge-polls-index/2025-04-01-doge-polls-index-thumbLarge-v11.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A Simpler Funeral for Francis, Who Shunned Many Gilt Papal Trappings",
+        "abstract": "A funeral will be held on Saturday for the pope, who changed the rules to make such ceremonies simpler than those traditionally observed.",
+        "url": "https://www.nytimes.com/2025/04/22/world/europe/pope-francis-funeral.html",
+        "uri": "nyt://article/0757ce1d-b7e1-580a-9404-b80f86eee4fc",
+        "byline": "By Elisabetta Povoledo, Emma Bubola and Michael Levenson",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T18:55:14-04:00",
+        "created_date": "2025-04-22T18:55:14-04:00",
+        "published_date": "2025-04-22T18:55:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Funerals and Memorials"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-pope-leadall-01-zqbm/22int-pope-leadall-01-zqbm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A group of pilgrims walking toward St. Peter’s Square on Tuesday in Rome.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-pope-leadall-01-zqbm/22int-pope-leadall-01-zqbm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A group of pilgrims walking toward St. Peter’s Square on Tuesday in Rome.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-pope-leadall-01-zqbm/22int-pope-leadall-01-zqbm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A group of pilgrims walking toward St. Peter’s Square on Tuesday in Rome.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Fighting Louisiana Floodwaters With Patches of Green",
+        "abstract": "Simple, affordable initiatives like rain gardens are helping to soak up water in New Orleans.",
+        "url": "https://www.nytimes.com/2025/04/21/climate/fighting-louisiana-floodwaters-solutions.html",
+        "uri": "nyt://article/f4cf4a79-2c15-53f1-83f7-b085fb6bc574",
+        "byline": "By Cara Buckley and Annie Flanagan",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T06:26:23-04:00",
+        "created_date": "2025-04-21T20:00:08-04:00",
+        "published_date": "2025-04-21T20:00:08-04:00",
+        "material_type_facet": "",
+        "kicker": "50 States, 50 Fixes",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Floods",
+            "Rain",
+            "Hurricanes and Tropical Storms",
+            "Water",
+            "Nonprofit Organizations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Louisiana",
+            "New Orleans (La)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/00CLI-50x50-Louisiana-01-gwfq-copy/00CLI-50x50-Louisiana-01-gwfq-copy-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Annie Flanagan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/00CLI-50x50-Louisiana-01-gwfq-copy/00CLI-50x50-Louisiana-01-gwfq-copy-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Annie Flanagan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/00CLI-50x50-Louisiana-01-gwfq-copy/00CLI-50x50-Louisiana-01-gwfq-copy-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Annie Flanagan for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Justices Appeared Set to Allow Opt-Outs From L.G.B.T.Q. Stories",
+        "abstract": "Also, the secretary of state announced major cuts at the State Department. Here’s the latest at the end of Tuesday.",
+        "url": "https://www.nytimes.com/2025/04/22/briefing/supreme-court-childrens-books-state-department.html",
+        "uri": "nyt://article/ae7bd4e0-ba34-5142-a1eb-eada725d01e7",
+        "byline": "By Matthew Cullen",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T18:09:51-04:00",
+        "created_date": "2025-04-22T18:09:51-04:00",
+        "published_date": "2025-04-22T18:09:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23evening-court-jfzc/23evening-court-jfzc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23evening-court-jfzc/23evening-court-jfzc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23evening-court-jfzc/23evening-court-jfzc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Supreme Court.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
