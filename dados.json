@@ -80761,5 +80761,393 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Treasury Secretary Bessent Predicts Tax Cuts to Pass by July 4",
+        "abstract": "Scott Bessent told a group of investors that he expected trade tensions with China to de-escalate.",
+        "url": "https://www.nytimes.com/2025/04/22/us/politics/scott-bessent-tax-cuts.html",
+        "uri": "nyt://article/5e69c882-36b6-5283-b66b-abb127ba823e",
+        "byline": "By Alan Rappeport",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T18:01:22-04:00",
+        "created_date": "2025-04-22T17:42:31-04:00",
+        "published_date": "2025-04-22T17:42:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Taxation",
+            "Customs (Tariff)",
+            "United States Economy"
+        ],
+        "org_facet": [
+            "Treasury Department"
+        ],
+        "per_facet": [
+            "Bessent, Scott",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-bessent-kbfc/22dc-bessent-kbfc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Treasury Secretary Scott Bessent, seen on Capitol Hill this month, is negotiating trade deals with several countries.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-bessent-kbfc/22dc-bessent-kbfc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Treasury Secretary Scott Bessent, seen on Capitol Hill this month, is negotiating trade deals with several countries.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-bessent-kbfc/22dc-bessent-kbfc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Treasury Secretary Scott Bessent, seen on Capitol Hill this month, is negotiating trade deals with several countries.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Rubio Skipping Ukraine Talks as Zelensky Rebuffs U.S. on Crimea",
+        "abstract": "The decision by Secretary of State Marco Rubio to pull out of the meeting and an objection by Ukraine’s leader to a key U.S. proposal raised questions about the state of the negotiations.",
+        "url": "https://www.nytimes.com/2025/04/22/world/europe/ukraine-cease-fire-talks.html",
+        "uri": "nyt://article/02e044b6-4cf2-5c27-adce-13c146dec7ea",
+        "byline": "By Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T17:47:11-04:00",
+        "created_date": "2025-04-22T17:29:12-04:00",
+        "published_date": "2025-04-22T17:29:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Peace Process",
+            "United States International Relations",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Rubio, Marco",
+            "Zelensky, Volodymyr",
+            "Putin, Vladimir V",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Crimea (Ukraine)",
+            "Russia",
+            "Ukraine",
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23ukraine-diplo-1-mzkj/23ukraine-diplo-1-mzkj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sifting through rubble a day after a Russian ballistic missile strike that killed 34 people in Sumy, Ukraine, last week.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23ukraine-diplo-1-mzkj/23ukraine-diplo-1-mzkj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sifting through rubble a day after a Russian ballistic missile strike that killed 34 people in Sumy, Ukraine, last week.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23ukraine-diplo-1-mzkj/23ukraine-diplo-1-mzkj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sifting through rubble a day after a Russian ballistic missile strike that killed 34 people in Sumy, Ukraine, last week.",
+                "copyright": "Tyler Hicks/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Harvard Plans to Use Trump’s Haste Against Him as It Fights Funding Cut",
+        "abstract": "Harvard’s lawyers suggest the administration was sloppy when it froze billions in federal funding. A mundane but crucial law is essential to the university’s case against the government.",
+        "url": "https://www.nytimes.com/2025/04/22/us/trump-harvard-legal-case.html",
+        "uri": "nyt://article/bbde1651-27e9-5b7b-9e6a-e64727d6764d",
+        "byline": "By Alan Blinder and Michael C. Bender",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T16:32:35-04:00",
+        "created_date": "2025-04-22T16:32:35-04:00",
+        "published_date": "2025-04-22T16:32:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Colleges and Universities",
+            "Federal Aid (US)",
+            "Suits and Litigation (Civil)"
+        ],
+        "org_facet": [
+            "Brandeis, Louis D, Center for Human Rights Under Law",
+            "Harvard University"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Garber, Alan M",
+            "Hur, Robert Kyoung",
+            "Burck, William A"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22NAT-HARVARD-LEGAL-01-gjlt/22NAT-HARVARD-LEGAL-01-gjlt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard University contends that the Trump administration moved too hastily in its move to pull the school’s funding, ignoring its own rules.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22NAT-HARVARD-LEGAL-01-gjlt/22NAT-HARVARD-LEGAL-01-gjlt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard University contends that the Trump administration moved too hastily in its move to pull the school’s funding, ignoring its own rules.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22NAT-HARVARD-LEGAL-01-gjlt/22NAT-HARVARD-LEGAL-01-gjlt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard University contends that the Trump administration moved too hastily in its move to pull the school’s funding, ignoring its own rules.",
+                "copyright": "Sophie Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "Measles Surge in Southwest Is Now the Largest Single Outbreak Since 2000",
+        "abstract": "Growing case numbers suggest that national total will surpass that seen during the last large outbreak in 2019.",
+        "url": "https://www.nytimes.com/2025/04/22/health/measles-southwest-outbreak.html",
+        "uri": "nyt://article/5100c26e-5d10-5109-b74e-dea9ba6933f7",
+        "byline": "By Teddy Rosenbluth and Apoorva Mandavilli",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T17:06:13-04:00",
+        "created_date": "2025-04-22T17:06:13-04:00",
+        "published_date": "2025-04-22T17:06:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "your-feed-science",
+            "Measles",
+            "Disease Rates",
+            "States (US)",
+            "Rumors and Misinformation",
+            "Vaccination and Immunization",
+            "Mennonite Churches",
+            "Medicine and Health",
+            "Respiratory Diseases"
+        ],
+        "org_facet": [
+            "Centers for Disease Control and Prevention",
+            "Health and Human Services Department"
+        ],
+        "per_facet": [
+            "Kennedy, Robert F Jr"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22hs-measles-jkpg/22hs-measles-jkpg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1368,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Covenant Children’s Hospital in Lubbock, Texas, which has been treating measles patients since the outbreak began in January.",
+                "copyright": "Mary Conlon/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22hs-measles-jkpg/22hs-measles-jkpg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Covenant Children’s Hospital in Lubbock, Texas, which has been treating measles patients since the outbreak began in January.",
+                "copyright": "Mary Conlon/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22hs-measles-jkpg/22hs-measles-jkpg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Covenant Children’s Hospital in Lubbock, Texas, which has been treating measles patients since the outbreak began in January.",
+                "copyright": "Mary Conlon/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "",
+        "title": "Eunice Golden, Artist Who Mapped the Male Nude, Dies at 98",
+        "abstract": "Like many feminist artists, she took the body as her subject. But while others were exploring their own bodies, she painted the male anatomy.",
+        "url": "https://www.nytimes.com/2025/04/22/arts/eunice-golden-dead.html",
+        "uri": "nyt://article/f9b9c5a6-2058-5ea3-bd0d-f1c50705c99a",
+        "byline": "By Penelope Green",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T16:34:57-04:00",
+        "created_date": "2025-04-22T16:32:27-04:00",
+        "published_date": "2025-04-22T16:32:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Art",
+            "Women and Girls",
+            "Deaths (Obituaries)",
+            "Women's Rights",
+            "Nudism and Nudity",
+            "Penis"
+        ],
+        "org_facet": [
+            "Mitchell Algus Gallery (Manhattan, NY)",
+            "Westbeth Artists Housing (Manhattan, NY)"
+        ],
+        "per_facet": [
+            "Golden, Eunice",
+            "Neel, Alice",
+            "Weissman, Walter (1947- )"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22Golden--zktq/22Golden--zktq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1334,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eunice Golden in 2007. Her bold paintings of male nudes challenged ideas about feminism, art and sexuality.",
+                "copyright": " Walter Weissman "
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22Golden--zktq/22Golden--zktq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eunice Golden in 2007. Her bold paintings of male nudes challenged ideas about feminism, art and sexuality.",
+                "copyright": " Walter Weissman "
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22Golden--zktq/22Golden--zktq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eunice Golden in 2007. Her bold paintings of male nudes challenged ideas about feminism, art and sexuality.",
+                "copyright": " Walter Weissman "
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Buffalo Diocese Agrees to Pay $150 Million to Settle Sex Abuse Claims",
+        "abstract": "The provisional settlement comes after years of negotiation with the scandal-plagued diocese in New York’s second-largest city.",
+        "url": "https://www.nytimes.com/2025/04/22/nyregion/buffalo-catholic-diocese-sexual-abuse.html",
+        "uri": "nyt://article/ac45c2b3-a93e-5d8e-b1ce-23c0d7e93df8",
+        "byline": "By Liam Stack",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T17:00:03-04:00",
+        "created_date": "2025-04-22T17:00:03-04:00",
+        "published_date": "2025-04-22T17:00:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Sex Crimes",
+            "Priests",
+            "Clergy"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Buffalo (NY)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22met-buffalo-diocese-01-qpfz/22met-buffalo-diocese-01-qpfz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The provisional settlement covers more than 800 victims of sexual abuse by diocese personnel in Buffalo, according to lawyers for dozens of them.",
+                "copyright": "Jeffrey T. Barnes/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22met-buffalo-diocese-01-qpfz/22met-buffalo-diocese-01-qpfz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The provisional settlement covers more than 800 victims of sexual abuse by diocese personnel in Buffalo, according to lawyers for dozens of them.",
+                "copyright": "Jeffrey T. Barnes/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22met-buffalo-diocese-01-qpfz/22met-buffalo-diocese-01-qpfz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The provisional settlement covers more than 800 victims of sexual abuse by diocese personnel in Buffalo, according to lawyers for dozens of them.",
+                "copyright": "Jeffrey T. Barnes/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
