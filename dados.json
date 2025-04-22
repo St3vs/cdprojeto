@@ -78708,5 +78708,195 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Joint Chiefs Chairman Visits Border as Military Presence Expands",
+        "abstract": "Gen. Dan Caine’s first official trip underscored how the White House has prioritized the mission, which now involves nearly 7,000 active-duty troops.",
+        "url": "https://www.nytimes.com/2025/04/22/us/politics/caine-pentagon-border-trump.html",
+        "uri": "nyt://article/82933c98-d59e-50cb-aaab-6be658c41676",
+        "byline": "By Eric Schmitt",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T08:40:39-04:00",
+        "created_date": "2025-04-22T08:26:18-04:00",
+        "published_date": "2025-04-22T08:26:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Defense and Military Forces",
+            "United States Politics and Government",
+            "Illegal Immigration"
+        ],
+        "org_facet": [
+            "Defense Department"
+        ],
+        "per_facet": [
+            "Caine, John Daniel (1968- )",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Arizona"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-caine-border-tkcz/22dc-caine-border-tkcz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "U.S. Army personnel near the border in Sunland Park, N.M., in February. Active-duty troops have been helping to build barriers and support law-enforcement agencies.",
+                "copyright": "Paul Ratje for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-caine-border-tkcz/22dc-caine-border-tkcz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "U.S. Army personnel near the border in Sunland Park, N.M., in February. Active-duty troops have been helping to build barriers and support law-enforcement agencies.",
+                "copyright": "Paul Ratje for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-caine-border-tkcz/22dc-caine-border-tkcz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "U.S. Army personnel near the border in Sunland Park, N.M., in February. Active-duty troops have been helping to build barriers and support law-enforcement agencies.",
+                "copyright": "Paul Ratje for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Global Growth Expected to Sputter Amid Trade War Fallout Fears",
+        "abstract": "The International Monetary Fund expects slower growth and higher inflation in the U.S. as a result of President Trump’s trade policies.",
+        "url": "https://www.nytimes.com/2025/04/22/us/politics/imf-world-economic-outlook.html",
+        "uri": "nyt://article/b8b3c931-2919-5232-9fbc-0871467540ee",
+        "byline": "By Alan Rappeport",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T09:16:31-04:00",
+        "created_date": "2025-04-22T09:00:14-04:00",
+        "published_date": "2025-04-22T09:00:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "Banking and Financial Institutions",
+            "United States Economy",
+            "Customs (Tariff)",
+            "Foreign Investments",
+            "International Relations",
+            "Inflation (Economics)",
+            "Developing Countries",
+            "Credit and Debt",
+            "Economic Conditions and Trends"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-globalecon-qbwf/22dc-globalecon-qbwf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Port of Los Angeles. President Trump has imposed steep import taxes on America’s largest trading partners, leaving businesses paralyzed by uncertainty.",
+                "copyright": "Maggie Shannon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-globalecon-qbwf/22dc-globalecon-qbwf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Port of Los Angeles. President Trump has imposed steep import taxes on America’s largest trading partners, leaving businesses paralyzed by uncertainty.",
+                "copyright": "Maggie Shannon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-globalecon-qbwf/22dc-globalecon-qbwf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Port of Los Angeles. President Trump has imposed steep import taxes on America’s largest trading partners, leaving businesses paralyzed by uncertainty.",
+                "copyright": "Maggie Shannon for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "music",
+        "title": "Tina Knowles, Mother of Superstars, Owns Her Own Story",
+        "abstract": "“Matriarch,” a memoir out Tuesday, explores the trials and hard-worn triumphs that shaped Beyoncé and Solange Knowles’s mom.",
+        "url": "https://www.nytimes.com/2025/04/22/arts/music/tina-knowles-beyonce-solange-matriarch-book.html",
+        "uri": "nyt://article/da568416-831d-59cc-b66b-527bcc3b3057",
+        "byline": "By Elena Bergeron",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T09:13:52-04:00",
+        "created_date": "2025-04-22T09:00:08-04:00",
+        "published_date": "2025-04-22T09:00:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Pop and Rock Music",
+            "Books and Literature",
+            "Content Type: Personal Profile",
+            "Matriarch (Book)"
+        ],
+        "org_facet": [
+            "Destiny's Child"
+        ],
+        "per_facet": [
+            "Lawson, Tina Knowles",
+            "Knowles, Beyonce",
+            "Knowles, Solange"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/22cul-tina-knowles-01-gmlf/22cul-tina-knowles-01-gmlf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1638,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "When she was first approached to write a memoir, Tina Knowles said she thought, “They’re going to want to hear about my kids; they’re not going to want to hear about me.”",
+                "copyright": "Kobe Wagstaff for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/22cul-tina-knowles-01-gmlf/22cul-tina-knowles-01-gmlf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "When she was first approached to write a memoir, Tina Knowles said she thought, “They’re going to want to hear about my kids; they’re not going to want to hear about me.”",
+                "copyright": "Kobe Wagstaff for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/22cul-tina-knowles-01-gmlf/22cul-tina-knowles-01-gmlf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "When she was first approached to write a memoir, Tina Knowles said she thought, “They’re going to want to hear about my kids; they’re not going to want to hear about me.”",
+                "copyright": "Kobe Wagstaff for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
