@@ -80564,5 +80564,202 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Details Hegseth Shared on Signal Came From a Secure Site",
+        "abstract": "Information about U.S. strikes in Yemen that the defense secretary put in two group chats came from Central Command, according to two people familiar with the chats.",
+        "url": "https://www.nytimes.com/2025/04/22/us/politics/hegseth-signal-chat.html",
+        "uri": "nyt://article/bd505f7e-cb2c-54d1-a299-3fa8ce48ff46",
+        "byline": "By Helene Cooper and Eric Schmitt",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T16:27:52-04:00",
+        "created_date": "2025-04-22T16:23:37-04:00",
+        "published_date": "2025-04-22T16:23:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Defense and Military Forces",
+            "Signal Chat Leak (Trump Administration)",
+            "Classified Information and State Secrets",
+            "Mobile Applications",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [
+            "Defense Department",
+            "United States Central Command"
+        ],
+        "per_facet": [
+            "Hegseth, Pete",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-military-SWAP-mkvp/22dc-military-SWAP-mkvp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of Defense Pete Hegseth at the White House in April.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-military-SWAP-mkvp/22dc-military-SWAP-mkvp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of Defense Pete Hegseth at the White House in April.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-military-SWAP-mkvp/22dc-military-SWAP-mkvp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of Defense Pete Hegseth at the White House in April.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "The Face-Plant President",
+        "abstract": "There’s no better opponent than one who repeatedly trips over his shoelaces.",
+        "url": "https://www.nytimes.com/2025/04/22/opinion/trump-hegseth-powell.html",
+        "uri": "nyt://article/d7454aee-b77b-533d-9151-03f2b9268b07",
+        "byline": "By Bret Stephens",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T17:00:06-04:00",
+        "created_date": "2025-04-22T17:00:06-04:00",
+        "published_date": "2025-04-22T17:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "Bret Stephens",
+        "des_facet": [
+            "United States Politics and Government",
+            "Signal Chat Leak (Trump Administration)",
+            "United States Economy",
+            "United States International Relations"
+        ],
+        "org_facet": [
+            "Defense Department",
+            "Government Efficiency Department (US)",
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Bondi, Pamela J",
+            "Abrego Garcia, Kilmar Armando",
+            "Hegseth, Pete",
+            "Powell, Jerome H",
+            "Rubio, Marco",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "El Salvador",
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/22stephens-mpbj/22stephens-mpbj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/22stephens-mpbj/22stephens-mpbj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/22stephens-mpbj/22stephens-mpbj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Jury Is Seated After Startling Reveal: The Defendant Is Harvey Weinstein",
+        "abstract": "Some prospective jurors reacted with shock when they realized they might be selected for Mr. Weinstein’s latest trial. Opening statements lie ahead.",
+        "url": "https://www.nytimes.com/2025/04/22/nyregion/harvey-weinstein-trial-jury-seated.html",
+        "uri": "nyt://article/b4520aab-950b-575a-99d0-49d06106099a",
+        "byline": "By Hurubie Meko",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T15:30:57-04:00",
+        "created_date": "2025-04-22T14:39:37-04:00",
+        "published_date": "2025-04-22T14:39:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Jury System",
+            "Sex Crimes",
+            "#MeToo Movement",
+            "Decisions and Verdicts"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Aidala, Arthur L",
+            "Weinstein, Harvey"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/00met-weinstein-jury1-mcqv/00met-weinstein-jury1-mcqv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvey Weinstein’s conviction in New York was overturned last year, and now he is facing sex-crimes charges again.",
+                "copyright": "Jefferson Siegel for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/00met-weinstein-jury1-mcqv/00met-weinstein-jury1-mcqv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvey Weinstein’s conviction in New York was overturned last year, and now he is facing sex-crimes charges again.",
+                "copyright": "Jefferson Siegel for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/00met-weinstein-jury1-mcqv/00met-weinstein-jury1-mcqv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvey Weinstein’s conviction in New York was overturned last year, and now he is facing sex-crimes charges again.",
+                "copyright": "Jefferson Siegel for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
