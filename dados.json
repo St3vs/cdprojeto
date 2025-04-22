@@ -78644,5 +78644,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "dealbook",
+        "title": "How Trump’s Fed Fight May Undermine His Trade Negotiations",
+        "abstract": "A flight from U.S. assets, including the dollar, could worsen if the president continues his attacks on the Federal Reserve, analysts warn.",
+        "url": "https://www.nytimes.com/2025/04/22/business/dealbook/trumps-fed-fight-tariffs.html",
+        "uri": "nyt://article/98dbfde9-2bb3-56b0-a86c-e472f074f0bc",
+        "byline": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch, Edmund Lee and Grady McGregor",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T07:20:02-04:00",
+        "created_date": "2025-04-22T07:20:02-04:00",
+        "published_date": "2025-04-22T07:20:02-04:00",
+        "material_type_facet": "",
+        "kicker": "DealBook Newsletter",
+        "des_facet": [
+            "internal-storyline-no",
+            "Protectionism (Trade)",
+            "Customs (Tariff)",
+            "Stocks and Bonds",
+            "US Dollar (Currency)",
+            "Government Bonds"
+        ],
+        "org_facet": [
+            "Federal Reserve System"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Powell, Jerome H"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22db-trump-gfjp/22db-trump-gfjp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump’s latest threats against the Fed are rattling global markets.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22db-trump-gfjp/22db-trump-gfjp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump’s latest threats against the Fed are rattling global markets.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22db-trump-gfjp/22db-trump-gfjp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump’s latest threats against the Fed are rattling global markets.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
