@@ -77368,5 +77368,65 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Trump’s Tariffs Will Pay Off — for China",
+        "abstract": "Picking trade fights with countries across the Asia-Pacific plays right into Beiing’s plans to increase its sway over the region.",
+        "url": "https://www.nytimes.com/2025/04/22/opinion/us-china-asia-tariffs.html",
+        "uri": "nyt://article/918f12ba-54cb-504a-873a-8cbfcfc23d75",
+        "byline": "By James Crabtree",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T01:00:06-04:00",
+        "created_date": "2025-04-22T01:00:06-04:00",
+        "published_date": "2025-04-22T01:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "United States International Relations",
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/opinion/11crabtree/11crabtree-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Max Guther"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/opinion/11crabtree/11crabtree-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Max Guther"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/opinion/11crabtree/11crabtree-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Max Guther"
+            }
+        ],
+        "short_url": ""
     }
 ]
