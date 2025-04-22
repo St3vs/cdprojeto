@@ -79476,5 +79476,453 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "As Argentina Mourns, the Pain of Pope Francis Never Visiting Lingers",
+        "abstract": "Francis never gave an explicit answer for not returning as pontiff to his native country, but some experts say he worried about having his presence used for political purposes.",
+        "url": "https://www.nytimes.com/2025/04/22/world/americas/pope-francis-argentina.html",
+        "uri": "nyt://article/9b15a1e5-bafe-54c8-9afb-a583cba922a6",
+        "byline": "By Daniel Politi",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T12:05:27-04:00",
+        "created_date": "2025-04-22T11:55:45-04:00",
+        "published_date": "2025-04-22T11:55:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Milei, Javier"
+        ],
+        "geo_facet": [
+            "Argentina",
+            "Buenos Aires (Argentina)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-argentina-francis-tcjh/22int-argentina-francis-tcjh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Parishioners took part in an open air mass to mourn the death of Pope Francis on Monday night in Buenos Aires.",
+                "copyright": "Sarah Pabst for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-argentina-francis-tcjh/22int-argentina-francis-tcjh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Parishioners took part in an open air mass to mourn the death of Pope Francis on Monday night in Buenos Aires.",
+                "copyright": "Sarah Pabst for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-argentina-francis-tcjh/22int-argentina-francis-tcjh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Parishioners took part in an open air mass to mourn the death of Pope Francis on Monday night in Buenos Aires.",
+                "copyright": "Sarah Pabst for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "magazine",
+        "subsection": "",
+        "title": "My Son Has a Rare Syndrome. So I Turned to the Internet.",
+        "abstract": "Social media became a place of both solace and torment. How much was mine to share?",
+        "url": "https://www.nytimes.com/2025/04/22/magazine/parenting-children-social-media.html",
+        "uri": "nyt://article/c6d8cce0-6616-5d37-afe7-f4eee1ec1e2f",
+        "byline": "By Amanda Hess",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T05:03:09-04:00",
+        "created_date": "2025-04-22T05:03:09-04:00",
+        "published_date": "2025-04-22T05:03:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Disabilities",
+            "Children and Childhood",
+            "Social Media",
+            "Parenting",
+            "Birth Defects",
+            "Pregnancy and Childbirth",
+            "Babies and Infants",
+            "Medicine and Health",
+            "Anxiety and Stress",
+            "Hospitals"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/magazine/27Mag-Parenting/27Mag-Parenting-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1958,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by Jon Han"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/magazine/27Mag-Parenting/27Mag-Parenting-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by Jon Han"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/magazine/27Mag-Parenting/27Mag-Parenting-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by Jon Han"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "More Than 180 Academic Leaders Condemn Trump ‘Overreach’",
+        "abstract": "The statement came a day after Harvard University sued the administration over its decision to freeze billions of dollars in federal funding, following the schoo’s refusal to submit to a list of demands.",
+        "url": "https://www.nytimes.com/2025/04/22/us/politics/university-leaders-letter-trump.html",
+        "uri": "nyt://article/67bc030e-6238-5c62-9ba9-e88716096f6a",
+        "byline": "By Stephanie Saul",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T11:54:16-04:00",
+        "created_date": "2025-04-22T11:54:16-04:00",
+        "published_date": "2025-04-22T11:54:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Colleges and Universities",
+            "Federal Aid (US)"
+        ],
+        "org_facet": [
+            "Harvard University"
+        ],
+        "per_facet": [
+            "Garber, Alan M",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22trump-news-university-presidents-gjvz/22trump-news-university-presidents-gjvz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump and Harvard University have clashed over federal funds.",
+                "copyright": "Cody O'Loughlin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22trump-news-university-presidents-gjvz/22trump-news-university-presidents-gjvz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump and Harvard University have clashed over federal funds.",
+                "copyright": "Cody O'Loughlin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22trump-news-university-presidents-gjvz/22trump-news-university-presidents-gjvz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump and Harvard University have clashed over federal funds.",
+                "copyright": "Cody O'Loughlin for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "3 More Prosecutors Resign Over Adams Case, Refusing to Admit Wrongdoing",
+        "abstract": "They had been placed on administrative leave after refusing to abandon the corruption case against Mayor Eric Adams. “We will not confess wrongdoing when there was none,” they wrote.",
+        "url": "https://www.nytimes.com/2025/04/22/nyregion/eric-adams-prosecutors-resign.html",
+        "uri": "nyt://article/23860f8a-4380-5897-9de2-3c55fca2f2a5",
+        "byline": "By Jonah E. Bromwich and William K. Rashbaum",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T12:58:46-04:00",
+        "created_date": "2025-04-22T12:47:14-04:00",
+        "published_date": "2025-04-22T12:47:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Eric Adams Federal Corruption Case (24 CR 556)",
+            "Prosecutorial Misconduct",
+            "Appointments and Executive Changes"
+        ],
+        "org_facet": [
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Wikstrom, Derek",
+            "Cohen, Celia V",
+            "Rohrbach, Andrew"
+        ],
+        "geo_facet": [
+            "Manhattan (NYC)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22met-sdny-adams-fvwh/22met-sdny-adams-fvwh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "At least 10 federal prosecutors in Manhattan and Washington have resigned over the Trump administration’s decision to intervene in the case against Mayor Eric Adams. ",
+                "copyright": "Jeenah Moon/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22met-sdny-adams-fvwh/22met-sdny-adams-fvwh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "At least 10 federal prosecutors in Manhattan and Washington have resigned over the Trump administration’s decision to intervene in the case against Mayor Eric Adams. ",
+                "copyright": "Jeenah Moon/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22met-sdny-adams-fvwh/22met-sdny-adams-fvwh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "At least 10 federal prosecutors in Manhattan and Washington have resigned over the Trump administration’s decision to intervene in the case against Mayor Eric Adams. ",
+                "copyright": "Jeenah Moon/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "In Indiana, Putting Up Solar Panels Is Doing God’s Work",
+        "abstract": "A cluster of evangelical groups in the state is pushing for environmental action. Leaders say they’re following the biblical mandate to care for creation.",
+        "url": "https://www.nytimes.com/2025/04/21/climate/indiana-evangelicals-creation-care-stewardship.html",
+        "uri": "nyt://article/920ed3c7-bbe8-5f4c-993e-32608c4dd20d",
+        "byline": "By Catrin Einhorn and A.J. Mast",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T06:24:34-04:00",
+        "created_date": "2025-04-21T20:00:23-04:00",
+        "published_date": "2025-04-21T20:00:23-04:00",
+        "material_type_facet": "",
+        "kicker": "50 States, 50 Fixes",
+        "des_facet": [
+            "Solar Energy",
+            "Sustainable Living",
+            "Evangelical Movement",
+            "Bible",
+            "Global Warming",
+            "Churches (Buildings)",
+            "States (US)",
+            "Colleges and Universities"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Taylor University",
+            "Indiana Wesleyan University"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Indiana",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/climate/00cli-indiana-rootop-promo/00cli-indiana-rootop-poster-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1280,
+                "width": 1920,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/climate/00cli-indiana-rootop-promo/00cli-indiana-rootop-poster-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/climate/00cli-indiana-rootop-promo/00cli-indiana-rootop-poster-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "realestate",
+        "subsection": "",
+        "title": "How Have DOGE Cuts Affected Prince George’s and Charles Counties?",
+        "abstract": "A Times reporting team is looking for reader input on how the reduction in the federal work force has affected the two Maryland communities.",
+        "url": "https://www.nytimes.com/2025/04/21/realestate/black-federal-workers-prince-georges-charles-county.html",
+        "uri": "nyt://article/eacbfd0a-7538-54a1-a44d-d4318036d2e6",
+        "byline": "By Audra D. S. Burch",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T12:30:56-04:00",
+        "created_date": "2025-04-21T05:02:49-04:00",
+        "published_date": "2025-04-21T05:02:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Real Estate and Housing (Residential)",
+            "Government Employees",
+            "Black People",
+            "internal-reader-callout"
+        ],
+        "org_facet": [
+            "Government Efficiency Department (US)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Charles County (Md)",
+            "Prince George's County (Md)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/realestate/00re-callout-blackhomeowners/00re-callout-blackhomeowners-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Bonnie Jo Mount/The Washington Post, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/realestate/00re-callout-blackhomeowners/00re-callout-blackhomeowners-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Bonnie Jo Mount/The Washington Post, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/realestate/00re-callout-blackhomeowners/00re-callout-blackhomeowners-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Bonnie Jo Mount/The Washington Post, via Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "At Trial, Instagram Co-Founder Says Meta Denied His Company Resources",
+        "abstract": "Kevin Systrom said during testimony in a landmark antitrust trial that he believed Meta viewed Instagram as a threat.",
+        "url": "https://www.nytimes.com/2025/04/22/technology/meta-trial-instagram-kevin-systrom.html",
+        "uri": "nyt://article/af5f5841-284d-5963-8c96-a790eb59aa57",
+        "byline": "By Cecilia Kang",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T13:05:33-04:00",
+        "created_date": "2025-04-22T12:29:12-04:00",
+        "published_date": "2025-04-22T12:29:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Computers and the Internet",
+            "Mergers, Acquisitions and Divestitures",
+            "Social Media",
+            "Antitrust Laws and Competition Issues",
+            "Mobile Applications",
+            "Start-ups",
+            "Online Advertising"
+        ],
+        "org_facet": [
+            "Federal Trade Commission",
+            "Meta Platforms Inc",
+            "Instagram Inc"
+        ],
+        "per_facet": [
+            "Zuckerberg, Mark E",
+            "Systrom, Kevin"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22biz-meta-systrom-zfqk/22biz-meta-systrom-zfqk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kevin Systrom, one the co-founders of Instagram, in 2023.",
+                "copyright": "Jason Henry for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22biz-meta-systrom-zfqk/22biz-meta-systrom-zfqk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kevin Systrom, one the co-founders of Instagram, in 2023.",
+                "copyright": "Jason Henry for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22biz-meta-systrom-zfqk/22biz-meta-systrom-zfqk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kevin Systrom, one the co-founders of Instagram, in 2023.",
+                "copyright": "Jason Henry for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
