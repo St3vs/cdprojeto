@@ -80302,5 +80302,267 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Justices Seem Set to Allow Opt-Outs From L.G.B.T.Q. Stories in Schools",
+        "abstract": "In a lively and sometimes heated argument, the Supreme Court’s conservative majority appeared poised to rule for parents with religious objections to storybooks with gay and transgender characters.",
+        "url": "https://www.nytimes.com/2025/04/22/us/politics/supreme-court-lgbtq-books.html",
+        "uri": "nyt://article/194ec943-3c97-5fed-b6aa-ae3927c0c471",
+        "byline": "By Adam Liptak",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T15:39:39-04:00",
+        "created_date": "2025-04-22T15:20:46-04:00",
+        "published_date": "2025-04-22T15:20:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Homosexuality and Bisexuality",
+            "Decisions and Verdicts",
+            "Books and Literature",
+            "Education (K-12)",
+            "United States Politics and Government",
+            "Transgender"
+        ],
+        "org_facet": [
+            "Becket Fund for Religious Liberty",
+            "Supreme Court (US)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Montgomery County (Md)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-scotus-topart-fkjw/22dc-scotus-topart-fkjw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Pride Puppy,” an alphabet primer about a family whose puppy gets lost at a Pride parade, was one of the books that prompted some Montgomery County, Md., parents to sue the school system.",
+                "copyright": "Hannah Beier/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-scotus-topart-fkjw/22dc-scotus-topart-fkjw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Pride Puppy,” an alphabet primer about a family whose puppy gets lost at a Pride parade, was one of the books that prompted some Montgomery County, Md., parents to sue the school system.",
+                "copyright": "Hannah Beier/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-scotus-topart-fkjw/22dc-scotus-topart-fkjw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Pride Puppy,” an alphabet primer about a family whose puppy gets lost at a Pride parade, was one of the books that prompted some Montgomery County, Md., parents to sue the school system.",
+                "copyright": "Hannah Beier/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Read the Prosecutors’ Letter",
+        "abstract": "Three prosecutors resigned from the Southern District of New York on Tuesday rather than apologize for the work on the prosecution of Mayor Eric Adams of New York.",
+        "url": "https://www.nytimes.com/interactive/2025/04/22/nyregion/prosecutor-letter.html",
+        "uri": "nyt://interactive/b478418d-3ef9-54e3-8d3a-915cc49d88d3",
+        "byline": "",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-22T15:18:10-04:00",
+        "created_date": "2025-04-22T15:18:10-04:00",
+        "published_date": "2025-04-22T15:18:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Apologies",
+            "Courts and the Judiciary"
+        ],
+        "org_facet": [
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Adams, Eric L",
+            "Blanche, Todd (Attorney)",
+            "Cohen, Celia V",
+            "Rohrbach, Andrew",
+            "Wikstrom, Derek"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/doc-99f8eab4-bb1d-4265-b7e8-6-promo/doc-99f8eab4-bb1d-4265-b7e8-6-promo-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1583,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/doc-99f8eab4-bb1d-4265-b7e8-6-promo/doc-99f8eab4-bb1d-4265-b7e8-6-promo-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/doc-99f8eab4-bb1d-4265-b7e8-6-promo/doc-99f8eab4-bb1d-4265-b7e8-6-promo-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "My Research Under Trump Started Unraveling With a Text That Read: ‘Call Me’",
+        "abstract": "When knowledge is threatened, don’t just mourn it. Build around it.",
+        "url": "https://www.nytimes.com/2025/04/22/opinion/earth-day-nature-report-trump.html",
+        "uri": "nyt://article/f580d8fc-8841-5058-a9ff-b8bcab17df4b",
+        "byline": "By Phillip Levin",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T14:04:16-04:00",
+        "created_date": "2025-04-22T05:03:36-04:00",
+        "published_date": "2025-04-22T05:03:36-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "United States Politics and Government",
+            "Environment",
+            "United States Economy",
+            "Agriculture and Farming",
+            "Wetlands",
+            "Conservation of Resources",
+            "Fish and Other Marine Life",
+            "Livestock"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "California",
+            "Pacific Northwestern States (US)",
+            "Washington (State)",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/opinion/22levin/22levin-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo illustration by Ben Denzer; source photo by Nida Noorani"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/opinion/22levin/22levin-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo illustration by Ben Denzer; source photo by Nida Noorani"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/opinion/22levin/22levin-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo illustration by Ben Denzer; source photo by Nida Noorani"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Republicans Begin a Trump-Centric Battle to Succeed Mitch McConnell",
+        "abstract": "The primary race in Kentucky for Mr. McConnell’s seat is expected to be one of the biggest G.O.P. clashes of 2026. On Tuesday, it gained its second high-profile contender, Representative Andy Barr.",
+        "url": "https://www.nytimes.com/2025/04/22/us/politics/andy-barr-kentucky-senate-mitch-mcconnell.html",
+        "uri": "nyt://article/89630e1f-ddef-5421-9964-30997c13445c",
+        "byline": "By Nick Corasaniti",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T15:24:04-04:00",
+        "created_date": "2025-04-22T15:24:04-04:00",
+        "published_date": "2025-04-22T15:24:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections, Senate",
+            "United States Politics and Government",
+            "Primaries and Caucuses"
+        ],
+        "org_facet": [
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Barr, Andy",
+            "Cameron, Daniel J (1985- )",
+            "McConnell, Mitch",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Kentucky"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pol-kentucky-senate-topart-zqbt/22pol-kentucky-senate-topart-zqbt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Andy Barr, Republican of Kentucky, said on Tuesday that he was running for Senator Mitch McConnell’s seat.",
+                "copyright": "Timothy D. Easley/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pol-kentucky-senate-topart-zqbt/22pol-kentucky-senate-topart-zqbt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Andy Barr, Republican of Kentucky, said on Tuesday that he was running for Senator Mitch McConnell’s seat.",
+                "copyright": "Timothy D. Easley/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pol-kentucky-senate-topart-zqbt/22pol-kentucky-senate-topart-zqbt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Andy Barr, Republican of Kentucky, said on Tuesday that he was running for Senator Mitch McConnell’s seat.",
+                "copyright": "Timothy D. Easley/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
