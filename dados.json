@@ -81830,5 +81830,142 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Catholics Expected a Revolution from Francis, Just Not the One He Gave Them",
+        "abstract": "Liberals hoped he’d ordain women or allow gay marriage. Conservatives thought he’d tear up Church doctrine. But his papacy favored debate over radical action.",
+        "url": "https://www.nytimes.com/2025/04/23/world/europe/pope-francis-catholic-church-legacy.html",
+        "uri": "nyt://article/52824666-3f1c-5ab2-9bbc-1e8ccbc3aa89",
+        "byline": "By Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T00:01:14-04:00",
+        "created_date": "2025-04-23T00:01:14-04:00",
+        "published_date": "2025-04-23T00:01:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Religion and Belief",
+            "Celibacy",
+            "Clergy",
+            "Conservatism (US Politics)",
+            "Homosexuality and Bisexuality",
+            "Popes",
+            "Same-Sex Marriage, Civil Unions and Domestic Partnerships",
+            "Priests",
+            "Poverty",
+            "Liberalism (US Politics)",
+            "Global Warming",
+            "Politics and Government",
+            "Divorce, Separations and Annulments"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Vatican Bank"
+        ],
+        "per_facet": [
+            "Allen, John L Jr",
+            "Benedict XVI",
+            "Francis",
+            "Gallagher, Paul R (1954- )",
+            "Ravasi, Gianfranco",
+            "Reese, Thomas J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23pope-legacy-3-kvtz/23pope-legacy-3-kvtz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1368,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis at St. Peter’s Square in the Vatican on Easter Sunday.",
+                "copyright": "Yara Nardi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23pope-legacy-3-kvtz/23pope-legacy-3-kvtz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis at St. Peter’s Square in the Vatican on Easter Sunday.",
+                "copyright": "Yara Nardi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23pope-legacy-3-kvtz/23pope-legacy-3-kvtz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis at St. Peter’s Square in the Vatican on Easter Sunday.",
+                "copyright": "Yara Nardi/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Lorde Planned a Surprise Show in New York. Surprise: There Was No Show.",
+        "abstract": "The singer summoned fans to an impromptu performance in Washington Square Park Tuesday night. She neglected to get a permit. But there was one more surprise to come.",
+        "url": "https://www.nytimes.com/2025/04/22/nyregion/lorde-washington-square-surprise-show.html",
+        "uri": "nyt://article/d7b83810-356b-54a3-895e-83f767c4708f",
+        "byline": "By Annie Aguiar and Ed Shanahan",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T00:03:27-04:00",
+        "created_date": "2025-04-22T23:32:59-04:00",
+        "published_date": "2025-04-22T23:32:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Pop and Rock Music",
+            "Parks and Other Recreation Areas",
+            "Music",
+            "Fans (Persons)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Lorde"
+        ],
+        "geo_facet": [
+            "Washington Square Park (Manhattan, NY)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22MET-LORDE-03-gqbk/22MET-LORDE-03-gqbk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Hundreds of Lorde fans gathered Tuesday evening in Washington Square Park in expectation of a performance by the singer.",
+                "copyright": "Amir Hamja for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22MET-LORDE-03-gqbk/22MET-LORDE-03-gqbk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Hundreds of Lorde fans gathered Tuesday evening in Washington Square Park in expectation of a performance by the singer.",
+                "copyright": "Amir Hamja for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22MET-LORDE-03-gqbk/22MET-LORDE-03-gqbk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Hundreds of Lorde fans gathered Tuesday evening in Washington Square Park in expectation of a performance by the singer.",
+                "copyright": "Amir Hamja for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
