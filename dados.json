@@ -82359,5 +82359,315 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trump and Zelensky Are Among the Leaders Planning to Attend Francis’ Funeral",
+        "abstract": "Pope Francis’ funeral on Saturday will bring together leaders who sometimes clashed with the pope on issues such as global migration.",
+        "url": "https://www.nytimes.com/2025/04/22/world/europe/pope-francis-funeral-guests.html",
+        "uri": "nyt://article/a9cd1cca-9cf7-54c1-aa13-e8f58de7dbf3",
+        "byline": "By Amelia Nierenberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T04:50:21-04:00",
+        "created_date": "2025-04-22T13:09:17-04:00",
+        "published_date": "2025-04-22T13:09:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Funerals and Memorials"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Charles III, King of the United Kingdom",
+            "Da Silva, Luiz Inacio Lula",
+            "Duda, Andrzej (1972- )",
+            "Francis",
+            "Zelensky, Volodymyr",
+            "Trump, Donald J",
+            "von der Leyen, Ursula",
+            "Milei, Javier"
+        ],
+        "geo_facet": [
+            "Italy"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-leaders-funeral-gkwv/22pope-francis-leaders-funeral-gkwv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-leaders-funeral-gkwv/22pope-francis-leaders-funeral-gkwv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-leaders-funeral-gkwv/22pope-francis-leaders-funeral-gkwv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The Quiet Farewell Before Pope Francis’ Funeral",
+        "abstract": "In a small ceremony, Vatican officials followed the path long taken when a pope dies.",
+        "url": "https://www.nytimes.com/2025/04/22/world/europe/pope-francis-death-casket-photos.html",
+        "uri": "nyt://article/66ce8269-0f7a-5719-8166-d786f2eac6c5",
+        "byline": "By Alan Yuhas",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T16:04:28-04:00",
+        "created_date": "2025-04-22T15:54:49-04:00",
+        "published_date": "2025-04-22T15:54:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Funerals and Memorials",
+            "Coffins",
+            "Cardinals (Roman Catholic Prelates)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-casket-02-bcpl/22pope-francis-casket-02-bcpl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "This photo of Pope Francis’ remains in the Chapel of Santa Marta in the Vatican on Monday and those below were released by the Vatican.",
+                "copyright": "The Vatican"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-casket-02-bcpl/22pope-francis-casket-02-bcpl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "This photo of Pope Francis’ remains in the Chapel of Santa Marta in the Vatican on Monday and those below were released by the Vatican.",
+                "copyright": "The Vatican"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-casket-02-bcpl/22pope-francis-casket-02-bcpl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "This photo of Pope Francis’ remains in the Chapel of Santa Marta in the Vatican on Monday and those below were released by the Vatican.",
+                "copyright": "The Vatican"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Slaughter of Civilians in Kashmir Shatters an Illusion of Calm",
+        "abstract": "India had claimed in recent years that its heavy-handed approach had brought peace to the long restive region. The attack on Tuesday showed that wasn’t true.",
+        "url": "https://www.nytimes.com/2025/04/23/world/asia/kashmir-attack-india-pakistan.html",
+        "uri": "nyt://article/3d37463c-19b0-59fa-b1f2-70616b487fd6",
+        "byline": "By Mujib Mashal",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T04:19:28-04:00",
+        "created_date": "2025-04-23T04:19:28-04:00",
+        "published_date": "2025-04-23T04:19:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Territorial Disputes"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra"
+        ],
+        "geo_facet": [
+            "Kashmir"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23INT-KASHMIR-ATTACK-wzhg/23INT-KASHMIR-ATTACK-wzhg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security officers patrolling a shopping area in Pahalgam on Wednesday, a day after militants opened fire on tourists near the town, killing at least 26.",
+                "copyright": "Dar Yasin/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23INT-KASHMIR-ATTACK-wzhg/23INT-KASHMIR-ATTACK-wzhg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security officers patrolling a shopping area in Pahalgam on Wednesday, a day after militants opened fire on tourists near the town, killing at least 26.",
+                "copyright": "Dar Yasin/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23INT-KASHMIR-ATTACK-wzhg/23INT-KASHMIR-ATTACK-wzhg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security officers patrolling a shopping area in Pahalgam on Wednesday, a day after militants opened fire on tourists near the town, killing at least 26.",
+                "copyright": "Dar Yasin/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Gov. Josh Shapiro: Finding Moral Clarity After an Arsonist’s Attack",
+        "abstract": "This level of violence has to stop.",
+        "url": "https://www.nytimes.com/2025/04/23/opinion/josh-shapiro-governor-mansion-arson.html",
+        "uri": "nyt://article/f05684de-be4a-502e-bdd9-2c8a79541e13",
+        "byline": "By Josh Shapiro",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:03:19-04:00",
+        "created_date": "2025-04-23T05:03:19-04:00",
+        "published_date": "2025-04-23T05:03:19-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "Religion and Belief",
+            "Arson",
+            "United States Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Shapiro, Josh (1973- )"
+        ],
+        "geo_facet": [
+            "Pennsylvania"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/opinion/23shapiro/23shapiro-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2000,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times; photograph by Kyle Grantham for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/opinion/23shapiro/23shapiro-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times; photograph by Kyle Grantham for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/opinion/23shapiro/23shapiro-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times; photograph by Kyle Grantham for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "When the Supreme Court Spoke With One Voice",
+        "abstract": "The federal judiciary is being forced to confront a fundamental question: what to do when its orders are defied.",
+        "url": "https://www.nytimes.com/2025/04/23/opinion/trump-supreme-court.html",
+        "uri": "nyt://article/ffe9aa07-d353-5343-adc7-371d40c2b826",
+        "byline": "By Jeffrey Toobin",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:02:26-04:00",
+        "created_date": "2025-04-23T05:02:26-04:00",
+        "published_date": "2025-04-23T05:02:26-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "Deportation",
+            "United States Politics and Government",
+            "Federal Courts (US)"
+        ],
+        "org_facet": [
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Trump, Donald J",
+            "Alito, Samuel A Jr",
+            "Thomas, Clarence"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/23toobin-tvcq/23toobin-tvcq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Will Matsuda for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/23toobin-tvcq/23toobin-tvcq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Will Matsuda for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/23toobin-tvcq/23toobin-tvcq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Will Matsuda for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
