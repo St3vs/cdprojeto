@@ -81769,5 +81769,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "dance",
+        "title": "Climate Activists Interrupt New York City Ballet Performance",
+        "abstract": "Protesters interrupted an all-Balanchine program on the company’s spring season opening night, which coincided this year with Earth Day.",
+        "url": "https://www.nytimes.com/2025/04/22/arts/dance/nyc-ballet-climate-activists.html",
+        "uri": "nyt://article/8b19ae7b-6cfb-5c5d-82c0-453a15828351",
+        "byline": "By Javier C. Hernández, Rachel Saltz and Amanda Webster",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T23:26:39-04:00",
+        "created_date": "2025-04-22T23:07:38-04:00",
+        "published_date": "2025-04-22T23:07:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Dancing",
+            "Global Warming",
+            "Demonstrations, Protests and Riots"
+        ],
+        "org_facet": [
+            "New York City Ballet",
+            "Lincoln Center for the Performing Arts",
+            "Koch, David H, Theater",
+            "Extinction Rebellion"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/22/arts/22cul-climate-ballet/22cul-climate-ballet-superJumbo-v2.png",
+                "format": "Super Jumbo",
+                "height": 1950,
+                "width": 1300,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Climate change activists interrupted a New York City Ballet performance in Lincoln Center on Tuesday night.",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/22/arts/22cul-climate-ballet/22cul-climate-ballet-threeByTwoSmallAt2X-v2.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Climate change activists interrupted a New York City Ballet performance in Lincoln Center on Tuesday night.",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/22/arts/22cul-climate-ballet/22cul-climate-ballet-thumbLarge-v2.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Climate change activists interrupted a New York City Ballet performance in Lincoln Center on Tuesday night.",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
