@@ -85990,5 +85990,129 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Canada’s Million-Dollar Housing Crisis",
+        "abstract": "Soaring housing costs, with many homes nearing $1 million, have sparked an exodus from cities like Vancouver, and Canadians want their next prime minister to do something about it.",
+        "url": "https://www.nytimes.com/2025/04/23/world/americas/canada-election-housing-crisis.html",
+        "uri": "nyt://article/66f905e9-b314-5d13-a1ea-0b3c18c17539",
+        "byline": "By Vjosa Isai and Alana Paterson",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T17:44:12-04:00",
+        "created_date": "2025-04-23T05:01:42-04:00",
+        "published_date": "2025-04-23T05:01:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Real Estate and Housing (Residential)",
+            "Affordable Housing",
+            "Elections"
+        ],
+        "org_facet": [
+            "Conservative Party (Canada)",
+            "Liberal Party (Canada)"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Poilievre, Pierre"
+        ],
+        "geo_facet": [
+            "Canada",
+            "British Columbia (Canada)",
+            "Vancouver (British Columbia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/world/23int-canada-affordability-promo/23int-canada-affordability-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1463,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chilliwack, British Colombia, has become a magnet for people from Vancouver who can no longer afford living there.",
+                "copyright": "Alana Paterson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/world/23int-canada-affordability-promo/23int-canada-affordability-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chilliwack, British Colombia, has become a magnet for people from Vancouver who can no longer afford living there.",
+                "copyright": "Alana Paterson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/world/23int-canada-affordability-promo/23int-canada-affordability-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chilliwack, British Colombia, has become a magnet for people from Vancouver who can no longer afford living there.",
+                "copyright": "Alana Paterson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "theater",
+        "subsection": "",
+        "title": "No Power? No Problem. Nicole Scherzinger Sings With Bullhorn on Broadway.",
+        "abstract": "The “Sunset Boulevard” star briefly entertained the crowd when “a technical malfunction on the sound side” forced the cancellation of a matinee performance.",
+        "url": "https://www.nytimes.com/2025/04/23/theater/nicole-scherzinger-sunset-boulevard-broadway.html",
+        "uri": "nyt://article/486a535b-3477-5a69-a118-e0354bd04f31",
+        "byline": "By Michael Paulson",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T16:56:10-04:00",
+        "created_date": "2025-04-23T16:56:10-04:00",
+        "published_date": "2025-04-23T16:56:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Theater",
+            "Theater (Broadway)",
+            "Sunset Boulevard (Play)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Scherzinger, Nicole"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/23visualUploader-55565-cover/23visualUploader-55565-cover-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1280,
+                "width": 720,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Emily Feurring "
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/23visualUploader-55565-cover/23visualUploader-55565-cover-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Emily Feurring "
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/23visualUploader-55565-cover/23visualUploader-55565-cover-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Emily Feurring "
+            }
+        ],
+        "short_url": ""
     }
 ]
