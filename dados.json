@@ -81967,5 +81967,270 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "After the Wildfires, This High School Needed a Campus. It Found a Sears.",
+        "abstract": "Palisades Charter High School in California has held classes online since the fire in January. On Tuesday, students gathered at a new, temporary home, a retrofitted Sears.",
+        "url": "https://www.nytimes.com/2025/04/23/us/palisades-high-school-sears.html",
+        "uri": "nyt://article/c15be222-f416-5ad3-a988-348e390f3c86",
+        "byline": "By Sam Lubell",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T00:30:32-04:00",
+        "created_date": "2025-04-23T00:30:32-04:00",
+        "published_date": "2025-04-23T00:30:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Education (K-12)",
+            "Southern California Wildfires (Jan 2025)",
+            "Restoration and Renovation"
+        ],
+        "org_facet": [
+            "Sears Holdings Corporation"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "California",
+            "Pacific Palisades (Calif)",
+            "Santa Monica (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/22/multimedia/22nat-pali-high-fwzt/22nat-pali-high-fwzt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "On Tuesday, Palisades Charter High School returned to in-person classes at a retrofitted Sears department store in Santa Monica, Calif., the school’s home for the foreseeable future.",
+                "copyright": "Mark Abramson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/22/multimedia/22nat-pali-high-fwzt/22nat-pali-high-fwzt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "On Tuesday, Palisades Charter High School returned to in-person classes at a retrofitted Sears department store in Santa Monica, Calif., the school’s home for the foreseeable future.",
+                "copyright": "Mark Abramson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/22/multimedia/22nat-pali-high-fwzt/22nat-pali-high-fwzt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "On Tuesday, Palisades Charter High School returned to in-person classes at a retrofitted Sears department store in Santa Monica, Calif., the school’s home for the foreseeable future.",
+                "copyright": "Mark Abramson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "What Happened to the Francis Revolution?",
+        "abstract": "Pope Francis proved to be far more cautious and conservative than many progressive Catholics had hoped for.",
+        "url": "https://www.nytimes.com/2025/04/23/opinion/pope-francis-death-legacy.html",
+        "uri": "nyt://article/314219f6-fee9-56b6-8c8b-80aa0543008b",
+        "byline": "By Philip Shenon",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T01:00:05-04:00",
+        "created_date": "2025-04-23T01:00:05-04:00",
+        "published_date": "2025-04-23T01:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "Guest Essay",
+        "des_facet": [
+            "Celibacy",
+            "Priests",
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)",
+            "Religion and Belief"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23shenon-hzjp/23shenon-hzjp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1833,
+                "width": 1832,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Luca Zennaro/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23shenon-hzjp/23shenon-hzjp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Luca Zennaro/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23shenon-hzjp/23shenon-hzjp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Luca Zennaro/EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "Birthrates Languish in Record Lows, C.D.C. Reports",
+        "abstract": "Despite a 1 percent increase in 2024, U.S. birthrates remained in a historic slump, a trend that worries demographers and cultural critics.",
+        "url": "https://www.nytimes.com/2025/04/23/health/birth-rates-cdc.html",
+        "uri": "nyt://article/b3f5e55d-d63d-59da-8c4b-42963c750f8d",
+        "byline": "By Azeen Ghorayshi",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T00:01:04-04:00",
+        "created_date": "2025-04-23T00:01:04-04:00",
+        "published_date": "2025-04-23T00:01:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Presidential Election of 2024",
+            "United States Economy",
+            "Teenage Pregnancy",
+            "Age, Chronological",
+            "Birth Rates",
+            "Conservatism (US Politics)",
+            "Pregnancy and Childbirth",
+            "Parenting",
+            "Federal Aid (US)",
+            "Babies and Infants",
+            "Population"
+        ],
+        "org_facet": [
+            "Centers for Disease Control and Prevention",
+            "Republican Party"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23hs-births-bcwh/23hs-births-bcwh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Much of the long-term trend can be attributed to the substantial reductions in teenage pregnancies over the last several decades.",
+                "copyright": "Eric Gay/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23hs-births-bcwh/23hs-births-bcwh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Much of the long-term trend can be attributed to the substantial reductions in teenage pregnancies over the last several decades.",
+                "copyright": "Eric Gay/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23hs-births-bcwh/23hs-births-bcwh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Much of the long-term trend can be attributed to the substantial reductions in teenage pregnancies over the last several decades.",
+                "copyright": "Eric Gay/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Almost Half of Americans Breathe Unhealthy Air, Report Finds",
+        "abstract": "Weakening or rolling back longstanding environmental regulations would worsen the problem, the American Lung Association assessment says.",
+        "url": "https://www.nytimes.com/2025/04/23/climate/american-lung-association-air-report.html",
+        "uri": "nyt://article/580ec07b-4abe-57ba-a4e3-3b4582473596",
+        "byline": "By Rebecca Dzombak",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T00:01:04-04:00",
+        "created_date": "2025-04-23T00:01:04-04:00",
+        "published_date": "2025-04-23T00:01:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Air Pollution",
+            "Global Warming",
+            "Clean Air Act",
+            "Wildfires",
+            "Coal",
+            "Urban Areas",
+            "Ozone",
+            "Hazardous and Toxic Substances",
+            "Environment",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "American Lung Assn"
+        ],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "United States",
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23cli-stateofair-gzhw/23cli-stateofair-gzhw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The view from Brooklyn in June 2023, when smoke from wildfires in Canada caused air quality to decline in New York City.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23cli-stateofair-gzhw/23cli-stateofair-gzhw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The view from Brooklyn in June 2023, when smoke from wildfires in Canada caused air quality to decline in New York City.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23cli-stateofair-gzhw/23cli-stateofair-gzhw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The view from Brooklyn in June 2023, when smoke from wildfires in Canada caused air quality to decline in New York City.",
+                "copyright": "Dave Sanders for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
