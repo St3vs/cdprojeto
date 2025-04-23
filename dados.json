@@ -84919,5 +84919,198 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Eric Adams Campaigns at Legal Weed Shop With Troubled History",
+        "abstract": "Before it was a legal dispensary where the mayor hoped to raise campaign funds, the site held an illicit weed shop raided by the city. Some of its operators are still around.",
+        "url": "https://www.nytimes.com/2025/04/23/nyregion/eric-adams-sweetlife-dispensary-fundraiser.html",
+        "uri": "nyt://article/2b09689c-90f2-5bf9-a4ac-2de8735ff9a9",
+        "byline": "By Ashley Southall",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T13:02:44-04:00",
+        "created_date": "2025-04-23T13:02:44-04:00",
+        "published_date": "2025-04-23T13:02:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Marijuana",
+            "Campaign Finance",
+            "Cannabis Foods and Products"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Adams, Eric L"
+        ],
+        "geo_facet": [
+            "New York City",
+            "New York State"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/00met-adamsdispensary-hgtm/00met-adamsdispensary-hgtm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mayor Eric Adams visited Sweetlife, a licensed cannabis dispensary on the Upper East Side of Manhattan, during a fund-raising event last week.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/00met-adamsdispensary-hgtm/00met-adamsdispensary-hgtm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mayor Eric Adams visited Sweetlife, a licensed cannabis dispensary on the Upper East Side of Manhattan, during a fund-raising event last week.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/00met-adamsdispensary-hgtm/00met-adamsdispensary-hgtm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mayor Eric Adams visited Sweetlife, a licensed cannabis dispensary on the Upper East Side of Manhattan, during a fund-raising event last week.",
+                "copyright": "Dave Sanders for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "media",
+        "title": "The Dispatch Buys SCOTUSblog, a Supreme Court Mainstay",
+        "abstract": "The Dispatch, a right-of-center political news and commentary start-up, plans to keep the legal news website available at no cost. Terms of the deal were not disclosed.",
+        "url": "https://www.nytimes.com/2025/04/23/business/media/scotusblog-the-dispatch.html",
+        "uri": "nyt://article/0f48354d-5b98-5180-9226-8e4fec4bb4d2",
+        "byline": "By Benjamin Mullin",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T12:30:04-04:00",
+        "created_date": "2025-04-23T12:30:04-04:00",
+        "published_date": "2025-04-23T12:30:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Start-ups",
+            "Blogs and Blogging (Internet)",
+            "Mergers, Acquisitions and Divestitures"
+        ],
+        "org_facet": [
+            "SCOTUSblog",
+            "Dispatch, The (Web Site)",
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Goldstein, Thomas C",
+            "Hayes, Stephen F"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23BIZ-SCOTUSBLOG-1-tclv/23BIZ-SCOTUSBLOG-1-tclv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "SCOTUSblog has been a go-to destination for news and analysis on all things related to the Supreme Court for decades.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23BIZ-SCOTUSBLOG-1-tclv/23BIZ-SCOTUSBLOG-1-tclv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "SCOTUSblog has been a go-to destination for news and analysis on all things related to the Supreme Court for decades.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23BIZ-SCOTUSBLOG-1-tclv/23BIZ-SCOTUSBLOG-1-tclv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "SCOTUSblog has been a go-to destination for news and analysis on all things related to the Supreme Court for decades.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "media",
+        "title": "Karen Durbin, 80, Dies; ‘Fearless’ Feminist Who Edited The Village Voice",
+        "abstract": "A fierce advocate of sexual liberation, she pushed the alternative weekly to cover women’s issues, as well as gay rights and avant-garde culture.",
+        "url": "https://www.nytimes.com/2025/04/23/business/media/karen-durbin-dead.html",
+        "uri": "nyt://article/9ad13124-fca0-520b-804c-06a3c61961c0",
+        "byline": "By Sam Roberts",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T12:38:12-04:00",
+        "created_date": "2025-04-23T12:26:36-04:00",
+        "published_date": "2025-04-23T12:26:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "News and News Media",
+            "Newspapers",
+            "Women's Rights"
+        ],
+        "org_facet": [
+            "Village Voice",
+            "New York Times"
+        ],
+        "per_facet": [
+            "Durbin, Karen",
+            "Alig, Michael",
+            "Barrett, Wayne",
+            "Carr, Cynthia",
+            "Finley, Karen",
+            "Gottlieb, Martin",
+            "Romano, Tricia",
+            "Willis, Ellen"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21Durbin--01-qhwc/21Durbin--01-qhwc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1356,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Karen Durbin of The Village Voice in 1976. She was named senior arts editor three years later and returned to the paper as editor in chief in 1994.",
+                "copyright": "James Hamilton"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21Durbin--01-qhwc/21Durbin--01-qhwc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Karen Durbin of The Village Voice in 1976. She was named senior arts editor three years later and returned to the paper as editor in chief in 1994.",
+                "copyright": "James Hamilton"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21Durbin--01-qhwc/21Durbin--01-qhwc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Karen Durbin of The Village Voice in 1976. She was named senior arts editor three years later and returned to the paper as editor in chief in 1994.",
+                "copyright": "James Hamilton"
+            }
+        ],
+        "short_url": ""
     }
 ]
