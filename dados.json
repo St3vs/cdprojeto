@@ -81633,5 +81633,141 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Wildfire Burns in 3,200 Acres of New Jersey Forest Area",
+        "abstract": "The fire in the Pine Barrens led to the evacuation of 3,000 residents and the shutdown of a stretch of the Garden State Parkway.",
+        "url": "https://www.nytimes.com/2025/04/22/nyregion/wildfire-new-jersey-ocean-county.html",
+        "uri": "nyt://article/279776ed-de69-5471-975f-bb4537e63bf8",
+        "byline": "By Ed Shanahan and Tracey Tully",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T22:25:47-04:00",
+        "created_date": "2025-04-22T21:09:52-04:00",
+        "published_date": "2025-04-22T21:09:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Wildfires",
+            "Fires and Firefighters",
+            "Roads and Traffic"
+        ],
+        "org_facet": [
+            "New Jersey Forest Fire Service"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Garden State Parkway (NJ)",
+            "New Jersey",
+            "Ocean County (NJ)",
+            "Pine Barrens (NJ)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22met-fire/22met-fire-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The fire in the Pine Barrens area of New Jersey caused a 17-mile stretch of the Garden State Parkway to shut down.",
+                "copyright": "CBS News New York"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22met-fire/22met-fire-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The fire in the Pine Barrens area of New Jersey caused a 17-mile stretch of the Garden State Parkway to shut down.",
+                "copyright": "CBS News New York"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22met-fire/22met-fire-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The fire in the Pine Barrens area of New Jersey caused a 17-mile stretch of the Garden State Parkway to shut down.",
+                "copyright": "CBS News New York"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "U.S. Says Tren de Aragua Charges Will ‘Devastate’ Its Infrastructure",
+        "abstract": "Federal prosecutors charged six members of the Venezuelan gang and 21 members of a violent splinter group.",
+        "url": "https://www.nytimes.com/2025/04/22/nyregion/federal-tren-de-aragua-charges.html",
+        "uri": "nyt://article/db6ffe79-5bb6-5bec-8bbc-b53bd49940d5",
+        "byline": "By Benjamin Weiser and Maria Cramer",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T21:11:44-04:00",
+        "created_date": "2025-04-22T21:11:44-04:00",
+        "published_date": "2025-04-22T21:11:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Deportation",
+            "Racketeering and Racketeers",
+            "Gangs",
+            "Terrorism"
+        ],
+        "org_facet": [
+            "Homeland Security Department",
+            "Immigration and Customs Enforcement (US)",
+            "Justice Department",
+            "Police Department (NYC)",
+            "Tren de Aragua (Gang)"
+        ],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Bondi, Pamela J",
+            "Homan, Thomas D",
+            "Maduro, Nicolas",
+            "Trump, Donald J",
+            "Van Hollen, Christopher Jr"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22met-sdny-tda-mtjb/22met-sdny-tda-mtjb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "City and federal officials have said Tren de Aragua poses a unique threat. The Trump administration has designated it a terror group.",
+                "copyright": "Angelina Katsanis for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22met-sdny-tda-mtjb/22met-sdny-tda-mtjb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "City and federal officials have said Tren de Aragua poses a unique threat. The Trump administration has designated it a terror group.",
+                "copyright": "Angelina Katsanis for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22met-sdny-tda-mtjb/22met-sdny-tda-mtjb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "City and federal officials have said Tren de Aragua poses a unique threat. The Trump administration has designated it a terror group.",
+                "copyright": "Angelina Katsanis for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
