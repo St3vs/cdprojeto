@@ -81507,5 +81507,131 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "music",
+        "title": "Roy Thomas Baker, Who Helped Produce ‘Bohemian Rhapsody,’ Dies at 78",
+        "abstract": "Among the most successful music producers in the 1970s and ’80s, he helped churn out hits for acts like Queen, the Cars, Journey and Foreigner.",
+        "url": "https://www.nytimes.com/2025/04/22/arts/music/roy-thomas-baker-dead.html",
+        "uri": "nyt://article/a7ef8e56-1651-5859-9668-b8e06fe1a929",
+        "byline": "By Alexandra E. Petri and Sara Ruberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T19:59:15-04:00",
+        "created_date": "2025-04-22T19:28:20-04:00",
+        "published_date": "2025-04-22T19:28:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Bohemian Rhapsody (Song)",
+            "Pop and Rock Music",
+            "Deaths (Obituaries)"
+        ],
+        "org_facet": [
+            "Who, The (Music Group)",
+            "Foreigner (Music Group)",
+            "Journey (Music Group)",
+            "T-Rex (Music Group)"
+        ],
+        "per_facet": [
+            "Baker, Roy Thomas (1946-2025)"
+        ],
+        "geo_facet": [
+            "London (England)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/22/multimedia/22xp-baker/22xp-baker-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1425,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Roy Thomas Baker, in Anaheim, Calif., in 2002, was among the most successful music producers in the 1970s and 1980s.",
+                "copyright": "Kevin Winter/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/22/multimedia/22xp-baker/22xp-baker-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Roy Thomas Baker, in Anaheim, Calif., in 2002, was among the most successful music producers in the 1970s and 1980s.",
+                "copyright": "Kevin Winter/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/22/multimedia/22xp-baker/22xp-baker-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Roy Thomas Baker, in Anaheim, Calif., in 2002, was among the most successful music producers in the 1970s and 1980s.",
+                "copyright": "Kevin Winter/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "What to Know About the Legal Battle Over a North Carolina Supreme Court Race",
+        "abstract": "The Republican challenger has embarked on an extraordinary effort to reverse his election loss that critics say is testing the boundaries of post-election litigation.",
+        "url": "https://www.nytimes.com/2025/04/22/us/north-carolina-supreme-court-race-explainer.html",
+        "uri": "nyt://article/313ef060-e65b-58a7-be3a-9f42f609e154",
+        "byline": "By Eduardo Medina and Nick Corasaniti",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T19:53:55-04:00",
+        "created_date": "2025-04-22T19:53:55-04:00",
+        "published_date": "2025-04-22T19:53:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections, Courts and the Judiciary",
+            "Voting Rights, Registration and Requirements",
+            "Supreme Courts (State)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Griffin, Jefferson (1980- )",
+            "Riggs, Allison J"
+        ],
+        "geo_facet": [
+            "North Carolina"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23NAT-NC-COURT-EXPLAINER-01-vbzm/23NAT-NC-COURT-EXPLAINER-01-vbzm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "North Carolina Supreme Court Justice Allison Riggs at a protest in Raleigh against her opponent’s efforts to toss out scores of ballots.",
+                "copyright": "Cornell Watson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23NAT-NC-COURT-EXPLAINER-01-vbzm/23NAT-NC-COURT-EXPLAINER-01-vbzm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "North Carolina Supreme Court Justice Allison Riggs at a protest in Raleigh against her opponent’s efforts to toss out scores of ballots.",
+                "copyright": "Cornell Watson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23NAT-NC-COURT-EXPLAINER-01-vbzm/23NAT-NC-COURT-EXPLAINER-01-vbzm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "North Carolina Supreme Court Justice Allison Riggs at a protest in Raleigh against her opponent’s efforts to toss out scores of ballots.",
+                "copyright": "Cornell Watson for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
