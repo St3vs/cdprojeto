@@ -84368,5 +84368,556 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Kennedy Declares ‘Sugar Is Poison’ While Announcing Ban on Food Dyes",
+        "abstract": "The health secretary is ratcheting up his campaign against the food industry.",
+        "url": "https://www.nytimes.com/2025/04/22/us/politics/rfk-jr-food-dye-ban-sugar.html",
+        "uri": "nyt://article/6b7d409c-ae4b-5c1c-81cf-65b284cd1a45",
+        "byline": "By Sheryl Gay Stolberg and Kim Severson",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T09:15:37-04:00",
+        "created_date": "2025-04-22T20:47:05-04:00",
+        "published_date": "2025-04-22T20:47:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Sugar",
+            "Dyes and Dyestuffs"
+        ],
+        "org_facet": [
+            "Health and Human Services Department",
+            "Food and Drug Administration",
+            "National Institutes of Health"
+        ],
+        "per_facet": [
+            "Kennedy, Robert F Jr",
+            "Makary, Marty",
+            "Bhattacharya, Jay"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/22/multimedia/22trump-news-rfk-sugar-qktl/22trump-news-rfk-sugar-qktl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1255,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Health Secretary Robert F. Kennedy Jr. escalated his war against the food industry on Tuesday, declaring that “sugar is poison.”",
+                "copyright": "Al Drago for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/22/multimedia/22trump-news-rfk-sugar-qktl/22trump-news-rfk-sugar-qktl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Health Secretary Robert F. Kennedy Jr. escalated his war against the food industry on Tuesday, declaring that “sugar is poison.”",
+                "copyright": "Al Drago for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/22/multimedia/22trump-news-rfk-sugar-qktl/22trump-news-rfk-sugar-qktl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Health Secretary Robert F. Kennedy Jr. escalated his war against the food industry on Tuesday, declaring that “sugar is poison.”",
+                "copyright": "Al Drago for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "",
+        "title": "Theo Von Dismantles the Interview Show",
+        "abstract": "The comedian and podcaster is one of the defining conversationalists of media’s new MAGA-friendly mainstream. But he can be harder to pin down, politically and culturally, than his bro-cast peers.",
+        "url": "https://www.nytimes.com/2025/04/23/arts/theo-von-this-past-weekend.html",
+        "uri": "nyt://article/569fd9e1-4768-5131-91b8-961d7102267a",
+        "byline": "By Jon Caramanica",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T08:16:45-04:00",
+        "created_date": "2025-04-23T05:00:34-04:00",
+        "published_date": "2025-04-23T05:00:34-04:00",
+        "material_type_facet": "",
+        "kicker": "Critic’s Notebook",
+        "des_facet": [
+            "United States Politics and Government",
+            "Comedy and Humor",
+            "Presidential Election of 2024",
+            "Podcasts",
+            "Content Type: Personal Profile"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Sanders, Bernard",
+            "Trump, Donald J",
+            "Von, Theo"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/arts/CUL-THEO-PROMO/CUL-THEO-PROMO-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": " "
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/arts/CUL-THEO-PROMO/CUL-THEO-PROMO-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": " "
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/arts/CUL-THEO-PROMO/CUL-THEO-PROMO-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": " "
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Durbin, No. 2 Senate Democrat, to Retire After 44 Years in Congress",
+        "abstract": "Senator Richard J. Durbin’s departure will set off a primary for a rare open Senate seat in Illinois and open a top leadership slot. He said it was time to “face reality” and make way for someone new.",
+        "url": "https://www.nytimes.com/2025/04/23/us/dick-durbin-retires-senate.html",
+        "uri": "nyt://article/bfb30042-aa67-5bae-8cfd-32f418ea0587",
+        "byline": "By Carl Hulse",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T11:56:30-04:00",
+        "created_date": "2025-04-23T11:15:06-04:00",
+        "published_date": "2025-04-23T11:15:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections, Senate",
+            "Midterm Elections (2026)",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Senate"
+        ],
+        "per_facet": [
+            "Durbin, Richard J"
+        ],
+        "geo_facet": [
+            "Illinois"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23DC-DURBIN-kltp/23DC-DURBIN-kltp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1368,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Richard J. Durbin was considered a forceful advocate of Democratic Party positions during his decades in the Senate.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23DC-DURBIN-kltp/23DC-DURBIN-kltp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Richard J. Durbin was considered a forceful advocate of Democratic Party positions during his decades in the Senate.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23DC-DURBIN-kltp/23DC-DURBIN-kltp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Richard J. Durbin was considered a forceful advocate of Democratic Party positions during his decades in the Senate.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "How to Watch the Funeral of Pope Francis",
+        "abstract": "World leaders and the Catholic faithful from around the globe will attend the funeral on Saturday. Here’s how to watch it and what to expect.",
+        "url": "https://www.nytimes.com/2025/04/23/world/europe/pope-francis-funeral-when-time-watch.html",
+        "uri": "nyt://article/84ce7e3f-c880-5366-be4a-8ba13d528a49",
+        "byline": "By Isabella Kwai",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T09:16:31-04:00",
+        "created_date": "2025-04-23T09:12:19-04:00",
+        "published_date": "2025-04-23T09:12:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Funerals and Memorials",
+            "Popes",
+            "Content Type: Service"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23xp-pope-streaming-pqlk/23xp-pope-streaming-pqlk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The funeral mass for Pope Francis will be held in St. Peter’s Square on Saturday at 10 a.m. local time.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23xp-pope-streaming-pqlk/23xp-pope-streaming-pqlk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The funeral mass for Pope Francis will be held in St. Peter’s Square on Saturday at 10 a.m. local time.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23xp-pope-streaming-pqlk/23xp-pope-streaming-pqlk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The funeral mass for Pope Francis will be held in St. Peter’s Square on Saturday at 10 a.m. local time.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Jordan Cracks Down on Muslim Brotherhood",
+        "abstract": "The Arab monarchy had already taken steps toward disbanding the Islamist group in a 2020 court decision, but said it would now move to completely ban its activities.",
+        "url": "https://www.nytimes.com/2025/04/23/world/middleeast/jordan-muslim-brotherhood.html",
+        "uri": "nyt://article/abb40748-6b80-5ae9-b4da-1fba8323c74e",
+        "byline": "By Rana F. Sweis and Vivian Nereim",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T12:10:02-04:00",
+        "created_date": "2025-04-23T11:29:02-04:00",
+        "published_date": "2025-04-23T11:29:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Politics and Government",
+            "Muslims and Islam",
+            "Arabs"
+        ],
+        "org_facet": [
+            "Muslim Brotherhood (Egypt)",
+            "Islamic Action Front (Jordan)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Jordan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23jordan-brotherhood-01-hpmv/23jordan-brotherhood-01-hpmv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1437,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jordanian police outside the Islamic Action Front office in Amman, Jordan, on Wednesday.",
+                "copyright": "Alaa Al Sukhni/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23jordan-brotherhood-01-hpmv/23jordan-brotherhood-01-hpmv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jordanian police outside the Islamic Action Front office in Amman, Jordan, on Wednesday.",
+                "copyright": "Alaa Al Sukhni/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23jordan-brotherhood-01-hpmv/23jordan-brotherhood-01-hpmv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jordanian police outside the Islamic Action Front office in Amman, Jordan, on Wednesday.",
+                "copyright": "Alaa Al Sukhni/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Cuomo’s Campaign Strategy: Limit Appearances and Avoid Confrontation",
+        "abstract": "Former Gov. Andrew Cuomo is embracing a so-called Rose Garden strategy in his tightly controlled campaign for mayor of New York City.",
+        "url": "https://www.nytimes.com/2025/04/23/nyregion/cuomo-mayor-campaign-strategy.html",
+        "uri": "nyt://article/629b7980-1917-5f24-9d5a-b3394ec86db5",
+        "byline": "By Emma G. Fitzsimmons and Jeffery C. Mays",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T03:00:12-04:00",
+        "created_date": "2025-04-23T03:00:12-04:00",
+        "published_date": "2025-04-23T03:00:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections, Mayors",
+            "Politics and Government",
+            "Debates (Political)",
+            "Primaries and Caucuses"
+        ],
+        "org_facet": [
+            "Democratic Party"
+        ],
+        "per_facet": [
+            "Cuomo, Andrew M"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23met-cuomo-rosegarden-jpzk/23met-cuomo-rosegarden-jpzk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Former Gov. Andrew Cuomo has avoided campaign appearances where he might be confronted by his opponents.",
+                "copyright": "Shuran Huang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23met-cuomo-rosegarden-jpzk/23met-cuomo-rosegarden-jpzk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Former Gov. Andrew Cuomo has avoided campaign appearances where he might be confronted by his opponents.",
+                "copyright": "Shuran Huang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23met-cuomo-rosegarden-jpzk/23met-cuomo-rosegarden-jpzk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Former Gov. Andrew Cuomo has avoided campaign appearances where he might be confronted by his opponents.",
+                "copyright": "Shuran Huang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Police Identify 2 Gilgo Beach Victims, a Mother and Her Toddler",
+        "abstract": "The victims — Tanya Denise Jackson and her daughter, Tatiana Marie Dykes — were found on Long Island, near the area where a serial killer operated.",
+        "url": "https://www.nytimes.com/2025/04/23/nyregion/gilgo-beach-victims-woman-child.html",
+        "uri": "nyt://article/f26f89a9-841a-5003-b7bf-074433946424",
+        "byline": "By Corey Kilgannon and Maia Coleman",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T12:14:35-04:00",
+        "created_date": "2025-04-23T12:00:41-04:00",
+        "published_date": "2025-04-23T12:00:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Serial Murders",
+            "Murders, Attempted Murders and Homicides",
+            "Forensic Science"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Heuermann, Rex (1963- )"
+        ],
+        "geo_facet": [
+            "Gilgo Beach (NY)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23met-gilgo-victims-zhwv/23met-gilgo-victims-zhwv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23met-gilgo-victims-zhwv/23met-gilgo-victims-zhwv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23met-gilgo-victims-zhwv/23met-gilgo-victims-zhwv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Dave Sanders for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "The Physics of the Perfect Pour Over",
+        "abstract": "Scientists used fluid dynamics to learn how to get the most flavor from pour-over coffee.",
+        "url": "https://www.nytimes.com/2025/04/23/science/physics-experiment-coffee.html",
+        "uri": "nyt://article/ac25bf22-e185-5a53-ab1a-749d3cb9744e",
+        "byline": "By Katrina Miller",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T10:34:51-04:00",
+        "created_date": "2025-04-23T10:34:51-04:00",
+        "published_date": "2025-04-23T10:34:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Coffee",
+            "Physics",
+            "Cooking and Cookbooks"
+        ],
+        "org_facet": [
+            "Physics of Fluids (Journal)"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/00hs-coffee-01-zlfk/00hs-coffee-01-zlfk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Kitchen science starts off with a relatively low entry barrier,” said one author of the coffee study. “But it’s more than just cute. Sometimes fundamental things can come out of it.”",
+                "copyright": "Ernest Park"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/00hs-coffee-01-zlfk/00hs-coffee-01-zlfk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Kitchen science starts off with a relatively low entry barrier,” said one author of the coffee study. “But it’s more than just cute. Sometimes fundamental things can come out of it.”",
+                "copyright": "Ernest Park"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/00hs-coffee-01-zlfk/00hs-coffee-01-zlfk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Kitchen science starts off with a relatively low entry barrier,” said one author of the coffee study. “But it’s more than just cute. Sometimes fundamental things can come out of it.”",
+                "copyright": "Ernest Park"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "insider",
+        "subsection": "",
+        "title": "A White House Reporter on What It Takes to Cover Trump",
+        "abstract": "Tyler Pager uses a deep bench of sources to break stories about immigration, economic policy and national security.",
+        "url": "https://www.nytimes.com/2025/04/23/insider/white-house-reporting.html",
+        "uri": "nyt://article/67bac05b-8ac1-5b5d-b04a-13d288e22309",
+        "byline": "By Sarah Bahr",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T03:00:05-04:00",
+        "created_date": "2025-04-23T03:00:05-04:00",
+        "published_date": "2025-04-23T03:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "Times Insider",
+        "des_facet": [
+            "Politics and Government",
+            "White House Building (Washington, DC)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Pager, Tyler",
+            "Biden, Joseph R Jr",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23a2_insider-tyler-pager-mvfl/23a2_insider-tyler-pager-mvfl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tyler Pager returned to The New York Times in February to cover President Trump and his administration.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23a2_insider-tyler-pager-mvfl/23a2_insider-tyler-pager-mvfl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tyler Pager returned to The New York Times in February to cover President Trump and his administration.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23a2_insider-tyler-pager-mvfl/23a2_insider-tyler-pager-mvfl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tyler Pager returned to The New York Times in February to cover President Trump and his administration.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
