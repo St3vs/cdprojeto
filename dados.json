@@ -82232,5 +82232,71 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Markets Gain After Trump Says He Has No Plans to Oust Fed Chief",
+        "abstract": "Remarks by President Trump and his Treasury secretary fueled a rebound in global stocks, extending a surge that started on Wall Street.",
+        "url": "https://www.nytimes.com/2025/04/22/business/trump-tariff-stocks.html",
+        "uri": "nyt://article/84d689ab-b42d-5bf0-9684-f11177a07f9e",
+        "byline": "By Kevin Granville",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T02:36:58-04:00",
+        "created_date": "2025-04-22T23:45:40-04:00",
+        "published_date": "2025-04-22T23:45:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Stocks and Bonds",
+            "Standard & Poor's 500-Stock Index",
+            "Customs (Tariff)",
+            "Banking and Financial Institutions",
+            "Currency"
+        ],
+        "org_facet": [
+            "Federal Reserve System",
+            "Treasury Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Bessent, Scott"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23biz-stocks-hmlq/23biz-stocks-hmlq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Kazuhiro Nogi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23biz-stocks-hmlq/23biz-stocks-hmlq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Kazuhiro Nogi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23biz-stocks-hmlq/23biz-stocks-hmlq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Kazuhiro Nogi/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
