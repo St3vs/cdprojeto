@@ -83990,5 +83990,198 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Says He Won’t Fire Powell. His Fed Battle May Not Be Over Yet.",
+        "abstract": "The president said he has “no intention” of ousting Jerome H. Powell, the Fed chair, but the administration’s willingness to challenge norms regarding the central bank’s political independence is causing concern.",
+        "url": "https://www.nytimes.com/2025/04/23/us/politics/trump-jerome-powell-fed.html",
+        "uri": "nyt://article/231fa8a3-421d-53d6-b891-551273f0e8db",
+        "byline": "By Colby Smith",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T08:09:54-04:00",
+        "created_date": "2025-04-23T05:03:50-04:00",
+        "published_date": "2025-04-23T05:03:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Banking and Financial Institutions",
+            "United States Economy",
+            "Interest Rates",
+            "Customs (Tariff)",
+            "Inflation (Economics)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-trump-fed-vqbm/22dc-trump-fed-vqbm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jerome H. Powell, the Federal Reserve chair, has faced bruising criticism from the president.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-trump-fed-vqbm/22dc-trump-fed-vqbm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jerome H. Powell, the Federal Reserve chair, has faced bruising criticism from the president.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-trump-fed-vqbm/22dc-trump-fed-vqbm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jerome H. Powell, the Federal Reserve chair, has faced bruising criticism from the president.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Boeing Reports Smaller Loss but Trade War Threats Loom",
+        "abstract": "The plane maker, which has been trying to recover from a quality crisis, could lose orders in China as a result of President Trump’s tariffs.",
+        "url": "https://www.nytimes.com/2025/04/23/business/boeing-earnings-china-trump.html",
+        "uri": "nyt://article/6b631916-0172-5711-b125-64ccf2929e16",
+        "byline": "By Niraj Chokshi",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T07:58:05-04:00",
+        "created_date": "2025-04-23T07:58:05-04:00",
+        "published_date": "2025-04-23T07:58:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Airlines and Airplanes",
+            "Mergers, Acquisitions and Divestitures",
+            "Production",
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "Aviation Accidents, Safety and Disasters",
+            "United States International Relations",
+            "Boeing 737 Max Groundings and Safety Concerns (2019)",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Boeing Company",
+            "Federal Aviation Administration"
+        ],
+        "per_facet": [
+            "Ortberg, Robert K",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23biz-boeing-earnings-zcfh/23biz-boeing-earnings-zcfh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1312,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Boeing planes awaiting delivery to Chinese carriers at the company’s facility in Seattle in 2023.",
+                "copyright": "Ruth Fremson/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23biz-boeing-earnings-zcfh/23biz-boeing-earnings-zcfh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Boeing planes awaiting delivery to Chinese carriers at the company’s facility in Seattle in 2023.",
+                "copyright": "Ruth Fremson/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23biz-boeing-earnings-zcfh/23biz-boeing-earnings-zcfh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Boeing planes awaiting delivery to Chinese carriers at the company’s facility in Seattle in 2023.",
+                "copyright": "Ruth Fremson/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Adrienne Adams Lands Two Major Endorsements for N.Y.C. Mayor",
+        "abstract": "Ms. Adams, the City Council speaker, will receive endorsements from Letitia James, the state attorney general, and from District Council 37, the largest municipal union.",
+        "url": "https://www.nytimes.com/2025/04/23/nyregion/adrienne-adams-endorsements-nyc-mayor.html",
+        "uri": "nyt://article/b957c982-9c61-53ec-b281-794664963000",
+        "byline": "By Emma G. Fitzsimmons",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:03:55-04:00",
+        "created_date": "2025-04-23T05:03:55-04:00",
+        "published_date": "2025-04-23T05:03:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Endorsements",
+            "Elections, Mayors",
+            "Primaries and Caucuses"
+        ],
+        "org_facet": [
+            "Democratic Party",
+            "District Council 37"
+        ],
+        "per_facet": [
+            "Adams, Adrienne (1960- )",
+            "James, Letitia"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23met-mayor-endorse-fgpm/23met-mayor-endorse-fgpm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Adrienne Adams, the New York City Council speaker, is hoping that the endorsements provide a needed boost to her mayoral campaign.",
+                "copyright": "Brittainy Newman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23met-mayor-endorse-fgpm/23met-mayor-endorse-fgpm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Adrienne Adams, the New York City Council speaker, is hoping that the endorsements provide a needed boost to her mayoral campaign.",
+                "copyright": "Brittainy Newman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23met-mayor-endorse-fgpm/23met-mayor-endorse-fgpm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Adrienne Adams, the New York City Council speaker, is hoping that the endorsements provide a needed boost to her mayoral campaign.",
+                "copyright": "Brittainy Newman for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
