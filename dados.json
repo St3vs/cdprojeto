@@ -85544,5 +85544,260 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "A Life ‘Shattered’: A Student Who Lost His Visa Opens Up About His Detainment",
+        "abstract": "A Minnesota man from Indonesia who is married to a U.S. citizen thought he would soon get a green card. Now, he could get deported over a 2022 arrest.",
+        "url": "https://www.nytimes.com/2025/04/23/us/minnesota-student-aditya-harsono-visa.html",
+        "uri": "nyt://article/030383cb-321c-599c-9bb0-070f342bd471",
+        "byline": "By Ernesto Londoño",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T15:41:52-04:00",
+        "created_date": "2025-04-23T15:41:52-04:00",
+        "published_date": "2025-04-23T15:41:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Foreign Students (in US)",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Minnesota"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00NAT-MINNESOTA-VISA-01-tlhj/00NAT-MINNESOTA-VISA-01-tlhj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1362,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Peyton Harsono with her daughter in Marshall, Minn. Ms. Harsono’s husband was detained in March.",
+                "copyright": "Caroline Yang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00NAT-MINNESOTA-VISA-01-tlhj/00NAT-MINNESOTA-VISA-01-tlhj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Peyton Harsono with her daughter in Marshall, Minn. Ms. Harsono’s husband was detained in March.",
+                "copyright": "Caroline Yang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00NAT-MINNESOTA-VISA-01-tlhj/00NAT-MINNESOTA-VISA-01-tlhj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Peyton Harsono with her daughter in Marshall, Minn. Ms. Harsono’s husband was detained in March.",
+                "copyright": "Caroline Yang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "YouTube Turns 20: From ‘Lazy Sunday’ to ‘Hot Ones’",
+        "abstract": "The video-streaming platform has revolutionized how we watch things. Here’s a timeline of its biggest moments.",
+        "url": "https://www.nytimes.com/2025/04/23/technology/youtube-20th-anniversary-timeline.html",
+        "uri": "nyt://article/696fab29-3796-5e9b-8d17-020583b0ab2d",
+        "byline": "By Amanda Holpuch",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T15:53:48-04:00",
+        "created_date": "2025-04-23T12:31:00-04:00",
+        "published_date": "2025-04-23T12:31:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Video Recordings, Downloads and Streaming",
+            "Social Media",
+            "Pop and Rock Music",
+            "Computers and the Internet",
+            "Television",
+            "Copyrights and Copyright Violations",
+            "Baby Shark (Song)",
+            "Chicken Shop Date (Web-Original Program)",
+            "Despacito (Song)",
+            "internal-storyline-no"
+        ],
+        "org_facet": [
+            "YouTube.com",
+            "Google Inc"
+        ],
+        "per_facet": [
+            "Black, Rebecca",
+            "Technoblade (d 2022)",
+            "Samberg, Andy",
+            "Psy (Rapper)",
+            "Jones, Alex (1974- )",
+            "Fonsi, Luis",
+            "Donaldson, Jimmy (Mr Beast) (1998- )",
+            "Kony, Joseph",
+            "O'Brien, Conan",
+            "Parnell, Chris",
+            "Bieber, Justin"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/arts/youtube-mosaic-cover/youtube-mosaic-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1620,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/arts/youtube-mosaic-cover/youtube-mosaic-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/arts/youtube-mosaic-cover/youtube-mosaic-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Prelude to a Funeral",
+        "abstract": "A single image captures the subtle changes in how the Roman Catholic Church buries a pope.",
+        "url": "https://www.nytimes.com/2025/04/23/world/europe/pope-francis-death-vatican-rituals.html",
+        "uri": "nyt://article/0b4a315f-c7c2-5d49-b72a-565f7dae1c7e",
+        "byline": "By Tomás Munita and Peter Robins",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T16:02:09-04:00",
+        "created_date": "2025-04-23T15:56:54-04:00",
+        "published_date": "2025-04-23T15:56:54-04:00",
+        "material_type_facet": "",
+        "kicker": "In One Image",
+        "des_facet": [
+            "Funerals and Memorials",
+            "vis-photo"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-OneImage-Pope-jhqb/23int-OneImage-Pope-jhqb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tomás Munita for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-OneImage-Pope-jhqb/23int-OneImage-Pope-jhqb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tomás Munita for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-OneImage-Pope-jhqb/23int-OneImage-Pope-jhqb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tomás Munita for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "‘Conclave’ Streaming Numbers Jump After Pope Francis’ Death",
+        "abstract": "Experts said that the 2024 film accurately portrayed the papal selection process.",
+        "url": "https://www.nytimes.com/2025/04/23/business/conclave-film-streaming-pope-francis.html",
+        "uri": "nyt://article/2ff11ac9-dc78-5a0d-b521-43a4dcfd6ca6",
+        "byline": "By Aimee Ortiz",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T15:30:40-04:00",
+        "created_date": "2025-04-23T15:08:53-04:00",
+        "published_date": "2025-04-23T15:08:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Video Recordings, Downloads and Streaming",
+            "Movies",
+            "Clergy"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2024/10/24/multimedia/23xp-conclave-pmct/23xp-conclave-pmct-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1224,
+                "width": 1834,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ralph Fiennes as Cardinal Thomas Lawrence in “Conclave.”",
+                "copyright": "Philippe Antonello/Focus Features"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/10/24/multimedia/23xp-conclave-pmct/23xp-conclave-pmct-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ralph Fiennes as Cardinal Thomas Lawrence in “Conclave.”",
+                "copyright": "Philippe Antonello/Focus Features"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/10/24/multimedia/23xp-conclave-pmct/conclave-anatomy1-pmct-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ralph Fiennes as Cardinal Thomas Lawrence in “Conclave.”",
+                "copyright": "Philippe Antonello/Focus Features"
+            }
+        ],
+        "short_url": ""
     }
 ]
