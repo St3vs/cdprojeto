@@ -86114,5 +86114,306 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump’s Approval Rating Has Been Falling Steadily, Polling Average Shows",
+        "abstract": "President Trump’s approval rating has sunk to about 45 percent, down from 52 percent one week after he took office.",
+        "url": "https://www.nytimes.com/2025/04/23/us/politics/trump-approval-rating.html",
+        "uri": "nyt://article/f8731875-65d3-5783-b364-60e8acf874e2",
+        "byline": "By Tyler Pager and Ruth Igielnik",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T18:14:02-04:00",
+        "created_date": "2025-04-23T17:52:06-04:00",
+        "published_date": "2025-04-23T17:52:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Polls and Public Opinion",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "New York Times",
+            "Quinnipiac University"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-trump-approval-mjhg/23dc-trump-approval-mjhg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump now holds a net negative approval rating.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-trump-approval-mjhg/23dc-trump-approval-mjhg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump now holds a net negative approval rating.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-trump-approval-mjhg/23dc-trump-approval-mjhg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump now holds a net negative approval rating.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "travel",
+        "subsection": "",
+        "title": "How Safe Are Helicopter Sightseeing Tours?",
+        "abstract": "The F.A.A. allows many of these popular flights to operate under less stringent rules than other commercial aviation, opening the door to dangers like pilot fatigue.",
+        "url": "https://www.nytimes.com/2025/04/23/travel/helicopter-sightseeing-tours-regulations-safety.html",
+        "uri": "nyt://article/4f2bde36-289e-501b-8167-5a29dccd90ab",
+        "byline": "By Christine Chung",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T17:47:36-04:00",
+        "created_date": "2025-04-23T17:47:36-04:00",
+        "published_date": "2025-04-23T17:47:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Aviation Accidents, Safety and Disasters",
+            "Helicopters",
+            "Deaths (Fatalities)",
+            "Law and Legislation",
+            "Travel and Vacations",
+            "Pilots",
+            "Transportation"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Grand Canyon (Ariz)",
+            "Hawaii",
+            "Alaska",
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/00trav-helicopter-safety-02-cwfp/00trav-helicopter-safety-02-cwfp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Helicopter tours, popular among sightseers in destinations like New York, have drawn scrutiny over how they are regulated.",
+                "copyright": "Kevin Hagen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/00trav-helicopter-safety-02-cwfp/00trav-helicopter-safety-02-cwfp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Helicopter tours, popular among sightseers in destinations like New York, have drawn scrutiny over how they are regulated.",
+                "copyright": "Kevin Hagen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/00trav-helicopter-safety-02-cwfp/00trav-helicopter-safety-02-cwfp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Helicopter tours, popular among sightseers in destinations like New York, have drawn scrutiny over how they are regulated.",
+                "copyright": "Kevin Hagen for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "U.S. Pushed a Ukraine Peace Plan That Favored Russia",
+        "abstract": "Also, major endorsements jolted the New York City mayoral race. Here’s the latest at the end of Wednesday.",
+        "url": "https://www.nytimes.com/2025/04/23/briefing/us-ukraine-peace-plan-new-york-city-mayor.html",
+        "uri": "nyt://article/278ea4e0-d89a-57ab-9d9f-7636fe20a202",
+        "byline": "By Matthew Cullen",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T17:48:06-04:00",
+        "created_date": "2025-04-23T17:48:06-04:00",
+        "published_date": "2025-04-23T17:48:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/23evening-trump-vcmq-copy/24ambriefing-asia-trump-vcmq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1639,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/23evening-trump-vcmq-copy/24ambriefing-asia-trump-vcmq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/23evening-trump-vcmq-copy/24ambriefing-asia-trump-vcmq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "California Judge Is Convicted of Fatally Shooting His Wife",
+        "abstract": "Judge Jeffrey Ferguson of Orange County Superior Court faces 40 years to life for murdering his wife, Sheryl Ferguson, in August 2023, prosecutors said.",
+        "url": "https://www.nytimes.com/2025/04/23/us/california-judge-wife-murder-conviction.html",
+        "uri": "nyt://article/dc06531a-94ee-50a6-8f43-94ef4058cd56",
+        "byline": "By Michael Levenson",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T17:16:56-04:00",
+        "created_date": "2025-04-23T17:16:56-04:00",
+        "published_date": "2025-04-23T17:16:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Murders, Attempted Murders and Homicides",
+            "Decisions and Verdicts",
+            "Legal Profession"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Ferguson, Jeffrey (1950- )",
+            "Ferguson, Sheryl (1958-2023)"
+        ],
+        "geo_facet": [
+            "Orange County (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23xp-judge-tzvw/23xp-judge-tzvw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1464,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Judge Jeffrey Ferguson had testified that the shooting was accidental.",
+                "copyright": "Pool photo by Mindy Schauer"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23xp-judge-tzvw/23xp-judge-tzvw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Judge Jeffrey Ferguson had testified that the shooting was accidental.",
+                "copyright": "Pool photo by Mindy Schauer"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23xp-judge-tzvw/23xp-judge-tzvw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Judge Jeffrey Ferguson had testified that the shooting was accidental.",
+                "copyright": "Pool photo by Mindy Schauer"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "sports",
+        "subsection": "football",
+        "title": "Mike Patrick, Voice of Sunday Night N.F.L. Games on ESPN, Dies at 80",
+        "abstract": "He did the cable network’s play-by-play for college basketball, football and baseball games, but his most important assignment was “Sunday Night Football.”",
+        "url": "https://www.nytimes.com/2025/04/23/sports/football/mike-patrick-dead.html",
+        "uri": "nyt://article/214ca11f-ad13-5b37-a58b-443d0e094b19",
+        "byline": "By Richard Sandomir",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T18:20:04-04:00",
+        "created_date": "2025-04-23T18:09:21-04:00",
+        "published_date": "2025-04-23T18:09:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Athletics and Sports",
+            "Football",
+            "College Athletics",
+            "Basketball",
+            "Sunday Night Football  (TV Program)"
+        ],
+        "org_facet": [
+            "ESPN"
+        ],
+        "per_facet": [
+            "Patrick, Mike"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23Patrick--03-gvjk/23Patrick--03-gvjk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mike Patrick, center, was honored in 2018 by Duke University in North Carolina, where he had been a longtime announcer of Atlantic Coast Conference basketball games. He was joined by two university athletics department officials: the director, Jon Jackson, left, and his deputy, Mike Cragg. ",
+                "copyright": "Lance King/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23Patrick--03-gvjk/23Patrick--03-gvjk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mike Patrick, center, was honored in 2018 by Duke University in North Carolina, where he had been a longtime announcer of Atlantic Coast Conference basketball games. He was joined by two university athletics department officials: the director, Jon Jackson, left, and his deputy, Mike Cragg. ",
+                "copyright": "Lance King/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23Patrick--03-gvjk/23Patrick--03-gvjk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mike Patrick, center, was honored in 2018 by Duke University in North Carolina, where he had been a longtime announcer of Atlantic Coast Conference basketball games. He was joined by two university athletics department officials: the director, Jon Jackson, left, and his deputy, Mike Cragg. ",
+                "copyright": "Lance King/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
