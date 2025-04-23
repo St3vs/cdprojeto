@@ -83873,5 +83873,122 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "podcasts",
+        "subsection": "the-headlines",
+        "title": "A State Department Shake-Up, and Musk Pivots as Tesla Profits Plunge",
+        "abstract": "Plus, YouTube turns 20.",
+        "url": "https://www.nytimes.com/2025/04/23/podcasts/the-headlines/state-department-rubio-musk-tesla.html",
+        "uri": "nyt://article/b79ebaf0-aeef-5ea3-ae2b-ce59764daa60",
+        "byline": "By Tracy Mumford, Will Jarvis, Ian Stewart, Jessica Metzger and Jack Ewing",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T06:01:44-04:00",
+        "created_date": "2025-04-23T06:00:14-04:00",
+        "published_date": "2025-04-23T06:00:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Electric and Hybrid Vehicles",
+            "Deportation",
+            "Heat and Heat Waves"
+        ],
+        "org_facet": [
+            "Centers for Disease Control and Prevention",
+            "Tesla Motors Inc"
+        ],
+        "per_facet": [
+            "Musk, Elon"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23headlines-vjpw/23headlines-vjpw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio introduced a plan to make major cuts to the State Department as part of a restructuring, calling the agency “bloated, bureaucratic” and “beholden to radical political ideology.”",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23headlines-vjpw/23headlines-vjpw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio introduced a plan to make major cuts to the State Department as part of a restructuring, calling the agency “bloated, bureaucratic” and “beholden to radical political ideology.”",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23headlines-vjpw/23headlines-vjpw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio introduced a plan to make major cuts to the State Department as part of a restructuring, calling the agency “bloated, bureaucratic” and “beholden to radical political ideology.”",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Our Questions, and Yours",
+        "abstract": "We answer five questions you had about the news.",
+        "url": "https://www.nytimes.com/2025/04/23/briefing/our-questions-and-yours.html",
+        "uri": "nyt://article/2c0ff197-a5cd-569c-ade9-b3e62a4c4721",
+        "byline": "",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T06:30:15-04:00",
+        "created_date": "2025-04-23T06:28:51-04:00",
+        "published_date": "2025-04-23T06:28:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "internal-storyline-no"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/arts/oakImage-1745359294935/oakImage-1745359294935-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1902,
+                "width": 1900,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Sophie Park for The New York Times, Doug Mills/The New York Times, Amir Hamja for The New York Times and Focus Features. "
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/arts/oakImage-1745359294935/oakImage-1745359294935-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Sophie Park for The New York Times, Doug Mills/The New York Times, Amir Hamja for The New York Times and Focus Features. "
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/arts/oakImage-1745359294935/oakImage-1745359294935-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Sophie Park for The New York Times, Doug Mills/The New York Times, Amir Hamja for The New York Times and Focus Features. "
+            }
+        ],
+        "short_url": ""
     }
 ]
