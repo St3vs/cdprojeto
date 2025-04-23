@@ -82669,5 +82669,1209 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "China Has an Army of Robots on Its Side in the Tariff War",
+        "abstract": "Enormous investments in factory equipment and artificial intelligence are giving China an edge in car manufacturing and other industries.",
+        "url": "https://www.nytimes.com/2025/04/23/business/china-tariffs-robots-automation.html",
+        "uri": "nyt://article/260582f8-c379-5b37-a015-42644a88a358",
+        "byline": "By Keith Bradsher",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T03:40:41-04:00",
+        "created_date": "2025-04-23T00:00:09-04:00",
+        "published_date": "2025-04-23T00:00:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Factories and Manufacturing",
+            "Robots and Robotics",
+            "Artificial Intelligence"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/BIZ-CHINA-AUTOMATION-video-bolt1-cover-whbv/BIZ-CHINA-AUTOMATION-video-bolt1-cover-whbv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1146,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A robot sorts lug nuts before attaching wheels to electric cars at a Zeekr plant in Ningbo, China.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/BIZ-CHINA-AUTOMATION-video-bolt1-cover-whbv/BIZ-CHINA-AUTOMATION-video-bolt1-cover-whbv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A robot sorts lug nuts before attaching wheels to electric cars at a Zeekr plant in Ningbo, China.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/BIZ-CHINA-AUTOMATION-video-bolt1-cover-whbv/BIZ-CHINA-AUTOMATION-video-bolt1-cover-whbv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A robot sorts lug nuts before attaching wheels to electric cars at a Zeekr plant in Ningbo, China.",
+                "copyright": "Qilai Shen for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Trump’s Trade War With China Puts Japan in a Tight Spot",
+        "abstract": "Japan had long maintained deep economic ties with both China and the United States. Recent trade tensions may challenge that approach.",
+        "url": "https://www.nytimes.com/2025/04/23/business/trump-tariffs-japan-china.html",
+        "uri": "nyt://article/95dfc5a4-39ee-5d79-88b5-c17663e3d218",
+        "byline": "By River Akira Davis",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T02:37:03-04:00",
+        "created_date": "2025-04-23T00:00:07-04:00",
+        "published_date": "2025-04-23T00:00:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Economic Conditions and Trends",
+            "Customs (Tariff)",
+            "International Trade and World Market",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Japan",
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/JAPAN-CHINA-03-qbtf/JAPAN-CHINA-03-qbtf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nissan cars ready to be shipped from a port in Kanda, Fukuoka Prefecture.",
+                "copyright": "Noriko Hayashi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/JAPAN-CHINA-03-qbtf/JAPAN-CHINA-03-qbtf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nissan cars ready to be shipped from a port in Kanda, Fukuoka Prefecture.",
+                "copyright": "Noriko Hayashi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/JAPAN-CHINA-03-qbtf/JAPAN-CHINA-03-qbtf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nissan cars ready to be shipped from a port in Kanda, Fukuoka Prefecture.",
+                "copyright": "Noriko Hayashi for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Elon Musk Warns Rare Earth Magnet Shortage May Delay Tesla’s Robots",
+        "abstract": "China’s halt this month on exports of magnets containing heavy rare earth metals has affected Tesla’s plans to manufacture Optimus robots.",
+        "url": "https://www.nytimes.com/2025/04/23/business/elon-musk-tesla-robots.html",
+        "uri": "nyt://article/875e9c78-9b5e-5ca0-a14d-e3fba090bfd2",
+        "byline": "By Keith Bradsher",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:59:32-04:00",
+        "created_date": "2025-04-23T05:57:47-04:00",
+        "published_date": "2025-04-23T05:57:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Rare Earths",
+            "International Trade and World Market",
+            "Robots and Robotics"
+        ],
+        "org_facet": [
+            "Tesla Motors Inc"
+        ],
+        "per_facet": [
+            "Musk, Elon"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/00biz-Musk-Robots-jlmk/00biz-Musk-Robots-jlmk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk at the White House this month.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/00biz-Musk-Robots-jlmk/00biz-Musk-Robots-jlmk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk at the White House this month.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/00biz-Musk-Robots-jlmk/00biz-Musk-Robots-jlmk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk at the White House this month.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Says He Won’t Fire Powell. His Fed Battle May Not Be Over Yet.",
+        "abstract": "The president said he has “no intention” of ousting Jerome H. Powell, the Fed chair, but the administration’s willingness to challenge norms regarding the central bank’s political independence is causing concern.",
+        "url": "https://www.nytimes.com/2025/04/23/us/politics/trump-says-he-wont-fire-powell-his-fed-battle-may-not-be-over-yet.html",
+        "uri": "nyt://article/231fa8a3-421d-53d6-b891-551273f0e8db",
+        "byline": "By Colby Smith",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:03:49-04:00",
+        "created_date": "2025-04-23T05:03:49-04:00",
+        "published_date": "2025-04-23T05:03:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Banking and Financial Institutions",
+            "United States Economy",
+            "Interest Rates",
+            "Customs (Tariff)",
+            "Inflation (Economics)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-trump-fed-vqbm/22dc-trump-fed-vqbm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jerome H. Powell, the Federal Reserve chair, has faced bruising criticism from the president.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-trump-fed-vqbm/22dc-trump-fed-vqbm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jerome H. Powell, the Federal Reserve chair, has faced bruising criticism from the president.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-trump-fed-vqbm/22dc-trump-fed-vqbm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jerome H. Powell, the Federal Reserve chair, has faced bruising criticism from the president.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Big Law Firms Fighting Trump’s Blacklist Seek Quick and Permanent Relief",
+        "abstract": "Perkins Coie and WilmerHale hope to convince a pair of federal judges on Wednesday that President Trump’s threats to their business are blatantly unconstitutional.",
+        "url": "https://www.nytimes.com/2025/04/23/us/politics/big-law-firms-trump.html",
+        "uri": "nyt://article/c2ecd72b-7bee-5aff-b556-dedcd37fe58a",
+        "byline": "By Zach Montague",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:03:49-04:00",
+        "created_date": "2025-04-23T05:03:49-04:00",
+        "published_date": "2025-04-23T05:03:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Legal Profession",
+            "Executive Orders and Memorandums"
+        ],
+        "org_facet": [
+            "Justice Department",
+            "Perkins Coie LLP",
+            "Wilmer Cutler Pickering Hale and Dorr LLP"
+        ],
+        "per_facet": [
+            "Bondi, Pamela J",
+            "Trump, Donald J",
+            "Leon, Richard J",
+            "Howell, Beryl A"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-lawfirms1-jhqc/23dc-lawfirms1-jhqc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The offices of WilmerHale in Washington this month.",
+                "copyright": "Andrew Mangum for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-lawfirms1-jhqc/23dc-lawfirms1-jhqc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The offices of WilmerHale in Washington this month.",
+                "copyright": "Andrew Mangum for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-lawfirms1-jhqc/23dc-lawfirms1-jhqc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The offices of WilmerHale in Washington this month.",
+                "copyright": "Andrew Mangum for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Critics Call Rubio’s Overhaul Plan a Blow to U.S. Values",
+        "abstract": "A proposed reorganization of the State Department would eliminate an office whose official goal is to build “more democratic, secure, stable, and just societies.”",
+        "url": "https://www.nytimes.com/2025/04/22/us/politics/rubio-state-department-overhaul.html",
+        "uri": "nyt://article/66d29d2d-7471-5612-a549-c26bab8304a2",
+        "byline": "By Michael Crowley",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T22:07:47-04:00",
+        "created_date": "2025-04-22T20:11:39-04:00",
+        "published_date": "2025-04-22T20:11:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Shutdowns (Institutional)",
+            "Refugees and Displaced Persons",
+            "Human Rights and Human Rights Violations"
+        ],
+        "org_facet": [
+            "State Department"
+        ],
+        "per_facet": [
+            "Rubio, Marco",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-bureau1-tmlg/22dc-bureau1-tmlg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio during a cabinet meeting at the White House this month.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-bureau1-tmlg/22dc-bureau1-tmlg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio during a cabinet meeting at the White House this month.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-bureau1-tmlg/22dc-bureau1-tmlg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio during a cabinet meeting at the White House this month.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "They Criticized Musk on X. Then Their Reach Collapsed.",
+        "abstract": "Three users who disagreed with the site’s owner saw views for their posts plummet.",
+        "url": "https://www.nytimes.com/interactive/2025/04/23/business/elon-musk-x-suppression-laura-loomer.html",
+        "uri": "nyt://interactive/98e8d632-87f8-50bc-8d70-1853edebd55d",
+        "byline": "By Stuart A. Thompson",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-23T05:26:01-04:00",
+        "created_date": "2025-04-23T05:02:12-04:00",
+        "published_date": "2025-04-23T05:02:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Freedom of Speech and Expression",
+            "Right-Wing Extremism and Alt-Right",
+            "Social Media"
+        ],
+        "org_facet": [
+            "X (Formerly Twitter)"
+        ],
+        "per_facet": [
+            "Loomer, Laura",
+            "Musk, Elon",
+            "Shroyer, Owen"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/2025-03-27-disinfo-elon-suppression-index/2025-03-27-disinfo-elon-suppression-index-superJumbo-v2.png",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/2025-03-27-disinfo-elon-suppression-index/2025-03-27-disinfo-elon-suppression-index-threeByTwoSmallAt2X-v3.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/2025-03-27-disinfo-elon-suppression-index/2025-03-27-disinfo-elon-suppression-index-thumbLarge-v2.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "At Elon Musk’s Behest, Voters Cast Ballots for a New Town: Starbase, Texas",
+        "abstract": "It has been a rough patch for Mr. Musk, but he is about to realize a dream for SpaceX, its employees and for himself, his own town on the southern tip of Texas.",
+        "url": "https://www.nytimes.com/2025/04/23/us/elon-musk-town-starbase-texas.html",
+        "uri": "nyt://article/3b2a71fb-5669-5a81-b82c-6a2646cfb067",
+        "byline": "By J. David Goodman",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:03:54-04:00",
+        "created_date": "2025-04-23T05:03:54-04:00",
+        "published_date": "2025-04-23T05:03:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "Tesla Motors Inc",
+            "Starlink Satellite Constellation (SpaceX)"
+        ],
+        "per_facet": [
+            "Musk, Elon"
+        ],
+        "geo_facet": [
+            "Starbase (Tex)",
+            "Texas"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23NAT-MUSK-CITY-01-jqtk/23NAT-MUSK-CITY-01-jqtk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The SpaceX facilities in Texas. A few dozen people began to vote on Tuesday on whether to formally launch a new town called Starbase, Texas.",
+                "copyright": "Gabriel V. Cárdenas for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23NAT-MUSK-CITY-01-jqtk/23NAT-MUSK-CITY-01-jqtk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The SpaceX facilities in Texas. A few dozen people began to vote on Tuesday on whether to formally launch a new town called Starbase, Texas.",
+                "copyright": "Gabriel V. Cárdenas for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23NAT-MUSK-CITY-01-jqtk/23NAT-MUSK-CITY-01-jqtk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The SpaceX facilities in Texas. A few dozen people began to vote on Tuesday on whether to formally launch a new town called Starbase, Texas.",
+                "copyright": "Gabriel V. Cárdenas for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "realestate",
+        "subsection": "",
+        "title": "Why Is There Always a Line? And Why Is It at My Front Door?",
+        "abstract": "One of New York City’s minor yet annoying inconveniences is a line that forms when a restaurant or another business becomes wildly popular.",
+        "url": "https://www.nytimes.com/2025/04/22/realestate/new-york-city-long-lines.html",
+        "uri": "nyt://article/c7c76ab3-a15e-5961-9ce7-07d77d96a7ab",
+        "byline": "By Matt Yan and Hilary Swift",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T12:29:17-04:00",
+        "created_date": "2025-04-22T05:00:17-04:00",
+        "published_date": "2025-04-22T05:00:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Real Estate and Housing (Residential)",
+            "Real Estate (Commercial)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22re-livingnearlines-04-gwkv/22re-livingnearlines-04-gwkv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1363,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lines can pop up anywhere in New York City, but what happens when it’s at your front door? ",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22re-livingnearlines-04-gwkv/22re-livingnearlines-04-gwkv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lines can pop up anywhere in New York City, but what happens when it’s at your front door? ",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22re-livingnearlines-04-gwkv/22re-livingnearlines-04-gwkv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lines can pop up anywhere in New York City, but what happens when it’s at your front door? ",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Syria’s Jihadist-Turned-President Seeks New Allies",
+        "abstract": "In an interview with The New York Times, President Ahmed al-Shara urged the United States to lift sanctions and alluded to the possibility of future military support from Russia and Turkey.",
+        "url": "https://www.nytimes.com/2025/04/23/world/middleeast/syria-president-al-shara-interview.html",
+        "uri": "nyt://article/f5db096a-9a99-5ccf-bf05-f7e7a7b663b3",
+        "byline": "By Christina Goldbaum",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:15:30-04:00",
+        "created_date": "2025-04-23T05:15:30-04:00",
+        "published_date": "2025-04-23T05:15:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Embargoes and Sanctions",
+            "Iran-Israel Proxy Conflict"
+        ],
+        "org_facet": [
+            "Al Qaeda",
+            "Hayat Tahrir al-Sham"
+        ],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )",
+            "Assad, Bashar al-"
+        ],
+        "geo_facet": [
+            "Damascus (Syria)",
+            "Moscow (Russia)",
+            "Turkey",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-syria-shara-top-mvbj/23int-syria-shara-top-mvbj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1536,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Syria’s new president, the former rebel leader Ahmed al-Shara.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-syria-shara-top-mvbj/23int-syria-shara-top-mvbj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Syria’s new president, the former rebel leader Ahmed al-Shara.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-syria-shara-top-mvbj/23int-syria-shara-top-mvbj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Syria’s new president, the former rebel leader Ahmed al-Shara.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Syria’s New President Talked to The New York Times. Here Are 3 Takeaways.",
+        "abstract": "Ahmed al-Shara said his government was discussing military support with Russia and Turkey, appealed for a lifting of sanctions and suggested foreign fighters could earn Syrian citizenship.",
+        "url": "https://www.nytimes.com/2025/04/23/world/middleeast/syria-president-nyt-interview-takeaways.html",
+        "uri": "nyt://article/d8244b38-a017-5875-b2fb-82b0487c5fd0",
+        "byline": "By Christina Goldbaum",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:50:30-04:00",
+        "created_date": "2025-04-23T05:50:30-04:00",
+        "published_date": "2025-04-23T05:50:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Embargoes and Sanctions",
+            "Politics and Government",
+            "International Relations"
+        ],
+        "org_facet": [
+            "Hayat Tahrir al-Sham"
+        ],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )"
+        ],
+        "geo_facet": [
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/00int-syria-takeaways-fgbc/00int-syria-takeaways-fgbc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Ahmed al-Shara of Syria told The New York Times that his government was negotiating with both Russia and Turkey.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/00int-syria-takeaways-fgbc/00int-syria-takeaways-fgbc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Ahmed al-Shara of Syria told The New York Times that his government was negotiating with both Russia and Turkey.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/00int-syria-takeaways-fgbc/00int-syria-takeaways-fgbc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Ahmed al-Shara of Syria told The New York Times that his government was negotiating with both Russia and Turkey.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "In California Jails, a Rash of Homicide and Negligence",
+        "abstract": "The jails of Riverside County are plagued with unusually high murder rates and recurring security failures by an inexperienced staff.",
+        "url": "https://www.nytimes.com/2025/04/23/us/riverside-county-jails-homicides.html",
+        "uri": "nyt://article/0f32bf67-e880-56e3-b3c6-05bd7e44aaad",
+        "byline": "By Christopher Damien",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:01:18-04:00",
+        "created_date": "2025-04-23T05:01:18-04:00",
+        "published_date": "2025-04-23T05:01:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Murders, Attempted Murders and Homicides",
+            "Prison Guards and Corrections Officers",
+            "Prisons and Prisoners",
+            "Gangs",
+            "Sex Crimes",
+            "Suicides and Suicide Attempts",
+            "internal-open-access",
+            "Deaths (Fatalities)",
+            "Sheriffs"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Bianco, Chad"
+        ],
+        "geo_facet": [
+            "Riverside County (Calif)",
+            "California"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00inland-empire-jails-promo/00inland-empire-jails-fvjp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Cois M. Byrd Detention Center in Murrieta, Calif.",
+                "copyright": "Alex Welsh for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00inland-empire-jails-promo/00inland-empire-jails-fvjp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Cois M. Byrd Detention Center in Murrieta, Calif.",
+                "copyright": "Alex Welsh for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/00inland-empire-jails-promo/00inland-empire-jails-fvjp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Cois M. Byrd Detention Center in Murrieta, Calif.",
+                "copyright": "Alex Welsh for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "What to Know About the Tensions Over Kashmir",
+        "abstract": "A terrorist attack in the disputed territory in 2019 brought India and Pakistan to the verge of war. There are fears Tuesday’s violence could do the same.",
+        "url": "https://www.nytimes.com/2025/04/23/world/asia/kashmir-terrorist-attack-explainer.html",
+        "uri": "nyt://article/f3dfb011-b5a9-5876-879b-8ce94a93c142",
+        "byline": "By John Yoon",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:28:11-04:00",
+        "created_date": "2025-04-23T05:28:11-04:00",
+        "published_date": "2025-04-23T05:28:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Territorial Disputes",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra"
+        ],
+        "geo_facet": [
+            "India",
+            "Kashmir",
+            "Kashmir and Jammu (India)",
+            "Pakistan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23xp-kashmir-fzkt/23xp-kashmir-fzkt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security forces escorting an ambulance with the bodies of tourists who were killed in Kashmir, on Wednesday.",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23xp-kashmir-fzkt/23xp-kashmir-fzkt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security forces escorting an ambulance with the bodies of tourists who were killed in Kashmir, on Wednesday.",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23xp-kashmir-fzkt/23xp-kashmir-fzkt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security forces escorting an ambulance with the bodies of tourists who were killed in Kashmir, on Wednesday.",
+                "copyright": "Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "Apple and Meta Are First to Be Hit by E.U. Digital Competition Law",
+        "abstract": "The European Commission said the Silicon Valley companies violated the Digital Markets Act, a law meant to crimp the power of the largest tech firms.",
+        "url": "https://www.nytimes.com/2025/04/23/technology/apple-meta-eu-fines-competition-law.html",
+        "uri": "nyt://article/78fbc867-a435-511f-8ac3-0d6eb2a73c41",
+        "byline": "By Adam Satariano",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T06:14:01-04:00",
+        "created_date": "2025-04-23T05:46:10-04:00",
+        "published_date": "2025-04-23T05:46:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Computers and the Internet",
+            "Social Media",
+            "Regulation and Deregulation of Industry",
+            "United States Politics and Government",
+            "Fines (Penalties)",
+            "Antitrust Laws and Competition Issues",
+            "Mobile Applications",
+            "United States International Relations"
+        ],
+        "org_facet": [
+            "Apple Inc",
+            "European Commission",
+            "European Union",
+            "Meta Platforms Inc",
+            "Facebook Inc",
+            "Instagram Inc"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/00biz-europe-tech-cfzp/00biz-europe-tech-cfzp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Customers try the Vision Pro mixed reality glasses device at the Apple store on Champs Elysees in Paris.",
+                "copyright": "Julien De Rosa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/00biz-europe-tech-cfzp/00biz-europe-tech-cfzp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Customers try the Vision Pro mixed reality glasses device at the Apple store on Champs Elysees in Paris.",
+                "copyright": "Julien De Rosa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/00biz-europe-tech-cfzp/00biz-europe-tech-cfzp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Customers try the Vision Pro mixed reality glasses device at the Apple store on Champs Elysees in Paris.",
+                "copyright": "Julien De Rosa/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "Remember When Facebook Was Cool? Recalling a Bygone Era at Meta’s Trial.",
+        "abstract": "In the landmark antitrust case, tech executives have harked back to a Silicon Valley age when social apps like Facebook, Path, Orkut and Google Plus boomed.",
+        "url": "https://www.nytimes.com/2025/04/23/technology/meta-trial-silicon-valley-social-apps.html",
+        "uri": "nyt://article/b29127b7-143d-57a4-b48a-51d6b7ce62c6",
+        "byline": "By Mike Isaac and Cecilia Kang",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:03:40-04:00",
+        "created_date": "2025-04-23T05:03:40-04:00",
+        "published_date": "2025-04-23T05:03:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Social Media",
+            "Antitrust Laws and Competition Issues",
+            "Computers and the Internet",
+            "Witnesses",
+            "Instant Messaging",
+            "Start-ups"
+        ],
+        "org_facet": [
+            "Facebook Inc",
+            "Instagram Inc",
+            "Meta Platforms Inc",
+            "WhatsApp Inc"
+        ],
+        "per_facet": [
+            "Zuckerberg, Mark E",
+            "Boasberg, James E"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/business/00meta-eras/00meta-eras-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Annelise Capossela"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/business/00meta-eras/00meta-eras-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Annelise Capossela"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/business/00meta-eras/00meta-eras-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Annelise Capossela"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Ukraine Cease-Fire Talks in London Downgraded After Rubio Pulls Out",
+        "abstract": "Planned diplomatic talks on Wednesday have been scaled back, raising new doubts about progress toward a cease-fire between Russia and Ukraine.",
+        "url": "https://www.nytimes.com/2025/04/23/world/europe/ukraine-cease-fire-talks-london.html",
+        "uri": "nyt://article/482b239e-70af-5fc8-bff9-f7c6db6b92a4",
+        "byline": "By Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:52:00-04:00",
+        "created_date": "2025-04-23T05:42:43-04:00",
+        "published_date": "2025-04-23T05:42:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Zelensky, Volodymyr",
+            "Trump, Donald J",
+            "Rubio, Marco"
+        ],
+        "geo_facet": [
+            "Crimea (Ukraine)",
+            "Great Britain",
+            "London (England)",
+            "Europe",
+            "Ukraine",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-ukraine-diplo-kqlh/23int-ukraine-diplo-kqlh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio has warned that the President Trump could focus on other priorities if progress on a cease-fire in Ukraine is not made soon.",
+                "copyright": "Pool photo by Julien De Rosa"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-ukraine-diplo-kqlh/23int-ukraine-diplo-kqlh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio has warned that the President Trump could focus on other priorities if progress on a cease-fire in Ukraine is not made soon.",
+                "copyright": "Pool photo by Julien De Rosa"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-ukraine-diplo-kqlh/23int-ukraine-diplo-kqlh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio has warned that the President Trump could focus on other priorities if progress on a cease-fire in Ukraine is not made soon.",
+                "copyright": "Pool photo by Julien De Rosa"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Weinstein’s Retrial to Begin, Testing Legacy of #MeToo Movement",
+        "abstract": "Prosecutors and defense lawyers are expected to make opening statements Wednesday in the sex-crime case of the fallen mogul Harvey Weinstein.",
+        "url": "https://www.nytimes.com/2025/04/23/nyregion/weinstein-retrial-opening-statements.html",
+        "uri": "nyt://article/36f2c27d-a05d-5458-b391-e0622fdd516c",
+        "byline": "By Hurubie Meko",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T03:00:11-04:00",
+        "created_date": "2025-04-23T03:00:11-04:00",
+        "published_date": "2025-04-23T03:00:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Sexual Harassment",
+            "Sex Crimes",
+            "#MeToo Movement",
+            "Witnesses"
+        ],
+        "org_facet": [
+            "National Women's Law Center",
+            "New York Times"
+        ],
+        "per_facet": [
+            "Aidala, Arthur L",
+            "Bragg, Alvin",
+            "Cosby, Bill",
+            "Haley, Miriam",
+            "Mann, Jessica (Actor)",
+            "Weinstein, Harvey"
+        ],
+        "geo_facet": [
+            "Manhattan (NYC)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23met-weinstein-trial1-kmbv/23met-weinstein-trial1-kmbv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jessica Mann, whose testimony in 2020 was emotionally wrenching, is expected to take the stand again.",
+                "copyright": "Jefferson Siegel for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23met-weinstein-trial1-kmbv/23met-weinstein-trial1-kmbv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jessica Mann, whose testimony in 2020 was emotionally wrenching, is expected to take the stand again.",
+                "copyright": "Jefferson Siegel for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23met-weinstein-trial1-kmbv/23met-weinstein-trial1-kmbv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jessica Mann, whose testimony in 2020 was emotionally wrenching, is expected to take the stand again.",
+                "copyright": "Jefferson Siegel for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "A Coastal New England Town’s ‘Ornery’ Vandal: A Woodpecker",
+        "abstract": "More than 20 vehicles in a town on Cape Ann, Mass., have been damaged by a woodpecker in mating season. “You still see him out here,” one resident said. “Peck, peck, peck, peck.”",
+        "url": "https://www.nytimes.com/2025/04/23/us/woodpecker-breaking-car-mirrors.html",
+        "uri": "nyt://article/7ffd88b8-12b7-5374-8725-1a952170acaa",
+        "byline": "By Neil Vigdor",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:27:54-04:00",
+        "created_date": "2025-04-23T05:02:31-04:00",
+        "published_date": "2025-04-23T05:02:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Woodpeckers",
+            "Automobiles",
+            "Conservation of Resources",
+            "Windows",
+            "Birds",
+            "Animal Behavior",
+            "Reproduction (Biological)",
+            "Testosterone"
+        ],
+        "org_facet": [
+            "Brown University"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Massachusetts",
+            "Rockport (Mass)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23xp-woodpecker-TOP-still-02-mcbw/23xp-woodpecker-TOP-still-02-mcbw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 800,
+                "width": 1200,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The brazen suspect in question.",
+                "copyright": "Billy Hickey for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23xp-woodpecker-TOP-still-02-mcbw/23xp-woodpecker-TOP-still-02-mcbw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The brazen suspect in question.",
+                "copyright": "Billy Hickey for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23xp-woodpecker-TOP-still-02-mcbw/23xp-woodpecker-TOP-still-02-mcbw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The brazen suspect in question.",
+                "copyright": "Billy Hickey for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "Kimmel Likens the Selection of a New Pope to ‘RuPaul’s Drag Race’",
+        "abstract": "The late night host also described the papal conclave as determining “who will be handed the keys to the popemobile” on Tuesday.",
+        "url": "https://www.nytimes.com/2025/04/23/arts/television/jimmy-kimmel-pope-conclave.html",
+        "uri": "nyt://article/11685527-0086-53b2-9bfb-02a4146672b1",
+        "byline": "By Trish Bendix",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T02:37:28-04:00",
+        "created_date": "2025-04-23T01:24:00-04:00",
+        "published_date": "2025-04-23T01:24:00-04:00",
+        "material_type_facet": "",
+        "kicker": "Best of Late Night",
+        "des_facet": [
+            "Television",
+            "Jimmy Kimmel Live (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kimmel, Jimmy",
+            "Gutfeld, Greg"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/arts/23latenight/23latenight-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1004,
+                "width": 1801,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jimmy Kimmel said, “nobody’s going to be more insufferable this week than your friend who saw the movie ‘Conclave’ and now knows everything about how it works.”",
+                "copyright": "ABC"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/arts/23latenight/23latenight-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jimmy Kimmel said, “nobody’s going to be more insufferable this week than your friend who saw the movie ‘Conclave’ and now knows everything about how it works.”",
+                "copyright": "ABC"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/arts/23latenight/23latenight-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jimmy Kimmel said, “nobody’s going to be more insufferable this week than your friend who saw the movie ‘Conclave’ and now knows everything about how it works.”",
+                "copyright": "ABC"
+            }
+        ],
+        "short_url": ""
     }
 ]
