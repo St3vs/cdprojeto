@@ -85418,5 +85418,131 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "The Physics of the Perfect Pour Over",
+        "abstract": "Scientists used fluid dynamics to learn how to get the most flavor from pour-over coffee.",
+        "url": "https://www.nytimes.com/2025/04/23/science/pour-over-coffee-physics.html",
+        "uri": "nyt://article/ac25bf22-e185-5a53-ab1a-749d3cb9744e",
+        "byline": "By Katrina Miller",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T14:28:05-04:00",
+        "created_date": "2025-04-23T10:34:52-04:00",
+        "published_date": "2025-04-23T10:34:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Coffee",
+            "Physics",
+            "Cooking and Cookbooks"
+        ],
+        "org_facet": [
+            "Physics of Fluids (Journal)"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/00hs-coffee-01-zlfk/00hs-coffee-01-zlfk-superJumbo-v3.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Kitchen science starts off with a relatively low entry barrier,” said one author of the coffee study. “But it’s more than just cute. Sometimes fundamental things can come out of it.”",
+                "copyright": "Ernest Park"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/00hs-coffee-01-zlfk/00hs-coffee-01-zlfk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Kitchen science starts off with a relatively low entry barrier,” said one author of the coffee study. “But it’s more than just cute. Sometimes fundamental things can come out of it.”",
+                "copyright": "Ernest Park"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/00hs-coffee-01-zlfk/00hs-coffee-01-zlfk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Kitchen science starts off with a relatively low entry barrier,” said one author of the coffee study. “But it’s more than just cute. Sometimes fundamental things can come out of it.”",
+                "copyright": "Ernest Park"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "How I Describe Myself Politically These Days",
+        "abstract": "America needs to figure out how to dominate the industries of the future. Call me a “Waymo Democrat.”",
+        "url": "https://www.nytimes.com/2025/04/23/opinion/waymo-democrat-advanced-manufacturing.html",
+        "uri": "nyt://article/c1fd0fe4-a71e-5d43-b29f-24a434cfe8f9",
+        "byline": "By Thomas L. Friedman",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T15:00:04-04:00",
+        "created_date": "2025-04-23T15:00:04-04:00",
+        "published_date": "2025-04-23T15:00:04-04:00",
+        "material_type_facet": "",
+        "kicker": "Thomas L. Friedman",
+        "des_facet": [
+            "Automobiles",
+            "Electric and Hybrid Vehicles",
+            "Driverless and Semiautonomous Vehicles",
+            "Factories and Manufacturing",
+            "Innovation",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [
+            "Alphabet Inc",
+            "Democratic Party",
+            "Ford Motor Co"
+        ],
+        "per_facet": [
+            "Musk, Elon",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/23friedman-zjkl/23friedman-zjkl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1757,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Natalie Behring/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/23friedman-zjkl/23friedman-zjkl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Natalie Behring/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/23friedman-zjkl/23friedman-zjkl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Natalie Behring/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
