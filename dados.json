@@ -85112,5 +85112,311 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Britain Says It Will Not Alter Standards or Rush U.S. Trade Deal",
+        "abstract": "The British government is hoping to reach an agreement with the United States to soften the economic blow British businesses are facing from higher tariffs.",
+        "url": "https://www.nytimes.com/2025/04/23/business/britain-us-trade-deal.html",
+        "uri": "nyt://article/356cae47-8b3f-5a1a-8d92-c6149c805745",
+        "byline": "By Eshe Nelson",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T14:18:04-04:00",
+        "created_date": "2025-04-23T13:08:37-04:00",
+        "published_date": "2025-04-23T13:08:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Reeves, Rachel (1979- )"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23trump-news-uk-trade1-wbkt/23trump-news-uk-trade1-wbkt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A shopper in a Waitrose supermarket in London. The British government said it would not allow hormone-treated beef into Britain.",
+                "copyright": "Sam Bush for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23trump-news-uk-trade1-wbkt/23trump-news-uk-trade1-wbkt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A shopper in a Waitrose supermarket in London. The British government said it would not allow hormone-treated beef into Britain.",
+                "copyright": "Sam Bush for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23trump-news-uk-trade1-wbkt/23trump-news-uk-trade1-wbkt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A shopper in a Waitrose supermarket in London. The British government said it would not allow hormone-treated beef into Britain.",
+                "copyright": "Sam Bush for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Durbin, No. 2 Senate Democrat, to Retire After 44 Years in Congress",
+        "abstract": "Senator Richard J. Durbin’s departure will set off a primary for a rare open Senate seat in Illinois and open a top leadership slot. He said it was time to “face reality” and make way for someone new.",
+        "url": "https://www.nytimes.com/2025/04/23/us/politics/dick-durbin-retires-senate.html",
+        "uri": "nyt://article/bfb30042-aa67-5bae-8cfd-32f418ea0587",
+        "byline": "By Carl Hulse",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T14:17:12-04:00",
+        "created_date": "2025-04-23T11:15:06-04:00",
+        "published_date": "2025-04-23T11:15:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections, Senate",
+            "Midterm Elections (2026)",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Senate",
+            "Democratic Party"
+        ],
+        "per_facet": [
+            "Durbin, Richard J"
+        ],
+        "geo_facet": [
+            "Illinois"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23DC-DURBIN-kltp/23DC-DURBIN-kltp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1368,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Richard J. Durbin was considered a forceful advocate of Democratic Party positions during his decades in the Senate.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23DC-DURBIN-kltp/23DC-DURBIN-kltp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Richard J. Durbin was considered a forceful advocate of Democratic Party positions during his decades in the Senate.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23DC-DURBIN-kltp/23DC-DURBIN-kltp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Richard J. Durbin was considered a forceful advocate of Democratic Party positions during his decades in the Senate.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "A Perfect Day in a Gentle Meadow Is Shattered by Bloody Carnage",
+        "abstract": "Victims and eyewitnesses described scenes of chaos and horror as militants killed 26 people in Kashmir as families, couples and friends took in a picturesque valley.",
+        "url": "https://www.nytimes.com/2025/04/23/world/asia/kashmir-pahalgam-attack-victims.html",
+        "uri": "nyt://article/f486f11c-e90c-5c81-b3a6-f898882f65c4",
+        "byline": "By Anupreeta Das, Pragati K.B., Showkat Nanda and Suhasini Raj",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T13:50:56-04:00",
+        "created_date": "2025-04-23T13:05:01-04:00",
+        "published_date": "2025-04-23T13:05:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Terrorism",
+            "Travel and Vacations",
+            "International Relations",
+            "Mass Shootings"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Kashmir and Jammu (India)",
+            "Kashmir",
+            "India"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-india-tourists-blvp/23int-india-tourists-blvp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Lidder River, flowing through Pahalgam, a town in the southern part of Indian-administered Kashmir.",
+                "copyright": "Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-india-tourists-blvp/23int-india-tourists-blvp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Lidder River, flowing through Pahalgam, a town in the southern part of Indian-administered Kashmir.",
+                "copyright": "Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-india-tourists-blvp/23int-india-tourists-blvp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Lidder River, flowing through Pahalgam, a town in the southern part of Indian-administered Kashmir.",
+                "copyright": "Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "media",
+        "title": "Columbia Journalism Review Faces the Kind of Crisis It Usually Covers",
+        "abstract": "The publication is now trying to find a successful business model without its top editor, who was abruptly fired last week.",
+        "url": "https://www.nytimes.com/2025/04/23/business/media/cjr-sewell-chan.html",
+        "uri": "nyt://article/284e30d1-70f7-5e6d-9713-b8592b915806",
+        "byline": "By Benjamin Mullin",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:03:43-04:00",
+        "created_date": "2025-04-23T05:03:43-04:00",
+        "published_date": "2025-04-23T05:03:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "News and News Media",
+            "Appointments and Executive Changes",
+            "Journalism Schools",
+            "Colleges and Universities"
+        ],
+        "org_facet": [
+            "Columbia Journalism Review",
+            "Columbia University"
+        ],
+        "per_facet": [
+            "Chan, Sewell",
+            "Cobb, Jelani"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/OakArticle-68078379-1-wqkg/OakArticle-68078379-1-wqkg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Columbia Journalism Review, a product of the journalism school at Columbia University, has historically relied on donations and university funding to survive.",
+                "copyright": "Hiroko Masuike/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/OakArticle-68078379-1-wqkg/OakArticle-68078379-1-wqkg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Columbia Journalism Review, a product of the journalism school at Columbia University, has historically relied on donations and university funding to survive.",
+                "copyright": "Hiroko Masuike/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/OakArticle-68078379-1-wqkg/OakArticle-68078379-1-wqkg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Columbia Journalism Review, a product of the journalism school at Columbia University, has historically relied on donations and university funding to survive.",
+                "copyright": "Hiroko Masuike/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Odes to Mexican Drug Lords Are Pop Hits, but the Law Is Turning Against Them",
+        "abstract": "Mexican artists built enormous audiences singing about drug cartels and narco culture. Cities and states are now moving against the style.",
+        "url": "https://www.nytimes.com/2025/04/23/world/americas/mexico-narcocorridos-ban.html",
+        "uri": "nyt://article/00e5cd3e-2944-5f0f-be72-711bc19146b1",
+        "byline": "By James Wagner",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:03:13-04:00",
+        "created_date": "2025-04-23T05:03:13-04:00",
+        "published_date": "2025-04-23T05:03:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Latin Music",
+            "Drug Abuse and Traffic",
+            "Drug Cartels"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Conriquez, Luis R",
+            "Sheinbaum, Claudia",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/world/23int-mexico-corridos/23int-mexico-corridos-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1357,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Luis R. Conriquez performing last month in Monterrey, Mexico.",
+                "copyright": "Medios y Media, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/world/23int-mexico-corridos/23int-mexico-corridos-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Luis R. Conriquez performing last month in Monterrey, Mexico.",
+                "copyright": "Medios y Media, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/world/23int-mexico-corridos/23int-mexico-corridos-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Luis R. Conriquez performing last month in Monterrey, Mexico.",
+                "copyright": "Medios y Media, via Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
