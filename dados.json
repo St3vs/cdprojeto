@@ -84241,5 +84241,132 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "U.S. Calls for Sweeping Reforms to I.M.F. and World Bank",
+        "abstract": "Treasury Secretary Scott Bessent argued in a speech that the multilateral economic institutions have veered away from their missions.",
+        "url": "https://www.nytimes.com/2025/04/23/business/bessent-imf-world-bank-overhauls.html",
+        "uri": "nyt://article/f0934abb-edd8-5d29-8885-3db3b627379f",
+        "byline": "By Alan Rappeport",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T11:02:27-04:00",
+        "created_date": "2025-04-23T10:00:39-04:00",
+        "published_date": "2025-04-23T10:00:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Banking and Financial Institutions",
+            "Foreign Investments",
+            "United States Economy"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-bessent-vpcj/23dc-bessent-vpcj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Treasury Secretary Scott Bessent is attending meetings with the International Monetary Fund and the World Bank on Wednesday in Washington.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-bessent-vpcj/23dc-bessent-vpcj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Treasury Secretary Scott Bessent is attending meetings with the International Monetary Fund and the World Bank on Wednesday in Washington.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-bessent-vpcj/23dc-bessent-vpcj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Treasury Secretary Scott Bessent is attending meetings with the International Monetary Fund and the World Bank on Wednesday in Washington.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "Tariffs on China Aren’t Likely to Rescue Battered U.S. P.P.E. Industry",
+        "abstract": "The few domestic companies that still make protective gear for health care workers have clamored for federal intervention. But they worry President Trump’s trade war with China won’t help.",
+        "url": "https://www.nytimes.com/2025/04/23/health/china-tariffs-ppe-health-care-workers.html",
+        "uri": "nyt://article/f628aaf3-d692-58a0-be15-3081345d1663",
+        "byline": "By Andrew Jacobs",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T11:03:48-04:00",
+        "created_date": "2025-04-23T11:03:48-04:00",
+        "published_date": "2025-04-23T11:03:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Protective Clothing and Gear",
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "Coronavirus (2019-nCoV)",
+            "United States International Relations",
+            "Politics and Government",
+            "Factories and Manufacturing",
+            "Medicine and Health",
+            "Health Care Workers",
+            "Masks",
+            "Workplace Environment",
+            "Gloves"
+        ],
+        "org_facet": [
+            "Health and Human Services Department",
+            "Defense Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00HS-PPE-TARIFFS-01-bfkt/00HS-PPE-TARIFFS-01-bfkt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1290,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Alex Plavevski/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00HS-PPE-TARIFFS-01-bfkt/00HS-PPE-TARIFFS-01-bfkt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Alex Plavevski/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00HS-PPE-TARIFFS-01-bfkt/00HS-PPE-TARIFFS-01-bfkt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Alex Plavevski/EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
     }
 ]
