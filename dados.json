@@ -87632,5 +87632,816 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "On Major Economic Decisions, Trump Blinks, and Then Blinks Again",
+        "abstract": "President Trump has said his punishing tariffs would force companies to build factories in the United States. But it is far from clear that they will have the effects he predicted.",
+        "url": "https://www.nytimes.com/2025/04/23/us/politics/trump-tariffs-economy.html",
+        "uri": "nyt://article/61d2af1c-a8bb-56da-aa9a-07887959ad36",
+        "byline": "By David E. Sanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T06:12:48-04:00",
+        "created_date": "2025-04-23T19:07:49-04:00",
+        "published_date": "2025-04-23T19:07:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "United States International Relations",
+            "Interest Rates",
+            "United States Economy"
+        ],
+        "org_facet": [
+            "Federal Reserve System"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Powell, Jerome H",
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-trump-econ1-fgpb/23dc-trump-econ1-fgpb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking to the press on the North Lawn at the White House on Wednesday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-trump-econ1-fgpb/23dc-trump-econ1-fgpb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking to the press on the North Lawn at the White House on Wednesday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-trump-econ1-fgpb/23dc-trump-econ1-fgpb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking to the press on the North Lawn at the White House on Wednesday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Markets Fade as China Calls Reports of U.S. Tariff Talks ‘Baseless’",
+        "abstract": "Stocks pulled back from recent gains fueled by comments from President Trump and others suggesting that they might ease steep tariffs.",
+        "url": "https://www.nytimes.com/2025/04/24/business/trump-tariffs-stocks.html",
+        "uri": "nyt://article/d794017c-666f-5aaa-b92b-d57c05390dba",
+        "byline": "By Jason Karaian and Kevin Granville",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T05:03:52-04:00",
+        "created_date": "2025-04-24T05:03:52-04:00",
+        "published_date": "2025-04-24T05:03:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Stocks and Bonds",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "United States",
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24biz-stocks-hgfj/24biz-stocks-hgfj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1258,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Timothy A. Clary/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24biz-stocks-hgfj/24biz-stocks-hgfj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Timothy A. Clary/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24biz-stocks-hgfj/24biz-stocks-hgfj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Timothy A. Clary/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "podcasts",
+        "subsection": "the-headlines",
+        "title": "Trump’s Latest Demands on Ukraine, and a White House Crypto Contest",
+        "abstract": "Plus, how to actually fall asleep.",
+        "url": "https://www.nytimes.com/2025/04/24/podcasts/the-headlines/ukraine-russia-memecoin-trump.html",
+        "uri": "nyt://article/c0a2fc96-a1cd-5275-8aa0-c73c485e2771",
+        "byline": "By Tracy Mumford, Will Jarvis, Ian Stewart, Jessica Metzger, Michael D. Shear and Caroline Hopkins Legaspi",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T06:12:33-04:00",
+        "created_date": "2025-04-24T06:00:09-04:00",
+        "published_date": "2025-04-24T06:00:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Computers and the Internet",
+            "Virtual Currency"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24headlines1-mtlf/24headlines1-mtlf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine rejected a U.S.-designed proposal that would essentially grant Russia all of the territory it has gained in the war, while offering Kyiv only vague security assurances.",
+                "copyright": "Tetiana Dzhafarova/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24headlines1-mtlf/24headlines1-mtlf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine rejected a U.S.-designed proposal that would essentially grant Russia all of the territory it has gained in the war, while offering Kyiv only vague security assurances.",
+                "copyright": "Tetiana Dzhafarova/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24headlines1-mtlf/24headlines1-mtlf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine rejected a U.S.-designed proposal that would essentially grant Russia all of the territory it has gained in the war, while offering Kyiv only vague security assurances.",
+                "copyright": "Tetiana Dzhafarova/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Zelensky’s Red Line on Crimea Tied to Political Realities at Home",
+        "abstract": "In Ukraine, memories of Russia’s annexation are fresh and resentments run high, leaving the country’s president few choices on the latest American peace plan.",
+        "url": "https://www.nytimes.com/2025/04/24/world/europe/zelensky-crimea-ceasefire-trump.html",
+        "uri": "nyt://article/86eb4a39-9731-53f9-af8c-26d2a793ce2e",
+        "byline": "By Andrew E. Kramer and Maria Varenikova",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T05:02:06-04:00",
+        "created_date": "2025-04-24T05:02:06-04:00",
+        "published_date": "2025-04-24T05:02:06-04:00",
+        "material_type_facet": "",
+        "kicker": "news analysis",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "International Relations",
+            "United States International Relations",
+            "Tatars (Ethnic Group)",
+            "Peace Process",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Zelensky, Volodymyr",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Kyiv (Ukraine)",
+            "Crimea (Ukraine)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24ukraine-1-wklf/24ukraine-1-wklf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine during a news conference in Kyiv on Tuesday.",
+                "copyright": "Tetiana Dzhafarova/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24ukraine-1-wklf/24ukraine-1-wklf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine during a news conference in Kyiv on Tuesday.",
+                "copyright": "Tetiana Dzhafarova/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24ukraine-1-wklf/24ukraine-1-wklf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine during a news conference in Kyiv on Tuesday.",
+                "copyright": "Tetiana Dzhafarova/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "polls",
+        "subsection": "",
+        "title": "Latest Polls: Do Americans Approve of President Trump?",
+        "abstract": "Track the latest approval rating and polls on Americans’ approval of President Trump.",
+        "url": "https://www.nytimes.com/interactive/polls/donald-trump-approval-rating-polls.html",
+        "uri": "nyt://interactive/fc5b5b0d-1f0c-5b9a-8adf-042e20f24608",
+        "byline": "By Annie Daniel, Jon Huang, Ruth Igielnik, Jasmine C. Lee, Alex Lemonides, Jonah Smith, Albert Sun and Rumsey Taylor",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-23T22:11:47-04:00",
+        "created_date": "2025-03-17T16:32:05-04:00",
+        "published_date": "2025-03-17T16:32:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Polls and Public Opinion",
+            "internal-paywall-exempt"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/17/multimedia/2025-polling-averages-index/2025-polling-averages-index-superJumbo-v2.png",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/17/multimedia/2025-polling-averages-index/2025-polling-averages-index-threeByTwoSmallAt2X-v3.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/17/multimedia/2025-polling-averages-index/2025-polling-averages-index-thumbLarge-v2.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "‘This Moment Is Critical.’ Whither Progressive Christians After Pope Francis?",
+        "abstract": "Catholics and Protestants who saw Pope Francis as a guiding moral figure are losing their voice.",
+        "url": "https://www.nytimes.com/2025/04/24/us/pope-christians.html",
+        "uri": "nyt://article/e63e0957-a9b8-5727-9fc5-e1b1d5430dc0",
+        "byline": "By Elizabeth Dias and Ruth Graham",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T05:01:45-04:00",
+        "created_date": "2025-04-24T05:01:45-04:00",
+        "published_date": "2025-04-24T05:01:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Christians and Christianity",
+            "Conservatism (US Politics)",
+            "Episcopal Church"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "United Methodist Church"
+        ],
+        "per_facet": [
+            "Budde, Mariann Edgar",
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24NAT-LIBERAL-CHRISTIANS-01-qltp/24NAT-LIBERAL-CHRISTIANS-01-qltp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mayra Rossell, an administrative assistant for the Archdiocese of Miami, hanging a portrait of Pope Francis after displaying it during mass at Saint Martha Catholic Church in Miami on Monday.",
+                "copyright": "Scott McIntyre for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24NAT-LIBERAL-CHRISTIANS-01-qltp/24NAT-LIBERAL-CHRISTIANS-01-qltp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mayra Rossell, an administrative assistant for the Archdiocese of Miami, hanging a portrait of Pope Francis after displaying it during mass at Saint Martha Catholic Church in Miami on Monday.",
+                "copyright": "Scott McIntyre for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24NAT-LIBERAL-CHRISTIANS-01-qltp/24NAT-LIBERAL-CHRISTIANS-01-qltp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mayra Rossell, an administrative assistant for the Archdiocese of Miami, hanging a portrait of Pope Francis after displaying it during mass at Saint Martha Catholic Church in Miami on Monday.",
+                "copyright": "Scott McIntyre for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "From New York to Jamaica: One Man’s Deportation Under Trump",
+        "abstract": "Two decades had passed since Nascimento Blair was last in his homeland. Much had changed, including Mr. Blair himself.",
+        "url": "https://www.nytimes.com/2025/04/24/nyregion/deportation-trump-jamaica.html",
+        "uri": "nyt://article/50d83b06-15c7-5f8e-9996-3e0f4ecaa87f",
+        "byline": "By Luis Ferré-Sadurní and Todd Heisler",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T03:00:15-04:00",
+        "created_date": "2025-04-24T03:00:15-04:00",
+        "published_date": "2025-04-24T03:00:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Immigration and Emigration",
+            "Prisons and Prisoners",
+            "Jamaican-Americans"
+        ],
+        "org_facet": [
+            "Immigration and Customs Enforcement (US)",
+            "Sing Sing Correctional Facility"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Caribbean Area",
+            "Jamaica (West Indies)",
+            "Kingston (Jamaica)",
+            "Mount Vernon (NY)",
+            "Westchester County (NY)",
+            "Kingston (NY)",
+            "Yonkers (NY)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/nyregion/27ny-deportation-jamaica-newtop-SUB/00ny-deportation-jamaica-newtop-01-hqvb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1151,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nascimento Blair felt like a stranger in a little-known land. This was not the homecoming he imagined.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/nyregion/27ny-deportation-jamaica-newtop-SUB/00ny-deportation-jamaica-newtop-01-hqvb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nascimento Blair felt like a stranger in a little-known land. This was not the homecoming he imagined.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/nyregion/27ny-deportation-jamaica-newtop-SUB/00ny-deportation-jamaica-newtop-01-hqvb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nascimento Blair felt like a stranger in a little-known land. This was not the homecoming he imagined.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Challenges Migrants’ Due Process Rights, Undercutting Bedrock Principle",
+        "abstract": "White House officials are eschewing normal legal processes as they rush to ramp up deportations, saying there is no time to afford unauthorized immigrants any rights — and that they don’t deserve them anyway.",
+        "url": "https://www.nytimes.com/2025/04/23/us/politics/trump-immigrants-trials-deportation.html",
+        "uri": "nyt://article/04400899-022d-5e77-9351-175e81283e5b",
+        "byline": "By Luke Broadwater",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T18:06:17-04:00",
+        "created_date": "2025-04-23T18:06:17-04:00",
+        "published_date": "2025-04-23T18:06:17-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "Immigration and Emigration",
+            "Illegal Immigration",
+            "Deportation",
+            "Constitution (US)",
+            "Courts and the Judiciary"
+        ],
+        "org_facet": [
+            "Justice Department"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-trump-immig-01-gbvt/23dc-trump-immig-01-gbvt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The border wall in Ciudad Juárez, Mexico, in February.",
+                "copyright": "Alejandro Cegarra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-trump-immig-01-gbvt/23dc-trump-immig-01-gbvt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The border wall in Ciudad Juárez, Mexico, in February.",
+                "copyright": "Alejandro Cegarra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-trump-immig-01-gbvt/23dc-trump-immig-01-gbvt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The border wall in Ciudad Juárez, Mexico, in February.",
+                "copyright": "Alejandro Cegarra for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "Leaders of Mental Health Giant Promised Big Bonuses to Deal With Federal Investigations",
+        "abstract": "Acadia Healthcare’s chief executive was awarded a $1.8 million bonus to respond to “unprecedented governmental inquiries” into allegations of holding psychiatric patients against their will.",
+        "url": "https://www.nytimes.com/2025/04/24/health/acadia-bonuses.html",
+        "uri": "nyt://article/a43b2072-93fb-5e0c-9706-1392492af482",
+        "byline": "By Katie Thomas and Jessica Silver-Greenberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T05:01:54-04:00",
+        "created_date": "2025-04-24T05:01:54-04:00",
+        "published_date": "2025-04-24T05:01:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Executive Compensation",
+            "Bonuses",
+            "Stocks and Bonds",
+            "Wages and Salaries",
+            "Mental Health and Disorders"
+        ],
+        "org_facet": [
+            "Acadia Healthcare Company Inc"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/science/24hs-acadia-01/24hs-acadia-01-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "North Tampa Behavioral, an Acadia Healthcare behavior health hospital in Wesley Chapel, Fla.",
+                "copyright": "Michael Adno for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/science/24hs-acadia-01/24hs-acadia-01-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "North Tampa Behavioral, an Acadia Healthcare behavior health hospital in Wesley Chapel, Fla.",
+                "copyright": "Michael Adno for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/science/24hs-acadia-01/24hs-acadia-01-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "North Tampa Behavioral, an Acadia Healthcare behavior health hospital in Wesley Chapel, Fla.",
+                "copyright": "Michael Adno for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "The $40 Billion Issue the N.Y.C. Mayoral Candidates Aren’t Discussing",
+        "abstract": "With more than 900,000 students, New York’s public school system is the biggest in the United States, but it has received scant attention from candidates.",
+        "url": "https://www.nytimes.com/2025/04/24/nyregion/new-york-city-mayor-education.html",
+        "uri": "nyt://article/a74bcbdc-9721-5f4f-8171-6fb9502be95e",
+        "byline": "By Troy Closson",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T03:00:05-04:00",
+        "created_date": "2025-04-24T03:00:05-04:00",
+        "published_date": "2025-04-24T03:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Education (K-12)",
+            "Children and Childhood",
+            "Elections, Mayors"
+        ],
+        "org_facet": [
+            "Education Department (NYC)",
+            "Democratic Party"
+        ],
+        "per_facet": [
+            "de Blasio, Bill",
+            "Bloomberg, Michael R",
+            "Adams, Eric L",
+            "Cuomo, Andrew M"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/00met-education-politics-01-wzkj/00met-education-politics-01-wzkj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New York City’s school system educates more students than the entire population of San Francisco.",
+                "copyright": "Jeenah Moon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/00met-education-politics-01-wzkj/00met-education-politics-01-wzkj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New York City’s school system educates more students than the entire population of San Francisco.",
+                "copyright": "Jeenah Moon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/00met-education-politics-01-wzkj/00met-education-politics-01-wzkj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New York City’s school system educates more students than the entire population of San Francisco.",
+                "copyright": "Jeenah Moon for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "television",
+        "title": "Jimmy Kimmel Skewers Elon Musk’s Plan to ‘Get Out of DOGE’",
+        "abstract": "“Musk says that he will dial back his work with the government so that he can spend more time with all 10 of his families,” Kimmel said.",
+        "url": "https://www.nytimes.com/2025/04/24/arts/television/kimmel-musk-doge.html",
+        "uri": "nyt://article/86caac9e-56db-5e7a-9a7e-aa577e9ffb5d",
+        "byline": "By Trish Bendix",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T02:18:34-04:00",
+        "created_date": "2025-04-24T01:28:22-04:00",
+        "published_date": "2025-04-24T01:28:22-04:00",
+        "material_type_facet": "",
+        "kicker": "Best of Late Night",
+        "des_facet": [
+            "Television",
+            "Jimmy Kimmel Live (TV Program)",
+            "Everybody's Live With John Mulaney (TV Program)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kimmel, Jimmy",
+            "Gutfeld, Greg",
+            "Mulaney, John"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/arts/24latenight/24latenight-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 753,
+                "width": 1342,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jimmy Kimmel reminded viewers that “Mr. Congeniality” Elon Musk can’t spend all of his time in Washington: “He has a company to run into the ground.”",
+                "copyright": "ABC"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/arts/24latenight/24latenight-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jimmy Kimmel reminded viewers that “Mr. Congeniality” Elon Musk can’t spend all of his time in Washington: “He has a company to run into the ground.”",
+                "copyright": "ABC"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/arts/24latenight/24latenight-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jimmy Kimmel reminded viewers that “Mr. Congeniality” Elon Musk can’t spend all of his time in Washington: “He has a company to run into the ground.”",
+                "copyright": "ABC"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "A New Medical Discipline in Israel: How to Receive Hostages",
+        "abstract": "From the first haircut to emotional support, a regularly updated guide covers what health professionals have learned about helping ex-hostages transition from captivity to freedom.",
+        "url": "https://www.nytimes.com/2025/04/24/world/middleeast/israel-hostages-return.html",
+        "uri": "nyt://article/fcc2c597-447f-592b-b6af-67d245bdc04e",
+        "byline": "By Johnatan Reiss and Isabel Kershner",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T05:00:08-04:00",
+        "created_date": "2025-04-24T05:00:08-04:00",
+        "published_date": "2025-04-24T05:00:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Kidnapping and Hostages",
+            "Defense and Military Forces",
+            "Hospitals"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Israel",
+            "Gaza Strip"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23israel-hostage-protocols-01-mvbk/23israel-hostage-protocols-01-mvbk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Workers setting up screens to protect the privacy of the hostages on the grounds of Sheba hospital in Tel Aviv, in January. ",
+                "copyright": "Peter van Agtmael for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23israel-hostage-protocols-01-mvbk/23israel-hostage-protocols-01-mvbk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Workers setting up screens to protect the privacy of the hostages on the grounds of Sheba hospital in Tel Aviv, in January. ",
+                "copyright": "Peter van Agtmael for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23israel-hostage-protocols-01-mvbk/23israel-hostage-protocols-01-mvbk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Workers setting up screens to protect the privacy of the hostages on the grounds of Sheba hospital in Tel Aviv, in January. ",
+                "copyright": "Peter van Agtmael for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "George Santos, Facing a Possible 87 Months in Prison, Is Out of Jokes",
+        "abstract": "On Friday, a federal judge will sentence the disgraced former congressman to a minimum of two years in prison, but Mr. Santos expects a harsher sentence.",
+        "url": "https://www.nytimes.com/2025/04/24/nyregion/george-santos-prison-interview.html",
+        "uri": "nyt://article/e239120b-dbb8-5618-a753-10904db9eb9f",
+        "byline": "By Grace Ashford",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T03:00:15-04:00",
+        "created_date": "2025-04-24T03:00:15-04:00",
+        "published_date": "2025-04-24T03:00:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Ethics and Official Misconduct",
+            "Lying",
+            "Frauds and Swindling",
+            "Amnesties, Commutations and Pardons",
+            "Sentences (Criminal)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Santos, George (1988- )"
+        ],
+        "geo_facet": [
+            "New York State"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24met-santos-preview-pmch/24met-santos-preview-pmch-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Federal prosecutors have asked that a judge sentence George Santos to 87 months in prison.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24met-santos-preview-pmch/24met-santos-preview-pmch-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Federal prosecutors have asked that a judge sentence George Santos to 87 months in prison.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24met-santos-preview-pmch/24met-santos-preview-pmch-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Federal prosecutors have asked that a judge sentence George Santos to 87 months in prison.",
+                "copyright": "Dave Sanders for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
