@@ -90866,5 +90866,127 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "What Elon Musk Didn’t Budget For: Firing Workers Costs Money, Too",
+        "abstract": "An expert on the federal work force estimates that the speed and chaos of Mr. Musk’s cuts to the bureaucracy will cost taxpayers $135 billion this fiscal year.",
+        "url": "https://www.nytimes.com/2025/04/24/us/politics/musk-cuts.html",
+        "uri": "nyt://article/ffa8229e-8e32-5a44-b912-fa1b679c06c1",
+        "byline": "By Elizabeth Williamson",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T17:07:19-04:00",
+        "created_date": "2025-04-24T16:32:57-04:00",
+        "published_date": "2025-04-24T16:32:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Government Employees",
+            "Layoffs and Job Reductions",
+            "United States Politics and Government",
+            "Federal Budget (US)"
+        ],
+        "org_facet": [
+            "Government Efficiency Department (US)",
+            "Partnership for Public Service"
+        ],
+        "per_facet": [
+            "Musk, Elon",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24dc-dogecosts-01-hqmg/24dc-dogecosts-01-hqmg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk has said without providing details that the Department of Government Efficiency is likely to save taxpayers $150 billion.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24dc-dogecosts-01-hqmg/24dc-dogecosts-01-hqmg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk has said without providing details that the Department of Government Efficiency is likely to save taxpayers $150 billion.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24dc-dogecosts-01-hqmg/24dc-dogecosts-01-hqmg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Elon Musk has said without providing details that the Department of Government Efficiency is likely to save taxpayers $150 billion.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "Trump’s Strength Is His Greatest Weakness",
+        "abstract": "His initiative has been the key to much of his success, but lacking any sense of prudence, he does not understand the difference between a risk and a gamble.",
+        "url": "https://www.nytimes.com/2025/04/24/opinion/trump-administration-energy-strength-weakness.html",
+        "uri": "nyt://article/2218a266-c242-5115-82b5-7fee2d94df0c",
+        "byline": "By David Brooks",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T17:00:04-04:00",
+        "created_date": "2025-04-24T17:00:04-04:00",
+        "published_date": "2025-04-24T17:00:04-04:00",
+        "material_type_facet": "",
+        "kicker": "David Brooks",
+        "des_facet": [
+            "United States Politics and Government",
+            "Presidential Power (US)"
+        ],
+        "org_facet": [
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24brooks-wzpc/24brooks-wzpc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1348,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo Illustration by Naila Ruechel for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24brooks-wzpc/24brooks-wzpc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo Illustration by Naila Ruechel for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24brooks-wzpc/24brooks-wzpc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo Illustration by Naila Ruechel for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
