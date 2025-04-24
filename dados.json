@@ -87257,5 +87257,135 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Hegseth Set Up Signal on a Computer in His Pentagon Office",
+        "abstract": "The app facilitated communications in a building where cell service is poor and personal phones are not allowed in some areas.",
+        "url": "https://www.nytimes.com/2025/04/24/us/politics/hegseth-signal-pentagon.html",
+        "uri": "nyt://article/76a495e9-4381-528c-a8b7-16a0a63c9ec6",
+        "byline": "By Eric Schmitt and Greg Jaffe",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T00:31:47-04:00",
+        "created_date": "2025-04-24T00:31:47-04:00",
+        "published_date": "2025-04-24T00:31:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Signal Chat Leak (Trump Administration)",
+            "United States Defense and Military Forces",
+            "Classified Information and State Secrets",
+            "Pentagon Building"
+        ],
+        "org_facet": [
+            "Signal (Open Whisper Systems)",
+            "Defense Department"
+        ],
+        "per_facet": [
+            "Hegseth, Pete"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/23/multimedia/23dc-hegseth-hzvq/23dc-hegseth-hzvq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Defense Secretary Pete Hegseth at the White House on Monday. Revelations about his sharing of sensitive information on Signal have dogged him for more than a month.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/23/multimedia/23dc-hegseth-hzvq/23dc-hegseth-hzvq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Defense Secretary Pete Hegseth at the White House on Monday. Revelations about his sharing of sensitive information on Signal have dogged him for more than a month.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/23/multimedia/23dc-hegseth-hzvq/23dc-hegseth-hzvq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Defense Secretary Pete Hegseth at the White House on Monday. Revelations about his sharing of sensitive information on Signal have dogged him for more than a month.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "A Beleaguered Hegseth Wanders Into His Forever War",
+        "abstract": "The operation in Yemen has sent the Trump administration into an exorbitant, potentially escalatory spiral.",
+        "url": "https://www.nytimes.com/2025/04/24/opinion/pete-hegseth-yemen.html",
+        "uri": "nyt://article/19e1f406-2a4b-579f-8c60-a0619572f95a",
+        "byline": "By W.J. Hennigan",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T01:00:04-04:00",
+        "created_date": "2025-04-24T01:00:04-04:00",
+        "published_date": "2025-04-24T01:00:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Defense and Military Forces",
+            "Ships and Shipping",
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [
+            "Houthis",
+            "Signal (Open Whisper Systems)"
+        ],
+        "per_facet": [
+            "Hegseth, Pete",
+            "Trump, Donald J",
+            "Vance, J D"
+        ],
+        "geo_facet": [
+            "Yemen",
+            "Iran",
+            "Red Sea",
+            "Gaza Strip"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24hennigan-jpqg/24hennigan-jpqg-superJumbo-v6.jpg",
+                "format": "Super Jumbo",
+                "height": 1358,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Yahya Arhab/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24hennigan-jpqg/24hennigan-jpqg-threeByTwoSmallAt2X-v4.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Yahya Arhab/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24hennigan-jpqg/24hennigan-jpqg-thumbLarge-v5.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Yahya Arhab/EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
     }
 ]
