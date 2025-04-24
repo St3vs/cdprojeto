@@ -86936,5 +86936,326 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Signs Executive Order Targeting College Accreditors",
+        "abstract": "It was the latest move by President Trump in his effort to shift the ideological tilt of the higher education system as he battles elite universities.",
+        "url": "https://www.nytimes.com/2025/04/23/us/politics/trump-executive-order-university-accreditors.html",
+        "uri": "nyt://article/3a8be3b0-c70a-5207-9741-c4be2d78683e",
+        "byline": "By Michael C. Bender",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T20:50:25-04:00",
+        "created_date": "2025-04-23T19:10:36-04:00",
+        "published_date": "2025-04-23T19:10:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Colleges and Universities",
+            "Executive Orders and Memorandums",
+            "Minorities",
+            "Diversity Initiatives",
+            "School Discipline (Students)",
+            "Historically Black Colleges and Universities",
+            "Accreditation"
+        ],
+        "org_facet": [
+            "Education Department (US)"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-trump-education-mvpc/23dc-trump-education-mvpc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump signed seven education-related executive orders in the Oval Office on Wednesday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-trump-education-mvpc/23dc-trump-education-mvpc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump signed seven education-related executive orders in the Oval Office on Wednesday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-trump-education-mvpc/23dc-trump-education-mvpc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump signed seven education-related executive orders in the Oval Office on Wednesday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "On TikTok, Chinese Manufacturers Open a New Line in the Trade War",
+        "abstract": "Videos on the social media app, filmed at factories in China, urge viewers to buy luxury goods directly, as tariffs drive up prices. Americans are receptive.",
+        "url": "https://www.nytimes.com/2025/04/24/technology/chinese-factories-tiktok-trade-war.html",
+        "uri": "nyt://article/d20f9ead-71f8-5fe5-9b54-f17b4942c7d0",
+        "byline": "By Sapna Maheshwari and Ang Li",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T00:00:04-04:00",
+        "created_date": "2025-04-24T00:00:04-04:00",
+        "published_date": "2025-04-24T00:00:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Social Media",
+            "Video Recordings, Downloads and Streaming",
+            "Mobile Applications",
+            "Luxury Goods and Services",
+            "Customs (Tariff)",
+            "Counterfeit Merchandise",
+            "Rumors and Misinformation"
+        ],
+        "org_facet": [
+            "Beijing Bytedance Technology Co Ltd",
+            "Instagram Inc",
+            "TikTok (ByteDance)",
+            "Taobao"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/business/economy/137813_tiktok-seller-quad/137813_tiktok-seller-quad-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 1920,
+                "width": 1080,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/business/economy/137813_tiktok-seller-quad/137813_tiktok-seller-quad-threeByTwoSmallAt2X-v2.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/business/economy/137813_tiktok-seller-quad/137813_tiktok-seller-quad-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "For China’s Trolls, ‘Chairman Trump’ and ‘Eyeliner Man’ Are Easy Targets",
+        "abstract": "Online mockery of President Trump is fodder for the Communist Party’s propagandists. For liberal-minded Chinese, it is a creative expression of shock at his policies.",
+        "url": "https://www.nytimes.com/2025/04/24/business/china-trump-vance.html",
+        "uri": "nyt://article/9fde6709-a88d-5aa3-8ecf-29f0035cc1b2",
+        "byline": "By Li Yuan",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T00:00:05-04:00",
+        "created_date": "2025-04-24T00:00:05-04:00",
+        "published_date": "2025-04-24T00:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "The new new world",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "Social Media"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Vance, J D",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/BIZ-NEW-WORLD-troll-factory-cflp/BIZ-NEW-WORLD-troll-factory-cflp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1152,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A screenshot from an artificial-intelligence-generated music video trolling President Trump and his administration.",
+                "copyright": "@QGHDZ/YouTube"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/BIZ-NEW-WORLD-troll-factory-cflp/BIZ-NEW-WORLD-troll-factory-cflp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A screenshot from an artificial-intelligence-generated music video trolling President Trump and his administration.",
+                "copyright": "@QGHDZ/YouTube"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/BIZ-NEW-WORLD-troll-factory-cflp/BIZ-NEW-WORLD-troll-factory-cflp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A screenshot from an artificial-intelligence-generated music video trolling President Trump and his administration.",
+                "copyright": "@QGHDZ/YouTube"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "After Militant Attack in Kashmir, Pakistan Braces for Strike by India",
+        "abstract": "The Pakistani government said it did not want an escalation, but in the wake of a deadly attack in Indian-controlled Kashmir by unidentified militants, analysts warned of an unpredictable situation.",
+        "url": "https://www.nytimes.com/2025/04/24/world/asia/pakistan-india-kashmir-attack.html",
+        "uri": "nyt://article/9c8ac161-996a-592b-b1cf-85604a8bb98a",
+        "byline": "By Salman Masood",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T00:01:12-04:00",
+        "created_date": "2025-04-24T00:01:12-04:00",
+        "published_date": "2025-04-24T00:01:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Terrorism",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Pakistan",
+            "India",
+            "Kashmir and Jammu (India)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23pakistan-kashmir-1-jpgk/23pakistan-kashmir-1-jpgk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Security personnel outside the Pakistan High Commission in New Delhi a day after militants opened fire on tourists in Indian-controlled Kashmir.",
+                "copyright": "Manish Swarup/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23pakistan-kashmir-1-jpgk/23pakistan-kashmir-1-jpgk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Security personnel outside the Pakistan High Commission in New Delhi a day after militants opened fire on tourists in Indian-controlled Kashmir.",
+                "copyright": "Manish Swarup/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23pakistan-kashmir-1-jpgk/23pakistan-kashmir-1-jpgk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Security personnel outside the Pakistan High Commission in New Delhi a day after militants opened fire on tourists in Indian-controlled Kashmir.",
+                "copyright": "Manish Swarup/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "At 99, a Seminal Asian Leader Reflects on a Contentious Legacy",
+        "abstract": "In his first, 22-year stretch as prime minister, Mahathir Mohamad transformed Malaysia’s economy. But he was also accused of being a strongman and antisemite. In an interview, he offers a self-assessment.",
+        "url": "https://www.nytimes.com/2025/04/24/world/asia/malaysia-mahathir-mohamad-interview.html",
+        "uri": "nyt://article/3502e30f-2eb3-509e-a765-ec9cad94063c",
+        "byline": "By Sui-Lee Wee and Chang W. Lee",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T00:01:12-04:00",
+        "created_date": "2025-04-24T00:01:12-04:00",
+        "published_date": "2025-04-24T00:01:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Anti-Semitism",
+            "Corruption (Institutional)",
+            "Authoritarianism (Theory and Philosophy)",
+            "International Relations",
+            "Economic Conditions and Trends",
+            "Content Type: Personal Profile"
+        ],
+        "org_facet": [
+            "1Malaysia Development Berhad (1MDB)"
+        ],
+        "per_facet": [
+            "Mohamad, Mahathir",
+            "Ibrahim, Anwar",
+            "Najib Razak"
+        ],
+        "geo_facet": [
+            "Malaysia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00Malaysia-Mahathir-Legacy-Interview-01-ltmj/00Malaysia-Mahathir-Legacy-Interview-01-ltmj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mahathir Mohamad, who served a total of 24 years as Malaysia’s prime minister, in his office in Putrajaya, Malaysia, in February.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00Malaysia-Mahathir-Legacy-Interview-01-ltmj/00Malaysia-Mahathir-Legacy-Interview-01-ltmj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mahathir Mohamad, who served a total of 24 years as Malaysia’s prime minister, in his office in Putrajaya, Malaysia, in February.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00Malaysia-Mahathir-Legacy-Interview-01-ltmj/00Malaysia-Mahathir-Legacy-Interview-01-ltmj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mahathir Mohamad, who served a total of 24 years as Malaysia’s prime minister, in his office in Putrajaya, Malaysia, in February.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
     }
 ]
