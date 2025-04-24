@@ -87506,5 +87506,131 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "At Least 9 Dead in Russian Airstrikes on Kyiv, Ukrainian Officials Say",
+        "abstract": "The overnight assault on Ukraine’s capital was the deadliest since last summer, and comes as the United States has threatened to walk away from the peace process.",
+        "url": "https://www.nytimes.com/2025/04/24/world/europe/ukraine-kyiv-russia-attack.html",
+        "uri": "nyt://article/ca40831d-57f0-501c-a207-1e51ea8c3f1a",
+        "byline": "By Kim Barker and Maria Varenikova",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T04:27:52-04:00",
+        "created_date": "2025-04-24T02:34:41-04:00",
+        "published_date": "2025-04-24T02:34:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Civilian Casualties"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Kyiv (Ukraine)",
+            "Kharkiv (Ukraine)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-ukraine-attacks-fthv/24int-ukraine-attacks-fthv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-ukraine-attacks-fthv/24int-ukraine-attacks-fthv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-ukraine-attacks-fthv/24int-ukraine-attacks-fthv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Brendan Hoffman for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "opinion",
+        "subsection": "",
+        "title": "How Four Democrats Who Saved the Party Before Would Do It Again",
+        "abstract": "How Democrats found their way out of the political wilderness once before, and how they could do it again now.",
+        "url": "https://www.nytimes.com/2025/04/24/opinion/democratic-party-future.html",
+        "uri": "nyt://article/73b24922-2d08-5a63-8f86-1b2e28e52872",
+        "byline": "By Al From, William A. Galston, Elaine Kamarck and Will Marshall",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T05:01:39-04:00",
+        "created_date": "2025-04-24T05:01:39-04:00",
+        "published_date": "2025-04-24T05:01:39-04:00",
+        "material_type_facet": "",
+        "kicker": "Round table",
+        "des_facet": [],
+        "org_facet": [
+            "Democratic Party",
+            "Democratic Leadership Council",
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Clinton, Hillary Rodham",
+            "Clinton, Bill",
+            "Dukakis, Michael S",
+            "Harris, Kamala D",
+            "Obama, Barack",
+            "Shapiro, Josh (1973- )",
+            "Bennet, Michael Farrand",
+            "Moore, Wes (1978- )",
+            "Newsom, Gavin",
+            "Polis, Jared S (1975- )"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/opinion/24roundtable/24roundtable-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by Shoshana Schultz/The New York Times; photographs by Andrew Lichtenstei, Steve Liss, and Peter Turnley/Getty"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/opinion/24roundtable/24roundtable-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by Shoshana Schultz/The New York Times; photographs by Andrew Lichtenstei, Steve Liss, and Peter Turnley/Getty"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/opinion/24roundtable/24roundtable-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by Shoshana Schultz/The New York Times; photographs by Andrew Lichtenstei, Steve Liss, and Peter Turnley/Getty"
+            }
+        ],
+        "short_url": ""
     }
 ]
