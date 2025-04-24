@@ -90042,5 +90042,319 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Even Snacks Won’t Make Consumers Feel Better About the Economy",
+        "abstract": "PepsiCo’s earnings call pointed to anxious consumers as to why sales had slowed, echoing comments by Chipotle and Procter & Gamble.",
+        "url": "https://www.nytimes.com/2025/04/24/business/pepsico-earnings-economy-tariffs.html",
+        "uri": "nyt://article/9034f259-799a-5b1f-aaa8-8725ef1262bd",
+        "byline": "By Julie Creswell and Danielle Kaye",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T14:10:54-04:00",
+        "created_date": "2025-04-24T13:11:19-04:00",
+        "published_date": "2025-04-24T13:11:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Consumer Behavior",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Snack Foods",
+            "United States Economy"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Laguarta, Ramon"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24Pepsico-volatility-lpfj/24Pepsico-volatility-lpfj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1471,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "PepsiCo cut its growth forecast, pointing to tariff volatility and a pullback in consumer spending.",
+                "copyright": "Mario Tama/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24Pepsico-volatility-lpfj/24Pepsico-volatility-lpfj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "PepsiCo cut its growth forecast, pointing to tariff volatility and a pullback in consumer spending.",
+                "copyright": "Mario Tama/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24Pepsico-volatility-lpfj/24Pepsico-volatility-lpfj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "PepsiCo cut its growth forecast, pointing to tariff volatility and a pullback in consumer spending.",
+                "copyright": "Mario Tama/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Child Health Experts With Diversity Roles Will Be Fired or Reassigned",
+        "abstract": "The moves are aimed at eliminating diversity, equity and inclusion efforts and environmental justice programs at the E.P.A., Trump administration officials say.",
+        "url": "https://www.nytimes.com/2025/04/24/climate/child-health-experts-epa-fired.html",
+        "uri": "nyt://article/479615ce-4aa2-54cd-bca0-522745526d85",
+        "byline": "By Lisa Friedman",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T13:58:41-04:00",
+        "created_date": "2025-04-24T13:30:13-04:00",
+        "published_date": "2025-04-24T13:30:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Layoffs and Job Reductions",
+            "Children and Childhood",
+            "United States Politics and Government",
+            "Environment",
+            "Diversity Initiatives",
+            "Medicine and Health",
+            "Hazardous and Toxic Substances",
+            "Pollution"
+        ],
+        "org_facet": [
+            "Environmental Protection Agency",
+            "Office of Children's Health Protection (US)"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/climate/24cli-epa-children/24cli-epa-children-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke from the Bootleg fire over a playground near Bly, Ore., in 2021. ",
+                "copyright": "Nathan Howard/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/climate/24cli-epa-children/24cli-epa-children-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke from the Bootleg fire over a playground near Bly, Ore., in 2021. ",
+                "copyright": "Nathan Howard/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/climate/24cli-epa-children/24cli-epa-children-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke from the Bootleg fire over a playground near Bly, Ore., in 2021. ",
+                "copyright": "Nathan Howard/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "dance",
+        "title": "Penn Station’s Not-So-Secret Other Life: The People’s Dance Studio",
+        "abstract": "Smooth floors. Public restrooms. A built-in audience: The lower level of Moynihan Hall doubles as a rehearsal space for a variety of dance groups, including K-pop, salsa and Brazilian Zouk.",
+        "url": "https://www.nytimes.com/2025/04/24/arts/dance/penn-station-dancers.html",
+        "uri": "nyt://article/2b97af38-ce1b-504b-9d2a-7eca9c3fe773",
+        "byline": "By Rachel Sherman and Mohamed Sadek",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T11:56:56-04:00",
+        "created_date": "2025-04-24T05:00:53-04:00",
+        "published_date": "2025-04-24T05:00:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Dancing",
+            "Stations and Terminals (Passenger)"
+        ],
+        "org_facet": [
+            "Long Island Rail Road Co",
+            "Metropolitan Transportation Authority",
+            "Moynihan Train Hall at Pennsylvania Station (Manhattan, NY)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/penn-dancers-87199-cover/penn-dancers-87199-cover-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 864,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/penn-dancers-87199-cover/penn-dancers-87199-cover-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/penn-dancers-87199-cover/penn-dancers-87199-cover-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Judge Orders Administration to Seek Return of Another Deported Migrant",
+        "abstract": "The case, involving a 20-year-old Venezuelan, comes on the heels of another legal battle over the fate of a different man wrongfully sent to El Salvador by the Trump administration.",
+        "url": "https://www.nytimes.com/2025/04/24/us/politics/deported-migrant-el-salvador-trump.html",
+        "uri": "nyt://article/c70f1e44-4791-5b3e-be25-b5192d8fc6b7",
+        "byline": "By Alan Feuer and Hamed Aleaziz",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T14:08:47-04:00",
+        "created_date": "2025-04-24T12:45:53-04:00",
+        "published_date": "2025-04-24T12:45:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Suits and Litigation (Civil)",
+            "Deportation",
+            "Illegal Immigration",
+            "United States Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "El Salvador",
+            "Venezuela",
+            "Guantanamo Bay Naval Base (Cuba)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24dc-deport1-gmfk/24dc-deport1-gmfk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A view of the Santa Ana Penitentiary Agricultural Industrial Complex in El Salvador, where Kilmar Armando Abrego Garcia is reportedly being held after he was wrongfully sent to the country by the Trump administration.",
+                "copyright": "Marvin Recinos/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24dc-deport1-gmfk/24dc-deport1-gmfk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A view of the Santa Ana Penitentiary Agricultural Industrial Complex in El Salvador, where Kilmar Armando Abrego Garcia is reportedly being held after he was wrongfully sent to the country by the Trump administration.",
+                "copyright": "Marvin Recinos/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24dc-deport1-gmfk/24dc-deport1-gmfk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A view of the Santa Ana Penitentiary Agricultural Industrial Complex in El Salvador, where Kilmar Armando Abrego Garcia is reportedly being held after he was wrongfully sent to the country by the Trump administration.",
+                "copyright": "Marvin Recinos/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Gunman Who Opened Fire on a Parade Gets Seven Life Sentences",
+        "abstract": "The man fired from a rooftop during a Fourth of July celebration in a Chicago suburb three years ago. The judge called the gunman “irretrievably depraved.”",
+        "url": "https://www.nytimes.com/2025/04/24/us/highland-park-shooting-sentencing.html",
+        "uri": "nyt://article/fc8af5f6-b19d-523c-9440-98e76c066fde",
+        "byline": "By Julie Bosman",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T14:04:37-04:00",
+        "created_date": "2025-04-24T13:03:04-04:00",
+        "published_date": "2025-04-24T13:03:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Highland Park Parade Shooting (July 4, 2022)",
+            "Murders, Attempted Murders and Homicides",
+            "Sentences (Criminal)",
+            "Decisions and Verdicts"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Crimo, Robert E III",
+            "Rossetti, Victoria A"
+        ],
+        "geo_facet": [
+            "Highland Park (Ill)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24nat-illinois-shooting-1-hkmz/24nat-illinois-shooting-1-hkmz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Judge Victoria A. Rossetti spoke to the prosecution and defense teams in the case in February.",
+                "copyright": "Pool photo by Ashlee Rezin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24nat-illinois-shooting-1-hkmz/24nat-illinois-shooting-1-hkmz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Judge Victoria A. Rossetti spoke to the prosecution and defense teams in the case in February.",
+                "copyright": "Pool photo by Ashlee Rezin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24nat-illinois-shooting-1-hkmz/24nat-illinois-shooting-1-hkmz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Judge Victoria A. Rossetti spoke to the prosecution and defense teams in the case in February.",
+                "copyright": "Pool photo by Ashlee Rezin"
+            }
+        ],
+        "short_url": ""
     }
 ]
