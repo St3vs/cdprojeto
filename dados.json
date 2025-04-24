@@ -88914,5 +88914,123 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Stocks Stall as China Calls Reports of U.S. Tariff Talks ‘Baseless’",
+        "abstract": "Markets moderated after Chinese officials pushed back on comments from President Trump and others suggesting that tariffs may ease via negotiations.",
+        "url": "https://www.nytimes.com/2025/04/24/business/stock-market-trump-tariffs.html",
+        "uri": "nyt://article/d794017c-666f-5aaa-b92b-d57c05390dba",
+        "byline": "By Jason Karaian and Kevin Granville",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T10:08:20-04:00",
+        "created_date": "2025-04-24T05:03:53-04:00",
+        "published_date": "2025-04-24T05:03:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Stocks and Bonds",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "United States",
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24biz-stocks-hgfj/24biz-stocks-hgfj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1258,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Timothy A. Clary/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24biz-stocks-hgfj/24biz-stocks-hgfj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Timothy A. Clary/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24biz-stocks-hgfj/24biz-stocks-hgfj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Timothy A. Clary/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Kristi Noem’s Handbag Was Snatched From Beneath Her Chair, D.H.S. Says",
+        "abstract": "Ms. Noem “could feel this person as they snatched her bag,” a spokeswoman for the Department of Homeland Security said.",
+        "url": "https://www.nytimes.com/2025/04/24/us/politics/kristi-noem-handbag-stolen.html",
+        "uri": "nyt://article/da3f1151-b461-512e-a2ed-495b97fe42f1",
+        "byline": "By Hamed Aleaziz",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T10:06:55-04:00",
+        "created_date": "2025-04-24T09:34:14-04:00",
+        "published_date": "2025-04-24T09:34:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Robberies and Thefts"
+        ],
+        "org_facet": [
+            "Homeland Security Department"
+        ],
+        "per_facet": [
+            "Noem, Kristi"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24dc-noem-photo-vqmf/24dc-noem-photo-vqmf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Homeland Security Secretary Kristi Noem’s handbag was stolen on Sunday night at a restaurant in Washington.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24dc-noem-photo-vqmf/24dc-noem-photo-vqmf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Homeland Security Secretary Kristi Noem’s handbag was stolen on Sunday night at a restaurant in Washington.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24dc-noem-photo-vqmf/24dc-noem-photo-vqmf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Homeland Security Secretary Kristi Noem’s handbag was stolen on Sunday night at a restaurant in Washington.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
