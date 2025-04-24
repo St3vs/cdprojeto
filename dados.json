@@ -88443,5 +88443,162 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Ukraine’s Next Steps",
+        "abstract": "The U.S. is urging Ukraine to take a deal that favors Russia.",
+        "url": "https://www.nytimes.com/2025/04/24/briefing/ukraines-next-steps.html",
+        "uri": "nyt://article/0aaeec55-df42-525b-9dba-6096e5a02714",
+        "byline": "By German Lopez",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T06:51:50-04:00",
+        "created_date": "2025-04-24T06:49:19-04:00",
+        "published_date": "2025-04-24T06:49:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "internal-storyline-no",
+            "United States Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24themorning-nl-TOP-ptch/24themorning-nl-TOP-ptch-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1793,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Near where a Russian strike in Kryvyi Rih, Ukraine, killed 19 civilians, including nine children.",
+                "copyright": "Finbarr O'Reilly for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24themorning-nl-TOP-ptch/24themorning-nl-TOP-ptch-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Near where a Russian strike in Kryvyi Rih, Ukraine, killed 19 civilians, including nine children.",
+                "copyright": "Finbarr O'Reilly for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24themorning-nl-TOP-ptch/24themorning-nl-TOP-ptch-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Near where a Russian strike in Kryvyi Rih, Ukraine, killed 19 civilians, including nine children.",
+                "copyright": "Finbarr O'Reilly for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Cardinals Gather in Vatican to Fine Tune Preparations for Pope’s Funeral",
+        "abstract": "The conclave to select the next pontiff has not started yet, but meetings to set the agenda and to decide on the logistics of mourning for Francis were gathering pace.",
+        "url": "https://www.nytimes.com/2025/04/24/world/europe/pope-francis-cardinals-conclave-vatican.html",
+        "uri": "nyt://article/6dfd95a3-bba4-5950-8cd9-1ead895b1bca",
+        "byline": "By Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T06:41:28-04:00",
+        "created_date": "2025-04-24T06:41:28-04:00",
+        "published_date": "2025-04-24T06:41:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Clergy",
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)",
+            "Funerals and Memorials"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-pope-ptkm/24int-pope-ptkm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In the Vatican on Thursday. More cardinals have arrived in Rome ahead of Francis’ funeral on Saturday.",
+                "copyright": "Andrew Medichini/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-pope-ptkm/24int-pope-ptkm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In the Vatican on Thursday. More cardinals have arrived in Rome ahead of Francis’ funeral on Saturday.",
+                "copyright": "Andrew Medichini/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-pope-ptkm/24int-pope-ptkm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In the Vatican on Thursday. More cardinals have arrived in Rome ahead of Francis’ funeral on Saturday.",
+                "copyright": "Andrew Medichini/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Smoke From New Jersey Wildfire Could Blanket New York City",
+        "abstract": "The air in the city is unhealthy for some groups because of a fire that has been burning in the Pine Barrens since Tuesday.",
+        "url": "https://www.nytimes.com/2025/04/24/nyregion/new-jersey-wildfire-smoke-nyc.html",
+        "uri": "nyt://article/cfb7131e-dedb-5428-a5ce-79193cb71628",
+        "byline": "By Erin McCann",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T06:58:13-04:00",
+        "created_date": "2025-04-24T06:58:13-04:00",
+        "published_date": "2025-04-24T06:58:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Wildfires",
+            "Air Pollution",
+            "Respiratory Diseases",
+            "Pollution",
+            "Environment"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Garden State Parkway (NJ)",
+            "Nassau County (NY)",
+            "New Jersey",
+            "Pine Barrens (NJ)",
+            "New York City"
+        ],
+        "multimedia": null,
+        "short_url": ""
     }
 ]
