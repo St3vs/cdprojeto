@@ -89215,5 +89215,380 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "magazine",
+        "subsection": "",
+        "title": "They Stole a Quarter-Billion in Crypto and Got Caught Within a Month",
+        "abstract": "How luxury cars, $500,000 bar tabs and a mysterious kidnapping attempt helped investigators unravel the heist of a lifetime.",
+        "url": "https://www.nytimes.com/2025/04/24/magazine/crybercrime-crypto-minecraft.html",
+        "uri": "nyt://article/eacdcc0f-158b-5690-8748-7e5bebdc0462",
+        "byline": "By Mitch Moxley",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T10:27:00-04:00",
+        "created_date": "2025-04-24T05:01:10-04:00",
+        "published_date": "2025-04-24T05:01:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Virtual Currency",
+            "Kidnapping and Hostages",
+            "Robberies and Thefts",
+            "Computers and the Internet",
+            "Computer Security",
+            "Fugitives",
+            "Frauds and Swindling",
+            "Cyberattacks and Hackers",
+            "Money Laundering",
+            "Computer and Video Games",
+            "Cyberharassment",
+            "Generation Z"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/magazine/27Mag-TheCom-01/27Mag-TheCom-02-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1684,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by Viktor Hachmang"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/magazine/27Mag-TheCom-01/27Mag-TheCom-01-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by Viktor Hachmang"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/magazine/27Mag-TheCom-01/27Mag-TheCom-01-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Illustration by Viktor Hachmang"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "Should We Start Taking the Welfare of A.I. Seriously?",
+        "abstract": "As artificial intelligence systems become smarter, one A.I. company is trying to figure out what to do if they become conscious.",
+        "url": "https://www.nytimes.com/2025/04/24/technology/ai-welfare-anthropic-claude.html",
+        "uri": "nyt://article/30ab2a23-a19f-552d-a921-05e22feb2dda",
+        "byline": "By Kevin Roose",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T11:09:53-04:00",
+        "created_date": "2025-04-24T11:09:53-04:00",
+        "published_date": "2025-04-24T11:09:53-04:00",
+        "material_type_facet": "",
+        "kicker": "the shift",
+        "des_facet": [
+            "Artificial Intelligence",
+            "Research",
+            "Computers and the Internet"
+        ],
+        "org_facet": [
+            "Anthropic AI LLC"
+        ],
+        "per_facet": [
+            "Lemoine, Blake",
+            "Kyle Fish"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/ROOSE-1-ghvw/ROOSE-1-ghvw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Last year, Anthropic, the company that made the Claude chatbot, hired its first A.I. welfare researcher, Kyle Fish, to study whether the company’s models were being treated humanely.",
+                "copyright": "Mike Kai Chen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/ROOSE-1-ghvw/ROOSE-1-ghvw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Last year, Anthropic, the company that made the Claude chatbot, hired its first A.I. welfare researcher, Kyle Fish, to study whether the company’s models were being treated humanely.",
+                "copyright": "Mike Kai Chen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/ROOSE-1-ghvw/ROOSE-1-ghvw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Last year, Anthropic, the company that made the Claude chatbot, hired its first A.I. welfare researcher, Kyle Fish, to study whether the company’s models were being treated humanely.",
+                "copyright": "Mike Kai Chen for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "Saying ‘Thank You’ to Chat GPT Is Costly. But Maybe It’s Worth the Price.",
+        "abstract": "Adding words to our chatbot can apparently cost tens of millions of dollars. But some fear the cost of not saying please or thank you could be higher.",
+        "url": "https://www.nytimes.com/2025/04/24/technology/chat-gpt-alexa-please-thank-you.html",
+        "uri": "nyt://article/f9b57476-dd61-5e41-a376-fd5593277677",
+        "byline": "By Sopan Deb",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T12:02:36-04:00",
+        "created_date": "2025-04-24T11:44:09-04:00",
+        "published_date": "2025-04-24T11:44:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Artificial Intelligence",
+            "Prices (Fares, Fees and Rates)",
+            "Computers and the Internet",
+            "ChatGPT",
+            "Start-ups"
+        ],
+        "org_facet": [
+            "Massachusetts Institute of Technology",
+            "George Washington University",
+            "New York Times"
+        ],
+        "per_facet": [
+            "Altman, Samuel H",
+            "George, Madeleine"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24xp-politeai-hwgq/24xp-politeai-hwgq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Kelsey McClellan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24xp-politeai-hwgq/24xp-politeai-hwgq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Kelsey McClellan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24xp-politeai-hwgq/24xp-politeai-hwgq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Kelsey McClellan for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "well",
+        "subsection": "",
+        "title": "They Caught the Flu, and Never Came Home",
+        "abstract": "The virus leads to an estimated 36,000 deaths in the United States each season — many of them so sudden that families are left reeling.",
+        "url": "https://www.nytimes.com/2025/04/24/well/flu-deaths-hospitalizations.html",
+        "uri": "nyt://article/df46b46d-6ad7-5fa0-be49-dbd288e76b5d",
+        "byline": "By Dani Blum",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T11:02:37-04:00",
+        "created_date": "2025-04-24T11:02:22-04:00",
+        "published_date": "2025-04-24T11:02:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Influenza",
+            "Infections",
+            "Deaths (Fatalities)",
+            "Disease Rates",
+            "Immune System",
+            "Hospitals"
+        ],
+        "org_facet": [
+            "Centers for Disease Control and Prevention"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24WELL-FLU-DEATHS1-zlcf/24WELL-FLU-DEATHS1-zlcf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“I’m still just in shock that this is even real life,” said Christine Walsh, whose husband, Mark Walsh, died in February after a bout of flu and strep that led to sepsis.",
+                "copyright": "Tony Luong for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24WELL-FLU-DEATHS1-zlcf/24WELL-FLU-DEATHS1-zlcf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“I’m still just in shock that this is even real life,” said Christine Walsh, whose husband, Mark Walsh, died in February after a bout of flu and strep that led to sepsis.",
+                "copyright": "Tony Luong for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24WELL-FLU-DEATHS1-zlcf/24WELL-FLU-DEATHS1-zlcf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“I’m still just in shock that this is even real life,” said Christine Walsh, whose husband, Mark Walsh, died in February after a bout of flu and strep that led to sepsis.",
+                "copyright": "Tony Luong for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "These Apes Are Matriarchal, but It Doesn’t Mean They’re Peaceful",
+        "abstract": "Females reign supreme in bonobo society by working together to keep males in their place.",
+        "url": "https://www.nytimes.com/2025/04/24/science/bonobos-matriarchies-females.html",
+        "uri": "nyt://article/d14da813-93ba-54e8-81d4-4e35144c75b4",
+        "byline": "By Annie Roth",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T11:00:06-04:00",
+        "created_date": "2025-04-24T11:00:06-04:00",
+        "published_date": "2025-04-24T11:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "Trilobites",
+        "des_facet": [
+            "Monkeys and Apes",
+            "Animal Behavior",
+            "Research",
+            "Reproduction (Biological)",
+            "your-feed-science"
+        ],
+        "org_facet": [
+            "Communications Biology (Journal)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Congo, Democratic Republic of (Congo-Kinshasa)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24HS-tb-ape-queens-vwgh/24HS-tb-ape-queens-vwgh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A gathering of the of the Ekalakala bonobo community, resting and socializing on a fallen tree in the Kokolopori Bonobo Reserve of the Democratic Republic of Congo.",
+                "copyright": "Martin Surbeck/Kokolopori Bonobo Research Project"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24HS-tb-ape-queens-vwgh/24HS-tb-ape-queens-vwgh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A gathering of the of the Ekalakala bonobo community, resting and socializing on a fallen tree in the Kokolopori Bonobo Reserve of the Democratic Republic of Congo.",
+                "copyright": "Martin Surbeck/Kokolopori Bonobo Research Project"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24HS-tb-ape-queens-vwgh/24HS-tb-ape-queens-vwgh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A gathering of the of the Ekalakala bonobo community, resting and socializing on a fallen tree in the Kokolopori Bonobo Reserve of the Democratic Republic of Congo.",
+                "copyright": "Martin Surbeck/Kokolopori Bonobo Research Project"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "A Judge Released Him From Prison. The D.A. Wants to Lock Him Back Up.",
+        "abstract": "After Andre Brown’s 40-year sentence was overturned, he went free. The Bronx district attorney appealed, and now he is set to return to prison and leave his wife and children.",
+        "url": "https://www.nytimes.com/2025/04/24/nyregion/bronx-shooting-sentence-commutation-reversed.html",
+        "uri": "nyt://article/81667813-6554-5f97-9642-d2270b1c6cbb",
+        "byline": "By Corey Kilgannon and Maia Coleman",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T09:47:58-04:00",
+        "created_date": "2025-04-24T09:47:58-04:00",
+        "published_date": "2025-04-24T09:47:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Decisions and Verdicts",
+            "Prisons and Prisoners",
+            "Amnesties, Commutations and Pardons"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Clark, Darcel D",
+            "Andre Brown"
+        ],
+        "geo_facet": [
+            "Bronx (NYC)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/00met-bronx-uncommute-hqzb/00met-bronx-uncommute-hqzb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1536,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Just in case this all fails and I have to go back in on Friday, I want to remember my wife’s face fully in my head, and my kids’,” said Andre Brown.",
+                "copyright": "Elias Williams for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/00met-bronx-uncommute-hqzb/00met-bronx-uncommute-hqzb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Just in case this all fails and I have to go back in on Friday, I want to remember my wife’s face fully in my head, and my kids’,” said Andre Brown.",
+                "copyright": "Elias Williams for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/00met-bronx-uncommute-hqzb/00met-bronx-uncommute-hqzb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Just in case this all fails and I have to go back in on Friday, I want to remember my wife’s face fully in my head, and my kids’,” said Andre Brown.",
+                "copyright": "Elias Williams for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
