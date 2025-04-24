@@ -89032,5 +89032,188 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russia Jails General Who Criticized Army’s Senior Command",
+        "abstract": "Maj. Gen. Ivan Popov, a popular battlefield commander, was fired after airing grievances against superiors.",
+        "url": "https://www.nytimes.com/2025/04/24/world/europe/russia-general-prison.html",
+        "uri": "nyt://article/04636a2f-9c37-5815-8891-8094d4ec5cef",
+        "byline": "By Anatoly Kurmanaev",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T09:58:31-04:00",
+        "created_date": "2025-04-24T09:58:31-04:00",
+        "published_date": "2025-04-24T09:58:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Defense and Military Forces",
+            "Prisons and Prisoners"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Maj. Gen. Ivan Popov"
+        ],
+        "geo_facet": [
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24-int-russia-commander-mpcg/24-int-russia-commander-mpcg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Maj. Gen. Ivan Popov attending a military court hearing in Moscow last year.",
+                "copyright": "Evgenia Novozhenina/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24-int-russia-commander-mpcg/24-int-russia-commander-mpcg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Maj. Gen. Ivan Popov attending a military court hearing in Moscow last year.",
+                "copyright": "Evgenia Novozhenina/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24-int-russia-commander-mpcg/24-int-russia-commander-mpcg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Maj. Gen. Ivan Popov attending a military court hearing in Moscow last year.",
+                "copyright": "Evgenia Novozhenina/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "North Dakota Governor Vetoes Bill Restricting Library Books",
+        "abstract": "The bill, which divided Republicans, would have required most libraries to keep material deemed sexually explicit away from minors.",
+        "url": "https://www.nytimes.com/2025/04/24/us/north-dakota-library-governor-veto.html",
+        "uri": "nyt://article/44aa5187-de07-5e04-a5c5-e5f8c6c6b993",
+        "byline": "By Mitch Smith",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T10:07:52-04:00",
+        "created_date": "2025-04-24T09:53:42-04:00",
+        "published_date": "2025-04-24T09:53:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Libraries and Librarians",
+            "Governors (US)",
+            "Indecency, Obscenity and Profanity",
+            "Freedom of Speech and Expression",
+            "Vetoes (US)",
+            "Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Armstrong, Kelly Michael"
+        ],
+        "geo_facet": [
+            "North Dakota"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/00nat-north-dakota-libraryHFO-1-jgvl/00nat-north-dakota-libraryHFO-1-jgvl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gov. Kelly Armstrong at a House Oversight and Reform Committee hearing when he was serving as a congressman in 2020.",
+                "copyright": "Pool photo by Tom Williams"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/00nat-north-dakota-libraryHFO-1-jgvl/00nat-north-dakota-libraryHFO-1-jgvl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gov. Kelly Armstrong at a House Oversight and Reform Committee hearing when he was serving as a congressman in 2020.",
+                "copyright": "Pool photo by Tom Williams"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/00nat-north-dakota-libraryHFO-1-jgvl/00nat-north-dakota-libraryHFO-1-jgvl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gov. Kelly Armstrong at a House Oversight and Reform Committee hearing when he was serving as a congressman in 2020.",
+                "copyright": "Pool photo by Tom Williams"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Man Charged With Arson in Vast New Jersey Wildfire",
+        "abstract": "A 19-year-old was accused of setting wooden pallets on fire and leaving before the fire was extinguished, sparking what could become the largest blaze in the state in nearly 20 years.",
+        "url": "https://www.nytimes.com/2025/04/24/nyregion/arson-new-jersey-wildfire.html",
+        "uri": "nyt://article/cb7d2540-9cac-5a35-b196-e2d80ff9aaa3",
+        "byline": "By Hilary Howard",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T10:06:16-04:00",
+        "created_date": "2025-04-24T10:06:16-04:00",
+        "published_date": "2025-04-24T10:06:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Wildfires",
+            "Arson"
+        ],
+        "org_facet": [
+            "New Jersey Forest Fire Service"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Ocean County (NJ)",
+            "New Jersey"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24met-wildfire-arson1-lcqv/24met-wildfire-arson1-lcqv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A 15,000-acre wildfire destroyed a warehouse and led to thousands of evacuations in New Jersey.",
+                "copyright": "Rachel Wisniewski for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24met-wildfire-arson1-lcqv/24met-wildfire-arson1-lcqv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A 15,000-acre wildfire destroyed a warehouse and led to thousands of evacuations in New Jersey.",
+                "copyright": "Rachel Wisniewski for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24met-wildfire-arson1-lcqv/24met-wildfire-arson1-lcqv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A 15,000-acre wildfire destroyed a warehouse and led to thousands of evacuations in New Jersey.",
+                "copyright": "Rachel Wisniewski for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
