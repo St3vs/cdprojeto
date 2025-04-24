@@ -90356,5 +90356,269 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "U.S. Sidelines Lawyers Who Exposed Flaws in Anti-Congestion Pricing Case",
+        "abstract": "The U.S. Department of Transportation chafed at the release of a confidential memo mulling its strategy and raised the possibility that the move aimed to sabotage its case.",
+        "url": "https://www.nytimes.com/2025/04/24/nyregion/nyc-congestion-pricing-duffy-lawyers.html",
+        "uri": "nyt://article/338a68ca-d569-5b79-a093-aa555e45674d",
+        "byline": "By Stefanos Chen and Benjamin Weiser",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T15:01:42-04:00",
+        "created_date": "2025-04-24T14:53:45-04:00",
+        "published_date": "2025-04-24T14:53:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Congestion Pricing",
+            "Tolls",
+            "Suits and Litigation (Civil)",
+            "Transportation",
+            "Transit Systems",
+            "Federal Aid (US)"
+        ],
+        "org_facet": [
+            "Federal Highway Administration",
+            "Justice Department",
+            "Metropolitan Transportation Authority",
+            "Transportation Department (US)"
+        ],
+        "per_facet": [
+            "Duffy, Sean P",
+            "Gerrard, Michael B",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24met-congestion-legal-mhjl/24met-congestion-legal-mhjl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sean Duffy, the head of the U.S. Department of Transportation, has questioned the legality of New York’s congestion pricing toll. ",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24met-congestion-legal-mhjl/24met-congestion-legal-mhjl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sean Duffy, the head of the U.S. Department of Transportation, has questioned the legality of New York’s congestion pricing toll. ",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24met-congestion-legal-mhjl/24met-congestion-legal-mhjl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sean Duffy, the head of the U.S. Department of Transportation, has questioned the legality of New York’s congestion pricing toll. ",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Plans to Target ActBlue, Democrats’ Cash Engine",
+        "abstract": "The president plans to direct the Justice Department to investigate ActBlue, the main Democratic fund-raising platform, in his latest move using the government to target political opponents.",
+        "url": "https://www.nytimes.com/2025/04/24/us/politics/trump-actblue-democrats.html",
+        "uri": "nyt://article/4c105e24-6771-59cd-8f19-c60c86af6c19",
+        "byline": "By Maggie Haberman, Reid J. Epstein and Kenneth P. Vogel",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T14:53:08-04:00",
+        "created_date": "2025-04-24T14:53:08-04:00",
+        "published_date": "2025-04-24T14:53:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Executive Orders and Memorandums",
+            "Campaign Finance",
+            "United States Politics and Government",
+            "Political Action Committees"
+        ],
+        "org_facet": [
+            "ActBlue",
+            "Democratic Party"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24pol-trump-actblue-HFO-topart-kzjf/24pol-trump-actblue-HFO-topart-kzjf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump’s targeting of ActBlue could threaten Democrats’ ability to compete in elections.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24pol-trump-actblue-HFO-topart-kzjf/24pol-trump-actblue-HFO-topart-kzjf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump’s targeting of ActBlue could threaten Democrats’ ability to compete in elections.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24pol-trump-actblue-HFO-topart-kzjf/24pol-trump-actblue-HFO-topart-kzjf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump’s targeting of ActBlue could threaten Democrats’ ability to compete in elections.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "U.S. Officials to Cut Funding for Landmark Study of Women’s Health",
+        "abstract": "The Women’s Health Initiative has produced thousands of research papers, altering medical care for patients around the world.",
+        "url": "https://www.nytimes.com/2025/04/24/health/womens-health-initiative-cuts.html",
+        "uri": "nyt://article/b5bce5b7-03d4-5026-bf2e-1ad1da598052",
+        "byline": "By Roni Caryn Rabin",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T15:10:23-04:00",
+        "created_date": "2025-04-24T14:48:29-04:00",
+        "published_date": "2025-04-24T14:48:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "your-feed-science",
+            "Women and Girls",
+            "Research",
+            "Medicine and Health",
+            "Diet and Nutrition",
+            "Hormones",
+            "Heart",
+            "Women's Health Initiative",
+            "Preventive Medicine",
+            "Federal Aid (US)",
+            "United States Politics and Government",
+            "Breast Cancer",
+            "Stroke",
+            "Deaths (Fatalities)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kennedy, Robert F Jr"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24womens-health-hbpq/24womens-health-hbpq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The study, which began in the 1990s, is still following some 42,000 women. It continues to track conditions including frailty, vision loss and mental health, and to learn about how to maintain mobility and cognitive function and slow memory loss.",
+                "copyright": "Brittainy Newman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24womens-health-hbpq/24womens-health-hbpq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The study, which began in the 1990s, is still following some 42,000 women. It continues to track conditions including frailty, vision loss and mental health, and to learn about how to maintain mobility and cognitive function and slow memory loss.",
+                "copyright": "Brittainy Newman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24womens-health-hbpq/24womens-health-hbpq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The study, which began in the 1990s, is still following some 42,000 women. It continues to track conditions including frailty, vision loss and mental health, and to learn about how to maintain mobility and cognitive function and slow memory loss.",
+                "copyright": "Brittainy Newman for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "How India’s Threat to Block Rivers Could Devastate Pakistan",
+        "abstract": "After a militant attack in Kashmir, the Indian government said it was suspending its participation in a treaty that governs most of the water used in Pakistani agriculture.",
+        "url": "https://www.nytimes.com/2025/04/24/world/asia/india-pakistan-indus-waters-treaty.html",
+        "uri": "nyt://article/96b46932-4dc4-572d-a489-f18ec0607a99",
+        "byline": "By Anupreeta Das, Pragati K.B. and Zia ur-Rehman",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T14:09:20-04:00",
+        "created_date": "2025-04-24T13:57:25-04:00",
+        "published_date": "2025-04-24T13:57:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Agriculture and Farming",
+            "Treaties",
+            "Water",
+            "Rivers",
+            "Territorial Disputes"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra"
+        ],
+        "geo_facet": [
+            "India",
+            "Pakistan",
+            "Kashmir"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-india-water-explainer-qthz/24int-india-water-explainer-qthz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Ravi River, which India has control over, as seen in Lahore, Pakistan.",
+                "copyright": "Arif Ali/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-india-water-explainer-qthz/24int-india-water-explainer-qthz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Ravi River, which India has control over, as seen in Lahore, Pakistan.",
+                "copyright": "Arif Ali/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-india-water-explainer-qthz/24int-india-water-explainer-qthz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Ravi River, which India has control over, as seen in Lahore, Pakistan.",
+                "copyright": "Arif Ali/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
