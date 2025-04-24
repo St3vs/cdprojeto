@@ -88853,5 +88853,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "D.N.C. Will Send More Cash to Red States, Aiming to Strengthen Party’s Reach",
+        "abstract": "A 50-state program announced by the Democratic Party seeks to build on past efforts and help recruit candidates to take on Republicans in less-friendly terrain.",
+        "url": "https://www.nytimes.com/2025/04/24/us/politics/democrats-fifty-state-strategy.html",
+        "uri": "nyt://article/9711944c-6a82-56a1-9fc9-b36cef0e4fa7",
+        "byline": "By Nick Corasaniti and Shane Goldmacher",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T09:20:00-04:00",
+        "created_date": "2025-04-24T08:00:06-04:00",
+        "published_date": "2025-04-24T08:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "States (US)",
+            "United States Politics and Government",
+            "Midterm Elections (2026)"
+        ],
+        "org_facet": [
+            "Democratic National Committee",
+            "Democratic Party"
+        ],
+        "per_facet": [
+            "Martin, Ken (1973- )"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24pol-dem-strategy-topart-jzwg/24pol-dem-strategy-topart-jzwg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“We have to organize everywhere and compete everywhere if we’re going to win everywhere,” said Ken Martin, the new chair of the Democratic National Committee.",
+                "copyright": "Allison Robbert for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24pol-dem-strategy-topart-jzwg/24pol-dem-strategy-topart-jzwg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“We have to organize everywhere and compete everywhere if we’re going to win everywhere,” said Ken Martin, the new chair of the Democratic National Committee.",
+                "copyright": "Allison Robbert for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24pol-dem-strategy-topart-jzwg/24pol-dem-strategy-topart-jzwg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“We have to organize everywhere and compete everywhere if we’re going to win everywhere,” said Ken Martin, the new chair of the Democratic National Committee.",
+                "copyright": "Allison Robbert for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
