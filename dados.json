@@ -88600,5 +88600,258 @@
         ],
         "multimedia": null,
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Trump’s Tariffs Expected to Grind Germany’s Economy to a Halt",
+        "abstract": "The German government scaled back its prediction for 2025 to zero growth, citing the turbulence caused by U.S. tariffs, as well as stubborn bureaucracy and high energy prices.",
+        "url": "https://www.nytimes.com/2025/04/24/business/german-economy-trump-tariffs.html",
+        "uri": "nyt://article/b131891b-ec6d-5d27-9df5-114a5775b3f0",
+        "byline": "By Melissa Eddy",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T08:03:52-04:00",
+        "created_date": "2025-04-24T07:59:50-04:00",
+        "published_date": "2025-04-24T07:59:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Customs (Tariff)",
+            "Economic Conditions and Trends"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Merz, Friedrich",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Germany",
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24biz-germany-econ-zjhw/24biz-germany-econ-zjhw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Goods being delivered at a supermarket in Berlin. The German government predicted no economic growth for 2025, down from 0.3 percent.",
+                "copyright": "Patrick Junker for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24biz-germany-econ-zjhw/24biz-germany-econ-zjhw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Goods being delivered at a supermarket in Berlin. The German government predicted no economic growth for 2025, down from 0.3 percent.",
+                "copyright": "Patrick Junker for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24biz-germany-econ-zjhw/24biz-germany-econ-zjhw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Goods being delivered at a supermarket in Berlin. The German government predicted no economic growth for 2025, down from 0.3 percent.",
+                "copyright": "Patrick Junker for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "If America Walks Away From Ukraine, What Will Europe Do?",
+        "abstract": "Europeans see Ukraine’s security as vital to their own and want to defend the principle of no border changes by force, even if President Trump does not.",
+        "url": "https://www.nytimes.com/2025/04/24/world/europe/europe-ukraine-russia-trump.html",
+        "uri": "nyt://article/e0c2a1a1-b66b-5303-b119-fbd306d676f4",
+        "byline": "By Steven Erlanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T08:07:07-04:00",
+        "created_date": "2025-04-24T07:59:01-04:00",
+        "published_date": "2025-04-24T07:59:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-europe-ukraine-trump-01-qwtj/24int-europe-ukraine-trump-01-qwtj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A residential building that was severely damaged by a Russian missile strike on Thursday in Kyiv, Ukraine.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-europe-ukraine-trump-01-qwtj/24int-europe-ukraine-trump-01-qwtj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A residential building that was severely damaged by a Russian missile strike on Thursday in Kyiv, Ukraine.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-europe-ukraine-trump-01-qwtj/24int-europe-ukraine-trump-01-qwtj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A residential building that was severely damaged by a Russian missile strike on Thursday in Kyiv, Ukraine.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "The $40 Billion Issue the N.Y.C. Mayoral Candidates Aren’t Discussing",
+        "abstract": "With more than 900,000 students, New York’s public school system is the biggest in the United States, but it has received scant attention from candidates.",
+        "url": "https://www.nytimes.com/2025/04/24/nyregion/nyc-mayor-education.html",
+        "uri": "nyt://article/a74bcbdc-9721-5f4f-8171-6fb9502be95e",
+        "byline": "By Troy Closson",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T07:25:31-04:00",
+        "created_date": "2025-04-24T03:00:06-04:00",
+        "published_date": "2025-04-24T03:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Education (K-12)",
+            "Children and Childhood",
+            "Elections, Mayors"
+        ],
+        "org_facet": [
+            "Education Department (NYC)",
+            "Democratic Party"
+        ],
+        "per_facet": [
+            "de Blasio, Bill",
+            "Bloomberg, Michael R",
+            "Adams, Eric L",
+            "Cuomo, Andrew M"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/00met-education-politics-01-wzkj/00met-education-politics-01-wzkj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New York City’s school system educates more students than the entire population of San Francisco.",
+                "copyright": "Jeenah Moon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/00met-education-politics-01-wzkj/00met-education-politics-01-wzkj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New York City’s school system educates more students than the entire population of San Francisco.",
+                "copyright": "Jeenah Moon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/00met-education-politics-01-wzkj/00met-education-politics-01-wzkj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New York City’s school system educates more students than the entire population of San Francisco.",
+                "copyright": "Jeenah Moon for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "nyregion",
+        "subsection": "",
+        "title": "Mamdani Aims at Cuomo, Beginning Ad War in N.Y.C. Mayor’s Race",
+        "abstract": "Zohran Mamdani, who won attention for a series of online campaign videos, is the first candidate to air a broadcast ad in the Democratic primary race.",
+        "url": "https://www.nytimes.com/2025/04/24/nyregion/zohran-mamdani-nyc-mayor.html",
+        "uri": "nyt://article/49883b90-5110-590f-bc37-cc5fa85165cb",
+        "byline": "By Emma G. Fitzsimmons",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T08:12:50-04:00",
+        "created_date": "2025-04-24T03:00:22-04:00",
+        "published_date": "2025-04-24T03:00:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Political Advertising",
+            "Elections, Mayors",
+            "Transit Systems",
+            "Primaries and Caucuses"
+        ],
+        "org_facet": [
+            "Democratic Party"
+        ],
+        "per_facet": [
+            "Mamdani, Zohran",
+            "Cuomo, Andrew M"
+        ],
+        "geo_facet": [
+            "New York City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24met-mamdani-ad-bgmf/24met-mamdani-ad-bgmf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Zohran Mamdani has risen to second in recent mayoral polls, behind former Gov. Andrew Cuomo. ",
+                "copyright": "Andres Kudacki for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24met-mamdani-ad-bgmf/24met-mamdani-ad-bgmf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Zohran Mamdani has risen to second in recent mayoral polls, behind former Gov. Andrew Cuomo. ",
+                "copyright": "Andres Kudacki for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24met-mamdani-ad-bgmf/24met-mamdani-ad-bgmf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Zohran Mamdani has risen to second in recent mayoral polls, behind former Gov. Andrew Cuomo. ",
+                "copyright": "Andres Kudacki for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
